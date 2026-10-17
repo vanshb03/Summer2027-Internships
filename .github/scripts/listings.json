@@ -8593,5 +8593,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792261427,
+        "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/All-Tennessee-United-States-of-America/HPC-AI-System-Admin-HW-SW-Service-Engineer-Intern_1213404",
+        "locations": [
+            "All, TN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Juniper Networks",
+        "title": "HPC/AI System Admin HW/SW Service Engineer Intern",
+        "source": "vanshb03",
+        "id": "3b818633-5100-4977-8ce6-9f660e555f77",
+        "date_posted": 1791788400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
