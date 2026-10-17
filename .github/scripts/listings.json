@@ -10211,5 +10211,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792261427,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Canada-Toronto/Compiler-Engineering-Intern_JR0287934",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Intel",
+        "title": "Compiler Engineering Intern",
+        "source": "vanshb03",
+        "id": "e10858ef-7604-48ce-b3b3-459ac78973ae",
+        "date_posted": 1792047600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
