@@ -10568,5 +10568,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1792261427,
+        "url": "https://symbotic.wd504.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Co-op--Robot-Manipulation_R8257",
+        "locations": [
+            "Wilmington, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Symbotic",
+        "title": "Robot Manipulation Co-op",
+        "source": "vanshb03",
+        "id": "fe99ec94-7519-4281-95e7-86d4e164910f",
+        "date_posted": 1792047600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
