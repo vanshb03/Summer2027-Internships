@@ -9835,5 +9835,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792261427,
+        "url": "https://jobs.lever.co/zoox/ad992e12-39da-4046-b766-45f928924575",
+        "locations": [
+            "Foster City, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zoox",
+        "title": "Freeways Data Evaluation Intern",
+        "source": "vanshb03",
+        "id": "820879c6-f872-4e48-8da7-e04cad5bbb16",
+        "date_posted": 1791961200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
