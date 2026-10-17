@@ -10056,5 +10056,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792261427,
+        "url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/University--Digital-Transformation-Analyst-Intern_R0251721",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Booz Allen Hamilton",
+        "title": "Digital Transformation Analyst Intern",
+        "source": "vanshb03",
+        "id": "2685d511-7d0a-4cec-b235-18296bdde225",
+        "date_posted": 1792047600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
