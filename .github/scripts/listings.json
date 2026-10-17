@@ -9494,5 +9494,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792261427,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Bellevue/GE-Vernova---AGI---Grid-Foundational-Models-Intern---Summer-2027_R5054820-3",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "GE Vernova",
+        "title": "Grid Foundational Models Intern, AGI",
+        "source": "vanshb03",
+        "id": "e89b0b63-8c18-4841-9778-a04409178c64",
+        "date_posted": 1791961200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
