@@ -9239,5 +9239,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792261427,
+        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278852",
+        "locations": [
+            "Delaware, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Vertiv",
+        "title": "Data Analytics Intern",
+        "source": "vanshb03",
+        "id": "f9f0c44e-011a-4f70-ae44-782daf0ebf79",
+        "date_posted": 1791874800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
