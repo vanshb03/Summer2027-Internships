@@ -10330,5 +10330,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792261427,
+        "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Dallas-TX/XMLNAME-2027-Intern---Mac-Mobile_R-0000033714",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "The Federal Reserve System",
+        "title": "Mac/Mobile Intern",
+        "source": "vanshb03",
+        "id": "46dbaca8-c193-4cc4-8af7-2d1f60a8c583",
+        "date_posted": 1792047600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
