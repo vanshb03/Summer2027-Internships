@@ -9852,5 +9852,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792261427,
+        "url": "https://jobs.ashbyhq.com/brainco/7ce0af56-d15e-4fc8-91a5-9e56cdb9cf42/application",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Brain Co.",
+        "title": "AI Product Engineer Co-op",
+        "source": "vanshb03",
+        "id": "babbf90a-f41f-4abc-9359-2b7c89fa1c36",
+        "date_posted": 1791961200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
