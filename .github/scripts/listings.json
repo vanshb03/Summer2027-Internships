@@ -10925,5 +10925,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792261427,
+        "url": "https://jobs.smartrecruiters.com/WellmarkInc/744000156043218",
+        "locations": [
+            "Des Moines, IA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Wellmark",
+        "title": "Software Engineer Intern, Technology Health Plan",
+        "source": "vanshb03",
+        "id": "c29b2d73-db0d-4c8c-b4c9-9252548c93dd",
+        "date_posted": 1792134000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
