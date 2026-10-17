@@ -9018,5 +9018,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792261427,
+        "url": "https://careers-gdms.icims.com/jobs/75514/cyber-engineering-intern-%28summer-2027%29/job",
+        "locations": [
+            "Middletown, RI"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "General Dynamics Mission Systems",
+        "title": "Cyber Engineering Intern",
+        "source": "vanshb03",
+        "id": "00d05903-21a5-411f-b1d9-8376e6273567",
+        "date_posted": 1791874800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
