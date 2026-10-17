@@ -10364,5 +10364,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792261427,
+        "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000155824489",
+        "locations": [
+            "Vandalia, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Veolia",
+        "title": "Operations Engineering Intern",
+        "source": "vanshb03",
+        "id": "086cf71c-2a6f-484f-aecd-f1384766f139",
+        "date_posted": 1792047600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
