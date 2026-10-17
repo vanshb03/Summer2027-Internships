@@ -9375,5 +9375,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792261427,
+        "url": "https://astreya.wd5.myworkdayjobs.com/en-US/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0017931",
+        "locations": [
+            "Remote (US)"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Astreya",
+        "title": "AI Infrastructure DC Design Intern",
+        "source": "vanshb03",
+        "id": "0370480f-46d5-4f51-b09f-e74b7c9f6e39",
+        "date_posted": 1791961200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
