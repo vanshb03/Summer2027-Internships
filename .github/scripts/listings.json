@@ -9698,5 +9698,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792261427,
+        "url": "https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4449670009",
+        "locations": [
+            "Addison, TX",
+            "Montpelier, VT"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "National Life",
+        "title": "Data Science Intern",
+        "source": "vanshb03",
+        "id": "8099a0a6-7ed4-407a-93bf-870987742cd5",
+        "date_posted": 1791961200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
