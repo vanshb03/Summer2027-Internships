@@ -9307,5 +9307,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792261427,
+        "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/Disney---Pixar-Games-Production-Intern--Spring-2027_10159030",
+        "locations": [
+            "Glendale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Disney",
+        "title": "Disney & Pixar Games Production Intern",
+        "source": "vanshb03",
+        "id": "8c78e813-a6c6-40f6-9942-8a8280aad40e",
+        "date_posted": 1791874800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
     }
 ]
