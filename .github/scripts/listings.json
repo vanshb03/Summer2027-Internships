@@ -8831,5 +8831,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792261427,
+        "url": "https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/CAN-Kanata-2-ON---WR/Cloud-Software-Engineer-Intern_J000704375",
+        "locations": [
+            "CAN Kanata, ON"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Aptiv",
+        "title": "Cloud Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "1b81d325-06a2-4891-a460-304950f13ec1",
+        "date_posted": 1791874800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
