@@ -9341,5 +9341,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Spring"
+    },
+    {
+        "date_updated": 1792261427,
+        "url": "https://jobs.lever.co/zoox/cc43bf88-ed84-408f-a557-3d1c7263ddff",
+        "locations": [
+            "Foster City, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zoox",
+        "title": "AI Validation and Benchmarking Engineer Intern",
+        "source": "vanshb03",
+        "id": "9c7fba59-31b2-4a3a-8718-3f71b37fb5af",
+        "date_posted": 1791874800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
