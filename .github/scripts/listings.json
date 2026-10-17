@@ -8457,5 +8457,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792261427,
+        "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155101377",
+        "locations": [
+            "Lincolnshire, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bosch",
+        "title": "ERP/IT Intern",
+        "source": "vanshb03",
+        "id": "0a5c5723-7b44-4e37-8aec-78ed5b423de4",
+        "date_posted": 1791788400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
