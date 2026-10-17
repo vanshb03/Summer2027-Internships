@@ -10483,5 +10483,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Spring"
+    },
+    {
+        "date_updated": 1792261427,
+        "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Emerging-Technologies-CoOp_R-102739-1",
+        "locations": [
+            "Spring House, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Johnson & Johnson",
+        "title": "Emerging Technologies Co-op",
+        "source": "vanshb03",
+        "id": "46443d15-c264-4685-ab3a-fbb49811db41",
+        "date_posted": 1792047600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
