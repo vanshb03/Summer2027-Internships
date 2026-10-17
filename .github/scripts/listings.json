@@ -10959,5 +10959,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1792261427,
+        "url": "https://entrust.wd1.myworkdayjobs.com/en-US/entrustcareers/job/United-States---Shakopee-MN-GHQ/Software-Engineering-Co-op_R004425",
+        "locations": [
+            "Shakopee, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Entrust",
+        "title": "Software Engineering Co-op",
+        "source": "vanshb03",
+        "id": "5ac5f65b-16ed-45a3-80e3-eb7be468a122",
+        "date_posted": 1792134000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
