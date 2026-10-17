@@ -8678,5 +8678,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792261427,
+        "url": "https://jobs.ashbyhq.com/1password/412c1aac-13ce-4cc9-9c81-90a9a7a2ee48/application",
+        "locations": [
+            "Remote (United States | Canada)"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "1Password",
+        "title": "Data Intern, Product Analytics",
+        "source": "vanshb03",
+        "id": "67940109-4efb-4ac6-9b64-38a69e7f0337",
+        "date_posted": 1791788400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
