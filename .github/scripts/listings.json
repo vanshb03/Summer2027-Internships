@@ -10073,5 +10073,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792261427,
+        "url": "https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/Morris-Plains-NJ/Healthcare-Analytics-Summer-Intern---Morris-Plains--NJ---Start-Date--May-24--2027_26009483",
+        "locations": [
+            "Morris Plains, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cigna",
+        "title": "Healthcare Analytics Intern",
+        "source": "vanshb03",
+        "id": "16e9fb32-890b-4e5d-8b52-d1d6d05c26a6",
+        "date_posted": 1792047600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
