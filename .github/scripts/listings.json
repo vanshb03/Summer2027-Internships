@@ -10381,5 +10381,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792261427,
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5265127007?gh_jid=5265127007",
+        "locations": [
+            "Santa Ana, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Anduril",
+        "title": "Research Engineer Co-op",
+        "source": "vanshb03",
+        "id": "bee4019b-4266-4a8a-8263-bde962c85458",
+        "date_posted": 1792047600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
