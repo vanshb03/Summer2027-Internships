@@ -10415,5 +10415,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1792261427,
+        "url": "https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9412",
+        "locations": [
+            "Waterloo, ON"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Definity Financial",
+        "title": "Cloud Engineer Co-op",
+        "source": "vanshb03",
+        "id": "53fab509-5183-45b1-9df1-10d2b83f5891",
+        "date_posted": 1792047600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
