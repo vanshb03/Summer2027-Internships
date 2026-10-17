@@ -10942,5 +10942,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792261427,
+        "url": "https://jobs.smartrecruiters.com/AbbVie/3743990016186871",
+        "locations": [
+            "Worcester, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "AbbVie",
+        "title": "Associate Engineer Intern, Technical Development Program",
+        "source": "vanshb03",
+        "id": "35daee63-8952-4c2e-930e-31833e566185",
+        "date_posted": 1792134000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
