@@ -8423,5 +8423,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792261427,
+        "url": "https://slihrms.wd3.myworkdayjobs.com/en-US/careers/job/USCODenver/Software-Developer-Intern---Summer-2027_R-161580-1",
+        "locations": [
+            "Denver, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "AtkinsR\u00e9alis",
+        "title": "Software Developer Intern",
+        "source": "vanshb03",
+        "id": "fced203e-f183-491d-9523-6f0f2f47d601",
+        "date_posted": 1791788400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
