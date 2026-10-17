@@ -10466,5 +10466,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1792261427,
+        "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Somerset-New-Jersey-United-States-of-America/Data-Operations---Analytics-Spring-Co-op_R-104450",
+        "locations": [
+            "Somerset, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Johnson & Johnson",
+        "title": "Data Operations & Analytics Co-op",
+        "source": "vanshb03",
+        "id": "bfdc46f2-9dcc-41cc-81e9-bba84515cc6a",
+        "date_posted": 1792047600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
     }
 ]
