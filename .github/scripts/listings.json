@@ -8406,5 +8406,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792261427,
+        "url": "https://job-boards.greenhouse.io/amperesand/jobs/4448972009",
+        "locations": [
+            "Reno, NV"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amperesand",
+        "title": "Technical Program Manager Intern",
+        "source": "vanshb03",
+        "id": "d00b68f7-273c-4aae-9c6d-9ac3845a8021",
+        "date_posted": 1791788400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
