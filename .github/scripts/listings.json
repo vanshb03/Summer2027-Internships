@@ -10874,5 +10874,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792261427,
+        "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506991",
+        "locations": [
+            "Hopewell Junction, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "onsemi",
+        "title": "Technology Development Intern",
+        "source": "vanshb03",
+        "id": "88ea250a-09bf-4c29-979d-2d637330a0e9",
+        "date_posted": 1792134000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
