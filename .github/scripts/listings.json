@@ -10160,5 +10160,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792261427,
+        "url": "https://job-boards.greenhouse.io/generalmatter/jobs/5448019008",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "General Matter",
+        "title": "Information Security Engineer Intern",
+        "source": "vanshb03",
+        "id": "82d32e93-53fc-439b-9393-e79fc6022838",
+        "date_posted": 1792047600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
