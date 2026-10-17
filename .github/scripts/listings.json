@@ -10347,5 +10347,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792261427,
+        "url": "https://www.tower-research.com/open-positions/?gh_jid=7077280",
+        "locations": [
+            "Montreal, QC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tower Research Capital",
+        "title": "Machine Learning Intern",
+        "source": "vanshb03",
+        "id": "0676df5e-2ab7-4234-9a95-6525731d0369",
+        "date_posted": 1792047600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
