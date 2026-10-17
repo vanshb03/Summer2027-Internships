@@ -8933,5 +8933,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792261427,
+        "url": "https://americas-cookmedical.icims.com/jobs/19427/intern%2c-artificial-intelligence-%26-innovation/job",
+        "locations": [
+            "Bloomington, IN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cook Group",
+        "title": "Artificial Intelligence & Innovation Intern",
+        "source": "vanshb03",
+        "id": "57aafdea-3a4b-417e-838b-75a5a373bee7",
+        "date_posted": 1791874800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
