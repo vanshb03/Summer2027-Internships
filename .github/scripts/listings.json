@@ -8355,5 +8355,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1792261427,
+        "url": "https://job-boards.greenhouse.io/transmarketgroup/jobs/5262802007?gh_jid=5262802007",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TransMarket Group",
+        "title": "Junior Data Center/Desktop Engineer Intern",
+        "source": "vanshb03",
+        "id": "de433781-3d88-4462-af54-88d54ff34d37",
+        "date_posted": 1791615600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
