@@ -10142,5 +10142,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792261427,
+        "url": "https://careers.duolingo.com/jobs/8888721002?gh_jid=8888721002",
+        "locations": [
+            "New York, NY",
+            "Pittsburgh, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Duolingo",
+        "title": "Data Scientist Intern",
+        "source": "vanshb03",
+        "id": "38c30939-9c31-4f0c-88d6-b173e86998d0",
+        "date_posted": 1792047600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
