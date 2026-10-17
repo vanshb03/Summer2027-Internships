@@ -9324,5 +9324,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Spring"
+    },
+    {
+        "date_updated": 1792261427,
+        "url": "https://plexus.wd504.myworkdayjobs.com/en-US/plexus_careers/job/Neenah-WI/Intern---Digital-Engineer--Spring-2027-_R035786",
+        "locations": [
+            "Neenah, WI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Plexus",
+        "title": "Digital Engineer Intern",
+        "source": "vanshb03",
+        "id": "7d324382-fd87-48c0-ab19-85470bdd72bf",
+        "date_posted": 1791874800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
     }
 ]
