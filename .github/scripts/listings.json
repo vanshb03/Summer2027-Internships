@@ -11010,5 +11010,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1792261427,
+        "url": "https://careers-berkley.icims.com/jobs/14641/enterprise-architecture-co-op/job",
+        "locations": [
+            "Urbandale, IA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "W.R. Berkley",
+        "title": "Enterprise Architecture Co-op",
+        "source": "vanshb03",
+        "id": "d12b401a-e397-4ad8-95d2-5fb52069826f",
+        "date_posted": 1792134000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
