@@ -9222,5 +9222,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792261427,
+        "url": "https://ttc.wd1.myworkdayjobs.com/en-US/Toro_External_Careers/job/Perry-OK/IT-Business-Analyst-Intern---Ditch-Witch_JR17608",
+        "locations": [
+            "Perry, OK"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "The Toro Company",
+        "title": "IT Business Analyst Intern, Ditch Witch",
+        "source": "vanshb03",
+        "id": "6f4d2ff2-0ddf-4c20-80f4-237e97b165ef",
+        "date_posted": 1791874800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
