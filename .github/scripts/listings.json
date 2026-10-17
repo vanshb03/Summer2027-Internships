@@ -10005,5 +10005,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Spring"
+    },
+    {
+        "date_updated": 1792261427,
+        "url": "https://careers-sig.icims.com/jobs/11654/technology-co-op-with-drexel-university/job",
+        "locations": [
+            "Remote (US)"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Susquehanna International Group",
+        "title": "Technology Co-op",
+        "source": "vanshb03",
+        "id": "441958b4-9f06-4ecf-b0e0-493fdbcccb1b",
+        "date_posted": 1791961200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
