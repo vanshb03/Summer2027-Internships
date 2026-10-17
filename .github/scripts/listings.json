@@ -10090,5 +10090,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792261427,
+        "url": "https://danaher.wd1.myworkdayjobs.com/en-US/danaherjobs/job/Logan-Utah-United-States/CCM-Data-Governance---Intern-Summer-2027_R1318977",
+        "locations": [
+            "Logan, UT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Danaher Corporation",
+        "title": "CCM Data Governance Intern",
+        "source": "vanshb03",
+        "id": "84de3594-4f7a-4bad-90ad-3f6fae443657",
+        "date_posted": 1792047600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
