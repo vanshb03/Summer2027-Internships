@@ -8508,5 +8508,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792261427,
+        "url": "https://job-boards.greenhouse.io/figureai/jobs/4721113006",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Figure AI",
+        "title": "Deployment Engineering Intern",
+        "source": "vanshb03",
+        "id": "a5f10f6e-acfe-4c1e-bc90-36ff6b75099a",
+        "date_posted": 1791788400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
