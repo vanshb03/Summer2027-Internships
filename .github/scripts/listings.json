@@ -9937,5 +9937,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1792261427,
+        "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/West-Chester-Pennsylvania-United-States-of-America/Technical-Operations-Co-op_R-100885",
+        "locations": [
+            "West Chester, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Johnson & Johnson",
+        "title": "Technical Operations Co-op",
+        "source": "vanshb03",
+        "id": "b19a3079-188c-40e9-be64-17bc7d8f08e4",
+        "date_posted": 1791961200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
