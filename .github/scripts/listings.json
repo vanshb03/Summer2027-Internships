@@ -8474,5 +8474,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792261427,
+        "url": "https://cboe.wd1.myworkdayjobs.com/en-US/external_career_cboe/job/Kansas-City-MO/Software-Engineer-Intern--C---_R-4726",
+        "locations": [
+            "Kansas City, MO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cboe Global Markets",
+        "title": "Software Engineer Intern, C++",
+        "source": "vanshb03",
+        "id": "4a5a1a53-d2c7-4a4c-aceb-61119f9535bb",
+        "date_posted": 1791788400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
