@@ -8712,5 +8712,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1792261427,
+        "url": "https://boards.greenhouse.io/point72/jobs/8883820002?gh_jid=8883820002",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Point72",
+        "title": "Data Research Fellowship",
+        "source": "vanshb03",
+        "id": "3cca1211-ee6a-4823-8ef4-4553e44bbd39",
+        "date_posted": 1791788400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
