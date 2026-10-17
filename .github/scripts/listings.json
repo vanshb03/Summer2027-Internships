@@ -10976,5 +10976,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1792261427,
+        "url": "https://smucker.wd5.myworkdayjobs.com/en-US/US_External_Careers/job/Orrville-OH/Finance-Technology-Intern--Spring-2027_116016",
+        "locations": [
+            "Orrville, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "J.M. Smucker",
+        "title": "Finance Technology Intern",
+        "source": "vanshb03",
+        "id": "732c2800-00d5-412d-9ee3-d271925283cd",
+        "date_posted": 1792134000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
     }
 ]
