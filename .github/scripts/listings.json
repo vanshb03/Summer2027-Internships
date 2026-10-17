@@ -10551,5 +10551,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1792261427,
+        "url": "https://careers-sig.icims.com/jobs/11665/technical-business-analyst-co-op-with-drexel-university/job",
+        "locations": [
+            "Remote (US)"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Susquehanna International Group",
+        "title": "Technical Business Analyst Co-op",
+        "source": "vanshb03",
+        "id": "df63aec0-daa5-4c3d-85e7-d5e42d811a26",
+        "date_posted": 1792047600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
