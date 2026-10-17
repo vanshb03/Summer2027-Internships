@@ -8270,5 +8270,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792261427,
+        "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000154779385",
+        "locations": [
+            "Nanticoke, PA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Veolia",
+        "title": "Field Engineering Intern",
+        "source": "vanshb03",
+        "id": "d4e629c1-da50-46bf-8e31-8619c4fb55ce",
+        "date_posted": 1791615600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
