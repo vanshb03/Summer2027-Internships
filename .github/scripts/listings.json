@@ -10687,5 +10687,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792261427,
+        "url": "https://www.chargepoint.com/about/opportunities/job/?gh_jid=8893571002",
+        "locations": [
+            "Campbell, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ChargePoint",
+        "title": "IT & Network Intern",
+        "source": "vanshb03",
+        "id": "c0026030-a451-4559-bbab-1f82157cba5f",
+        "date_posted": 1792134000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
