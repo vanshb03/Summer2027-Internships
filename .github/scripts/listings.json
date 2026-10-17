@@ -9273,5 +9273,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792261427,
+        "url": "https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202606637",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "WTW",
+        "title": "Risk & Analytics Core Intern",
+        "source": "vanshb03",
+        "id": "7505d5f2-c5bc-4848-ad55-55c42c5428e3",
+        "date_posted": 1791874800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
