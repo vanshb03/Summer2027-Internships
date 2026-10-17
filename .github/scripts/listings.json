@@ -11044,5 +11044,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792261427,
+        "url": "https://jobs.ashbyhq.com/persona/a50a3137-1c9a-4947-9f4e-1a4ef26c2bec/application",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Persona",
+        "title": "Product Design Intern",
+        "source": "vanshb03",
+        "id": "010b0453-1633-46f3-bbae-b5cdabf2ad91",
+        "date_posted": 1792220400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
