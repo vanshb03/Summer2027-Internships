@@ -8338,5 +8338,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1792261427,
+        "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Malvern-Pennsylvania-United-States-of-America/TDS-CGT-Digital-Automation-Co-Op_R-098537",
+        "locations": [
+            "Malvern, PA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Johnson & Johnson",
+        "title": "TDS CGT-Digital Automation Co-op",
+        "source": "vanshb03",
+        "id": "af22a82a-63b4-496a-9adc-ace82bc40b30",
+        "date_posted": 1791615600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
