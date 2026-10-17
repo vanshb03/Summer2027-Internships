@@ -10789,5 +10789,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792261427,
+        "url": "https://jobs.smartrecruiters.com/llnl/3743990016166026",
+        "locations": [
+            "Livermore, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "LLNL",
+        "title": "HPC Cluster Engineer Intern",
+        "source": "vanshb03",
+        "id": "2d05ca5d-2807-4052-9d39-65dd599b16c6",
+        "date_posted": 1792134000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
