@@ -9528,5 +9528,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792261427,
+        "url": "https://careers-gdms.icims.com/jobs/75477/software-engineer-intern-for-crypto-%26-cross-domain-solutions/job",
+        "locations": [
+            "Scottsdale, AZ"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "General Dynamics Mission Systems",
+        "title": "Software Engineer Intern, Crypto & Cross Domain Solutions",
+        "source": "vanshb03",
+        "id": "c63e937f-e366-4557-923b-6837e394576f",
+        "date_posted": 1791961200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
