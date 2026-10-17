@@ -9137,5 +9137,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792261427,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Differentiable-Simulation-Research-Intern---Summer-2027_JR2027561",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "Differentiable Simulation Research Intern",
+        "source": "vanshb03",
+        "id": "fe039ec3-7b08-4163-b255-eacd93a71314",
+        "date_posted": 1791874800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
