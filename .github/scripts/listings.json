@@ -9818,5 +9818,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792261427,
+        "url": "https://careers-sig.icims.com/jobs/11434/sell-side-research-rotational-program%3a-august-2027-start/job",
+        "locations": [
+            "Remote (US)"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Susquehanna International Group",
+        "title": "Sell Side Research Rotational Program Intern",
+        "source": "vanshb03",
+        "id": "9fea8ea5-0ed4-40a4-921a-398cb7a8d57a",
+        "date_posted": 1791961200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
