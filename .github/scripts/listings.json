@@ -9630,5 +9630,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792261427,
+        "url": "https://job-boards.greenhouse.io/kensingtontours/jobs/5262680007",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Kensington",
+        "title": "Analytics Intern",
+        "source": "vanshb03",
+        "id": "6cda75c4-c044-4cf2-9b5b-cd25e2b2ac65",
+        "date_posted": 1791961200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
