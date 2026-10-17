@@ -10124,5 +10124,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792261427,
+        "url": "https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8888785002",
+        "locations": [
+            "Pittsburgh, PA",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Duolingo",
+        "title": "Data Scientist Intern",
+        "source": "vanshb03",
+        "id": "d0667468-3783-4ec1-8244-dbc02021e175",
+        "date_posted": 1792047600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
