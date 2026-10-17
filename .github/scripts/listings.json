@@ -9954,5 +9954,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1792261427,
+        "url": "https://job-boards.greenhouse.io/later/jobs/8889650002",
+        "locations": [
+            "Vancouver, BC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Later",
+        "title": "Data Science Co-op",
+        "source": "vanshb03",
+        "id": "d0963417-7320-4285-846a-d575c4b5b74f",
+        "date_posted": 1791961200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
