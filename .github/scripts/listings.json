@@ -8236,5 +8236,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1792261427,
+        "url": "https://job-boards.greenhouse.io/affirm/jobs/8011375003",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Affirm",
+        "title": "IT Engineer Intern",
+        "source": "vanshb03",
+        "id": "933f26d2-0379-46a3-bea0-6a6917d1171f",
+        "date_posted": 1791615600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
