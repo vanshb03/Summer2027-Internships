@@ -10891,5 +10891,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792261427,
+        "url": "https://quickenloans.wd5.myworkdayjobs.com/en-US/rocket_careers/job/Detroit-MI/Summer-2027-Internships---Marketing--Accounting--or-Information-Technology_R-085042-1",
+        "locations": [
+            "Detroit, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Rocket Companies",
+        "title": "Marketing, Accounting, or IT Intern",
+        "source": "vanshb03",
+        "id": "c5c3ca17-eba9-45f0-a6d1-f24e4d9a0f2e",
+        "date_posted": 1792134000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
