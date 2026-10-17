@@ -11095,5 +11095,25 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1792261825,
+        "url": "https://physicalreasoning.ai/join/software-engineering-intern/",
+        "locations": [
+            "San Francisco, CA",
+            "New York, NY",
+            "Toronto, Canada",
+            "Remote"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Physical Reasoning",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "adamkoch4221",
+        "id": "75ec7c2d-f2e6-46ce-a19d-5684917fbdae",
+        "date_posted": 1792261825,
+        "company_url": "",
+        "is_visible": true
     }
 ]
