@@ -9869,5 +9869,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1792261427,
+        "url": "https://jobs.ashbyhq.com/brainco/c93cdb4a-1ca8-40e0-b49c-205922772930/application",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Brain Co.",
+        "title": "AI Security Engineer Co-op",
+        "source": "vanshb03",
+        "id": "c608cdeb-0332-4808-b2e6-54460715ea8c",
+        "date_posted": 1791961200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
