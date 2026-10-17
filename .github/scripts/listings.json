@@ -9477,5 +9477,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792261427,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Bellevue/GE-Vernova---AGI---AI-Evaluation---Benchmarking-Intern---Summer-2027_R5054821-2",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "GE Vernova",
+        "title": "AI Evaluation & Benchmarking Intern, AGI",
+        "source": "vanshb03",
+        "id": "ca014736-3290-458d-aa9b-399407f3f44e",
+        "date_posted": 1791961200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
