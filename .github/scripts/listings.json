@@ -10806,5 +10806,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792261427,
+        "url": "https://jobs.smartrecruiters.com/llnl/3743990016165636",
+        "locations": [
+            "Livermore, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "LLNL",
+        "title": "Cybersecurity Intern, Cyber and Critical Infrastructure Summer Institute",
+        "source": "vanshb03",
+        "id": "64a3094c-c3e4-4bdb-b182-3bf895828172",
+        "date_posted": 1792134000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
