@@ -8491,5 +8491,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792261427,
+        "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4742962005",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "DV Trading",
+        "title": "Data Center Engineer Intern",
+        "source": "vanshb03",
+        "id": "ad391cdd-150e-435d-93bb-449e7a9c93e5",
+        "date_posted": 1791788400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
