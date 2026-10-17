@@ -8440,5 +8440,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792261427,
+        "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154911489",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bosch",
+        "title": "Robotics Research Intern",
+        "source": "vanshb03",
+        "id": "e2e6e948-b763-412e-b8c1-2f28da922c70",
+        "date_posted": 1791788400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
