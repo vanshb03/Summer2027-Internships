@@ -8882,5 +8882,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792261427,
+        "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155120934",
+        "locations": [
+            "Farmington Hills, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bosch",
+        "title": "Information Security and Privacy Intern",
+        "source": "vanshb03",
+        "id": "215c7227-7c04-44e0-9b6d-127c662d6ec1",
+        "date_posted": 1791874800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
