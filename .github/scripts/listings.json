@@ -9545,5 +9545,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792261427,
+        "url": "https://careers-gdms.icims.com/jobs/75478/software-engineer-intern-for-crypto-and-cross-domain-solutions/job",
+        "locations": [
+            "Taunton, MA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "General Dynamics Mission Systems",
+        "title": "Software Engineer Intern, Crypto and Cross Domain Solutions",
+        "source": "vanshb03",
+        "id": "ae207054-d3fb-420c-bfd5-e1b160a1e6a2",
+        "date_posted": 1791961200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
