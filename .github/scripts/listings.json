@@ -9988,5 +9988,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1792261427,
+        "url": "https://spe.wd1.myworkdayjobs.com/en-US/SonyPicturesEntertainment/job/Culver-City-California/Current-Programming-Intern--Sony-Pictures-Television---Spring-2027_JR114863-1",
+        "locations": [
+            "Culver City, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Sony Pictures Entertainment",
+        "title": "Current Programming Intern, Sony Pictures Television",
+        "source": "vanshb03",
+        "id": "3c7fe4f5-dfe9-4088-9f8c-ea01d2107dcd",
+        "date_posted": 1791961200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
     }
 ]
