@@ -8610,5 +8610,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792261427,
+        "url": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Ann-Arbor-MI/AI-ML-Software-Engineer---Intern_2641701-1",
+        "locations": [
+            "Ann Arbor, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "KLA",
+        "title": "AI/ML Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "9cd8e27b-089f-44c1-9570-39a7ecf7cf41",
+        "date_posted": 1791788400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
