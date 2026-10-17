@@ -9733,5 +9733,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792261427,
+        "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506642",
+        "locations": [
+            "Hopewell Junction, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "onsemi",
+        "title": "Manufacturing AI Intern",
+        "source": "vanshb03",
+        "id": "e6cf4a17-522c-4cbd-819f-693c5c6f0c33",
+        "date_posted": 1791961200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
