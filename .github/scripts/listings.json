@@ -9767,5 +9767,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792261427,
+        "url": "https://boards.greenhouse.io/point72/jobs/8885733002?gh_jid=8885733002",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Point72",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "09f4fd4b-1858-448f-bc4e-04da8b4e3e35",
+        "date_posted": 1791961200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
