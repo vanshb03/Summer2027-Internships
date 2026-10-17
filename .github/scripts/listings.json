@@ -10823,5 +10823,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792261427,
+        "url": "https://jobs.smartrecruiters.com/llnl/3743990016165496",
+        "locations": [
+            "Livermore, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "LLNL",
+        "title": "Critical Infrastructure Analysis Intern, Cyber and Critical Infrastructure Summer Institute",
+        "source": "vanshb03",
+        "id": "5829c86e-1d4b-45a5-892c-6a1994a92f8b",
+        "date_posted": 1792134000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
