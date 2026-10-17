@@ -8304,5 +8304,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792261427,
+        "url": "https://job-boards.greenhouse.io/advancedspace/jobs/4444656009",
+        "locations": [
+            "Westminster, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Advanced Space",
+        "title": "Technical Growth and Capture Intern",
+        "source": "vanshb03",
+        "id": "f59999f6-3b48-417e-8fe9-56a3848fa6a5",
+        "date_posted": 1791615600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
