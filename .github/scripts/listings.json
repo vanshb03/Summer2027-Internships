@@ -3362,13 +3362,13 @@
         "season": "Fall"
     },
     {
-        "date_updated": 1783642646,
+        "date_updated": 1792261177,
         "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/Canada---Burnaby/Undergraduate--Co-op-Student---Software-Engineer---Large-Molecule-Discovery---Technology_R-249424",
         "locations": [
             "Burnaby, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Amgen",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -3511,13 +3511,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1784878764,
+        "date_updated": 1792261170,
         "url": "https://job-boards.greenhouse.io/astranis/jobs/4699071006",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Astranis",
         "title": "Software Engineer Intern, Enterprise Systems",
         "source": "vanshb03",
@@ -3717,13 +3717,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1784879071,
+        "date_updated": 1792261170,
         "url": "https://job-boards.greenhouse.io/later/jobs/8643138002",
         "locations": [
             "Vancouver, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Later",
         "title": "Software Development Co-op",
         "source": "vanshb03",
@@ -4874,13 +4874,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1785124679,
+        "date_updated": 1792261171,
         "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5186916007",
         "locations": [
             "Santa Clara, CA"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Tenstorrent",
         "title": "Software Engineering Intern, Power Modeling & AI Tools",
         "source": "vanshb03",
@@ -5081,13 +5081,13 @@
         "season": "Fall"
     },
     {
-        "date_updated": 1785147499,
+        "date_updated": 1792261180,
         "url": "https://coreandmain.wd1.myworkdayjobs.com/coreandmain/job/Saint-Louis-MO-63146/Intern---Data-Engineering----Corp_45804",
         "locations": [
             "St. Louis, MO"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Core & Main",
         "title": "AI/ML Data Engineering Intern",
         "source": "vanshb03",
@@ -5320,13 +5320,13 @@
         "season": "Fall"
     },
     {
-        "date_updated": 1785252811,
+        "date_updated": 1792261171,
         "url": "https://job-boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785",
         "locations": [
             "Austin, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Cloudflare",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -5371,13 +5371,13 @@
         "season": "Fall"
     },
     {
-        "date_updated": 1785254040,
+        "date_updated": 1792261171,
         "url": "https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4328555009?gh_src=kpek4mqz9us",
         "locations": [
             "Golden, CO"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Rendezvous Robotics",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
@@ -5405,13 +5405,13 @@
         "season": "Spring"
     },
     {
-        "date_updated": 1785260118,
+        "date_updated": 1792261186,
         "url": "https://nwis.wd12.myworkdayjobs.com/en-US/NW/job/Annapolis-Junction-MD/Software---Hardware-Engineering---Intern_JR101733",
         "locations": [
             "Annapolis Junction, MD"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Nightwing",
         "title": "Software / Hardware Engineering Intern",
         "season": "Summer",
@@ -5439,13 +5439,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1785449227,
+        "date_updated": 1792261171,
         "url": "https://job-boards.greenhouse.io/virtu/jobs/8657500002",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Virtu Financial",
         "title": "Frontend & User Experience Intern",
         "season": "Summer",
@@ -5456,14 +5456,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1785516133,
+        "date_updated": 1792261189,
         "url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Full-Stack-Software-Engineer-Internship--Summer-2027-_R1350",
         "locations": [
             "Stamford, CT",
             "Houston, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Castleton Commodities International",
         "title": "Full-Stack Software Engineer Intern",
         "season": "Summer",
@@ -5474,7 +5474,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1785516178,
+        "date_updated": 1792261193,
         "url": "https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/United-States/XMLNAME-2027-Intern---Technology_JR260339-1",
         "locations": [
             "Atlanta, GA",
@@ -5491,7 +5491,7 @@
             "Washington, DC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "FTI Consulting",
         "title": "Technology Intern",
         "season": "Summer",
@@ -5622,7 +5622,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1785516558,
+        "date_updated": 1792261195,
         "url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Data-Science-Machine-Learning-Internship--Summer-2027-_R1344",
         "locations": [
             "Stamford, CT",
@@ -5630,7 +5630,7 @@
             "New York City, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Castleton Commodities International",
         "title": "Data Science Machine Learning Intern",
         "source": "vanshb03",
@@ -5641,7 +5641,7 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1785516564,
+        "date_updated": 1792261198,
         "url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Data-Engineering-Internship--Summer-2027-_R1346",
         "locations": [
             "Stamford, CT",
@@ -5649,7 +5649,7 @@
             "New York City, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Castleton Commodities International",
         "title": "Data Engineering Intern",
         "source": "vanshb03",
@@ -5695,13 +5695,13 @@
         "season": "Fall"
     },
     {
-        "date_updated": 1785529818,
+        "date_updated": 1792261171,
         "url": "https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4342038009",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "SK Hynix Memory Solution",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -6923,13 +6923,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1786024313,
+        "date_updated": 1792261171,
         "url": "https://job-boards.greenhouse.io/redwoodmaterials/jobs/6126785004",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Redwood Materials",
         "title": "Test Automation Engineer Intern",
         "source": "vanshb03",
@@ -6940,13 +6940,13 @@
         "season": "Fall"
     },
     {
-        "date_updated": 1786024318,
+        "date_updated": 1792261212,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Dynamo---Fall-2026_JR2022295",
         "locations": [
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "NVIDIA",
         "title": "Software Engineering Intern, Dynamo",
         "source": "vanshb03",
@@ -7077,13 +7077,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1787326585,
+        "date_updated": 1792261172,
         "url": "https://job-boards.greenhouse.io/point72/jobs/8721562002?gh_jid=8721562002",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Point72",
         "title": "Quantitative Developer Intern",
         "source": "vanshb03",
@@ -7094,13 +7094,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1787326595,
+        "date_updated": 1792261222,
         "url": "https://monolithicpower.wd12.myworkdayjobs.com/en-US/MPS_Careers/job/San-Jose-CA/Application-Engineer-Intern_R-890",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Monolithic Power Systems, Inc.",
         "title": "Application Engineer Intern",
         "source": "vanshb03",
@@ -7145,13 +7145,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1787326628,
+        "date_updated": 1792261225,
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/draper_careers/job/Cambridge-MA/Embedded-Quality---Fielded-Systems-Intern_JR002718",
         "locations": [
             "Cambridge, MA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Draper",
         "title": "Embedded Quality & Fielded Systems Intern",
         "source": "vanshb03",
@@ -7162,13 +7162,13 @@
         "season": "Fall"
     },
     {
-        "date_updated": 1787326637,
+        "date_updated": 1792261228,
         "url": "https://copart.wd12.myworkdayjobs.com/en-US/copart/job/Dallas-TX---Headquarters/DevOps-Engineering-Intern_JR109490",
         "locations": [
             "Dallas, TX"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Copart",
         "title": "DevOps Engineering Intern",
         "source": "vanshb03",
@@ -7570,13 +7570,13 @@
         "season": "Fall"
     },
     {
-        "date_updated": 1787326908,
+        "date_updated": 1792261235,
         "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Huntsville-AL/Engineering-Intern_R-00189691",
         "locations": [
             "Huntsville, AL"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Leidos",
         "title": "Engineering Intern",
         "source": "vanshb03",
@@ -7770,13 +7770,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1787327051,
+        "date_updated": 1792261172,
         "url": "https://job-boards.greenhouse.io/transmarketgroup/jobs/5212335007?gh_jid=5212335007",
         "locations": [
             "Chicago, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TransMarket Group",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -7957,7 +7957,7 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1787327126,
+        "date_updated": 1792261172,
         "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687896002",
         "locations": [
             "New York, NY",
@@ -7967,7 +7967,7 @@
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Atoms",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -7997,13 +7997,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1787327679,
+        "date_updated": 1792261172,
         "url": "https://job-boards.greenhouse.io/cloudflare/jobs/8052785",
         "locations": [
             "Austin, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Cloudflare",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -8031,13 +8031,13 @@
         "season": "Fall"
     },
     {
-        "date_updated": 1787327684,
+        "date_updated": 1792261172,
         "url": "https://job-boards.greenhouse.io/astranis/jobs/4677973006",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Astranis",
         "title": "Reliability Test Intern",
         "source": "vanshb03",
@@ -8082,13 +8082,13 @@
         "season": "Fall"
     },
     {
-        "date_updated": 1787327693,
+        "date_updated": 1792261248,
         "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Team-Pickle---Winter-2027_R249013",
         "locations": [
             "Toronto, ON"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Capital One",
         "title": "Software Engineer Intern, Team Pickle",
         "source": "vanshb03",
@@ -8099,13 +8099,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1787327697,
+        "date_updated": 1792261251,
         "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Intern--Mobile-Software-Engineer---Team-Gringotts-North---Winter-2027_R249015",
         "locations": [
             "Toronto, ON"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Capital One",
         "title": "Software Engineer Intern, Mobile",
         "source": "vanshb03",
@@ -8116,13 +8116,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1787327699,
+        "date_updated": 1792261253,
         "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Intern--Backend-Software-Engineer---Team-Interstellar---Winter-2027_R249022",
         "locations": [
             "Toronto, ON"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Capital One",
         "title": "Backend Software Engineer Intern, Team Interstellar",
         "source": "vanshb03",
@@ -8151,14 +8151,14 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1787327703,
+        "date_updated": 1792261172,
         "url": "https://job-boards.greenhouse.io/figma/jobs/6131089004?gh_jid=6131089004",
         "locations": [
             "San Francisco, CA",
             "New York, NY"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Figma",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -8169,13 +8169,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1787327704,
+        "date_updated": 1792261172,
         "url": "https://job-boards.greenhouse.io/figureai/jobs/4702104006",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Figure",
         "title": "Power Systems Integration Intern",
         "source": "vanshb03",
@@ -8203,13 +8203,13 @@
         "season": "Fall"
     },
     {
-        "date_updated": 1787327731,
+        "date_updated": 1792261172,
         "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7824822003",
         "locations": [
             "El Segundo, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Varda Space Industries",
         "title": "Applications Engineer Intern",
         "source": "vanshb03",
@@ -8220,14 +8220,14 @@
         "season": "Spring"
     },
     {
-        "date_updated": 1787327736,
+        "date_updated": 1792261172,
         "url": "https://job-boards.greenhouse.io/figma/jobs/6131089004",
         "locations": [
             "San Francisco, CA",
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Figma",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
