@@ -10534,5 +10534,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Spring"
+    },
+    {
+        "date_updated": 1792261427,
+        "url": "https://careers-sig.icims.com/jobs/11675/business-analytics-ai-co-op-with-drexel-university/job",
+        "locations": [
+            "Remote (US)"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Susquehanna International Group",
+        "title": "Business Analytics AI Co-op",
+        "source": "vanshb03",
+        "id": "e7aae4d7-5574-46b6-beea-1de84a09f81d",
+        "date_posted": 1792047600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
