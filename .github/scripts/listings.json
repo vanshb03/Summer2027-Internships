@@ -8746,5 +8746,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1792261427,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000155109379",
+        "locations": [
+            "Rochester, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Western Digital",
+        "title": "Recording Electronics Data Analytics & Optimization Co-op",
+        "source": "vanshb03",
+        "id": "1588850e-5970-4ce0-8743-2fa656b5a49f",
+        "date_posted": 1791788400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
     }
 ]
