@@ -8372,5 +8372,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1792261427,
+        "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/TD-O-Program-Enablement-Specialist----Early-Talent_R0118795",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Truist",
+        "title": "TD&O Program Enablement Specialist Intern",
+        "source": "vanshb03",
+        "id": "7b335227-f99c-444e-94d4-0a720c92f0ff",
+        "date_posted": 1791615600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
