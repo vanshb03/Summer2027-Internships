@@ -8287,5 +8287,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792261427,
+        "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000154779699",
+        "locations": [
+            "Lincoln, NE"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Veolia",
+        "title": "Field Engineering Intern",
+        "source": "vanshb03",
+        "id": "f395986e-15f7-44b7-8032-c7739d77ee2a",
+        "date_posted": 1791615600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
