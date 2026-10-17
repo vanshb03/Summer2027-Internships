@@ -8729,5 +8729,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1792261427,
+        "url": "https://wattswater.wd5.myworkdayjobs.com/en-US/Intern-External/job/Menomonee-Falls-WI/Product-Management-Co-op--Jan-June-2027_10017702",
+        "locations": [
+            "Menomonee Falls, WI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Watts Water",
+        "title": "Product Management Co-op",
+        "source": "vanshb03",
+        "id": "92380364-5cc3-42b7-857b-2f5ee483bf6a",
+        "date_posted": 1791788400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
