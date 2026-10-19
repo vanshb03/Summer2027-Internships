@@ -11441,5 +11441,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1792370268,
+        "url": "https://qualcomm.eightfold.ai/careers/job/446721615591",
+        "locations": [
+            "Markham, ON, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Qualcomm",
+        "title": "Automotive Engineering Intern",
+        "source": "vanshb03",
+        "id": "a4e87ee8-e458-455c-9961-68234ab3ef2b",
+        "date_posted": 1792189487,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
