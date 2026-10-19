@@ -11169,5 +11169,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792367657,
+        "url": "https://jobs.ashbyhq.com/clera/697c2212-e39d-4e6e-92c2-12e6603a61d0/application",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Clera",
+        "title": "Computer Vision & Robotics Intern",
+        "source": "vanshb03",
+        "id": "99f59617-e4c9-48a7-bbb3-51c45b5da004",
+        "date_posted": 1792220400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
