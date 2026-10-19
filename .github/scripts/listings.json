@@ -11509,5 +11509,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1792370268,
+        "url": "https://internaljobs.centurylink.com/job/Remote-Data,-Analytics-&-Decision-Science-Summer-2027-Internship-Pathway/1440961600/?ats=successfactors",
+        "locations": [
+            "Remote in USA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CenturyLink",
+        "title": "Data Intern, Analytics & Decision Science",
+        "source": "vanshb03",
+        "id": "6ddebcf6-a858-4e61-9d2a-8bc46e065478",
+        "date_posted": 1792190238,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
