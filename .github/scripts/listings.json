@@ -11322,5 +11322,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792370268,
+        "url": "https://fa-exby-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1013/job/227",
+        "locations": [
+            "Victoria, BC, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "BC Pensions",
+        "title": "Application Developer Co-op",
+        "source": "vanshb03",
+        "id": "8bd41d88-5b78-4949-9199-754b7a85e633",
+        "date_posted": 1792114633,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
