@@ -11356,5 +11356,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792370268,
+        "url": "https://jobs.ea.com/en_US/careers/JobDetail/Analytics-Intern/216232",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Electronic Arts",
+        "title": "Analytics Intern",
+        "source": "vanshb03",
+        "id": "97e08d26-1ed9-4bde-b279-8b80272df7e6",
+        "date_posted": 1792188709,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
