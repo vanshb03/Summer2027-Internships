@@ -11373,5 +11373,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792370268,
+        "url": "https://jobs.keysight.com/jobs/54848?icims=1",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Keysight Technologies",
+        "title": "R&D Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "155bab5f-13c2-4f95-95b3-810057dc8147",
+        "date_posted": 1792188717,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
