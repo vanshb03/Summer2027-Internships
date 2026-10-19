@@ -11475,5 +11475,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1792370268,
+        "url": "https://jobs.lever.co/bhvr/540b00d3-8693-4c2b-9e98-10e33cb0ce62/apply",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Behaviour Interactive",
+        "title": "Product Management Intern, 7 Days to Die",
+        "source": "vanshb03",
+        "id": "231d165b-a5f5-4ec6-8eac-26b29e877982",
+        "date_posted": 1792190108,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
