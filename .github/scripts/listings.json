@@ -11577,5 +11577,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792370268,
+        "url": "https://careers.agcocorp.com/job/Hesston-Embedded-Software-Engineering-Intern-Summer-2027-KS-67062/1440993300/?ats=successfactors",
+        "locations": [
+            "Hesston, KS",
+            "Jackson, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "AGCO",
+        "title": "Embedded Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "cdce3526-309a-4002-84a9-f214fdeeafb6",
+        "date_posted": 1792190402,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
