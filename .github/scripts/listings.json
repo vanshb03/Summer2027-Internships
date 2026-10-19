@@ -11186,5 +11186,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792367657,
+        "url": "https://job-boards.greenhouse.io/eulerity/jobs/4722871006",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Eulerity",
+        "title": "AI Intern, Office of CEO & Head of Product",
+        "source": "vanshb03",
+        "id": "8a963af3-5975-4fe8-9ed3-b37a40a32354",
+        "date_posted": 1792220400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
