@@ -11407,5 +11407,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792370268,
+        "url": "https://careers.kpmg.ca/jobs/34407?icims=1",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "KPMG",
+        "title": "AI Builder Co-op",
+        "source": "vanshb03",
+        "id": "8341af5f-1023-4229-a4fd-b83df8698301",
+        "date_posted": 1792189319,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
