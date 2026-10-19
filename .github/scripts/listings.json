@@ -11614,5 +11614,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792370268,
+        "url": "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Finance-Data---Analytics-Developer-Intern_R0059478",
+        "locations": [
+            "Chicago, IL",
+            "Richardson, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "HCSC",
+        "title": "Finance Data & Analytics Developer Intern",
+        "source": "vanshb03",
+        "id": "974464f6-4ac0-4738-a8a4-490b39313ba5",
+        "date_posted": 1792195200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
