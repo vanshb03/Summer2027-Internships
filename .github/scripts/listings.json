@@ -11288,5 +11288,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792370268,
+        "url": "https://jobs.apple.com/en-us/details/200689488",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Apple",
+        "title": "SoC Machine Learning Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "4e4b84eb-8cd4-4a4c-b71f-e5b60e2e1936",
+        "date_posted": 1792114389,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
