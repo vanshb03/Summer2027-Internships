@@ -11254,5 +11254,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792370268,
+        "url": "https://jobs.ashbyhq.com/abridge/aab11857-7ed3-4fc5-aab3-35256601117e/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Abridge",
+        "title": "Member of Technical Staff Intern",
+        "source": "vanshb03",
+        "id": "64ef5927-f27a-4ad7-8956-ec54555495b9",
+        "date_posted": 1792113271,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
     }
 ]
