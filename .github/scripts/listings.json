@@ -11543,5 +11543,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792370268,
+        "url": "https://bostonscientific.eightfold.ai/careers/job/563602813519129",
+        "locations": [
+            "Maple Grove, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Boston Scientific",
+        "title": "AI/Data Science Intern",
+        "source": "vanshb03",
+        "id": "41a931b2-d795-4c4e-ae66-716469551b12",
+        "date_posted": 1792190304,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
