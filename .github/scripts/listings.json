@@ -11492,5 +11492,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1792370268,
+        "url": "https://www.d2l.com/careers/jobs/?job_id=8289767&gh_jid=8289767",
+        "locations": [
+            "Kitchener, ON, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "D2L",
+        "title": "Software Developer Co-op, Custom Development Services",
+        "source": "vanshb03",
+        "id": "5e4f771f-4eb7-45d9-a9a5-8cf427db24b5",
+        "date_posted": 1792190198,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
