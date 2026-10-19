@@ -11632,5 +11632,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792370268,
+        "url": "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Finance-Application-Developer-Intern_R0059477",
+        "locations": [
+            "Chicago, IL",
+            "Richardson, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "HCSC",
+        "title": "Finance Application Developer Intern",
+        "source": "vanshb03",
+        "id": "33db52c5-512f-41c3-bb7f-54b87ea45bce",
+        "date_posted": 1792195200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
