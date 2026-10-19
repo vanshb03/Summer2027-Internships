@@ -11526,5 +11526,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792370268,
+        "url": "https://eaton.eightfold.ai/careers/job/687239542740",
+        "locations": [
+            "Brossard, QC, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Eaton",
+        "title": "C++ Developer Intern, Research & Development Engineering",
+        "source": "vanshb03",
+        "id": "9073123d-3221-4e4a-9ea1-20524d36105b",
+        "date_posted": 1792190278,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
