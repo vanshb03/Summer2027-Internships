@@ -11115,5 +11115,25 @@
         "date_posted": 1792261825,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1792367657,
+        "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6865687002",
+        "locations": [
+            "Bellevue, WA",
+            "Mountain View, CA",
+            "San Francisco, CA",
+            "Vancouver, BC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Databricks",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "bed17ef6-8f66-4693-a2b4-96a614788937",
+        "date_posted": 1791788400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
