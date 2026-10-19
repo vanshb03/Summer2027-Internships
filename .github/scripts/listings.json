@@ -11424,5 +11424,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1792370268,
+        "url": "https://jobs.ashbyhq.com/agzen/4cff4edd-3e9a-4ea1-8138-80c7241a2d3a/application?embed=true",
+        "locations": [
+            "Somerville, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "AgZen",
+        "title": "Software Engineer Co-op",
+        "source": "vanshb03",
+        "id": "b20a1d66-05c1-4802-89f7-5e78e9065276",
+        "date_posted": 1792189445,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
