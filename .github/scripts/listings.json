@@ -11595,5 +11595,24 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792370268,
+        "url": "https://jobs.lever.co/waabi/480d9d41-33d0-429a-8883-7f9ec305a30f/apply",
+        "locations": [
+            "Toronto, ON, Canada",
+            "SF",
+            "Pittsburgh, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Waabi",
+        "title": "Safety Methodologies Co-op",
+        "source": "vanshb03",
+        "id": "8356b61e-fea6-4f0d-b2b3-cf1233afd7e1",
+        "date_posted": 1792190701,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
