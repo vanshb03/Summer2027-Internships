@@ -11271,5 +11271,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Spring"
+    },
+    {
+        "date_updated": 1792370268,
+        "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4744391005",
+        "locations": [
+            "Playa Vista, LA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Inversion Space",
+        "title": "Avionics Embedded Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "33fcf848-0df4-454b-a8f4-bab99d95d1dc",
+        "date_posted": 1792113833,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
