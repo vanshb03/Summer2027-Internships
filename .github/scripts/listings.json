@@ -3203,13 +3203,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1783427123,
+        "date_updated": 1792368984,
         "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002",
         "locations": [
             "Chicago, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Aquatic",
         "title": "Software Engineer Intern",
         "season": "Summer",
@@ -3853,13 +3853,13 @@
         "season": "Fall"
     },
     {
-        "date_updated": 1784879137,
+        "date_updated": 1792368984,
         "url": "https://jobs.ashbyhq.com/fab2/947338ca-e135-4398-9aa3-79e131bc03d5?embed=true",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "fab2",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
@@ -3939,13 +3939,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1784880683,
+        "date_updated": 1792368984,
         "url": "https://jobs.ashbyhq.com/netic/b0ea7aab-8eea-4d31-96f9-278364180ae7?embed=true",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Netic",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -5132,14 +5132,14 @@
         "season": "Fall"
     },
     {
-        "date_updated": 1785161085,
+        "date_updated": 1792368984,
         "url": "https://jobs.ashbyhq.com/fab2/867c67f7-20b5-4726-b9da-85a760d3851e?embed=true",
         "locations": [
             "San Francisco, CA",
             "Austin, TX"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Atomic Semi",
         "title": "Infrastructure Software Engineering Intern",
         "source": "vanshb03",
@@ -11200,6 +11200,23 @@
         "source": "vanshb03",
         "id": "8a963af3-5975-4fe8-9ed3-b37a40a32354",
         "date_posted": 1792220400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1792367657,
+        "url": "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Colorado-Boulder/XMLNAME-2027-Software-Engineering-Intern---Boulder-CO_R10256077",
+        "locations": [
+            "Boulder, CO"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Northrop Grumman",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "c732ee0f-9318-4bd6-bb2a-dcd6522aabd2",
+        "date_posted": 1792306800,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
