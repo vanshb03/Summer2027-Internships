@@ -11458,5 +11458,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792370268,
+        "url": "https://jobs.ashbyhq.com/assorthealth/3d8a2c74-8d0c-40be-9624-afc3678654ee/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Assort Health",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "ba2d6ec7-8972-4871-aee8-612c9cce02c7",
+        "date_posted": 1792189803,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
