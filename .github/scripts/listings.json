@@ -11560,5 +11560,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792370268,
+        "url": "https://impulsespace.pinpointhq.com/en/postings/66981a77-8e79-4050-9818-4ed4209c5579?ats=pinpointhq",
+        "locations": [
+            "Redondo Beach, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Impulse Space",
+        "title": "Enterprise Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "b0421f34-3f2a-497b-a0ff-ef3a80aa8762",
+        "date_posted": 1792190305,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
