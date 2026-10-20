@@ -11721,5 +11721,25 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1792442313,
+        "url": "https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/8899673002",
+        "locations": [
+            "London, UK",
+            "Amsterdam, Netherlands",
+            "NYC",
+            "Singapore"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Graviton",
+        "title": "Quantitative Researcher Intern",
+        "source": "vanshb03",
+        "id": "9bb82229-6c24-4c86-af9a-eb7a34e760ca",
+        "date_posted": 1792418903,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
