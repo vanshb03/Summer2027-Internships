@@ -12084,5 +12084,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792442374,
+        "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Clinical-Virology---AI_R0055526",
+        "locations": [
+            "Foster City, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Gilead Sciences",
+        "title": "Research Intern, Clinical Virology - AI",
+        "source": "vanshb03",
+        "id": "2203d57a-1a40-4a16-85cf-1413db8c65dc",
+        "date_posted": 1792183174,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
