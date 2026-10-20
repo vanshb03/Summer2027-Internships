@@ -12289,5 +12289,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1792511186,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801790",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "JPMorganChase",
+        "title": "Machine Learning Intern, NLP",
+        "source": "vanshb03",
+        "id": "b4461d8e-e0b3-4a92-bfa4-637c7c3449f3",
+        "date_posted": 1792479600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
