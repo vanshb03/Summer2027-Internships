@@ -12170,5 +12170,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792511186,
+        "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32645",
+        "locations": [
+            "Vienna, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Navy Federal",
+        "title": "AI Engineering Intern",
+        "source": "vanshb03",
+        "id": "7f1bc271-9283-43f4-a44b-cf9a05ce0410",
+        "date_posted": 1792393200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
