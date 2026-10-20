@@ -11650,5 +11650,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792442297,
+        "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Cincinnati-Ohio-United-States-of-America/Quality-Data-Science-Co-Op---Summer-2027_R-103629",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Johnson & Johnson",
+        "title": "Quality Data Science Co-op",
+        "source": "vanshb03",
+        "id": "96df2764-8cb9-4d89-8190-98781e50e545",
+        "date_posted": 1792393200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
