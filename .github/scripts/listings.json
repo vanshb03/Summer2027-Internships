@@ -2593,7 +2593,7 @@
         ],
         "sponsorship": "U.S. Citizenship is Required",
         "active": true,
-        "company_name": "Na\u00efve",
+        "company_name": "Naïve",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
         "id": "8a1aa0c6-4cf5-4223-ba75-fae2a979699a",
@@ -5522,7 +5522,7 @@
         "date_updated": 1785516218,
         "url": "https://www.drw.com/work-at-drw/listings/aiml-research-intern-3466679",
         "locations": [
-            "Montr\u00e9al"
+            "Montréal"
         ],
         "sponsorship": "Other",
         "active": true,
@@ -5591,7 +5591,7 @@
         "date_updated": 1785516227,
         "url": "https://www.drw.com/work-at-drw/listings/software-developer-intern-3466687",
         "locations": [
-            "Montr\u00e9al"
+            "Montréal"
         ],
         "sponsorship": "Other",
         "active": true,
@@ -8432,7 +8432,7 @@
         ],
         "sponsorship": "Other",
         "active": true,
-        "company_name": "AtkinsR\u00e9alis",
+        "company_name": "AtkinsRéalis",
         "title": "Software Developer Intern",
         "source": "vanshb03",
         "id": "fced203e-f183-491d-9523-6f0f2f47d601",
@@ -12150,6 +12150,23 @@
         "source": "vanshb03",
         "id": "c80adfa7-7b0a-4ef6-9984-b28540e9dc6f",
         "date_posted": 1792443379,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1792511186,
+        "url": "https://job-boards.greenhouse.io/nisc/jobs/8301304",
+        "locations": [
+            "Mandan, ND"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "National Information Solutions Cooperative",
+        "title": "Application Analyst Intern, Financials Software",
+        "source": "vanshb03",
+        "id": "4d5a3b76-6e02-4e1d-a0c5-d7ff13426b5d",
+        "date_posted": 1792393200,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
