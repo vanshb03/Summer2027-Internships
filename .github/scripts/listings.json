@@ -11775,5 +11775,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792442313,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=8285180",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "FanDuel",
+        "title": "Product Co-op",
+        "source": "vanshb03",
+        "id": "3b41315a-8e10-4bb7-9196-5e77b67912db",
+        "date_posted": 1792419784,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
     }
 ]
