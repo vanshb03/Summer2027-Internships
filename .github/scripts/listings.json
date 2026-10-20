@@ -12544,5 +12544,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792511227,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Summer---Fall-2027-_01881368",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "RTX",
+        "title": "Software Engineering Co-op",
+        "source": "vanshb03",
+        "id": "73aa2322-4528-400f-b46e-b6d1f4fdba4d",
+        "date_posted": 1792368000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
