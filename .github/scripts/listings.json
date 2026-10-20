@@ -12340,5 +12340,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792511186,
+        "url": "https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Basking-Ridge-New-Jersey/Basking-Ridge--NJ--VTeamer-for-a-Day--Verizon-Consumer-Group--Data-Science-Summer-2027-Internship_R-1102417",
+        "locations": [
+            "Basking Ridge, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Verizon Communications",
+        "title": "Data Science Intern, Verizon Consumer Group",
+        "source": "vanshb03",
+        "id": "9df6a5d0-d8c3-48b8-941e-66eaefcf4805",
+        "date_posted": 1792479600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
