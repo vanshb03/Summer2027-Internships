@@ -12033,5 +12033,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Fall"
+    },
+    {
+        "date_updated": 1792442374,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---AI---Architecture_R172998",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Adobe",
+        "title": "AI & Architecture Intern",
+        "source": "vanshb03",
+        "id": "510a733a-5c64-4f17-a80a-54d4ae8adb56",
+        "date_posted": 1792439494,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
