@@ -12135,5 +12135,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792443416,
+        "url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911",
+        "locations": [
+            "San Francisco, CA",
+            "Bellevue, WA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Salesforce",
+        "title": "Software Engineer Intern, Security/Government",
+        "source": "vanshb03",
+        "id": "c80adfa7-7b0a-4ef6-9984-b28540e9dc6f",
+        "date_posted": 1792443379,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
