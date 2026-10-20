@@ -11981,5 +11981,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792442374,
+        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4735665005",
+        "locations": [
+            "New York, NY",
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Scale AI",
+        "title": "Machine Learning Research Intern",
+        "source": "vanshb03",
+        "id": "4030e651-cb47-47f2-bcca-c51a55c8bf73",
+        "date_posted": 1792438774,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
