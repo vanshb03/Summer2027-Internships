@@ -11862,5 +11862,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792442374,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/XMLNAME-2027-Intern---Security-Engineer_R173000",
+        "locations": [
+            "Lehi, UT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Adobe",
+        "title": "Security Engineer Intern",
+        "source": "vanshb03",
+        "id": "4eca381d-06fc-42d2-899e-57f0d0548bfb",
+        "date_posted": 1792439494,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
