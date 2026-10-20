@@ -12837,6 +12837,23 @@
     },
     {
         "date_updated": 1792511227,
+        "url": "https://boards.greenhouse.io/point72/jobs/7609197002",
+        "locations": [
+            "NYC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Point72",
+        "title": "Quantitative Developer Intern",
+        "source": "vanshb03",
+        "id": "30eb0bc5-d2bd-47e9-be1d-f4973949e8a4",
+        "date_posted": 1792448198,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1792511227,
         "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Montreal/Services-Business-Intelligence---Analytics-Intern_R031851",
         "locations": [
             "Montreal, QC, Canada",
