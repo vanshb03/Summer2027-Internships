@@ -12357,5 +12357,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792511186,
+        "url": "https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Application-Software-Developer-Co-op--Winter-2027---Capital-Markets-Technology_2621523",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CIBC",
+        "title": "Application/Software Developer Co-op, Capital Markets Technology",
+        "source": "vanshb03",
+        "id": "561f4093-2ac6-4050-b7fb-c0d6c32533ae",
+        "date_posted": 1792479600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
