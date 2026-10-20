@@ -13144,6 +13144,23 @@
     },
     {
         "date_updated": 1792511227,
+        "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25019103",
+        "locations": [
+            "Sugar Land, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Texas Instruments",
+        "title": "Software Engineer Intern, Compiler",
+        "source": "vanshb03",
+        "id": "3b199ce3-17c3-41c3-b597-3191ff039e74",
+        "date_posted": 1792506992,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1792511227,
         "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Montreal/Services-Business-Intelligence---Analytics-Intern_R031851",
         "locations": [
             "Montreal, QC, Canada",
