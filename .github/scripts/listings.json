@@ -12101,5 +12101,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792443416,
+        "url": "https://jobs.ashbyhq.com/heron-power/5dbf22e3-41ba-40de-b428-6fab9934d6da",
+        "locations": [
+            "Scotts Valley, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Heron Power",
+        "title": "Firmware Engineering Intern",
+        "source": "vanshb03",
+        "id": "dffb01f5-3e4f-45ad-b08c-0284aa480d52",
+        "date_posted": 1792428837,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
