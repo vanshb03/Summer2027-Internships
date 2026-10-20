@@ -12323,5 +12323,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792511186,
+        "url": "https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Basking-Ridge-New-Jersey/Basking-Ridge--NJ--V-Teamer-for-a-Day--Verizon-Consumer-Group--Call-Routing-Optimization-Engineering-Summer-2027-Internship_R-1102394",
+        "locations": [
+            "Basking Ridge, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Verizon Communications",
+        "title": "Call Routing Optimization Engineering Intern, Verizon Consumer Group",
+        "source": "vanshb03",
+        "id": "d632ae0b-b92d-4d91-9abf-86c84f12ef16",
+        "date_posted": 1792479600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
