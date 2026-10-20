@@ -12204,5 +12204,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792511186,
+        "url": "https://ttc.wd1.myworkdayjobs.com/en-US/Toro_External_Careers/job/Frederick-CO/Cloud-Software-Development-Intern---The-Toro-Company_JR17498",
+        "locations": [
+            "Frederick, CO"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "The Toro Company",
+        "title": "Cloud Software Development Intern",
+        "source": "vanshb03",
+        "id": "0f707d0f-17ee-4870-b849-dc3144e7640d",
+        "date_posted": 1792393200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
