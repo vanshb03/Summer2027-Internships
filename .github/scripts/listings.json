@@ -11828,5 +11828,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792442374,
+        "url": "https://americanfidelity.wd5.myworkdayjobs.com/External/job/Oklahoma-City-Oklahoma/Software-Developer-Innovation-Internship_JR1118",
+        "locations": [
+            "Oklahoma City, OK"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "American Fidelity",
+        "title": "Software Developer Innovation Intern",
+        "source": "vanshb03",
+        "id": "d98cf44d-c5c4-4b6c-89ae-a8b3a3d2ed09",
+        "date_posted": 1792441414,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
