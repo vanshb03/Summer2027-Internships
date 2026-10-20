@@ -12050,5 +12050,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792442374,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Data--AI---Innovation_R172997",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Adobe",
+        "title": "Data, AI & Innovation Intern",
+        "source": "vanshb03",
+        "id": "dbe1c09c-18c6-4d6e-9eb2-1378f87005a5",
+        "date_posted": 1792439494,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
