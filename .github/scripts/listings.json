@@ -12510,5 +12510,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792511227,
+        "url": "https://caa.wd1.myworkdayjobs.com/en-US/Careers/job/Denver-CO/CAA-ICON-Data-Analytics-Intern---Summer-2027--Denver--CO-_JR9391",
+        "locations": [
+            "Denver, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Creative Artists Agency",
+        "title": "Data Analytics Intern",
+        "source": "vanshb03",
+        "id": "f2de6571-f1b0-41d8-a5fe-b289fdd4aa0e",
+        "date_posted": 1792368000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
