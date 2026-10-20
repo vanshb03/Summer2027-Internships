@@ -11701,5 +11701,25 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792442313,
+        "url": "https://job-boards.greenhouse.io/heygen/jobs/4540716007",
+        "locations": [
+            "Toronto, ON, Canada",
+            "SF",
+            "LA",
+            "Singapore"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "HeyGen",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "53e4a963-e592-4498-8661-084e402fd1af",
+        "date_posted": 1792372994,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
