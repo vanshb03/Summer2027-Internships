@@ -11845,5 +11845,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792442374,
+        "url": "https://generac.wd5.myworkdayjobs.com/External/job/USA---CO-Fort-Collins/Micro-Grid-Systems-Engineering-Summer-Intern_JR17432",
+        "locations": [
+            "Fort Collins, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Generac",
+        "title": "Micro-Grid Systems Engineering Intern",
+        "source": "vanshb03",
+        "id": "1ed46c67-7fbf-4de8-9eed-16ff814391fb",
+        "date_posted": 1792441354,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
