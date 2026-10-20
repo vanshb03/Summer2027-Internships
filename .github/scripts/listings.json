@@ -11741,5 +11741,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792442313,
+        "url": "https://jobs.smartrecruiters.com/BoschGroup/744000156311682",
+        "locations": [
+            "Fountain Inn, SC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Robert Bosch Venture Capital",
+        "title": "Software Engineering Co-op",
+        "source": "vanshb03",
+        "id": "04fd72aa-b1c3-4ff1-8259-08b6ad402b2a",
+        "date_posted": 1792418919,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
