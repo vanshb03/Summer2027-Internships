@@ -12391,5 +12391,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1792511186,
+        "url": "https://jobs.ashbyhq.com/openai/3d064454-c0c3-4225-bc2c-6d8c0f8735b2/application",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "OpenAI",
+        "title": "Backend Software Engineer Intern, Cooperative AI (Evals)",
+        "source": "vanshb03",
+        "id": "84c02120-d777-45d0-b408-8ce53748ab80",
+        "date_posted": 1792479600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
