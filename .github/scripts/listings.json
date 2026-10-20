@@ -12118,5 +12118,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792443416,
+        "url": "https://job-boards.greenhouse.io/legendcareers/jobs/4745118005",
+        "locations": [
+            "Bridgewater, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Legend Biotech",
+        "title": "Data Intern",
+        "source": "vanshb03",
+        "id": "004837f7-80ae-4146-bcd5-4c2aa913bf52",
+        "date_posted": 1792438460,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
