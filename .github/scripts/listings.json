@@ -12786,6 +12786,23 @@
     },
     {
         "date_updated": 1792511227,
+        "url": "https://fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/18964",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Citco",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "e3cda4bc-1e21-4daa-a903-1e6da05780c6",
+        "date_posted": 1792447773,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1792511227,
         "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Montreal/Services-Business-Intelligence---Analytics-Intern_R031851",
         "locations": [
             "Montreal, QC, Canada",
