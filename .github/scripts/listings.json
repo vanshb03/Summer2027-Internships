@@ -12408,5 +12408,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1792511186,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Part-time-Software-Engineer-Co-op--Remote-_01883452",
+        "locations": [
+            "Aurora, CO"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "RTX",
+        "title": "Software Engineer Co-op",
+        "source": "vanshb03",
+        "id": "7157a0bb-c821-4362-a514-134059bf3bee",
+        "date_posted": 1792479600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
