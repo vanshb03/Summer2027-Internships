@@ -12238,5 +12238,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792511186,
+        "url": "https://abb.wd3.myworkdayjobs.com/en-US/external_career_page/job/Greenville-South-Carolina-United-States-of-America/Integrated-Motor-Drive-SW-Co-Op---Spring-2027_JR00050240",
+        "locations": [
+            "Greenville, SC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ABB",
+        "title": "Integrated Motor Drive Software Co-op",
+        "source": "vanshb03",
+        "id": "7235baf2-9aac-4602-b293-d43af539c3b1",
+        "date_posted": 1792393200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
     }
 ]
