@@ -11964,5 +11964,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792442374,
+        "url": "https://micron.wd1.myworkdayjobs.com/external/job/Richardson-TX/Intern---Design-Engineer--HBM_JR112552",
+        "locations": [
+            "Richardson, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Micron Technology",
+        "title": "Design Engineer Intern, HBM",
+        "source": "vanshb03",
+        "id": "f65e3501-3ac4-4912-9f47-b093b8ec2434",
+        "date_posted": 1792441894,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
