@@ -11930,5 +11930,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792442374,
+        "url": "https://careers.mitre.org/us/en/job/R117620/AI-Engineering-Intern",
+        "locations": [
+            "Bedford, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "MITRE",
+        "title": "AI Engineering Intern",
+        "source": "vanshb03",
+        "id": "21d4c95e-038e-47ae-b4bb-005b8d965e24",
+        "date_posted": 1792370374,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
