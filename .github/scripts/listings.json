@@ -12221,5 +12221,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792511186,
+        "url": "https://zebra.wd501.myworkdayjobs.com/en-US/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-Engineer_JR103625",
+        "locations": [
+            "Holtsville, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zebra Technologies",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "c7aefaa9-b5bd-4f2a-aa37-e10f8069eae0",
+        "date_posted": 1792393200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
