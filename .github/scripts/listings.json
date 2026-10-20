@@ -11999,5 +11999,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792442374,
+        "url": "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Applied-AI---Business-Innovation-Intern---Summer-2027---Franklin--TN_R00214225",
+        "locations": [
+            "Franklin, TN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nissan",
+        "title": "Applied AI & Business Innovation Intern",
+        "source": "vanshb03",
+        "id": "7787900b-7ff0-485b-a755-5f9e957ac5f5",
+        "date_posted": 1792441894,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
