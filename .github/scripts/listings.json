@@ -12016,5 +12016,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792442374,
+        "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Intern--Robot-Manipulation_R8278",
+        "locations": [
+            "Wilmington, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Symbotic",
+        "title": "Robot Manipulation Intern",
+        "source": "vanshb03",
+        "id": "40c5ef4d-f679-454f-bb1d-336ba1c2751c",
+        "date_posted": 1792440154,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
     }
 ]
