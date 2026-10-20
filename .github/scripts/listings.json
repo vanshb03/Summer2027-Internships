@@ -11667,5 +11667,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792442313,
+        "url": "https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3022475",
+        "locations": [
+            "Boca Raton, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ADT",
+        "title": "Hardware Engineering & Connected Devices Intern",
+        "source": "vanshb03",
+        "id": "ae6b84d3-f06f-49cd-b89a-9b201bc7f195",
+        "date_posted": 1792188689,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
