@@ -11811,5 +11811,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792442374,
+        "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/AI-ML-Systems-Engineering-Intern--Summer-2027-_JR-2604051",
+        "locations": [
+            "Richardson, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "GlobalFoundries",
+        "title": "AI/ML Systems Engineering Intern",
+        "source": "vanshb03",
+        "id": "a1d326c5-008f-4dd8-ada7-7a622c952ae3",
+        "date_posted": 1792441894,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
