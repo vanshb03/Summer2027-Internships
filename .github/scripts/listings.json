@@ -12578,5 +12578,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792511227,
+        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Montreal/Services-Business-Intelligence---Analytics-Intern_R031851",
+        "locations": [
+            "Montreal, QC, Canada",
+            "Ottawa, ON, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ciena",
+        "title": "Services Business Intelligence & Analytics Intern",
+        "source": "vanshb03",
+        "id": "99540760-df76-4137-87f7-02447b31ed01",
+        "date_posted": 1792368000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
