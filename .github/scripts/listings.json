@@ -12067,5 +12067,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792442374,
+        "url": "https://jobs.smartrecruiters.com/llnl/3743990016225626",
+        "locations": [
+            "Livermore, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "LLNL",
+        "title": "Predictive Science Academic Alliance Program IV Student Intern",
+        "source": "vanshb03",
+        "id": "86285066-a9bb-4a5c-b2ba-97a6cd0913ca",
+        "date_posted": 1792424374,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
