@@ -11879,5 +11879,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792442374,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Cloud-Engineering-Intern_R-00194668",
+        "locations": [
+            "Remote in USA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Leidos",
+        "title": "Cloud Engineering Intern",
+        "source": "vanshb03",
+        "id": "24d96b1b-0910-4d8c-9aa1-1f71110f61fb",
+        "date_posted": 1792183174,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
