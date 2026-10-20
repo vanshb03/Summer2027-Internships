@@ -11913,5 +11913,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792442374,
+        "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-FAP-5th-Avenue-Place/Summer-2027-Data-Analyst-Undergraduate-Intern_J288017",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Highmark Health",
+        "title": "Data Analyst Intern",
+        "source": "vanshb03",
+        "id": "4888381d-29e3-454b-b794-a43decffc465",
+        "date_posted": 1792441954,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
