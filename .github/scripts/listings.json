@@ -11758,5 +11758,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792442313,
+        "url": "https://jobs.smartrecruiters.com/BoschGroup/744000156323136",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Robert Bosch Venture Capital",
+        "title": "AI Research Intern, Wireless Foundation Models",
+        "source": "vanshb03",
+        "id": "e1abd0d9-e6e3-447f-8454-d24df321e52d",
+        "date_posted": 1792418919,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
