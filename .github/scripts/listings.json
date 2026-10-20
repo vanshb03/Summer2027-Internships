@@ -11792,5 +11792,24 @@
         "company_url": "",
         "is_visible": true,
         "season": "Spring"
+    },
+    {
+        "date_updated": 1792442374,
+        "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Cloud-Solutions-Engineer---Site-Reliability-Undergrad-Intern_R016714",
+        "locations": [
+            "El Segundo, CA",
+            "Chantilly, VA",
+            "Colorado Springs, CO"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Aerospace Corporation",
+        "title": "Cloud Solutions Engineer / Site Reliability Intern",
+        "source": "vanshb03",
+        "id": "623f6d05-135d-4f89-86ef-791bbd96eae1",
+        "date_posted": 1792441954,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
