@@ -14082,5 +14082,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792602873,
+        "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Silicon-Validation-Intern--BS---Summer-2027_2603850-1",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Marvell",
+        "title": "Silicon Validation Intern",
+        "source": "vanshb03",
+        "id": "e3b16f0e-a834-496f-8e97-52fca38397ea",
+        "date_posted": 1792540800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
