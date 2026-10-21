@@ -13601,5 +13601,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792536446,
+        "url": "https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Data-Scientist-Intern---Columbus--OH_R20499",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "American Electric Power",
+        "title": "Data Scientist Intern",
+        "source": "vanshb03",
+        "id": "fbe7ccf0-d70b-45fd-a416-2940481dacc5",
+        "date_posted": 1792536403,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
