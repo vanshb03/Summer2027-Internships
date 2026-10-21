@@ -13720,5 +13720,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792554309,
+        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2027-Summer-Intern--Software-Engineer--Bachelors-Degree--Santa-Clara-_R2630672",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Applied Materials",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "e4a84697-e67c-4a11-a9f8-0cdcdfb00c87",
+        "date_posted": 1792454400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
