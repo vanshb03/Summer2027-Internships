@@ -13584,5 +13584,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792536445,
+        "url": "https://jobs.lever.co/humble-robotics/8d1fb5d7-9b07-4fac-8c39-e395dca7f2b3",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Humble Robotics",
+        "title": "Embedded Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "02458334-fee5-45c3-9087-e6e0fd8a61be",
+        "date_posted": 1792524329,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
