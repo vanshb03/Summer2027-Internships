@@ -13910,5 +13910,24 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792554309,
+        "url": "https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/303922",
+        "locations": [
+            "Seattle, WA",
+            "SF",
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Uber",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "10c2be53-c89b-47c5-a481-6863d8924fb4",
+        "date_posted": 1792545218,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
