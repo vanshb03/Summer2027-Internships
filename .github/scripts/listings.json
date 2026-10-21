@@ -13823,5 +13823,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792554309,
+        "url": "https://jobs.keysight.com/jobs/55110?icims=1",
+        "locations": [
+            "Santa Rosa, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Keysight Technologies",
+        "title": "R&D Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "8a926d06-b205-4c4c-a55c-c94b5192158a",
+        "date_posted": 1792535436,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
