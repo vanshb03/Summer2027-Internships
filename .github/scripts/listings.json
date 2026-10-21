@@ -2592,7 +2592,7 @@
         ],
         "sponsorship": "U.S. Citizenship is Required",
         "active": true,
-        "company_name": "Naïve",
+        "company_name": "Na\u00efve",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
         "id": "8a1aa0c6-4cf5-4223-ba75-fae2a979699a",
@@ -5521,7 +5521,7 @@
         "date_updated": 1785516218,
         "url": "https://www.drw.com/work-at-drw/listings/aiml-research-intern-3466679",
         "locations": [
-            "Montréal"
+            "Montr\u00e9al"
         ],
         "sponsorship": "Other",
         "active": true,
@@ -5590,7 +5590,7 @@
         "date_updated": 1785516227,
         "url": "https://www.drw.com/work-at-drw/listings/software-developer-intern-3466687",
         "locations": [
-            "Montréal"
+            "Montr\u00e9al"
         ],
         "sponsorship": "Other",
         "active": true,
@@ -8431,7 +8431,7 @@
         ],
         "sponsorship": "Other",
         "active": true,
-        "company_name": "AtkinsRéalis",
+        "company_name": "AtkinsR\u00e9alis",
         "title": "Software Developer Intern",
         "source": "vanshb03",
         "id": "fced203e-f183-491d-9523-6f0f2f47d601",
@@ -13192,5 +13192,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1792535294,
+        "url": "https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Minneapolis-MN/Software-Engineering-Intern_8940",
+        "locations": [
+            "Minneapolis, MN"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "AeroVironment",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "5e3fee69-0c50-44d6-b9ef-df56e28e2859",
+        "date_posted": 1792479600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
