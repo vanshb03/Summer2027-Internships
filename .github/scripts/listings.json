@@ -13929,5 +13929,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792554309,
+        "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000156616169",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "LinkedIn",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "79062060-ff12-4f34-ab20-2732d63e8530",
+        "date_posted": 1792546006,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
