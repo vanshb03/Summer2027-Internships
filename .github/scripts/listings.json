@@ -13840,5 +13840,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1792554309,
+        "url": "https://pictonmahoney.bamboohr.com/careers/387",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Picton Mahoney Asset Management",
+        "title": "Data Engineer Intern",
+        "source": "vanshb03",
+        "id": "c253d640-ba94-4397-abcf-17c4723a6108",
+        "date_posted": 1792535703,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
