@@ -13277,5 +13277,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792535294,
+        "url": "https://careers-kinaxis.icims.com/jobs/35572/intern-cloud-developer%2c-platform-engineering/job",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Kinaxis",
+        "title": "Cloud Developer Intern, Platform Engineering",
+        "source": "vanshb03",
+        "id": "ae53df3b-4b77-4718-b4bd-3abf9574f34b",
+        "date_posted": 1792479600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
