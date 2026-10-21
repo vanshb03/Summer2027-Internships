@@ -13600,5 +13600,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792554309,
+        "url": "https://inmar.wd1.myworkdayjobs.com/inmarcareers/job/Headquarters-Winston-Salem-NC/Data-Science-Intern_JY2627711",
+        "locations": [
+            "Raleigh, NC",
+            "Winston-Salem, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Inmar Intelligence",
+        "title": "Data Science Intern",
+        "source": "vanshb03",
+        "id": "24237010-fb09-42b7-815a-b1fefd824e45",
+        "date_posted": 1792454400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
