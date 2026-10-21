@@ -13772,5 +13772,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792554309,
+        "url": "https://job-boards.greenhouse.io/insomniac/jobs/6227080004",
+        "locations": [
+            "Burbank, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Insomniac Games",
+        "title": "Engine and Tools Programming Intern",
+        "source": "vanshb03",
+        "id": "75a53c27-56a2-4037-a44e-95fec3c8271c",
+        "date_posted": 1792534152,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
