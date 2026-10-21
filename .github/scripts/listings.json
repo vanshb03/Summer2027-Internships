@@ -14116,5 +14116,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792602873,
+        "url": "https://jobs.smartrecruiters.com/BoschGroup/744000156585075",
+        "locations": [
+            "Farmington Hills, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bosch",
+        "title": "Calibration Process Optimization Intern",
+        "source": "vanshb03",
+        "id": "4b75ef8b-2bfc-4690-8839-db04755786cc",
+        "date_posted": 1792563438,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
