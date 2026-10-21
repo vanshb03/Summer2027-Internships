@@ -13618,5 +13618,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792554309,
+        "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Software-Engineer-Intern_2026-24190",
+        "locations": [
+            "Pullman, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Schweitzer Engineering Laboratories",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "aae71294-e2fe-4249-b27b-90726e0963b4",
+        "date_posted": 1792454400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
