@@ -14167,5 +14167,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1792603055,
+        "url": "https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/XMLNAME-2027-Hardware-Security-Engineering-Undergrad--Intern_R016954",
+        "locations": [
+            "El Segundo, CA",
+            "Chantilly, VA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Aerospace Corporation",
+        "title": "Hardware Security Engineering Intern",
+        "source": "vanshb03",
+        "id": "0d2ac04d-5077-44ce-b431-e84519b12dc2",
+        "date_posted": 1792599455,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
