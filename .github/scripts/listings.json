@@ -13379,5 +13379,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792535294,
+        "url": "https://soti.wd3.myworkdayjobs.com/en-US/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--May-2027-_R10604",
+        "locations": [
+            "Mississauga, ON"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SOTI",
+        "title": "Software Developer Intern",
+        "source": "vanshb03",
+        "id": "7aac59d7-be2a-40f4-a85f-fabd42389302",
+        "date_posted": 1792479600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
