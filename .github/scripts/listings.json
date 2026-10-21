@@ -11749,7 +11749,7 @@
         ],
         "sponsorship": "Other",
         "active": true,
-        "company_name": "Robert Bosch Venture Capital",
+        "company_name": "Bosch",
         "title": "Software Engineering Co-op",
         "source": "vanshb03",
         "id": "04fd72aa-b1c3-4ff1-8259-08b6ad402b2a",
@@ -11766,7 +11766,7 @@
         ],
         "sponsorship": "Other",
         "active": true,
-        "company_name": "Robert Bosch Venture Capital",
+        "company_name": "Bosch",
         "title": "AI Research Intern, Wireless Foundation Models",
         "source": "vanshb03",
         "id": "e1abd0d9-e6e3-447f-8454-d24df321e52d",
@@ -12182,23 +12182,6 @@
         "title": "AI Engineering Intern",
         "source": "vanshb03",
         "id": "7f1bc271-9283-43f4-a44b-cf9a05ce0410",
-        "date_posted": 1792393200,
-        "company_url": "",
-        "is_visible": true,
-        "season": "Summer"
-    },
-    {
-        "date_updated": 1792511186,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Software-Engineering-Intern--Summer-2027-_01880499",
-        "locations": [
-            "Cedar Rapids, IA"
-        ],
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
-        "company_name": "RTX",
-        "title": "Software Engineering Intern",
-        "source": "vanshb03",
-        "id": "69383c2d-ffcf-499e-82a9-6be6f25e805c",
         "date_posted": 1792393200,
         "company_url": "",
         "is_visible": true,
@@ -12658,24 +12641,6 @@
         "title": "Hardware Engineering Design Intern",
         "source": "vanshb03",
         "id": "85039e2e-7a8a-482a-9287-6c2508250031",
-        "date_posted": 1792368000,
-        "company_url": "",
-        "is_visible": true,
-        "season": "Summer"
-    },
-    {
-        "date_updated": 1792511227,
-        "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911-1",
-        "locations": [
-            "SF",
-            "Bellevue, WA"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "company_name": "Salesforce",
-        "title": "Software Engineer Intern",
-        "source": "vanshb03",
-        "id": "93dce1c7-51f2-4cc6-9196-57b0011915fb",
         "date_posted": 1792368000,
         "company_url": "",
         "is_visible": true,
@@ -13615,6 +13580,23 @@
         "source": "vanshb03",
         "id": "fbe7ccf0-d70b-45fd-a416-2940481dacc5",
         "date_posted": 1792536403,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1792554309,
+        "url": "https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/Plano/Summer-2027-Intern--Application-Engineering_R0020808-1",
+        "locations": [
+            "Plano, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ryan",
+        "title": "Application Engineering Intern",
+        "source": "vanshb03",
+        "id": "8bae605a-3651-4bac-9492-0615457badf9",
+        "date_posted": 1792454400,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
