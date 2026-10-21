@@ -14048,5 +14048,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792602873,
+        "url": "https://expedia.wd108.myworkdayjobs.com/private/job/USA---Missouri---Springfield/Software-Developer-I_R-110635",
+        "locations": [
+            "Springfield, MO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Expedia Group",
+        "title": "Software Developer 1 Intern",
+        "source": "vanshb03",
+        "id": "49be5b86-a304-4f4f-9dd1-8679a000858a",
+        "date_posted": 1792540800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
