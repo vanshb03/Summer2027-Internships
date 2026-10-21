@@ -14133,5 +14133,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792602873,
+        "url": "https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27400",
+        "locations": [
+            "Itasca, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "DP World",
+        "title": "Application Analyst Intern",
+        "source": "vanshb03",
+        "id": "dbdf9f46-fa06-4097-9dbc-ffa3c01eb7b8",
+        "date_posted": 1792592614,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
