@@ -14271,5 +14271,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792603147,
+        "url": "https://smithnephew.wd5.myworkdayjobs.com/External/job/Andover-MA/Intern-Computer-Vision-Software-Engineering_R92964",
+        "locations": [
+            "Andover, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Smith+Nephew",
+        "title": "Computer Vision Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "4d9997e7-9568-4e49-a1d0-8b5b58081fdf",
+        "date_posted": 1792603103,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
