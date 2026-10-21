@@ -13481,5 +13481,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792535448,
+        "url": "https://sonyglobal.wd1.myworkdayjobs.com/sonyglobalcareers/job/Remote---New-York/Engineering-Intern--AI-Ethics-_JR-119784",
+        "locations": [
+            "Remote in USA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Sony",
+        "title": "Research Engineer Intern, Ethical Creative and Protective AI Lab",
+        "source": "vanshb03",
+        "id": "43903c88-4d7c-490e-9b84-3643853afba3",
+        "date_posted": 1792534128,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
