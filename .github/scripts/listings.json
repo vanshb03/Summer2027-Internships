@@ -13447,5 +13447,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792535448,
+        "url": "https://jobs.ashbyhq.com/skydio/370da6a5-5ae6-48fe-8e08-9b1dcc63bf34",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Skydio",
+        "title": "Embedded Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "f6c88704-af99-492e-b91c-207b4180dd74",
+        "date_posted": 1792528248,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
