@@ -13532,5 +13532,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Fall"
+    },
+    {
+        "date_updated": 1792535448,
+        "url": "https://micron.wd1.myworkdayjobs.com/external/job/San-Jose-CA/Intern---SSD-Firmware_JR115209",
+        "locations": [
+            "San Jose, CA",
+            "Boise, ID"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Micron Technology",
+        "title": "SSD Firmware Intern",
+        "source": "vanshb03",
+        "id": "be831b61-34a6-4947-8bbc-f60b952b69a7",
+        "date_posted": 1792532928,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
