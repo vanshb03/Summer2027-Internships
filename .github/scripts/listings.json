@@ -13874,5 +13874,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792554309,
+        "url": "https://boards.greenhouse.io/drivewealth/jobs/8039350003",
+        "locations": [
+            "Chicago, IL",
+            "NYC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "DriveWealth",
+        "title": "AI Engineer Intern, AI Consulting Associate Program",
+        "source": "vanshb03",
+        "id": "06eb200e-e98f-4fda-9fd5-8d854685d93b",
+        "date_posted": 1792536181,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
