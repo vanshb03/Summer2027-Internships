@@ -13789,5 +13789,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792554309,
+        "url": "https://k1im.applytojob.com/apply/mCBPNVUJu4/AI-Intern",
+        "locations": [
+            "Manhattan Beach, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "K1",
+        "title": "AI Intern",
+        "source": "vanshb03",
+        "id": "a7cb7dcb-cebf-4446-8ad0-f851c0b256c7",
+        "date_posted": 1792534415,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
