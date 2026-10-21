@@ -13550,5 +13550,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792535448,
+        "url": "https://www.amazon.jobs/en/jobs/10584121/hardware-development-engineer-intern-winter-2027",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amazon.com Services LLC",
+        "title": "Hardware Development Engineer Intern",
+        "source": "vanshb03",
+        "id": "c62cc0b6-9611-4680-a229-55344fe1c8ac",
+        "date_posted": 1792456248,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
