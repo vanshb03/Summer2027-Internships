@@ -14220,5 +14220,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792603146,
+        "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Optical-Algorithms-and-Analytics-Engineering-Co-op-Intern_20261547",
+        "locations": [
+            "Ottawa, ON"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lumentum",
+        "title": "Optical Algorithms and Analytics Engineering Co-op",
+        "source": "vanshb03",
+        "id": "d5a58083-2617-4997-922d-1b8de8d1e48f",
+        "date_posted": 1792430321,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
