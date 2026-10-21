@@ -13567,5 +13567,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1792536445,
+        "url": "https://jobs.ashbyhq.com/integrate/d619e978-446a-4147-a788-9e53918a1736",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Integrate",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "9047f5f8-60ac-4518-9160-a93ae0db177b",
+        "date_posted": 1792522551,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
