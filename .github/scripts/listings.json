@@ -13754,5 +13754,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792554309,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Folsom-CA/Intern---Design-Engineer--Pathfinding_JR114189",
+        "locations": [
+            "San Jose, CA",
+            "Folsom, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Micron Technology",
+        "title": "Design Engineer Intern, Pathfinding",
+        "source": "vanshb03",
+        "id": "61b0b82e-d951-4738-9341-b4901db9024b",
+        "date_posted": 1792454400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
