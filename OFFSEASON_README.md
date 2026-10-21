@@ -159,7 +159,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Software Engineer Intern, Defense Tech | Palo Alto, CA | <a href="https://jobs.lever.co/palantir/a483f41b-0da9-42ea-8ed6-cbf6eb93cc6d?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | ↳ | Software Engineer Intern, Defense Tech | Washington, D.C. | <a href="https://jobs.lever.co/palantir/f17e98d0-046a-4e6e-9d65-ed0b12dd0ff7?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | ↳ | Software Engineer Intern | Denver, CO | <a href="https://jobs.lever.co/palantir/373eb939-6f57-4836-8479-be79a5e07249?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
-| ↳ | Forward Deployed Software Engineer Intern | Washington, D.C. | <a href="https://jobs.lever.co/palantir/9e40d77f-b07c-437b-98e7-def9b0184d89?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | ↳ | Forward Deployed Software Engineer Intern | Chicago, IL | <a href="https://jobs.lever.co/palantir/d5486403-c050-4920-b2e0-91b69b61ebb2?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | ↳ | Forward Deployed Software Engineer Intern | New York, NY | <a href="https://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | Netic | Forward Deployed Engineer Intern | San Francisco, CA | <a href="https://jobs.ashbyhq.com/netic/ffd6af1a-cebb-41f5-ac1d-e695adfd067c?embed=true&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
@@ -276,7 +275,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Tenstorrent | Software Engineering Intern, Power Modeling & AI Tools | Santa Clara, CA | 🔒 | Jul 26 |
 | Sentara Health | Data & AI Finance Strategy Intern | Virginia Beach, VA | 🔒 | Jul 26 |
 | Moog | Software Engineer Intern | Buffalo, NY | 🔒 | Jul 26 |
-| Palantir Technologies | Forward Deployed Infrastructure Engineer Intern 🇺🇸 | Washington, D.C. | 🔒 | Jul 24 |
+| Palantir Technologies | Forward Deployed Software Engineer Intern | Washington, D.C. | 🔒 | Jul 24 |
+| ↳ | Forward Deployed Infrastructure Engineer Intern 🇺🇸 | Washington, D.C. | 🔒 | Jul 24 |
 | ↳ | Forward Deployed Infrastructure Engineer Intern 🇺🇸 | New York, NY | 🔒 | Jul 24 |
 | ↳ | Forward Deployed Infrastructure Engineer Intern | Palo Alto, CA | 🔒 | Jul 24 |
 | Netic | Software Engineer Intern | San Francisco, CA | 🔒 | Jul 24 |
