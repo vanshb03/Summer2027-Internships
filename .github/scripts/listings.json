@@ -13209,5 +13209,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792535294,
+        "url": "https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Centreville-VA/Machine-Learning-Engineering-Intern_8941",
+        "locations": [
+            "Centreville, VA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "AeroVironment",
+        "title": "Machine Learning Engineering Intern",
+        "source": "vanshb03",
+        "id": "5e0abf8a-8d8e-4221-9c46-0d0725db3270",
+        "date_posted": 1792479600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
