@@ -13243,5 +13243,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792535294,
+        "url": "https://roche.wd3.myworkdayjobs.com/en-US/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Summer-Intern---Product-Technical-Development---Digital-Sciences-Focus_202610-126833",
+        "locations": [
+            "South San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Genentech",
+        "title": "Product Technical Development Intern, Digital Sciences Focus",
+        "source": "vanshb03",
+        "id": "2dc102c5-56a8-44fd-bab3-89b38a7c3e73",
+        "date_posted": 1792479600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
