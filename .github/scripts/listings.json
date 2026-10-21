@@ -13857,5 +13857,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792554309,
+        "url": "https://jobs.paccar.com/job/Kirkland-Summer-2027-Field-Service-Data-Analyst-Intern-WA-98033/1449526633/?ats=successfactors",
+        "locations": [
+            "Kirkland, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Paccar",
+        "title": "Field Service Data Analyst Intern",
+        "source": "vanshb03",
+        "id": "ff2f4c73-9fe0-485e-be4b-27306ca702e4",
+        "date_posted": 1792536026,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
