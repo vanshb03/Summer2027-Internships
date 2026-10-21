@@ -13669,5 +13669,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792554309,
+        "url": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Quartus-User-Interface---Intern_R03353",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Altera",
+        "title": "Quartus User Interface Intern",
+        "source": "vanshb03",
+        "id": "7d9ef89d-4d7c-4d4f-a074-46dc9a14d320",
+        "date_posted": 1792454400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
