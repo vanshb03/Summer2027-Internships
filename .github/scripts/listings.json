@@ -13396,5 +13396,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792535307,
+        "url": "https://jobs.keysight.com/jobs/54805?icims=1",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Keysight Technologies",
+        "title": "Software Engineer Intern, R&D",
+        "source": "vanshb03",
+        "id": "6998ff1c-2b98-401b-a28d-5257df1f6ed3",
+        "date_posted": 1792448259,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
