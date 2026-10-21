@@ -14185,5 +14185,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792603055,
+        "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Atlanta-Georgia/Summer-2027-Software-Engineer---Cloud-Security-Summer-Internship_REQ379190",
+        "locations": [
+            "Atlanta, GA",
+            "Frisco, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "T-Mobile",
+        "title": "Software Engineer Intern, Cloud Security",
+        "source": "vanshb03",
+        "id": "dd5b34d7-be48-46be-b009-2d489c67c62d",
+        "date_posted": 1792516655,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
