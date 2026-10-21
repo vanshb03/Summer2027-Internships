@@ -14254,5 +14254,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1792603146,
+        "url": "https://smithnephew.wd5.myworkdayjobs.com/External/job/Andover-MA/Intern-Embedded-Software-Engineering_R92952",
+        "locations": [
+            "Andover, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Smith+Nephew",
+        "title": "Embedded Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "db9f9f7f-d42b-423f-8ab6-7c8018ff379d",
+        "date_posted": 1792603101,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
