@@ -4346,13 +4346,13 @@
         "season": "Fall"
     },
     {
-        "date_updated": 1784882302,
+        "date_updated": 1792541720,
         "url": "https://jobs.lever.co/palantir/9e40d77f-b07c-437b-98e7-def9b0184d89",
         "locations": [
             "Washington, D.C."
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Palantir Technologies",
         "title": "Forward Deployed Software Engineer Intern",
         "source": "vanshb03",
@@ -8390,13 +8390,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1792261427,
+        "date_updated": 1792541722,
         "url": "https://jobs.lever.co/acronaviation/17b5f12d-f590-432d-a421-d6f90274ae9a",
         "locations": [
             "Phoenix, AZ"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Acron Aviation",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -8407,13 +8407,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792261427,
+        "date_updated": 1792541722,
         "url": "https://job-boards.greenhouse.io/amperesand/jobs/4448972009",
         "locations": [
             "Reno, NV"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Amperesand",
         "title": "Technical Program Manager Intern",
         "source": "vanshb03",
@@ -9002,13 +9002,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792261427,
+        "date_updated": 1792541722,
         "url": "https://job-boards.greenhouse.io/gallup/jobs/4449991009",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Gallup",
         "title": "Data Engineering Intern",
         "source": "vanshb03",
