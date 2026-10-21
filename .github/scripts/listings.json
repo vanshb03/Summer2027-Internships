@@ -14237,5 +14237,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792603146,
+        "url": "https://jobs.lever.co/analyticpartners/006928a3-9a6d-49a3-be4f-46d77f0bb302",
+        "locations": [
+            "Miami, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Analytic Partners",
+        "title": "Data Science Co-op",
+        "source": "vanshb03",
+        "id": "cb71369e-7e4f-4fe1-a780-38868f5f9928",
+        "date_posted": 1792593414,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
