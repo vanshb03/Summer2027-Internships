@@ -13946,5 +13946,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792554309,
+        "url": "https://jobs.lever.co/shieldai/aa71c28a-be00-43ca-8aa7-b764b2143797/apply",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Shield AI",
+        "title": "Data Science Intern",
+        "source": "vanshb03",
+        "id": "a9ce5753-943e-41e3-b59e-1e0e96645022",
+        "date_posted": 1792546198,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
