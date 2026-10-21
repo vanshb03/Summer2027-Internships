@@ -13963,5 +13963,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792554353,
+        "url": "https://jobs.ashbyhq.com/rhoda-ai/2de33083-782f-489e-9b91-f40761a36bf4",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Rhoda AI",
+        "title": "Software Engineer Intern, Inference",
+        "source": "vanshb03",
+        "id": "30af1325-f87d-4e4e-b279-b7c7596f0ec3",
+        "date_posted": 1792550753,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
