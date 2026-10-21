@@ -14150,5 +14150,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792603055,
+        "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Liberty-South-Carolina-United-States/Software-Engineering-Co-op_R0148733",
+        "locations": [
+            "Liberty, SC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hitachi",
+        "title": "Software Engineering Co-op",
+        "source": "vanshb03",
+        "id": "84fa22cf-b7dd-4905-9539-70e99b3dbe06",
+        "date_posted": 1792601555,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
