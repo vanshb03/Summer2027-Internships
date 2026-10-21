@@ -13515,5 +13515,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792535448,
+        "url": "https://rb.wd5.myworkdayjobs.com/FRS/job/Dallas-TX/XMLNAME-2027-Intern---Technology-Risk_R-0000033765",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "The Federal Reserve System",
+        "title": "Technology Risk Intern",
+        "source": "vanshb03",
+        "id": "aef4ccb7-748e-4e9b-ba8f-2e78c82ab30b",
+        "date_posted": 1792534068,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
     }
 ]
