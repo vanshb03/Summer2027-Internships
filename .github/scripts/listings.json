@@ -13498,5 +13498,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792535448,
+        "url": "https://jobs.ashbyhq.com/illumio/09d4895b-6de4-4d22-bbc3-aa45f2b24260",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Illumio",
+        "title": "Security Research Intern",
+        "source": "vanshb03",
+        "id": "9f34852a-e1b3-4f33-b63c-3f1311d62bc7",
+        "date_posted": 1792531848,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
