@@ -13430,5 +13430,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792535448,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Security-Engineer_R173001",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Adobe",
+        "title": "Security Engineer Intern",
+        "source": "vanshb03",
+        "id": "7477852b-ae44-4817-9432-db3ff943e1d5",
+        "date_posted": 1792532328,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
