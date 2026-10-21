@@ -13362,5 +13362,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792535294,
+        "url": "https://soti.wd3.myworkdayjobs.com/en-US/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Cloud-Administrator--Intern-_R10569",
+        "locations": [
+            "Mississauga, ON"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SOTI",
+        "title": "Cloud Administrator Intern",
+        "source": "vanshb03",
+        "id": "d8b79434-2bba-49a3-bf4c-ebd3837f63bf",
+        "date_posted": 1792479600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
