@@ -13806,5 +13806,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792554309,
+        "url": "https://jobs.ashbyhq.com/metamorphic/cf518648-4e65-4f7d-aa05-f01066d8bd8a/application?embed=true",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Metamorphic",
+        "title": "Engineering Intern",
+        "source": "vanshb03",
+        "id": "bd98ec88-1ee4-4b28-b1d1-5598cbccf3af",
+        "date_posted": 1792534434,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
