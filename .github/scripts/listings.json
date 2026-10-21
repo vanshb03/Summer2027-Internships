@@ -13413,5 +13413,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792535448,
+        "url": "https://costar.wd1.myworkdayjobs.com/en-US/Costar_Campus/job/US-VA-Arlington/Security-Engineer-Intern---Arlington--VA_R39727",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CoStar Group",
+        "title": "Security Engineer Intern",
+        "source": "vanshb03",
+        "id": "30d7751d-700c-44fd-91f7-0245b4f6ef80",
+        "date_posted": 1792532928,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
