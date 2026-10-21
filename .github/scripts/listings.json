@@ -14203,5 +14203,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792603055,
+        "url": "https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/XMLNAME-2027-Digital-Communication-Undergraduate-Intern_R016948",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Aerospace Corporation",
+        "title": "Digital Communication Intern",
+        "source": "vanshb03",
+        "id": "6801005c-1104-4440-8343-db1d9c787dc5",
+        "date_posted": 1792599455,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
