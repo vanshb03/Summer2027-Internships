@@ -13892,5 +13892,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792554309,
+        "url": "https://boards.greenhouse.io/drivewealth/jobs/8038087003",
+        "locations": [
+            "Chicago, IL",
+            "NYC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "DriveWealth",
+        "title": "Product Owner Intern, AI Consulting Associate Program",
+        "source": "vanshb03",
+        "id": "c3e0cdba-ae93-4f4b-8969-3595afcba434",
+        "date_posted": 1792536182,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
