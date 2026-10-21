@@ -13260,5 +13260,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792535294,
+        "url": "https://careers-gdms.icims.com/jobs/75637/software-engineer-intern/job",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "General Dynamics Mission Systems",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "41b1fef4-b52b-4801-8aa7-7e5fa7cfedce",
+        "date_posted": 1792479600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
