@@ -14867,5 +14867,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792629862,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Data-Science-Engineering-Co-Op--January-2027---Hybrid-_01883759",
+        "locations": [
+            "Aguadilla, PR"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "RTX",
+        "title": "Data Science Engineering Co-op",
+        "source": "vanshb03",
+        "id": "7e67ba6d-6468-4b73-b46e-88953d72aa8c",
+        "date_posted": 1792622662,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
