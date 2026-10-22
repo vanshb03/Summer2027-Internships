@@ -15217,5 +15217,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792697616,
+        "url": "https://qualcomm.eightfold.ai/careers/job/446721678733",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Qualcomm",
+        "title": "Applied AI Engineering Intern, Hardware Systems",
+        "source": "vanshb03",
+        "id": "64abd79b-a535-4ff4-97c9-a36f9f8e85b0",
+        "date_posted": 1792678332,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
