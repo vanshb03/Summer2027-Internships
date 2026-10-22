@@ -15183,5 +15183,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792697616,
+        "url": "https://jobs.l3harris.com/job/Tulsa-Image-Processing-Engineer-Intern-OK-74115/1442671200/?ats=successfactors",
+        "locations": [
+            "Tulsa, OK"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "L3Harris Technologies",
+        "title": "Image Processing Engineer Intern",
+        "source": "vanshb03",
+        "id": "84985e7f-304a-4e6c-8ec3-d23ea74ce6f3",
+        "date_posted": 1792677964,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
