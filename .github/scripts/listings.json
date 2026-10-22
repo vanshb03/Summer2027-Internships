@@ -15463,5 +15463,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792697714,
+        "url": "https://jobs.ashbyhq.com/1password/c5289ef1-e919-4672-85c5-ee3112f9ddb9",
+        "locations": [
+            "Remote in USA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "1Password",
+        "title": "Developer Intern, Provisioning",
+        "source": "vanshb03",
+        "id": "a57764e3-5a81-4935-827d-b611713d863e",
+        "date_posted": 1792686914,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
