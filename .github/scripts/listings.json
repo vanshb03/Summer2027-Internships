@@ -14407,5 +14407,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1792629614,
+        "url": "https://amfam.wd1.myworkdayjobs.com/en-US/Careers/job/WI-Madison/Summer-2027-Intern---Data-Engineer_R39675",
+        "locations": [
+            "Madison, WI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "American Family Insurance Group",
+        "title": "Data Engineer Intern",
+        "source": "vanshb03",
+        "id": "159b620e-0b38-44bd-ace6-d1c4bc58be64",
+        "date_posted": 1792540800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
