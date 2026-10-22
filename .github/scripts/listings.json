@@ -14975,5 +14975,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792629959,
+        "url": "https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27404",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "DP World",
+        "title": "Information Security Intern",
+        "source": "vanshb03",
+        "id": "59f3d1db-78ea-4212-b7c9-25f040991442",
+        "date_posted": 1792566000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
