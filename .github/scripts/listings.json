@@ -14562,5 +14562,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792629614,
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5271842007",
+        "locations": [
+            "Quincy, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Anduril",
+        "title": "Robotics Engineer Co-op",
+        "source": "vanshb03",
+        "id": "ec9b67eb-e1b6-4ea1-9efd-c6b553623411",
+        "date_posted": 1792620378,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
