@@ -14698,5 +14698,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792629614,
+        "url": "https://mantech.avature.net/en_US/careers/JobDetail/66705",
+        "locations": [
+            "Remote in USA",
+            "Stafford, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ManTech",
+        "title": "AI Workflow Intern",
+        "source": "vanshb03",
+        "id": "f62c63c7-a009-4cda-baa3-2bd2bda2739d",
+        "date_posted": 1792622233,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
