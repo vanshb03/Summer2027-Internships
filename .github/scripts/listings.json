@@ -14793,5 +14793,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792629862,
+        "url": "https://jobs.ashbyhq.com/crusoe/07a8a6a9-975e-471c-ac31-b5aaa97f9af5",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Crusoe",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "a4b047bb-6d77-4e4e-84fe-6a1bf2ff0137",
+        "date_posted": 1792626262,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
