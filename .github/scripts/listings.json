@@ -14810,5 +14810,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792629862,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557044765",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Software Engineer Intern, Security & Identity",
+        "source": "vanshb03",
+        "id": "9843e494-b52f-4aae-9240-3aa4ecc78a8b",
+        "date_posted": 1792626262,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
