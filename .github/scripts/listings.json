@@ -15497,5 +15497,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1792697915,
+        "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Cybersecurity-Summer-2027-Intern--Undergraduate-_1660514",
+        "locations": [
+            "Remote in USA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Centene Corporation",
+        "title": "Cybersecurity Intern",
+        "source": "vanshb03",
+        "id": "aad2eef0-dc36-4ae5-b23b-f0d6954e93d9",
+        "date_posted": 1792525096,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
