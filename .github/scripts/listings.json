@@ -15446,5 +15446,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792697714,
+        "url": "https://labcorp.wd1.myworkdayjobs.com/external/job/Baltimore-MD/Intern---Bioinformatics_2634135",
+        "locations": [
+            "Baltimore, MD"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "LabCorp",
+        "title": "Bioinformatics Intern",
+        "source": "vanshb03",
+        "id": "b3ee1121-b0bc-4ced-a095-e842aa0ba7aa",
+        "date_posted": 1792694114,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
