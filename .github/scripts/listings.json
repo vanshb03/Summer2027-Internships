@@ -15514,5 +15514,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792697915,
+        "url": "https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27403",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "DP World",
+        "title": "Network Engineering Intern",
+        "source": "vanshb03",
+        "id": "81886e7a-5226-44e9-98df-cace8719343c",
+        "date_posted": 1792566000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
