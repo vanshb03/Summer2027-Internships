@@ -15009,5 +15009,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792658440,
+        "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Troy-MI---USA/Software-Development-Intern_J000704861",
+        "locations": [
+            "Troy, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Aptiv",
+        "title": "Software Development Intern",
+        "source": "vanshb03",
+        "id": "855b7638-9325-42a1-a85f-eaad6c5c77bd",
+        "date_posted": 1792627200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
