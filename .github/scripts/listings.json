@@ -15425,5 +15425,26 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792697714,
+        "url": "https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Database-Administrator-Internship---Summer-2027_R268538",
+        "locations": [
+            "Pleasant Prairie, WI",
+            "Milwaukee, WI",
+            "Waukegan, IL",
+            "Glenview, IL",
+            "Kenosha, WI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Uline",
+        "title": "Database Administrator Intern",
+        "source": "vanshb03",
+        "id": "5833f9d4-4740-4741-b759-b12cd8735bde",
+        "date_posted": 1792694114,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
