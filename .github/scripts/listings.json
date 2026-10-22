@@ -15043,5 +15043,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792658440,
+        "url": "https://jobs.ashbyhq.com/openart/8dd52ba6-a5b6-40b1-95fe-50de352fa254/application?embed=true",
+        "locations": [
+            "San Carlos, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "OpenArt AI",
+        "title": "Early Adopter & Product Builder Intern, Creative AI",
+        "source": "vanshb03",
+        "id": "2e38fc24-3e56-48bb-a871-47fa8cb5dc6d",
+        "date_posted": 1792631366,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
