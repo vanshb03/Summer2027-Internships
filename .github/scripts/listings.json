@@ -15374,5 +15374,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792697714,
+        "url": "https://jobs.ashbyhq.com/1password/7f1732a6-5317-4319-82b9-67c62e88d491",
+        "locations": [
+            "Remote in USA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "1Password",
+        "title": "Developer Intern, Extension Excellence",
+        "source": "vanshb03",
+        "id": "eb7c3ba5-279d-43ed-b4c6-262555aaf47d",
+        "date_posted": 1792695374,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
