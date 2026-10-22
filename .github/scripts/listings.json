@@ -15026,5 +15026,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792658440,
+        "url": "https://jobs.keysight.com/jobs/55115?icims=1",
+        "locations": [
+            "Calabasas, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Keysight Technologies",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "787c1c32-95d1-404f-923e-ae555c986210",
+        "date_posted": 1792631014,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
