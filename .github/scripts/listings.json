@@ -14613,5 +14613,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792629614,
+        "url": "https://job-boards.greenhouse.io/trace3/jobs/8274818",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Trace3",
+        "title": "Data and Analytics Engineer Intern",
+        "source": "vanshb03",
+        "id": "4e43a367-c250-42b0-a5da-078b45d4f2cd",
+        "date_posted": 1792621334,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
