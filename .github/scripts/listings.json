@@ -14630,5 +14630,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792629614,
+        "url": "https://johndeere.eightfold.ai/careers/job/137483990019",
+        "locations": [
+            "Cary, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "John Deere",
+        "title": "Software Engineer Student Intern, Product Engineering",
+        "source": "vanshb03",
+        "id": "2dd83e01-bd0a-4e98-963d-8aa428f3c64f",
+        "date_posted": 1792621411,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
