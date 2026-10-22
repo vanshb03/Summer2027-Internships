@@ -15200,5 +15200,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792697616,
+        "url": "https://qualcomm.eightfold.ai/careers/job/446721678727",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Qualcomm",
+        "title": "Camera Design Implementation Intern",
+        "source": "vanshb03",
+        "id": "4301e6f1-c92c-4dff-9896-e7528d6ff8a7",
+        "date_posted": 1792678332,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
