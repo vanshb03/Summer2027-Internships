@@ -14356,5 +14356,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792629569,
+        "url": "https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/AI-and-Quantum-Scientist-Co-op_2621649",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CIBC",
+        "title": "AI and Quantum Scientist Co-op",
+        "source": "vanshb03",
+        "id": "1877815b-e688-466f-bccd-bec5b07be573",
+        "date_posted": 1792566000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
