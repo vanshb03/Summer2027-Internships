@@ -15285,5 +15285,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792697714,
+        "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Norman-Oklahoma-United-States/Test-Engineering-Intern_R0148731",
+        "locations": [
+            "Norman, OK"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hitachi",
+        "title": "Test Engineering Intern",
+        "source": "vanshb03",
+        "id": "18198cdf-6931-4506-a1ab-02e13873d90d",
+        "date_posted": 1792694114,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
