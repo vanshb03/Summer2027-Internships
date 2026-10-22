@@ -14305,5 +14305,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792629569,
+        "url": "https://gnw.wd1.myworkdayjobs.com/en-US/GNW/job/Raleigh-North-Carolina/Risk-Modeling-Intern_REQ-260365-1",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Genworth",
+        "title": "Risk Modeling Intern",
+        "source": "vanshb03",
+        "id": "ef18f6a5-cb38-496a-875f-d4d2598b811a",
+        "date_posted": 1792566000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
