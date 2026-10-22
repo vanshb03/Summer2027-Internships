@@ -15408,5 +15408,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792697714,
+        "url": "https://copart.wd12.myworkdayjobs.com/Copart/job/Dallas-TX---Headquarters/SDET-Intern_JR112006",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Copart",
+        "title": "SDET Intern",
+        "source": "vanshb03",
+        "id": "548e3456-ec81-41ab-878d-aa2bf5a6a8c5",
+        "date_posted": 1792695074,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
