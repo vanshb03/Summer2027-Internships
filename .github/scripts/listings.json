@@ -15391,5 +15391,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1792697714,
+        "url": "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Smyrna-Tennessee---United-States-of-America/Cyber-Security-Intern---Summer-2027---Smyrna--TN_R00214879",
+        "locations": [
+            "Smyrna, TN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nissan",
+        "title": "Cyber Security Intern",
+        "source": "vanshb03",
+        "id": "4d55c730-1992-4df4-bb83-e42fb058663b",
+        "date_posted": 1792695134,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
