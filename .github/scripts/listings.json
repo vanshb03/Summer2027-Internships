@@ -15323,5 +15323,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792697714,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S77--16470-E-Hughes-Dr--BLDG-S77/Part-Time-Software-Engineer-Co-op-Remote-_01883451",
+        "locations": [
+            "Remote in USA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "RTX",
+        "title": "Software Engineer Co-op",
+        "source": "vanshb03",
+        "id": "5cbaedb9-8b20-47ed-b530-48732c63faf9",
+        "date_posted": 1792690514,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
