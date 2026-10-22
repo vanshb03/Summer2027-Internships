@@ -14322,5 +14322,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792629569,
+        "url": "https://lnw.wd5.myworkdayjobs.com/en-US/LightWonderExternalCareers/job/Las-Vegas-NV/Intern-Software-Engineering_R322982",
+        "locations": [
+            "Las Vegas, NV"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Light & Wonder",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "2a600969-e8f2-41f2-85a8-c05728d47b32",
+        "date_posted": 1792566000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
