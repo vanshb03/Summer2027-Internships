@@ -15234,5 +15234,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792697616,
+        "url": "https://jobs.jobvite.com/nutanix/job/oiwZAfw7?nl=1&nl=1&fr=false",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nutanix",
+        "title": "Software Developer Co-op",
+        "source": "vanshb03",
+        "id": "201bcbbb-772c-4fa0-b38d-fa0fef023fd5",
+        "date_posted": 1792678712,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
