@@ -15480,5 +15480,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1792697714,
+        "url": "https://jobs.ashbyhq.com/1password/aac7eea6-ed7c-4871-bbf2-7cb2d5138847",
+        "locations": [
+            "Remote in USA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "1Password",
+        "title": "Security Intern, Threat Operations",
+        "source": "vanshb03",
+        "id": "9782f6c7-240d-4cce-816c-da2b2060b6ad",
+        "date_posted": 1792686914,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
