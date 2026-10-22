@@ -14528,5 +14528,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792629614,
+        "url": "https://careers.safran-dsi.com/job/Bedford-Software-Engineering-Internship-NH-03110/1440599100/?ats=successfactors",
+        "locations": [
+            "Bedford, NH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Safran",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "d4d8496f-7104-4259-b775-6a77600f6f34",
+        "date_posted": 1792613579,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
