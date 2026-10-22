@@ -15149,5 +15149,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792697616,
+        "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Machine-Learning-Engineer-Co-op_2621721",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CIBC",
+        "title": "Machine Learning Engineer Co-op",
+        "source": "vanshb03",
+        "id": "2f361290-d433-44a1-8587-4c73eadee5a4",
+        "date_posted": 1792627200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
