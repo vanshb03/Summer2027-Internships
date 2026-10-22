@@ -15060,5 +15060,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792658440,
+        "url": "https://qualcomm.eightfold.ai/careers/job/446721664170",
+        "locations": [
+            "Markham, ON, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Qualcomm",
+        "title": "Camera Design Implementation Intern",
+        "source": "vanshb03",
+        "id": "6bd90643-6f3a-4cc1-b1cf-5c734c5aeeac",
+        "date_posted": 1792632406,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
