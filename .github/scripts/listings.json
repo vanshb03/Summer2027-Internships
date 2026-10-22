@@ -15077,5 +15077,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792658440,
+        "url": "https://qualcomm.eightfold.ai/careers/job/446721664194",
+        "locations": [
+            "Markham, ON, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Qualcomm",
+        "title": "Applied AI Engineer Intern",
+        "source": "vanshb03",
+        "id": "694eacff-f6f1-4e05-b749-0328f3cd34d6",
+        "date_posted": 1792632406,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
