@@ -15111,5 +15111,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792697602,
+        "url": "https://draftkings.wd1.myworkdayjobs.com/draftkings/job/Boston-MA/Data-Science-Intern-Referral--Summer-2027-_JR14960",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "DraftKings",
+        "title": "Data Science Intern",
+        "source": "vanshb03",
+        "id": "eba3cc81-e4be-4f7c-9d90-6f3a8576a09e",
+        "date_posted": 1789801200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
