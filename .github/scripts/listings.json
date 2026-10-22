@@ -15340,5 +15340,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1792697714,
+        "url": "https://jobs.ashbyhq.com/1password/71a3afd1-12b3-4f55-a3bd-fc4e7c46ee37",
+        "locations": [
+            "Remote in USA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "1Password",
+        "title": "Developer Intern, Front-End Platform",
+        "source": "vanshb03",
+        "id": "c315a606-a3aa-400f-9938-a356d577630d",
+        "date_posted": 1792683314,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
