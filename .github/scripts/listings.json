@@ -14941,5 +14941,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792629862,
+        "url": "https://microchiphr.wd5.myworkdayjobs.com/External/job/CA---San-Jose---3870-N-First-St/Intern---Engineering--ASIC-Verification-_R3851-26",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microchip Technology",
+        "title": "Engineering Intern, ASIC Verification",
+        "source": "vanshb03",
+        "id": "9835db48-92e8-44b1-af8b-d324cf16e3bf",
+        "date_posted": 1792626262,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
