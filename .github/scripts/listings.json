@@ -15251,5 +15251,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1792697714,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Texas-San-Antonio/XMLNAME-2027-Cyber-Software-Engineer-Intern---San-Antonio-TX_R10257311",
+        "locations": [
+            "San Antonio, TX"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Northrop Grumman",
+        "title": "Cyber Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "42b214fe-48b1-4f78-ba30-82ec84babd47",
+        "date_posted": 1792695674,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
