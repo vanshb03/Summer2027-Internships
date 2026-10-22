@@ -14441,5 +14441,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792629614,
+        "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Technical-Intern---AI-and-Estimation_RQ230646",
+        "locations": [
+            "Falls Church, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "General Dynamics Information Technology",
+        "title": "AI and Estimation Intern",
+        "source": "vanshb03",
+        "id": "4a47e390-4cfb-4849-9d71-05d9bedcaffd",
+        "date_posted": 1792540800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
