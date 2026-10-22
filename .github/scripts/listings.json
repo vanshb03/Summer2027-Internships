@@ -14847,5 +14847,25 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792629862,
+        "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Machine-Learning-Engineer-II--Intern----United-States_2026802",
+        "locations": [
+            "San Jose, CA",
+            "Milpitas, CA",
+            "Rtp, NC",
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cisco",
+        "title": "Machine Learning Engineer II Intern",
+        "source": "vanshb03",
+        "id": "d9a3f66f-98d1-49a9-84b4-f51793252780",
+        "date_posted": 1792628362,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
