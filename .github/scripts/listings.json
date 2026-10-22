@@ -15357,5 +15357,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1792697714,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557044769",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Security Research Intern",
+        "source": "vanshb03",
+        "id": "93a497d3-86cc-4858-8192-3ed8138ff6e2",
+        "date_posted": 1792690514,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
