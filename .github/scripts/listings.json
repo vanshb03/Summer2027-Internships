@@ -14647,5 +14647,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792629614,
+        "url": "https://qualcomm.eightfold.ai/careers/job/446721661677",
+        "locations": [
+            "Markham, ON, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Qualcomm",
+        "title": "Display Systems Engineer Intern",
+        "source": "vanshb03",
+        "id": "2a848b71-f695-44eb-bffc-cb912a1636cf",
+        "date_posted": 1792621575,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
