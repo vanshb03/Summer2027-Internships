@@ -15268,5 +15268,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792697714,
+        "url": "https://copart.wd12.myworkdayjobs.com/Copart/job/Dallas-TX---Headquarters/QA-Engineer-Intern_JR112005",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Copart",
+        "title": "QA Engineer Intern",
+        "source": "vanshb03",
+        "id": "1f07dfe3-b7e3-482d-94ed-3a975639261b",
+        "date_posted": 1792695074,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
