@@ -15094,5 +15094,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792658752,
+        "url": "https://dukeenergy.wd1.myworkdayjobs.com/search/job/Hartsville-SC/Nuclear-Cybersecurity-2027-Summer-Internship_R42099",
+        "locations": [
+            "Hartsville, SC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Duke Energy Corporation",
+        "title": "Nuclear Cybersecurity Intern",
+        "source": "vanshb03",
+        "id": "c0e31531-6077-4d94-902c-eff59679cf52",
+        "date_posted": 1792572326,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
