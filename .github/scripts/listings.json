@@ -14458,5 +14458,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792629614,
+        "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Embedded-Software-Engineering-Undergrad-Intern_R016949",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "The Aerospace Corporation",
+        "title": "Embedded Software Engineer Intern, Multiple Teams",
+        "source": "vanshb03",
+        "id": "2a77e792-a823-40b2-bf20-244d37b55813",
+        "date_posted": 1792540800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
