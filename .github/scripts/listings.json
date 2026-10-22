@@ -14493,5 +14493,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792629614,
+        "url": "https://sierraspace.wd1.myworkdayjobs.com/en-US/Sierra_Space_External_Career_Site/job/Louisville-CO/Summer-2027-Flight-Software-Engineer-Intern_R26456",
+        "locations": [
+            "Louisville, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Sierra Space",
+        "title": "Flight Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "9c419789-6d1b-4cf5-aa4b-4443c7368d0d",
+        "date_posted": 1792540800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
