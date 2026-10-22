@@ -14596,5 +14596,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792629614,
+        "url": "https://jobs.aon.com/jobs/110099?icims=1",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Aon",
+        "title": "IT/AI Engineer Intern",
+        "source": "vanshb03",
+        "id": "91763f9a-00b5-45f0-93ed-e4346368e3a5",
+        "date_posted": 1792621144,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
