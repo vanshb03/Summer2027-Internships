@@ -14716,5 +14716,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792629862,
+        "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/Information-Security-Engineer-Undergraduate-Intern_JR0287588",
+        "locations": [
+            "Folsom, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Intel",
+        "title": "Information Security Engineer Intern",
+        "source": "vanshb03",
+        "id": "471abfae-b7b5-40a6-8110-8551a217d121",
+        "date_posted": 1792628362,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
