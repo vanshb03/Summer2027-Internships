@@ -14579,5 +14579,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1792629614,
+        "url": "https://jobs.ashbyhq.com/metalenz/979c12dd-e71a-41b5-9c5f-a0d7204a22f6/application?embed=true",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Metalenz",
+        "title": "Camera Software Intern",
+        "source": "vanshb03",
+        "id": "5b1a5388-1c24-4e7f-a2ba-cc33b05c86a1",
+        "date_posted": 1792620834,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
