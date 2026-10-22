@@ -14884,5 +14884,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1792629862,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Network-Site-Design-Intern_R-00195057",
+        "locations": [
+            "Remote in USA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Leidos",
+        "title": "Network Site Design Intern",
+        "source": "vanshb03",
+        "id": "484f1476-574b-4a4c-981c-048ae52f43db",
+        "date_posted": 1792619062,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
