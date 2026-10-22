@@ -14664,5 +14664,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792629614,
+        "url": "https://qualcomm.eightfold.ai/careers/job/446721661830",
+        "locations": [
+            "Markham, ON, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Qualcomm",
+        "title": "Edge AI and Display Hardware Architecture Intern",
+        "source": "vanshb03",
+        "id": "760424cf-eea0-48dc-a9f7-0b9fe69fc8b0",
+        "date_posted": 1792621577,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
