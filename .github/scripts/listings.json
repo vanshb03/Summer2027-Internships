@@ -15302,5 +15302,26 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792697714,
+        "url": "https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Systems-Administrator-Internship---Summer-2027_R268536",
+        "locations": [
+            "Pleasant Prairie, WI",
+            "Milwaukee, WI",
+            "Waukegan, IL",
+            "Glenview, IL",
+            "Kenosha, WI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Uline",
+        "title": "Systems Administrator Intern",
+        "source": "vanshb03",
+        "id": "0813512e-db37-4c2c-a737-c33e26641a5b",
+        "date_posted": 1792694114,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
