@@ -16916,5 +16916,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Spring"
+    },
+    {
+        "date_updated": 1792731778,
+        "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4564633",
+        "locations": [
+            "Eagan, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ergotron",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "3df3fa97-cc21-4b42-bb84-2e49ae47e2c5",
+        "date_posted": 1791244800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
