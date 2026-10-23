@@ -16229,5 +16229,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792717375,
+        "url": "https://ursamajor.com/careers/?gh_jid=4746827005",
+        "locations": [
+            "Berthoud, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ursa Major",
+        "title": "Software Development Intern",
+        "source": "vanshb03",
+        "id": "cce47b2a-13e4-4fc4-b3a0-26acc2da4e8d",
+        "date_posted": 1792706741,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
