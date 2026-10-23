@@ -15616,5 +15616,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792717232,
+        "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Huntsville-AL/AI-ML-Intern_R-00195168",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Leidos",
+        "title": "AI/ML Intern",
+        "source": "vanshb03",
+        "id": "d62e7529-4fd5-4362-88bb-b35e46140f89",
+        "date_posted": 1792652400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
