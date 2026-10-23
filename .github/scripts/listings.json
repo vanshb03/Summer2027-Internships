@@ -15599,5 +15599,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792717232,
+        "url": "https://jobs.smartrecruiters.com/InfiniteQuant/744000157170821",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "InfiniteQuant",
+        "title": "Quantitative Researcher Intern",
+        "source": "vanshb03",
+        "id": "d07db16e-6651-4bf7-abf0-f999b36b25f3",
+        "date_posted": 1792652400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
