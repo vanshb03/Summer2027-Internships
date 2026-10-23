@@ -15861,5 +15861,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1792717232,
+        "url": "https://symbotic.wd504.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Co-op--Machine-Learning-Ops_R8327",
+        "locations": [
+            "Wilmington, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Symbotic",
+        "title": "Machine Learning Ops Co-op",
+        "source": "vanshb03",
+        "id": "e26d028a-187b-49d4-9de5-44730270ccea",
+        "date_posted": 1792652400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
