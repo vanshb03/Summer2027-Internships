@@ -17438,5 +17438,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792774166,
+        "url": "https://jobs.ashbyhq.com/rivianvw.tech/a4e49f0a-7e3c-40b1-95a1-28fd907526d0/application",
+        "locations": [
+            "Vancouver, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Rivian and Volkswagen Group Technologies",
+        "title": "Software Engineering Intern, Vehicle Controls",
+        "source": "vanshb03",
+        "id": "9db45eb3-9258-45d8-a7b8-28c71e622e19",
+        "date_posted": 1792738800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
