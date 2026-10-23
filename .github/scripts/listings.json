@@ -16400,5 +16400,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792717375,
+        "url": "https://careers.westinghousenuclear.com/job/Warrendale-Summer-Intern-Software-Engineering-OR/1442826200/?ats=successfactors",
+        "locations": [
+            "Warrendale, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Westinghouse Electric Company",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "62b99727-9f96-44c3-b4fa-6b61d95a70f9",
+        "date_posted": 1792708024,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
