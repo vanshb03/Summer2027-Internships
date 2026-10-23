@@ -17713,5 +17713,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792775105,
+        "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Engineering-Intern---AI-ML-for-Diagnostics---Calibration_2642129-1",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "KLA",
+        "title": "Software Engineering Intern, AI/ML for Diagnostics & Calibration",
+        "source": "vanshb03",
+        "id": "9aff637f-ed10-42d2-b06e-cbebb43ccbcd",
+        "date_posted": 1792773065,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
