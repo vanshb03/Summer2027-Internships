@@ -16504,5 +16504,24 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792717555,
+        "url": "https://jobs.ashbyhq.com/rivianvw.tech/30c3af69-2dfc-4224-9abc-b2d9c0c41048",
+        "locations": [
+            "Palo Alto, CA",
+            "Irvine, CA",
+            "Champaign, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Rivian and Volkswagen Group Technologies",
+        "title": "Software Engineering Intern, Embedded Platforms",
+        "source": "vanshb03",
+        "id": "b606ba0e-3439-4cc2-83be-304f60d8725d",
+        "date_posted": 1792710355,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
