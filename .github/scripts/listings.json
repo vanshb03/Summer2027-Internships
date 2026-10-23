@@ -16951,5 +16951,26 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792731778,
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5257690007?gh_jid=5257690007",
+        "locations": [
+            "Boston, MA",
+            "Costa Mesa, CA",
+            "Fort Collins, CO",
+            "Reston, VA",
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Anduril",
+        "title": "Systems Engineer Intern",
+        "source": "vanshb03",
+        "id": "a224d25f-a4be-4c98-b314-2ffa8bcad0ea",
+        "date_posted": 1791244800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
