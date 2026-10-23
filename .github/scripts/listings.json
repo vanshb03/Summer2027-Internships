@@ -17024,5 +17024,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Spring"
+    },
+    {
+        "date_updated": 1792731778,
+        "url": "https://jobs.lever.co/viget/969d8237-ec1a-4ec4-ba09-b08bcfcd81c4",
+        "locations": [
+            "Boulder, CO"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Viget",
+        "title": "Project & Product Manager Intern",
+        "source": "vanshb03",
+        "id": "a7c0ff3d-3923-4bd1-b198-54f9c31493dd",
+        "date_posted": 1791417600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
