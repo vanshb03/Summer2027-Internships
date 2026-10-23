@@ -16712,5 +16712,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1792731778,
+        "url": "https://jobs.lever.co/hermeus/78008094-ca81-4a0c-9a18-93b30f932acd",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hermeus",
+        "title": "Flight Software Engineering Intern, Simulation/Hardware-In-The-Loop",
+        "source": "vanshb03",
+        "id": "85832ced-ac19-497f-862b-39400268adba",
+        "date_posted": 1790640000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
