@@ -17263,5 +17263,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792731778,
+        "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4595767",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Interclypse",
+        "title": "Junior Full Stack Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "749f841c-c425-4bf5-8d47-032e1a55f9ed",
+        "date_posted": 1792368000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
