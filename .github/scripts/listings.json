@@ -17455,5 +17455,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792774401,
+        "url": "https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Physical-Design-Engineer-Intern_JR100393",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ambarella",
+        "title": "Physical Design Engineer Intern",
+        "source": "vanshb03",
+        "id": "c9326723-b3d4-43cd-8fa9-beba737f442f",
+        "date_posted": 1792627200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
