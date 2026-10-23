@@ -16435,5 +16435,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792717375,
+        "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000157198610",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Renesas Electronics",
+        "title": "Memory Server System Testing Intern",
+        "source": "vanshb03",
+        "id": "6856cfb6-8073-4e85-be17-6846ca432c05",
+        "date_posted": 1792708480,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
