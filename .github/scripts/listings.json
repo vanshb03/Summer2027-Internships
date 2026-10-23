@@ -16263,5 +16263,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792717375,
+        "url": "https://jobs.ashbyhq.com/veeda-ai/84dfad5c-d790-4c4a-9411-40b676b1abbb/application?embed=true",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Veeda AI",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "983bb6bf-3ea3-4128-8d13-673fef03e03f",
+        "date_posted": 1792707178,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
