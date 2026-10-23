@@ -17575,5 +17575,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792774401,
+        "url": "https://amazon.jobs/en/jobs/10576619/asic-engineer-intern-summer-2027",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "ASIC Engineer Intern",
+        "source": "vanshb03",
+        "id": "1b0bb86a-0e78-46e8-8d23-7c649143daa8",
+        "date_posted": 1792719939,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
