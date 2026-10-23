@@ -17109,5 +17109,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792731778,
+        "url": "https://jobs.ashbyhq.com/hex/f2562cd7-abf2-434b-85ff-0a5016fbf0d6",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hex Technologies",
+        "title": "AI Engineer Intern",
+        "source": "vanshb03",
+        "id": "89f0fcb3-4553-4841-913f-c1a70ede6ac9",
+        "date_posted": 1791763200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
