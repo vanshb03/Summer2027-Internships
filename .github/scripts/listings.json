@@ -17787,5 +17787,24 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1792775105,
+        "url": "https://jobs.ashbyhq.com/1password/bef2e88e-9590-467d-8ba6-821b30529003",
+        "locations": [
+            "Remote",
+            "United States",
+            "Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "1Password",
+        "title": "Product Management Intern, End User Experience",
+        "source": "vanshb03",
+        "id": "44adbbae-615a-42c9-a391-ddd919090040",
+        "date_posted": 1792764305,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
