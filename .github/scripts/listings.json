@@ -16627,5 +16627,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792717623,
+        "url": "https://insperity.wd12.myworkdayjobs.com/en-US/NSP/job/Kingwood-TX/Rotational-AI-Intern_JR103460",
+        "locations": [
+            "Kingwood, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Insperity",
+        "title": "Rotational AI Intern",
+        "source": "vanshb03",
+        "id": "ecaf6a99-e27a-432b-83c4-da7a09463152",
+        "date_posted": 1792652400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
