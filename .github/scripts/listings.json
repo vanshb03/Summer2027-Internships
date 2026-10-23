@@ -17404,5 +17404,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792774166,
+        "url": "https://jobs.ashbyhq.com/rivianvw.tech/b142f138-e300-4e84-8aa5-50ed506d288b/application",
+        "locations": [
+            "Vancouver, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Rivian and Volkswagen Group Technologies",
+        "title": "Software Engineering Intern, Applications",
+        "source": "vanshb03",
+        "id": "c4bcc390-2e9e-4a1d-b1d8-02c8f170e9a5",
+        "date_posted": 1792738800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
