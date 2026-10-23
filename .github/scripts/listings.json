@@ -16417,5 +16417,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792717375,
+        "url": "https://jobs.ashbyhq.com/patreon/ace576d6-f480-43b8-a529-549fefb2046d/application?embed=true",
+        "locations": [
+            "New York, NY",
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Patreon",
+        "title": "Product Manager Intern",
+        "source": "vanshb03",
+        "id": "305ed480-2663-43d4-8012-fa19becc3bef",
+        "date_posted": 1792708073,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
