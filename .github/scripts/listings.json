@@ -15946,5 +15946,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792717375,
+        "url": "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Ruston-LA/Microelectronics-Engineer-Intern_HR102520",
+        "locations": [
+            "Ruston, LA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Radiance Technologies",
+        "title": "Microelectronics Engineer Intern",
+        "source": "vanshb03",
+        "id": "2fa02cfb-298f-4a45-81ca-1878806b4462",
+        "date_posted": 1792627200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
