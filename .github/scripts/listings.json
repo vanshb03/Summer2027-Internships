@@ -16558,5 +16558,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792717555,
+        "url": "https://jobs.ashbyhq.com/rivianvw.tech/7967cd44-5469-48b8-b69f-f036e4098464",
+        "locations": [
+            "Palo Alto, CA",
+            "Irvine, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Rivian and Volkswagen Group Technologies",
+        "title": "Data Engineering Intern, AI & Analytics",
+        "source": "vanshb03",
+        "id": "46115328-0428-47ae-8c73-547402865685",
+        "date_posted": 1792710355,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
