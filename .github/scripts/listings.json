@@ -17280,5 +17280,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792731778,
+        "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4581377",
+        "locations": [
+            "Liberty Township, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cryptic Vector",
+        "title": "Full Stack Developer Intern",
+        "source": "vanshb03",
+        "id": "f3cb472d-3504-4302-88ab-269ad3c3ad72",
+        "date_posted": 1792454400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
     }
 ]
