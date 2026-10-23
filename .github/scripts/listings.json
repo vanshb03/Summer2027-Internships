@@ -17768,5 +17768,24 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1792775105,
+        "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Embedded-Systems-I--Co-op----United-States_2029701",
+        "locations": [
+            "San Jose, CA",
+            "Milpitas, CA",
+            "Research Triangle Park, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cisco",
+        "title": "Software Engineer Embedded Systems I Co-op",
+        "source": "vanshb03",
+        "id": "9f825d8b-b93e-47ec-8fea-e2693848b31a",
+        "date_posted": 1792771505,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
