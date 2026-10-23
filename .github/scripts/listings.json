@@ -17524,5 +17524,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792774401,
+        "url": "https://amazon.jobs/en/jobs/10586548/jr-software-development-engineer-detroit-mi-jr-developer-program",
+        "locations": [
+            "Detroit, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "Junior Software Development Engineer Intern",
+        "source": "vanshb03",
+        "id": "e1e1bbdd-3b2b-4b29-8d40-ecaee33c804e",
+        "date_posted": 1792719931,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
