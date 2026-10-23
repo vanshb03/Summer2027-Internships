@@ -17626,5 +17626,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1792774401,
+        "url": "https://amazon.jobs/en/jobs/10573999/systems-development-engineer-intern-canada-2027",
+        "locations": [
+            "Vancouver, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "Systems Development Engineer Intern",
+        "source": "vanshb03",
+        "id": "14e576c0-968d-4d34-81d7-1c8ab0e13e15",
+        "date_posted": 1792719940,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
