@@ -17643,5 +17643,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792774401,
+        "url": "https://amazon.jobs/en/jobs/10565667/software-development-engineer-intern-aws-database-2027-us",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "Software Engineer Intern, AWS Database",
+        "source": "vanshb03",
+        "id": "225a2418-00b0-44e5-8e89-b66ed3d01694",
+        "date_posted": 1792719942,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
