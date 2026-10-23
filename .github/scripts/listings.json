@@ -17507,5 +17507,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792774401,
+        "url": "https://jobs.paccar.com/job/Kirkland-Summer-2027-AfterSales-Data-Analyst-Intern-WA-98033/1450518033/?ats=successfactors",
+        "locations": [
+            "Kirkland, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Paccar",
+        "title": "Aftersales Data Analyst Intern",
+        "source": "vanshb03",
+        "id": "66ee29ce-a887-4e7d-bbe2-dba57fef1dbd",
+        "date_posted": 1792717830,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
