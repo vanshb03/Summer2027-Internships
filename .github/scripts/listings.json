@@ -15582,5 +15582,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792717232,
+        "url": "https://careers-gdms.icims.com/jobs/75775/software-intern-engineer/job",
+        "locations": [
+            "Scottsdale, AZ"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "General Dynamics Mission Systems",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "50a0c52e-2b89-461a-827e-6c732eae8c78",
+        "date_posted": 1792652400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
