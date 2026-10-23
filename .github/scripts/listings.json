@@ -16348,5 +16348,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792717375,
+        "url": "https://jobs.lever.co/pattern/48945dce-b5ef-43cd-9d85-f8b26ce5b43e/apply",
+        "locations": [
+            "Lehi, UT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Pattern",
+        "title": "AI Automation Engineer Intern",
+        "source": "vanshb03",
+        "id": "a66302a1-1fff-49ad-85ce-653af10c23fc",
+        "date_posted": 1792707887,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
