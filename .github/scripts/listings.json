@@ -16678,5 +16678,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792731778,
+        "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4423330009",
+        "locations": [
+            "Long Beach, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Voyager Technologies",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "bfb41fe6-a451-4268-988b-1cabff76df0d",
+        "date_posted": 1790553600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
