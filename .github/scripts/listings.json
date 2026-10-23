@@ -16593,5 +16593,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792717615,
+        "url": "https://jobs.ashbyhq.com/allen-control-systems/1cd2b432-9a01-4ae0-8eb2-6ebd9c278b94",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Allen Control Systems",
+        "title": "Android Developer Intern",
+        "source": "vanshb03",
+        "id": "577f0bf8-861f-4831-98ca-2b8961d6cc7e",
+        "date_posted": 1792704094,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
