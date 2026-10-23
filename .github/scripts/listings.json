@@ -16661,5 +16661,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792731778,
+        "url": "https://careers-hrblock.icims.com/jobs/76987/embark-software-engineering-intern---s/job",
+        "locations": [
+            "Kansas City, MO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "H&R Block",
+        "title": "Software Engineering Intern, Embark",
+        "source": "vanshb03",
+        "id": "97b50104-e07c-4921-a45a-9c8726c5963c",
+        "date_posted": 1790553600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
