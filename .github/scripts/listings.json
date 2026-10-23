@@ -16068,5 +16068,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792717375,
+        "url": "https://taylor.wd1.myworkdayjobs.com/external/job/OH-Remote/Enablement-Data---Insights-Intern--Temporary-_R30448",
+        "locations": [
+            "Remote",
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Taylor",
+        "title": "Enablement Data & Insights Intern",
+        "source": "vanshb03",
+        "id": "c62c03fc-bd0a-4634-83b8-e0890cbed634",
+        "date_posted": 1792627200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
