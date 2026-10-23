@@ -16297,5 +16297,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792717375,
+        "url": "https://jobs.lever.co/standtogether/f379a7ee-c2b6-47db-b1de-08283462ea6c/apply",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Stand Together",
+        "title": "Data Analyst Intern, Open the Books",
+        "source": "vanshb03",
+        "id": "e17cf7cb-be7e-4b34-a944-977bf468eebb",
+        "date_posted": 1792707643,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
     }
 ]
