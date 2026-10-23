@@ -16246,5 +16246,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792717375,
+        "url": "https://ursamajor.com/careers/?gh_jid=4746825005",
+        "locations": [
+            "Longmont, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ursa Major",
+        "title": "Embedded Flight Software Intern",
+        "source": "vanshb03",
+        "id": "b23d5037-e119-4591-8e7f-d30fae18191b",
+        "date_posted": 1792706741,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
