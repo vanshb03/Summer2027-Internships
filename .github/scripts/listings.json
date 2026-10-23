@@ -17195,5 +17195,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792731778,
+        "url": "https://jobs.smartrecruiters.com/LLNL/3743990016164416",
+        "locations": [
+            "Livermore, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lawrence Livermore National Laboratory (LLNL)",
+        "title": "Power Systems Undergraduate Intern, Cyber and Critical Infrastructure",
+        "source": "vanshb03",
+        "id": "df79fa9b-d01e-4867-b43e-6016e36c9dfe",
+        "date_posted": 1792022400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
