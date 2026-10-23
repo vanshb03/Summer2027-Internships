@@ -16469,5 +16469,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792717375,
+        "url": "https://jobs.lever.co/palantir/b3d81928-6c26-432f-8a0a-36602c2eefcb/apply",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Palantir",
+        "title": "Forward Deployed Software Engineer Intern, Warp Speed",
+        "source": "vanshb03",
+        "id": "7449f87e-753a-4f51-b257-f7b3c214fd97",
+        "date_posted": 1792708610,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
