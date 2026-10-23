@@ -15980,5 +15980,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792717375,
+        "url": "https://bnl.wd1.myworkdayjobs.com/externa/job/Upton-NY/Data-Engineering-Student-Assistant_JR102753",
+        "locations": [
+            "Upton, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Brookhaven Lab",
+        "title": "Data Engineering Student Assistant Intern",
+        "source": "vanshb03",
+        "id": "eaa5b582-125b-4d85-a53d-ba11006c4b74",
+        "date_posted": 1792627200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
