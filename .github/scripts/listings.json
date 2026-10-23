@@ -15895,5 +15895,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1792717375,
+        "url": "https://freight.wd108.myworkdayjobs.com/FXF_External_Career_Site/job/FXF-USUSAFXFMHQMemphis-Headquarters/Intern-Data-Scientist_RC5660",
+        "locations": [
+            "Memphis, TN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "FedEx Freight",
+        "title": "Data Scientist Intern",
+        "source": "vanshb03",
+        "id": "6fa64fb1-b7a2-4947-880a-235c1fe73a9b",
+        "date_posted": 1792627200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
