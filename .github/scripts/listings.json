@@ -17297,5 +17297,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Spring"
+    },
+    {
+        "date_updated": 1792731778,
+        "url": "https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4460200009",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SK Hynix Memory Solution",
+        "title": "ASIC Design Intern",
+        "source": "vanshb03",
+        "id": "b002f7f0-d82d-4dd8-b6d6-f28e938e3324",
+        "date_posted": 1792454400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
