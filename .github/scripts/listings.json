@@ -17730,5 +17730,25 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792775105,
+        "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Data---AI-II--Intern----United-States_2026798",
+        "locations": [
+            "San Jose, CA",
+            "Milpitas, CA",
+            "Research Triangle Park, NC",
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cisco",
+        "title": "Software Engineer Data & AI II Intern",
+        "source": "vanshb03",
+        "id": "6b726fee-7dce-4e72-8290-b7d2b8d6803b",
+        "date_posted": 1792771505,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
