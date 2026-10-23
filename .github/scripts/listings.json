@@ -16865,5 +16865,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792731778,
+        "url": "https://www.amazon.jobs/en/jobs/10567914/software-development-engineer-intern-embedded-systems-summer-2027-usa",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "Software Development Engineer Intern, Embedded Systems",
+        "source": "vanshb03",
+        "id": "1e94a2b1-7f62-4423-acfd-0d0f4fbe4076",
+        "date_posted": 1790899200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
