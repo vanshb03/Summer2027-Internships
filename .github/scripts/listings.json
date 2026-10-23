@@ -17075,5 +17075,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792731778,
+        "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4575799",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Residex Software",
+        "title": "Product Management Intern",
+        "source": "vanshb03",
+        "id": "98081502-bc45-4496-8c7f-7cfdae9785b8",
+        "date_posted": 1791504000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
