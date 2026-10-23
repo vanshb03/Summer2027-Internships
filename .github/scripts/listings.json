@@ -17472,5 +17472,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792774401,
+        "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/Greenville-South-Carolina-United-States-of-America/R-D-Software-Engineer_JR00050035",
+        "locations": [
+            "Greenville, SC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ABB",
+        "title": "R&D Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "5379f2ce-b442-4b9c-8704-211bf187fdd0",
+        "date_posted": 1792627200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
