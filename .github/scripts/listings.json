@@ -17806,5 +17806,24 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1792775105,
+        "url": "https://jobs.ashbyhq.com/1password/00f861d4-2b4a-4159-b6dc-8aed0cde6e39",
+        "locations": [
+            "Remote",
+            "United States",
+            "Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "1Password",
+        "title": "Developer Intern, Developer Interfaces",
+        "source": "vanshb03",
+        "id": "5402095c-168c-4f29-8ce2-fe299e2632e3",
+        "date_posted": 1792764305,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
