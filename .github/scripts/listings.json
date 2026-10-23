@@ -16123,5 +16123,25 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792717375,
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/AZ---Scottsdale/Innovation-Technology-Internship-Software-Engineering--Platform---Applications-Summer-2027-Undergrad_R1081193",
+        "locations": [
+            "Scottsdale, AZ",
+            "Dallas, TX",
+            "Hartford, CT",
+            "Woonsocket, RI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CVS Health",
+        "title": "Software Engineer Intern, Platform & Applications",
+        "source": "vanshb03",
+        "id": "0ecc9f49-c549-4324-a02a-2604ae100bac",
+        "date_posted": 1792627200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
