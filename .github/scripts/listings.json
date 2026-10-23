@@ -17229,5 +17229,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792731778,
+        "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4592733",
+        "locations": [
+            "Miami, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Inter Miami CF",
+        "title": "Business Intelligence Intern, Software Development",
+        "source": "vanshb03",
+        "id": "58add838-06c1-4694-912d-dce7afe2f08e",
+        "date_posted": 1792108800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
