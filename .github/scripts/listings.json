@@ -16989,5 +16989,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792731778,
+        "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256686007",
+        "locations": [
+            "Austin, TX",
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tenstorrent",
+        "title": "AI Software Intern, Cloud, Infrastructure & Data Centre Deployment",
+        "source": "vanshb03",
+        "id": "46c114a3-a96a-4ec5-b228-68de72c09e17",
+        "date_posted": 1791331200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
