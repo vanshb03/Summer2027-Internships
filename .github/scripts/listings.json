@@ -17333,5 +17333,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792731778,
+        "url": "https://uscareers-idemia.icims.com/jobs/8707/cloud-software-engineering-internship/job",
+        "locations": [
+            "Reston, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "IDEMIA North America",
+        "title": "Cloud Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "74589929-de53-4e2a-ac78-6ea4baa44f1c",
+        "date_posted": 1792540800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
