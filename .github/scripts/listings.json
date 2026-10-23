@@ -17592,5 +17592,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792774401,
+        "url": "https://amazon.jobs/en/jobs/10559762/software-development-engineer-intern-amazon-leo-summer-2027-usa",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "03610d2a-044f-4b86-b8df-d87fd0cb25c1",
+        "date_posted": 1792719940,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
