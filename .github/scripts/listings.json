@@ -16899,5 +16899,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792731778,
+        "url": "https://revvity.wd103.myworkdayjobs.com/external/job/Akron/Software-Integration-Co-Op--Spring-2027-_JR-045618",
+        "locations": [
+            "Akron, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Revvity",
+        "title": "Software Integration Co-op",
+        "source": "vanshb03",
+        "id": "3b10800f-989e-4aaf-882b-000c463fb0d1",
+        "date_posted": 1790985600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
     }
 ]
