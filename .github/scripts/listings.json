@@ -16383,5 +16383,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792717375,
+        "url": "https://qualcomm.eightfold.ai/careers/job/446721686396",
+        "locations": [
+            "Markham, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Qualcomm",
+        "title": "AI and DSP Applications Engineer Intern",
+        "source": "vanshb03",
+        "id": "b3e1d6b5-6be6-453d-891b-e4395f4a99f9",
+        "date_posted": 1792707975,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
