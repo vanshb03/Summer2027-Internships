@@ -17678,5 +17678,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Spring"
+    },
+    {
+        "date_updated": 1792774401,
+        "url": "https://amazon.jobs/en/jobs/10517649/cloud-hardware-development-engineer-intern-annapurna-labs-2027",
+        "locations": [
+            "Austin, TX",
+            "Cupertino, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "Cloud Hardware Development Engineer Intern",
+        "source": "vanshb03",
+        "id": "a6b67530-cf9f-43cc-9366-99ab6a116262",
+        "date_posted": 1792720306,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
