@@ -17750,5 +17750,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792775105,
+        "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-I--Co-op----United-States_2026049",
+        "locations": [
+            "San Jose, CA",
+            "Carlsbad, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cisco",
+        "title": "Software Engineer Full Stack / Backend I Co-op",
+        "source": "vanshb03",
+        "id": "c33c75c4-d7d3-4508-8821-6ad386621c06",
+        "date_posted": 1792771505,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
