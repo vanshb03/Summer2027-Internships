@@ -16365,5 +16365,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792717375,
+        "url": "https://boards.greenhouse.io/opensesame/jobs/8313424",
+        "locations": [
+            "Remote",
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "OpenSesame",
+        "title": "AI Product Builder Intern",
+        "source": "vanshb03",
+        "id": "cbb7e887-8558-44ef-a0f1-f8bffb63657d",
+        "date_posted": 1792707892,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
