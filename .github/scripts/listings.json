@@ -17041,5 +17041,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792731778,
+        "url": "https://job-boards.greenhouse.io/arcesiumllc/jobs/5257199007",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Arcesium",
+        "title": "Infrastructure Engineer Intern",
+        "source": "vanshb03",
+        "id": "668ecc1e-d83c-4d0a-b218-c7900a750b5c",
+        "date_posted": 1791504000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
