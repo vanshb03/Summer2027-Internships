@@ -15772,5 +15772,24 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1792717232,
+        "url": "https://jobs.ashbyhq.com/1password/6a6869a7-98d2-43e3-b9b5-b68fa4daeb9f/application",
+        "locations": [
+            "Remote",
+            "United States",
+            "Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "1Password",
+        "title": "Developer Intern, Machine Identity",
+        "source": "vanshb03",
+        "id": "96010429-8dbd-4223-9685-7e5585b0f4aa",
+        "date_posted": 1792652400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
