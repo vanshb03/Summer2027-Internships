@@ -16523,5 +16523,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792717555,
+        "url": "https://jobs.ashbyhq.com/rivianvw.tech/62e45b20-cbdc-4d16-9466-00bc158b7a7f",
+        "locations": [
+            "Palo Alto, CA",
+            "Irvine, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Rivian and Volkswagen Group Technologies",
+        "title": "Software Engineering Intern, Connected Systems",
+        "source": "vanshb03",
+        "id": "96e1bac9-9226-417a-a3cd-f68621e86d13",
+        "date_posted": 1792710355,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
