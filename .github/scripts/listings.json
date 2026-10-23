@@ -16331,5 +16331,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792717375,
+        "url": "https://jobs.lever.co/pattern/5c0c1963-87c5-48d7-8da9-0c79121fe443/apply",
+        "locations": [
+            "Lehi, UT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Pattern",
+        "title": "AI Infrastructure Engineer Intern",
+        "source": "vanshb03",
+        "id": "3da6cf5f-50bb-484c-9890-2ba13e548d7b",
+        "date_posted": 1792707886,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
