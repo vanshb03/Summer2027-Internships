@@ -17007,5 +17007,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792731778,
+        "url": "https://www.amazon.jobs/en/jobs/10573570/embedded-firmware-co-op-amazon-robotics-spring-2027",
+        "locations": [
+            "North Reading, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "Embedded Firmware Co-op, Amazon Robotics",
+        "source": "vanshb03",
+        "id": "9e0f19d4-48a3-43c1-bf97-a12545e430d6",
+        "date_posted": 1791417600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
     }
 ]
