@@ -16486,5 +16486,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792717555,
+        "url": "https://jobs.ashbyhq.com/rivianvw.tech/cb3559f0-2514-45f1-8d36-a11fa1dded0c",
+        "locations": [
+            "Palo Alto, CA",
+            "Irvine, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Rivian and Volkswagen Group Technologies",
+        "title": "Software Engineering Intern, Vehicle Controls",
+        "source": "vanshb03",
+        "id": "8ae57b40-93cf-44a0-8a44-a63ff170ac3b",
+        "date_posted": 1792710355,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
