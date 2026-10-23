@@ -17609,5 +17609,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792774401,
+        "url": "https://amazon.jobs/en/jobs/10573984/systems-development-engineer-intern-us-2027",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "Systems Development Engineer Intern",
+        "source": "vanshb03",
+        "id": "1116af5f-192c-4c93-9f06-3ec57f6208d5",
+        "date_posted": 1792719940,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
