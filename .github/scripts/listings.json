@@ -17212,5 +17212,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792731778,
+        "url": "https://job-boards.greenhouse.io/aidashinc/jobs/4436057009",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "AiDASH",
+        "title": "Software Engineering Intern, Backend",
+        "source": "vanshb03",
+        "id": "14f236a2-0d53-40d5-ac32-363a941a062c",
+        "date_posted": 1792108800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
