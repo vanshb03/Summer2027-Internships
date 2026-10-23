@@ -16103,5 +16103,25 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792717375,
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Hartford-Farmington-Ave-Rogers/Innovation---Technology-Internship---Product---Agile-Delivery---Summer-2027--Undergraduate-_R1080767",
+        "locations": [
+            "Hartford, CT",
+            "Dallas, TX",
+            "Scottsdale, AZ",
+            "Woonsocket, RI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CVS Health",
+        "title": "Product & Agile Delivery Intern, Innovation & Technology",
+        "source": "vanshb03",
+        "id": "6d5e85ad-e631-4dc5-b8fd-93fa7b65109b",
+        "date_posted": 1792627200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
