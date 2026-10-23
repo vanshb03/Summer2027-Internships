@@ -17489,5 +17489,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792774401,
+        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mequon-Wisconsin-United-States/Firmware-Engineer-Intern_R26-8321",
+        "locations": [
+            "Mequon, WI",
+            "Eden Prairie, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Rockwell Automation",
+        "title": "Firmware Engineer Intern",
+        "source": "vanshb03",
+        "id": "08c0aef8-fecb-4503-b1a0-7e528662a6b2",
+        "date_posted": 1792627200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
