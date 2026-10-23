@@ -17696,5 +17696,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792775105,
+        "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---Software-Engineer-In-Test--MOD-_J-00354568",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ASML",
+        "title": "Software Engineer In Test Intern, MOD",
+        "source": "vanshb03",
+        "id": "283cf569-3546-4109-a0d9-cdf0228b2851",
+        "date_posted": 1792773605,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
