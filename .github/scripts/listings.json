@@ -17161,5 +17161,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792731778,
+        "url": "https://aoins.wd5.myworkdayjobs.com/concord/job/Bedford-NH/Software-Engineer-Intern_R_14465",
+        "locations": [
+            "Bedford, NH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Auto-Owners Insurance",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "9a79c841-2a8c-4989-a817-9dc2c9136437",
+        "date_posted": 1792022400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
