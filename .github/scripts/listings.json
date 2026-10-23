@@ -17825,5 +17825,24 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1792775105,
+        "url": "https://jobs.ashbyhq.com/1password/67bfbd8b-aba9-42b1-a8a8-833367888fba",
+        "locations": [
+            "Remote",
+            "United States",
+            "Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "1Password",
+        "title": "Developer Intern, Credential Brokering",
+        "source": "vanshb03",
+        "id": "480af310-c6bf-41ad-adf1-f1725c0986d2",
+        "date_posted": 1792764305,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
