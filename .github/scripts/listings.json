@@ -15997,5 +15997,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792717375,
+        "url": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Intern---Business-Intelligence-Enablement_R39531",
+        "locations": [
+            "Madison, WI",
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "American Family Insurance Group",
+        "title": "Business Intelligence Enablement Intern",
+        "source": "vanshb03",
+        "id": "e8388d5c-fac5-49e5-9f05-ccf48230ac21",
+        "date_posted": 1792627200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
