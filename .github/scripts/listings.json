@@ -16780,5 +16780,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792731778,
+        "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Maynard-Massachusetts-US/Software-Engineer-II--Co-op----United-States_2026923",
+        "locations": [
+            "Maynard, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cisco",
+        "title": "Software Engineer II Co-op",
+        "source": "vanshb03",
+        "id": "1f60908e-917a-4223-b17b-68254c63c2b6",
+        "date_posted": 1790812800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
