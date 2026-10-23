@@ -16576,5 +16576,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792717555,
+        "url": "https://jobs.lever.co/palantir/69ab7e24-8f5d-426e-84f7-6d3b2d4a7efd",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Palantir Technologies",
+        "title": "Deployment Strategist Intern, Warp Speed",
+        "source": "vanshb03",
+        "id": "0e58ec01-42e2-4e53-99e7-f82a65df176c",
+        "date_posted": 1792706755,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
