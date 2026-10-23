@@ -15791,5 +15791,24 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1792717232,
+        "url": "https://jobs.ashbyhq.com/1password/b2726ac7-dd0d-42f3-93a5-139e18c90779/application",
+        "locations": [
+            "Remote",
+            "United States",
+            "Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "1Password",
+        "title": "Developer Intern, Vault Team",
+        "source": "vanshb03",
+        "id": "915a1eac-84e4-4bb5-94d5-c86926ca35c7",
+        "date_posted": 1792652400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
