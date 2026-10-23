@@ -17058,5 +17058,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792731778,
+        "url": "https://job-boards.greenhouse.io/gcmgrosvenor/jobs/8015835003",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "GCM Grosvenor",
+        "title": "IT Product & Strategy Intern",
+        "source": "vanshb03",
+        "id": "391d0cde-7197-464f-8086-c52aae221aa8",
+        "date_posted": 1791504000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
