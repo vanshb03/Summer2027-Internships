@@ -16848,5 +16848,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792731778,
+        "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4553447",
+        "locations": [
+            "Omaha, NE"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Election Systems & Software",
+        "title": "Software Development Intern",
+        "source": "vanshb03",
+        "id": "7727d2d5-4210-42a4-9866-ab0d3f5131aa",
+        "date_posted": 1790812800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
