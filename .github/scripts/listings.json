@@ -16695,5 +16695,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792731778,
+        "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Maynard-Massachusetts-US/Firmware-Engineer-II--Co-op----United-States_2026913",
+        "locations": [
+            "Maynard, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cisco",
+        "title": "Firmware Engineer II Co-op",
+        "source": "vanshb03",
+        "id": "716e0e1e-c058-4675-8d4f-00331d306daf",
+        "date_posted": 1790640000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
