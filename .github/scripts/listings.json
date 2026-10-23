@@ -17844,5 +17844,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1792775105,
+        "url": "https://careers.mitre.org/us/en/job/R117720/Autonomous-Systems-Intern",
+        "locations": [
+            "McLean, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "MITRE",
+        "title": "Autonomous Systems Intern",
+        "source": "vanshb03",
+        "id": "9eb1407a-3604-4766-a0c6-70a9adccd1ff",
+        "date_posted": 1792717505,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
