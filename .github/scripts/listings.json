@@ -15827,5 +15827,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1792717232,
+        "url": "https://careers.formlabs.com/job/8256004/apply/?gh_jid=8256004",
+        "locations": [
+            "Somerville, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Formlabs",
+        "title": "Manufacturing Test Software Intern",
+        "source": "vanshb03",
+        "id": "fadbc6db-93c0-40fe-9df6-9fd79a62452f",
+        "date_posted": 1792652400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
     }
 ]
