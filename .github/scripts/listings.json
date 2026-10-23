@@ -16314,5 +16314,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Spring"
+    },
+    {
+        "date_updated": 1792717375,
+        "url": "https://jobs.lever.co/pattern/ad978732-7171-473d-9400-0a6fc9e23cf7/apply",
+        "locations": [
+            "Lehi, UT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Pattern",
+        "title": "Data Science Intern",
+        "source": "vanshb03",
+        "id": "c4573c71-2586-49ed-b0a8-ddcf53309b8b",
+        "date_posted": 1792707885,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
