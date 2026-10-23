@@ -17092,5 +17092,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792731778,
+        "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday_Early_Career/job/USA-CA-Pleasanton/Cybersecurity-Engineer-Intern_JR-0110809",
+        "locations": [
+            "Pleasanton, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Workday",
+        "title": "Cybersecurity Engineer Intern",
+        "source": "vanshb03",
+        "id": "2fb8e25a-e3df-4175-bd83-639dac12bfc8",
+        "date_posted": 1791504000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
