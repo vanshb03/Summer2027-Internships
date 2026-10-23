@@ -15565,5 +15565,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792717232,
+        "url": "https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/CAN-Kanata-2-ON---WR/Linux-Intern_J000704370",
+        "locations": [
+            "Kanata, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Aptiv",
+        "title": "Linux Intern",
+        "source": "vanshb03",
+        "id": "27634f63-8639-477e-9a7c-5509f5a11db0",
+        "date_posted": 1792652400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
