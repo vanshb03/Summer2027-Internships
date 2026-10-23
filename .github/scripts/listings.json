@@ -16933,5 +16933,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792731778,
+        "url": "https://veteransunited.wd1.myworkdayjobs.com/vuhl/job/Remote-MO/Intern---Software-Engineer---Summer-2027_R6249",
+        "locations": [
+            "Remote",
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Veterans United Home Loans",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "4183e8da-2ffa-428f-916c-b0b081789eff",
+        "date_posted": 1791244800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
