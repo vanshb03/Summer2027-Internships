@@ -16746,5 +16746,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1792731778,
+        "url": "https://bracco.wd103.myworkdayjobs.com/braccocareers/job/USA-Pleasanton-California-94566/Firmware-Engineering-Co-op_JR100319",
+        "locations": [
+            "Pleasanton, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bracco",
+        "title": "Firmware Engineering Co-op",
+        "source": "vanshb03",
+        "id": "2ab64fda-b11c-4891-b00f-23675135481b",
+        "date_posted": 1790726400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
