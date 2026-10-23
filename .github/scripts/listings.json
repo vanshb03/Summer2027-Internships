@@ -16814,5 +16814,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1792731778,
+        "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/USA-RESEARCH-TRIANGLE-PARK/Software-Consulting-Engineer-I--Intern--United-States_2025180",
+        "locations": [
+            "Research Triangle Park, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cisco",
+        "title": "Software Consulting Engineer I Intern",
+        "source": "vanshb03",
+        "id": "72745d0d-167f-4f1b-8aa4-8385c3ddc1a8",
+        "date_posted": 1790812800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
