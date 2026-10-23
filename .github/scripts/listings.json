@@ -17143,5 +17143,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792731778,
+        "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5264424007",
+        "locations": [
+            "Austin, TX",
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tenstorrent",
+        "title": "Systems Intern, Validation, Software, Design, Architecture & Packaging",
+        "source": "vanshb03",
+        "id": "a81207cd-7173-43c4-838a-2ff0c4ca4848",
+        "date_posted": 1791936000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
