@@ -16086,5 +16086,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792717375,
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/Medicaid-Data-Analytics-Corporate-Internship---Summer-2027--Undergraduate-_R1052342",
+        "locations": [
+            "Hartford, CT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CVS Health",
+        "title": "Medicaid Data Analytics Intern",
+        "source": "vanshb03",
+        "id": "436e526a-cb06-4096-9960-5b6b3d0a58ca",
+        "date_posted": 1792627200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
