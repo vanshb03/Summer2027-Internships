@@ -15531,5 +15531,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792717232,
+        "url": "https://www.amazon.jobs/en/jobs/10564599/2027-frontier-ai-robotics-internship-undergraduate-united-states-frontier-ai-robotics-frontier-ai-robotics",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "Frontier AI & Robotics Intern",
+        "source": "vanshb03",
+        "id": "134db861-9a8c-46b3-a7d9-b4992de19d9b",
+        "date_posted": 1792652400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
