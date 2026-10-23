@@ -17861,5 +17861,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792775351,
+        "url": "https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Eden-Prairie-MN-United-States-of-America/Security-Internship-2027_R49322",
+        "locations": [
+            "Eden Prairie, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "C.H. Robinson",
+        "title": "Cyber Security Intern",
+        "source": "vanshb03",
+        "id": "aafec783-2c6c-4722-8b96-c5348389d9a4",
+        "date_posted": 1792688865,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
