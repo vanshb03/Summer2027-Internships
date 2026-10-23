@@ -16280,5 +16280,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792717375,
+        "url": "https://jobs.l3harris.com/job/Tulsa-Intern,-Software-Engineer-OK-74115/1442777600/?ats=successfactors",
+        "locations": [
+            "Tulsa, OK"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "L3Harris Technologies",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "cd6d4abf-61a2-413f-bb5d-3f5fc9c72bcd",
+        "date_posted": 1792707283,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
