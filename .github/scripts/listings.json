@@ -16452,5 +16452,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792717375,
+        "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/5012806101",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Man Group",
+        "title": "Systematic Quant Intern",
+        "source": "vanshb03",
+        "id": "0c8fbe33-c404-41d4-99d3-0fae7fba79e0",
+        "date_posted": 1792708593,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
