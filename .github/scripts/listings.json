@@ -15736,5 +15736,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792717232,
+        "url": "https://careers-westernsouthern.icims.com/jobs/25347/enterprise-architecture-information-technology-intern-%28full-year-2027%29/job",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Western & Southern Financial Group",
+        "title": "Enterprise Architecture Information Technology Intern",
+        "source": "vanshb03",
+        "id": "cd7a3aaf-3fb7-40ac-b462-bd1288829412",
+        "date_posted": 1792652400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
