@@ -16644,5 +16644,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792731778,
+        "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3814718",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "AVARINT",
+        "title": "Software Engineer Intern, DIADS",
+        "source": "vanshb03",
+        "id": "6ab39d80-cdad-46e1-8e6b-b91229095dba",
+        "date_posted": 1790553600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
