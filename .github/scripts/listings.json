@@ -17878,5 +17878,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792775352,
+        "url": "https://jobs.ashbyhq.com/rivianvw.tech/c6ae5fc4-ac16-450c-ac07-3efd6f0411a1",
+        "locations": [
+            "Vancouver, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Rivian and Volkswagen Group Technologies",
+        "title": "Software Engineering Intern, Embedded Platforms",
+        "source": "vanshb03",
+        "id": "f803c244-b6df-4228-861d-9de6498c7fb9",
+        "date_posted": 1792707800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
