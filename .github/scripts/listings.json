@@ -16211,5 +16211,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792717375,
+        "url": "https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4723980006",
+        "locations": [
+            "Arlington, VA",
+            "Woburn, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "STR",
+        "title": "Data Analyst Intern",
+        "source": "vanshb03",
+        "id": "240bd690-a643-4069-ad87-4f42a5c28638",
+        "date_posted": 1792706689,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
