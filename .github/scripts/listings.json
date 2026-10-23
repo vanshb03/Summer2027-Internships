@@ -16831,5 +16831,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792731778,
+        "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4553481",
+        "locations": [
+            "Omaha, NE"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Election Systems & Software",
+        "title": "DevOps Intern",
+        "source": "vanshb03",
+        "id": "a4fdd241-df74-41ea-9c22-ade105be652a",
+        "date_posted": 1790812800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
