@@ -16541,5 +16541,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792717555,
+        "url": "https://biibhr.wd3.myworkdayjobs.com/external/job/Cambridge-MA/Co-op--Integrated-Insights---Analytics--Nephrology_REQ24281",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Biogen",
+        "title": "Integrated Insights & Analytics Co-op, Nephrology",
+        "source": "vanshb03",
+        "id": "60e58547-a751-4f08-b6a9-2b0ecd870d5a",
+        "date_posted": 1792716475,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
