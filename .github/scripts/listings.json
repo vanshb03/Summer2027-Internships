@@ -18031,5 +18031,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792811877,
+        "url": "https://aero.wd5.myworkdayjobs.com/en-US/external/job/El-Segundo-CA/XMLNAME-2027-Defensive-Cyber-Operations-Undergrad-Intern_R017011",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Aerospace Corporation",
+        "title": "Defensive Cyber Operations Intern",
+        "source": "vanshb03",
+        "id": "32ca3a63-02c4-408a-8421-56ac6a1a1623",
+        "date_posted": 1792738800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
