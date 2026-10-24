@@ -18587,5 +18587,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792812208,
+        "url": "https://apply.workable.com/coretek-services/j/21D19CC253/apply",
+        "locations": [
+            "Remote",
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Coretek Services",
+        "title": "AI & Data Automation Developer Co-op",
+        "source": "vanshb03",
+        "id": "b893a898-3239-4137-9444-81f98cf9fdeb",
+        "date_posted": 1792764570,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
     }
 ]
