@@ -18917,5 +18917,25 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1792812489,
+        "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Pittsburgh-Pennsylvania-USA/XMLNAME-2027-IT---Digital-Internship_R-01366217",
+        "locations": [
+            "Pittsburgh, PA",
+            "Frederick, MD",
+            "Carlsbad, CA",
+            "Morrisville, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Thermo Fisher Scientific",
+        "title": "IT & Digital Intern",
+        "source": "vanshb03",
+        "id": "56a65ba5-9221-4ff4-bb3a-5b76607e25c7",
+        "date_posted": 1792794489,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
