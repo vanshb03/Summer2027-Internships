@@ -18814,5 +18814,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792812208,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557044772",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Product Manager Intern",
+        "source": "vanshb03",
+        "id": "66af16d0-54af-46b0-a131-2a24f255a09d",
+        "date_posted": 1792795221,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
