@@ -18797,5 +18797,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792812208,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557044771",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Software Engineer Intern, Security & Identity",
+        "source": "vanshb03",
+        "id": "c3fde03a-d232-4dd2-9236-6dad2a540d75",
+        "date_posted": 1792795219,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
