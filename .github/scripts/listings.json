@@ -18463,5 +18463,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792812208,
+        "url": "https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Technology--Application-Development--Summer-Analyst--Mississauga--Canada--2027_261003301",
+        "locations": [
+            "Mississauga, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Citi",
+        "title": "Technology Analyst Intern, Application Development",
+        "source": "vanshb03",
+        "id": "7c09ea99-3ed9-4307-89c3-28b016b9e7b3",
+        "date_posted": 1792713600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
