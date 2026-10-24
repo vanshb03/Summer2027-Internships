@@ -18065,5 +18065,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792811877,
+        "url": "https://trimble.wd1.myworkdayjobs.com/en-US/trimblecareers/job/Canada---Richmond-Hill-Ontario-Applanix/Navigation---Machine-Learning-Engineering-Intern--16-Months-_R57980",
+        "locations": [
+            "Richmond Hill, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Trimble",
+        "title": "Navigation & Machine Learning Engineering Intern",
+        "source": "vanshb03",
+        "id": "6618a8d3-238b-44b5-8a50-19d861e10917",
+        "date_posted": 1792738800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
