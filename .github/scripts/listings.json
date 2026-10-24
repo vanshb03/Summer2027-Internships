@@ -18643,5 +18643,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Spring"
+    },
+    {
+        "date_updated": 1792812208,
+        "url": "https://jobs.keysight.com/jobs/55151?icims=1",
+        "locations": [
+            "Calabasas, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Keysight Technologies",
+        "title": "FPGA Design Intern",
+        "source": "vanshb03",
+        "id": "b9d906d2-22f1-49a7-9621-57913a3c5f52",
+        "date_posted": 1792782900,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
