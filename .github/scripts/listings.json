@@ -18900,5 +18900,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792812489,
+        "url": "https://job-boards.greenhouse.io/figureai/jobs/4724521006",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Figure AI",
+        "title": "Developer Productivity Intern",
+        "source": "vanshb03",
+        "id": "04de57b4-c180-4bcf-8af0-316c80728e03",
+        "date_posted": 1792801689,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
