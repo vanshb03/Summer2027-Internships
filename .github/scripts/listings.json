@@ -18150,5 +18150,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792812208,
+        "url": "https://freight.wd108.myworkdayjobs.com/FXF_External_Career_Site/job/FXF-USUSAFXFMHQMemphis-Headquarters/Intern-Media---Web-Development--Marketing-_RC5600",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "FedEx Freight",
+        "title": "Media & Web Development Intern, Marketing",
+        "source": "vanshb03",
+        "id": "bcc79024-c097-40f9-8f70-8d583f77190d",
+        "date_posted": 1792627200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
