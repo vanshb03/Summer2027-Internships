@@ -17946,5 +17946,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792811877,
+        "url": "https://aoins.wd5.myworkdayjobs.com/en-US/AutoOwners/job/Lansing-MI/Business-Intelligence-Developer-Internship---Summer-2027_R_14772",
+        "locations": [
+            "Lansing, MI"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Auto-Owners Insurance",
+        "title": "Business Intelligence Developer Intern",
+        "source": "vanshb03",
+        "id": "c6246810-bbaa-49ba-8727-5d0e33d6dbce",
+        "date_posted": 1792738800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
