@@ -18549,5 +18549,24 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792812208,
+        "url": "https://jobs.ashbyhq.com/sardine/b25449a4-c78c-4b1a-b5b2-74b45981a37a/application?embed=true",
+        "locations": [
+            "Remote",
+            "United States",
+            "Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Sardine",
+        "title": "Engineering Intern",
+        "source": "vanshb03",
+        "id": "983b3726-cedc-4c9f-aa37-6488ad69842c",
+        "date_posted": 1792713600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
