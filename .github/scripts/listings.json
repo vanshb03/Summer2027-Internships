@@ -18218,5 +18218,24 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1792812208,
+        "url": "https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Edmonton/Business-Intelligence-Consulting-Intern---Summer-2027_JR122066-1",
+        "locations": [
+            "Toronto, Canada",
+            "Calgary, Canada",
+            "Edmonton, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "RSM",
+        "title": "Business Intelligence Consulting Intern",
+        "source": "vanshb03",
+        "id": "92cb666b-a7d3-40bd-876e-2944b3af756f",
+        "date_posted": 1792713600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
