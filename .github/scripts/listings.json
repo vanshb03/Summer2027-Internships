@@ -18082,5 +18082,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792811877,
+        "url": "https://job-boards.greenhouse.io/fspco-op012325/jobs/8911276002",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Flagship Pioneering",
+        "title": "AI/ML Engineering Co-op, SAGE Platform",
+        "source": "vanshb03",
+        "id": "751ef107-02c7-4889-9434-44a33dcc970e",
+        "date_posted": 1792738800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
