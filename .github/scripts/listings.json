@@ -18361,5 +18361,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792812208,
+        "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineer-Intern--C----Linux----Summer-2027_2641878",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "KLA",
+        "title": "Software Engineer Intern, C++, Linux",
+        "source": "vanshb03",
+        "id": "690cf002-0ad4-41ed-b19e-00ba1d116bc2",
+        "date_posted": 1792713600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
