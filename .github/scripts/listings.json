@@ -18971,5 +18971,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792812629,
+        "url": "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/Canada---Richmond-Hill-Ontario-Applanix/Automated-Test-Engineering-Intern--16-Month-Internship-_R58004",
+        "locations": [
+            "Richmond Hill, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Trimble",
+        "title": "Automated Test Engineering Intern",
+        "source": "vanshb03",
+        "id": "3456a4f2-5b46-4222-b463-f64cc37e2f68",
+        "date_posted": 1792812585,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
