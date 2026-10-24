@@ -18831,5 +18831,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792812208,
+        "url": "https://apply.workable.com/coretek-services/j/BD2FA6BDD9/apply",
+        "locations": [
+            "Remote",
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Coretek Services",
+        "title": "Data Consultant Co-op",
+        "source": "vanshb03",
+        "id": "b18b0bf5-32a8-4cfe-8ae5-77a33dab5fa3",
+        "date_posted": 1792795436,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
     }
 ]
