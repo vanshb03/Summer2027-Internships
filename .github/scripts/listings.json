@@ -17912,5 +17912,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1792811877,
+        "url": "https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Jose-CA-USA/Internship---Application-Software-QA-Engineer_J-00354565",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ASML",
+        "title": "Application Software QA Engineer Intern",
+        "source": "vanshb03",
+        "id": "60ad72d8-834b-4d9f-b7bf-5e6f89ded345",
+        "date_posted": 1792738800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
