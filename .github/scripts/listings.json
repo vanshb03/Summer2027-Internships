@@ -18954,5 +18954,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792812629,
+        "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Spring-Texas-United-States-of-America/Cybersecurity-Engineering-Intern_1216080",
+        "locations": [
+            "Spring, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hewlett Packard Enterprise",
+        "title": "Cybersecurity Engineering Intern",
+        "source": "vanshb03",
+        "id": "8e943a13-8ef4-449b-8857-b546beca29de",
+        "date_posted": 1792812578,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
