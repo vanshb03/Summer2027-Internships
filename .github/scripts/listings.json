@@ -18849,5 +18849,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Spring"
+    },
+    {
+        "date_updated": 1792812489,
+        "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Platform-Software-Engineer-In-Test---Internship-_J-00354558",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ASML",
+        "title": "Platform Software Engineer In Test Intern",
+        "source": "vanshb03",
+        "id": "ff4f572a-2531-4acf-8e27-648b8a3929f7",
+        "date_posted": 1792808889,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
