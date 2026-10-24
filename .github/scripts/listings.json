@@ -18498,5 +18498,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792812208,
+        "url": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/IP-Design-PEY-Intern_R03341",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Altera",
+        "title": "IP Design Intern",
+        "source": "vanshb03",
+        "id": "bcd25055-1315-4b93-8f65-cbcd8048d578",
+        "date_posted": 1792713600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
