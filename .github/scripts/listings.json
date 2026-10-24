@@ -18660,5 +18660,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792812208,
+        "url": "https://job-boards.greenhouse.io/amperesand/jobs/4465899009",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amperesand",
+        "title": "AI/ML Engineer Intern",
+        "source": "vanshb03",
+        "id": "c6a18012-353c-48c4-8a97-a6d113828441",
+        "date_posted": 1792793199,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
