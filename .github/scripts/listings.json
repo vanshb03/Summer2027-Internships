@@ -18099,5 +18099,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1792811877,
+        "url": "https://job-boards.greenhouse.io/fspco-op012325/jobs/8911245002",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Flagship Pioneering",
+        "title": "Bioinformatics Data Engineering Co-op",
+        "source": "vanshb03",
+        "id": "3cc96c34-7fd2-48a9-a00c-d7fb5015ce16",
+        "date_posted": 1792738800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
