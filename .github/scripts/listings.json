@@ -18568,5 +18568,24 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792812208,
+        "url": "https://amazon.jobs/en/jobs/10517535/asic-engineer-intern-annapurna-labs-2027",
+        "locations": [
+            "Seattle, WA",
+            "Austin, TX",
+            "Cupertino, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "ASIC Engineer Intern",
+        "source": "vanshb03",
+        "id": "e011a5f5-5bce-4f9f-a198-3bc7c0ebe3b4",
+        "date_posted": 1792720306,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
