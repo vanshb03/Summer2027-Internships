@@ -18694,5 +18694,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792812208,
+        "url": "https://jobs.lever.co/multiplylabs/acca98ab-c206-4f71-b7a5-6977e4828586/apply",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Multiply Labs",
+        "title": "Robotics Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "37710137-3678-4c75-b476-022f9c8fd20c",
+        "date_posted": 1792793407,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
