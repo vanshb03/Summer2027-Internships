@@ -18605,5 +18605,26 @@
         "company_url": "",
         "is_visible": true,
         "season": "Spring"
+    },
+    {
+        "date_updated": 1792812208,
+        "url": "https://www.mongodb.com/careers/job/?gh_jid=8209134",
+        "locations": [
+            "Palo Alto, CA",
+            "Seattle, WA",
+            "San Francisco, CA",
+            "Austin, TX",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "MongoDB",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "f6458bcc-eb46-4b49-9abf-c331ef19927f",
+        "date_posted": 1792765793,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
