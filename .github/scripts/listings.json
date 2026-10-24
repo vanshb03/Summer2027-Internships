@@ -18780,5 +18780,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792812208,
+        "url": "https://siemens.avature.net/en_US/externaljobs/JobDetail/526984",
+        "locations": [
+            "Princeton, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Siemens",
+        "title": "Python Backend Developer Intern, Energy Flexibility Platform",
+        "source": "vanshb03",
+        "id": "65cf2593-a6be-4dbd-8c9d-d77fa86f581f",
+        "date_posted": 1792795194,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
