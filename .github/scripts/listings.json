@@ -18745,5 +18745,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792812208,
+        "url": "https://jobs.lever.co/SimbeRobotics/96ee45fb-f094-4751-a43d-3e376f32667f/apply",
+        "locations": [
+            "Burlingame, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Simbe Robotics",
+        "title": "Data Analytics & Data Science Intern",
+        "source": "vanshb03",
+        "id": "a002673c-1c71-4ed7-b91f-d658d94ad0f0",
+        "date_posted": 1792793474,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
     }
 ]
