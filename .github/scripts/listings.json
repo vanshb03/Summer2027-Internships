@@ -18515,5 +18515,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792812208,
+        "url": "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAN01-Carrier-Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Software-Engineering-Intern---Summer_30220588",
+        "locations": [
+            "East Syracuse, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Carrier Global",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "eda9db19-c204-4901-8e68-1ccd8e5efad9",
+        "date_posted": 1792713600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
