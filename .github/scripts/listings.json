@@ -18626,5 +18626,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792812208,
+        "url": "https://careers.msasafety.com/jobs/10243?icims=1",
+        "locations": [
+            "Cranberry Township, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "MSA Safety",
+        "title": "AI Engineer Co-op",
+        "source": "vanshb03",
+        "id": "61407692-e5f0-4e69-a5af-d66272ec69cb",
+        "date_posted": 1792774200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
     }
 ]
