@@ -18711,5 +18711,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792812208,
+        "url": "https://jobs.lever.co/SimbeRobotics/d91f42b9-50b8-4b5f-8daf-00281d7dd61c/apply",
+        "locations": [
+            "Burlingame, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Simbe Robotics",
+        "title": "Robot Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "f10c3139-9c8b-4b4c-befd-6b3511e2304f",
+        "date_posted": 1792793466,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
     }
 ]
