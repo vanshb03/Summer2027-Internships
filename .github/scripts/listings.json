@@ -18326,5 +18326,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792812208,
+        "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/CPU-IP-Design---Verification-Intern---RISC-V-Processor-Development--Summer-2027-_JR-2604042",
+        "locations": [
+            "Austin, TX",
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "GlobalFoundries",
+        "title": "CPU IP Design & Verification Intern, RISC-V Processor Development",
+        "source": "vanshb03",
+        "id": "49b4a066-840d-4414-9939-01b4c31f3b29",
+        "date_posted": 1792713600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
