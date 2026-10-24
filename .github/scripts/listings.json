@@ -18677,5 +18677,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792812208,
+        "url": "https://jobs.lever.co/multiplylabs/8203fbb3-4d42-4f6a-ae64-f05c3dcf0e9b/apply",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Multiply Labs",
+        "title": "Software Intern",
+        "source": "vanshb03",
+        "id": "c81adab2-2ec1-4ef2-8111-c625f1922323",
+        "date_posted": 1792793407,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
