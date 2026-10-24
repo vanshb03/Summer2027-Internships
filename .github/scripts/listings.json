@@ -18728,5 +18728,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Spring"
+    },
+    {
+        "date_updated": 1792812208,
+        "url": "https://jobs.lever.co/SimbeRobotics/d8e862ca-212d-4a88-af74-de400b0c6bf8/apply",
+        "locations": [
+            "Burlingame, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Simbe Robotics",
+        "title": "Computer Vision / Applied AI Intern",
+        "source": "vanshb03",
+        "id": "ca72f15a-4038-41e6-9d31-cbde5fd395db",
+        "date_posted": 1792793470,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
