@@ -18883,5 +18883,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792812489,
+        "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016380",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Texas Instruments",
+        "title": "Digital Design Verification Engineering Intern",
+        "source": "vanshb03",
+        "id": "2159f079-5e4e-4ab1-aa65-6d49af0aff31",
+        "date_posted": 1792726089,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
