@@ -18288,5 +18288,26 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792812208,
+        "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Wellesley-Hills-Massachusetts/Data-Science-Intern---Summer-2027-Intern_JR00127666-1",
+        "locations": [
+            "Milwaukee, WI",
+            "Kansas City, MO",
+            "Hartford, CT",
+            "Portland, ME",
+            "Wellesley, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Sun Life",
+        "title": "Data Science Intern",
+        "source": "vanshb03",
+        "id": "1f8131d6-a9a2-4f27-ab88-a59bb83275d1",
+        "date_posted": 1792713600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
