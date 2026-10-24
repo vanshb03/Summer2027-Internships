@@ -18167,5 +18167,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792812208,
+        "url": "https://boards.greenhouse.io/ivalua/jobs/8293704",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ivalua",
+        "title": "Marketing Web Developer Intern",
+        "source": "vanshb03",
+        "id": "b142ac8f-82c9-4e59-9524-a4bb98bef181",
+        "date_posted": 1792706704,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
     }
 ]
