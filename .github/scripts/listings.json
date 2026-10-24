@@ -18254,5 +18254,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792812208,
+        "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--May-2027---12-Months-_R10638",
+        "locations": [
+            "Mississauga, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SOTI",
+        "title": "Associate Product Manager Intern",
+        "source": "vanshb03",
+        "id": "1e492539-1559-45f6-8fcf-8caf983d4592",
+        "date_posted": 1792713600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
