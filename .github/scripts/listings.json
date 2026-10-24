@@ -18937,5 +18937,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792812628,
+        "url": "https://jobs.ashbyhq.com/scout-ai/3b639e39-abd7-4a0c-9bea-e1cd0a72db99",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Scout AI",
+        "title": "AI Engineer Intern, Fury Team",
+        "source": "vanshb03",
+        "id": "9d19da8a-d01e-4b2e-83d2-bd7488804dac",
+        "date_posted": 1792790493,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
