@@ -19195,5 +19195,23 @@
         "date_posted": 1792917843,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1792917865,
+        "url": "https://go.vansh.nyc/BF",
+        "locations": [
+            "San Francisco, CA",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Notion",
+        "title": "Software Engineer Intern, Mobile",
+        "season": "Winter",
+        "source": "vanshb03",
+        "id": "90a334ec-5ca8-46e6-9f27-99aa1167595e",
+        "date_posted": 1792917865,
+        "company_url": "",
+        "is_visible": true
     }
 ]
