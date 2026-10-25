@@ -19126,5 +19126,22 @@
         "date_posted": 1792917752,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1792917773,
+        "url": "https://go.vansh.nyc/BB",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Skydio",
+        "title": "Product Design Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "e43ab7d3-bac2-4080-8bf8-7e08a9dc50f4",
+        "date_posted": 1792917773,
+        "company_url": "",
+        "is_visible": true
     }
 ]
