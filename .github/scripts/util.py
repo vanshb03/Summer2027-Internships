@@ -1,3 +1,4 @@
+import re
 import json
 import os
 from datetime import datetime
@@ -39,16 +40,24 @@ def getSponsorship(listing):
     return ""
 
 
-def getLink(listing):
+# Each README page's code on go.vansh.nyc (sources table in jobbots/golinks), so a click from the page
+# is counted as coming from it. listings.json keeps the bare go link; only the pages carry ?s=.
+SOURCES = {"README.md": "y", "OFFSEASON_README.md": "z"}
+GO_LINK = re.compile(r"^https://go\.vansh\.nyc/[0-9A-Za-z]{1,6}$")
+
+
+def getLink(listing, source=None):
     if not listing["active"]:
         return "🔒"
     link = listing["url"]
+    if source and GO_LINK.match(link):
+        link += "?s=" + source
     # return f'<a href="{link}" style="display: inline-block;"><img src="{SHORT_APPLY_BUTTON}" width="160" alt="Apply"></a>'
 
     return f'<a href="{link}"><img src="{APPLY_BUTTON}" width="118" alt="Apply"></a>'
 
 
-def create_md_table(listings):
+def create_md_table(listings, source=None):
     table = ""
     table += "| Company | Role | Location | Application/Link | Date Posted |\n"
     table += "| ------- | ---- | -------- | ---------------- | ----------- |\n"
@@ -62,7 +71,7 @@ def create_md_table(listings):
         company = f"**[{listing['company_name']}]({company_url})**" if len(company_url) > 0 else listing["company_name"]
         location = getLocations(listing)
         position = listing["title"] + getSponsorship(listing)
-        link = getLink(listing)
+        link = getLink(listing, source)
 
         # parse listing date
         year_month = datetime.fromtimestamp(listing["date_posted"]).strftime('%b %Y')
@@ -107,7 +116,7 @@ def embedTable(listings, filepath):
                 if "TABLE_START" in line:
                     readingTable = True
                     newText += "\n" + \
-                        create_md_table(listings) + "\n"
+                        create_md_table(listings, SOURCES.get(filepath)) + "\n"
     with open(filepath, "w") as f:
         f.write(newText)
 
