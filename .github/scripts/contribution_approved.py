@@ -4,6 +4,9 @@ import uuid
 from datetime import datetime
 import util
 import re
+import golinks
+
+REPO = "internships"  # this repo's name at go.vansh.nyc
 
 # TODO: fix this object display comment formatting
 # ["Company Name", "_No response_", "Internship Title", "_No response_", "Link to Internship Posting", "example.com/link/to/posting", "Location", "San Franciso, CA | Austin, TX | Remote"]
@@ -150,6 +153,13 @@ def main():
     with open(".github/scripts/listings.json", "r") as f:
         listings = json.load(f)
 
+    # Listings hold go.vansh.nyc links; an issue holds the real URL. Match it through the Worker.
+    url = data.get("job_url") if close_internship else data["url"]
+    try:
+        submitted = golinks.urls_for(url) if url else set()
+    except Exception as e:
+        util.fail(f"Couldn't reach go.vansh.nyc ({e}). Remove and re-add the approved label to try again.")
+
     if close_internship:
         # Handle closing internship by company name, role title, and optionally URL
         company_name = data.get("company_name")
@@ -168,7 +178,7 @@ def main():
         
         # If URL provided, filter by URL
         if job_url and candidates:
-            url_matches = [item for item in candidates if item["url"] == job_url]
+            url_matches = [item for item in candidates if item["url"] in submitted]
             if url_matches:
                 candidates = url_matches
         
@@ -186,10 +196,11 @@ def main():
         util.setOutput("commit_message", "closed listing: " + get_commit_text(listing_to_close))
     else:
         if listing_to_update := next(
-            (item for item in listings if item["url"] == data["url"]), None
+            (item for item in listings if item["url"] in submitted), None
         ):
             if new_internship:
                 util.fail("This internship is already in our list. See CONTRIBUTING.md for how to edit a listing")
+            data["url"] = listing_to_update["url"]  # keeps its go link
             for key, value in data.items():
                 listing_to_update[key] = value
 
@@ -197,6 +208,10 @@ def main():
         else:
             if edit_internship:
                 util.fail("We could not find this internship in our list. Please double check you inserted the right url")
+            try:
+                data["url"] = golinks.link(data["id"], data["url"], REPO)
+            except Exception as e:
+                util.fail(f"Couldn't make a go.vansh.nyc link ({e}). Remove and re-add the approved label to try again.")
             listings.append(data)
 
             util.setOutput("commit_message", "added listing: " + get_commit_text(data))
