@@ -208,14 +208,14 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1754696114,
+        "date_updated": 1792903919,
         "url": "https://jobs.ashbyhq.com/notion/39d70209-37f6-4623-949b-18fbd8889933",
         "locations": [
             "San Francisco, CA",
             "New York, NY"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Notion",
         "title": "Software Engineer, AI Intern",
         "season": "Winter",
@@ -226,14 +226,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754803849,
+        "date_updated": 1792903919,
         "url": "https://jobs.ashbyhq.com/notion/fc762b58-24c9-4f34-bf5f-2af6e8adc644",
         "locations": [
             "San Francisco, CA",
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Notion",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -244,14 +244,14 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1754803873,
+        "date_updated": 1792903919,
         "url": "https://jobs.ashbyhq.com/notion/3e56e35b-f35b-4b1a-ba2b-0ccdc6f60421",
         "locations": [
             "San Francisco, CA",
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Notion",
         "title": "Software Engineer Intern, Mobile",
         "source": "vanshb03",
@@ -365,13 +365,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1755263049,
+        "date_updated": 1792903919,
         "url": "https://jobs.ashbyhq.com/AtomicSemi/13e95284-dbcf-4cf2-8151-c9687dfc1889",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Atomic Semi",
         "title": "Embedded Software Engineering Intern",
         "source": "vanshb03",
@@ -656,13 +656,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1757963647,
+        "date_updated": 1792903919,
         "url": "https://jobs.ashbyhq.com/ethglobal/4522a1d6-956c-4434-a6db-9365f19c60fb",
         "locations": [
             "Remote"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "ETHGlobal",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
@@ -1147,13 +1147,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1776715588,
+        "date_updated": 1792903919,
         "url": "https://jobs.ashbyhq.com/poshmark/062b84e6-1633-43ae-870b-83cb62893caa",
         "locations": [
             "Redwood City, CA"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Poshmark",
         "title": "Cloud Platform Engineer Intern, Growth",
         "source": "vanshb03",
@@ -1212,13 +1212,13 @@
         "season": "Fall"
     },
     {
-        "date_updated": 1776726844,
+        "date_updated": 1792903919,
         "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000121851427",
         "locations": [
             "Universal City, CA"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "NBCUniversal",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
@@ -1229,13 +1229,13 @@
         "season": "Fall"
     },
     {
-        "date_updated": 1776726849,
+        "date_updated": 1792903919,
         "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000121848194",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "NBCUniversal",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
@@ -1473,13 +1473,13 @@
         "season": "Fall"
     },
     {
-        "date_updated": 1776727835,
+        "date_updated": 1792903919,
         "url": "https://lifeattiktok.com/referral/tiktok/campus/position/7537493362585979154/detail?token=MzsxNzU3OTM3MTgyMDE1OzczNzM0OTcwMTcxNzQxMzIyNDA7MDsy",
         "locations": [
             "Seattle, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "Software Engineer Intern, Recommendation Infrastructure",
         "source": "vanshb03",
@@ -1525,14 +1525,14 @@
         "season": "Fall"
     },
     {
-        "date_updated": 1776894212,
+        "date_updated": 1792903919,
         "url": "https://jobs.ashbyhq.com/AtomicSemi/947338ca-e135-4398-9aa3-79e131bc03d5?jr_id=69e8f6053aa0c479643a5ee5",
         "locations": [
             "Austin, TX",
             "San Francisco, CA"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Atomic Semi",
         "title": "Software Engineering Intern, Fab",
         "source": "vanshb03",
@@ -1543,14 +1543,14 @@
         "season": "Fall"
     },
     {
-        "date_updated": 1776894215,
+        "date_updated": 1792903919,
         "url": "https://jobs.ashbyhq.com/AtomicSemi/867c67f7-20b5-4726-b9da-85a760d3851e/application?jr_id=69e8eecae0cd471b2f138f47",
         "locations": [
             "San Francisco, CA",
             "Austin, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Atomic Semi",
         "title": "Infrastructure Software Engineering Intern",
         "source": "vanshb03",
@@ -1578,7 +1578,7 @@
         "season": "Fall"
     },
     {
-        "date_updated": 1776914894,
+        "date_updated": 1792903919,
         "url": "https://jobs.ashbyhq.com/ether.fi/6dcb712c-8fe5-4725-ad6a-0e9771af22cb",
         "locations": [
             "Cayman",
@@ -1586,7 +1586,7 @@
             "New York"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Ether.fi",
         "title": "GTM Engineer Intern",
         "source": "vanshb03",
@@ -1682,13 +1682,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1777071076,
+        "date_updated": 1792903919,
         "url": "https://apply.workable.com/al-warren-oil-company-inc/j/A4487B349D/",
         "locations": [
             "Bensenville, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Al Warren Oil Company",
         "title": "Software Developer Intern",
         "source": "vanshb03",
@@ -1716,13 +1716,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1777071143,
+        "date_updated": 1792903919,
         "url": "https://jobs.ashbyhq.com/notion/5b15697c-fa91-4511-9482-c98a6ff29f90",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Notion",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -1852,13 +1852,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1777084447,
+        "date_updated": 1792903919,
         "url": "https://lifeattiktok.com/search/7631599293708126517",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "LLM Post-training Engineer Intern, Research & Product",
         "source": "vanshb03",
@@ -1920,14 +1920,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1777366779,
+        "date_updated": 1792903919,
         "url": "https://jobs.ashbyhq.com/homebase/a7ab59c0-786e-4675-b684-2ed19b240fb2",
         "locations": [
             "Houston, TX",
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Homebase",
         "title": "Forward Deployed Engineering Intern, AI-Native",
         "season": "Summer",
@@ -2062,13 +2062,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1778311204,
+        "date_updated": 1792903919,
         "url": "https://jobs.ashbyhq.com/skydio/f6320e9b-4eed-408d-8d37-d509fb0406ee",
         "locations": [
             "San Mateo, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Skydio",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -2396,13 +2396,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1778525954,
+        "date_updated": 1792903919,
         "url": "https://jobs.ashbyhq.com/apex-technology-inc/5ec2dfa9-724d-4ce4-ab97-5067ec747f11",
         "locations": [
             "Los Angeles"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Apex Technology, Inc.",
         "title": "Software Engineering Intern, Embedded Systems",
         "source": "vanshb03",
@@ -2515,13 +2515,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1778578835,
+        "date_updated": 1792903919,
         "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/86808",
         "locations": [
             "Dallas, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "WSP",
         "title": "Software Developer Intern",
         "source": "vanshb03",
@@ -2721,13 +2721,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1779485539,
+        "date_updated": 1792903919,
         "url": "https://jobs.ashbyhq.com/Etched/2d7039e2-190e-4039-b5a9-fff9efa7cc8e",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Etched",
         "title": "Supercomputing Intern",
         "source": "vanshb03",
@@ -2738,13 +2738,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1779485542,
+        "date_updated": 1792903919,
         "url": "https://jobs.ashbyhq.com/Etched/20f77518-1699-4184-ac8e-9fa2f614d6fb",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Etched",
         "title": "Supercomputing Intern",
         "source": "vanshb03",
@@ -2772,13 +2772,13 @@
         "season": "Fall"
     },
     {
-        "date_updated": 1779485552,
+        "date_updated": 1792903919,
         "url": "https://jobs.ashbyhq.com/Etched/80926a71-0a62-4bf8-a877-b6d96df279b7",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Etched",
         "title": "Infrastructure Intern",
         "source": "vanshb03",
@@ -2789,13 +2789,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1779485693,
+        "date_updated": 1792903919,
         "url": "https://jobs.ashbyhq.com/Etched/65348db2-5658-41d0-a833-af222865d979",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Etched",
         "title": "Infrastructure Intern",
         "source": "vanshb03",
@@ -2806,13 +2806,13 @@
         "season": "Spring"
     },
     {
-        "date_updated": 1779485699,
+        "date_updated": 1792903919,
         "url": "https://jobs.ashbyhq.com/Etched/e56469e3-7398-4d83-9fe3-3f8ab1b10468",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Etched",
         "title": "Infrastructure Intern",
         "source": "vanshb03",
@@ -2823,13 +2823,13 @@
         "season": "Fall"
     },
     {
-        "date_updated": 1779485706,
+        "date_updated": 1792903919,
         "url": "https://jobs.ashbyhq.com/Etched/1efd9b58-66fe-4798-a877-776857b4e189",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Etched",
         "title": "Firmware Intern",
         "source": "vanshb03",
@@ -2840,13 +2840,13 @@
         "season": "Fall"
     },
     {
-        "date_updated": 1779485825,
+        "date_updated": 1792903919,
         "url": "https://jobs.ashbyhq.com/Etched/0e78a385-c450-4749-9803-0970ce2971a5",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Etched",
         "title": "Firmware Intern",
         "source": "vanshb03",
@@ -2857,13 +2857,13 @@
         "season": "Spring"
     },
     {
-        "date_updated": 1779485828,
+        "date_updated": 1792903919,
         "url": "https://jobs.ashbyhq.com/Etched/8134a9bf-9624-48dd-98be-0bf1c3cb1f55",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Etched",
         "title": "Firmware Intern",
         "source": "vanshb03",
@@ -2874,13 +2874,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1779485843,
+        "date_updated": 1792903919,
         "url": "https://jobs.ashbyhq.com/Etched/aa17bfa2-2922-4aa7-820d-76064f2551a8",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Etched",
         "title": "Inference Intern, Architecture",
         "source": "vanshb03",
@@ -3430,13 +3430,13 @@
         "season": "Fall"
     },
     {
-        "date_updated": 1783642670,
+        "date_updated": 1792903919,
         "url": "https://jobs.ashbyhq.com/vital-lyfe/43a79d8f-a8bb-4c57-a411-1bac946128af",
         "locations": [
             "Los Angeles, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "VITAL LYFE",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
@@ -4890,13 +4890,13 @@
         "season": "Fall"
     },
     {
-        "date_updated": 1785124692,
+        "date_updated": 1792903919,
         "url": "https://apply.workable.com/pony-dot-ai/j/BA5FFDBC71/",
         "locations": [
             "Fremont, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Pony.ai",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -4978,13 +4978,13 @@
         "season": "Fall"
     },
     {
-        "date_updated": 1785124745,
+        "date_updated": 1792903919,
         "url": "https://apply.workable.com/hyperlight/j/5581EA0668/",
         "locations": [
             "Cambridge, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "HyperLight",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -5097,13 +5097,13 @@
         "season": "Fall"
     },
     {
-        "date_updated": 1785147502,
+        "date_updated": 1792903919,
         "url": "https://jobs.smartrecruiters.com/BoschGroup/744000139649345",
         "locations": [
             "Sunnyvale, CA"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Robert Bosch LLC",
         "title": "Software Engineer Intern, Autonomous Driving",
         "source": "vanshb03",
@@ -5114,13 +5114,13 @@
         "season": "Fall"
     },
     {
-        "date_updated": 1785161049,
+        "date_updated": 1792903919,
         "url": "https://jobs.ashbyhq.com/fab2/907766af-a3c0-49a3-b01e-246baa437d10?embed=true",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Atomic Semi",
         "title": "Software Engineer Intern, Chip Design Tools",
         "source": "vanshb03",
@@ -5234,13 +5234,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1785180797,
+        "date_updated": 1792903919,
         "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36722",
         "locations": [
             "Naperville, IL"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Nokia",
         "title": "Architecture AI Co-op",
         "source": "vanshb03",
@@ -5676,14 +5676,14 @@
         "season": "Fall"
     },
     {
-        "date_updated": 1785516765,
+        "date_updated": 1792903919,
         "url": "https://jobs.ashbyhq.com/rivianvw.tech/4dfbf1e6-3778-4101-8ac7-cd4015d47eff",
         "locations": [
             "Palo Alto, CA",
             "Irvine, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Rivian and Volkswagen Group Technologies",
         "title": "Software Engineer Intern, Embedded Platforms",
         "source": "vanshb03",
@@ -5766,13 +5766,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1785741377,
+        "date_updated": 1792903919,
         "url": "https://jobs.ashbyhq.com/astera/c2a48c1b-c4c4-4333-addf-313c47e26066",
         "locations": [
             "Emeryville, CA"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Astera",
         "title": "Software Engineering Intern, Neuro & AGI",
         "source": "vanshb03",
@@ -5956,13 +5956,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1785852828,
+        "date_updated": 1792903919,
         "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011916",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "American Express",
         "title": "Product Management Intern",
         "source": "vanshb03",
@@ -6501,13 +6501,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1785853304,
+        "date_updated": 1792903919,
         "url": "https://lifeattiktok.com/search/7667933770819897605",
         "locations": [
             "San Jose"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "Software Engineer Intern, PGC Creator Strategy",
         "source": "vanshb03",
@@ -6705,13 +6705,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1785853476,
+        "date_updated": 1792903919,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-FULLERTON-675--1801-Hughes-Dr--BLDG-675/Software-Engineering-Intern--Summer-2027-_01863012",
         "locations": [
             "Fullerton, CA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "RTX",
         "title": "Software Engineer Intern, Fleet Health Instrumentation",
         "source": "vanshb03",
@@ -6722,13 +6722,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1785853484,
+        "date_updated": 1792903919,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Software-Engineering-Intern--Summer-2027-_01863072",
         "locations": [
             "McKinney, TX"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "RTX",
         "title": "Software Engineer Intern, Fleet Health Instrumentation",
         "source": "vanshb03",
@@ -6871,13 +6871,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1786024267,
+        "date_updated": 1792903919,
         "url": "https://jobs.smartrecruiters.com/Canva/6000000001291655-phd-research-scientist-intern",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Canva",
         "title": "PhD Research Scientist Intern",
         "source": "vanshb03",
@@ -6956,13 +6956,13 @@
         "season": "Fall"
     },
     {
-        "date_updated": 1786024328,
+        "date_updated": 1792903919,
         "url": "https://canadiantirecorporation.wd3.myworkdayjobs.com/en-US/Enterprise_External_Careers_Site/job/Calgary-AB/AI-Automation-Student--4-months----Fall-2026_JR163947",
         "locations": [
             "Calgary, AB"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Canadian Tire Corporation, Limited",
         "title": "AI Automation Student",
         "source": "vanshb03",
@@ -7212,13 +7212,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1787326657,
+        "date_updated": 1792903919,
         "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012460",
         "locations": [
             "Phoenix, AZ"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "American Express",
         "title": "Cybersecurity Intern",
         "source": "vanshb03",
@@ -7297,13 +7297,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1787326680,
+        "date_updated": 1792903919,
         "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011781",
         "locations": [
             "Phoenix, AZ"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "American Express",
         "title": "Software Engineer Intern, Enterprise Technology Services",
         "source": "vanshb03",
@@ -7314,13 +7314,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1787326683,
+        "date_updated": 1792903919,
         "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011679",
         "locations": [
             "Charlotte, NC"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "American Express",
         "title": "Software Engineer Intern, Enterprise Technology Services",
         "source": "vanshb03",
@@ -7331,13 +7331,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1787326685,
+        "date_updated": 1792903919,
         "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010970",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "American Express",
         "title": "Software Engineer Intern, Technology",
         "source": "vanshb03",
@@ -7416,13 +7416,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1787326701,
+        "date_updated": 1792903919,
         "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012375",
         "locations": [
             "Phoenix, AZ"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "American Express",
         "title": "AI Engineer Intern, Enterprise Technology Services",
         "source": "vanshb03",
@@ -7433,13 +7433,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1787326708,
+        "date_updated": 1792903919,
         "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011796",
         "locations": [
             "Atlanta, GA"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "American Express",
         "title": "AI Engineer Intern, Enterprise Technology Services",
         "source": "vanshb03",
@@ -7700,13 +7700,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1787327028,
+        "date_updated": 1792903919,
         "url": "https://jobs.ashbyhq.com/hypercubic/ab7a23f9-7280-4443-b442-2813dc39d490",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Hypercubic",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
@@ -7734,13 +7734,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1787327039,
+        "date_updated": 1792903919,
         "url": "https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1",
         "locations": [
             "Foster City, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Replit",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
@@ -7837,13 +7837,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1787327075,
+        "date_updated": 1792903919,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Development-Intern--Summer-2027-_01865635",
         "locations": [
             "Tewksbury, MA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Raytheon",
         "title": "Software Development Intern",
         "source": "vanshb03",
@@ -7871,13 +7871,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1787327085,
+        "date_updated": 1792903919,
         "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278933",
         "locations": [
             "Westerville, OH"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Vertiv",
         "title": "Product Management Intern",
         "source": "vanshb03",
@@ -8917,13 +8917,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792261427,
+        "date_updated": 1792903919,
         "url": "https://cibc.wd3.myworkdayjobs.com/en-US/search/job/New-York-NY/XMLNAME-2027-Summer-Analyst--Equity-Solutions-Group_2620985-1",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "CIBC",
         "title": "Analyst Intern, Equity Solutions Group",
         "source": "vanshb03",
@@ -9478,13 +9478,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792261427,
+        "date_updated": 1792903919,
         "url": "https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Bellevue/GE-Vernova---AGI---AI-Evaluation---Benchmarking-Intern---Summer-2027_R5054821-2",
         "locations": [
             "Bellevue, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "GE Vernova",
         "title": "AI Evaluation & Benchmarking Intern, AGI",
         "source": "vanshb03",
@@ -10637,13 +10637,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1792261427,
+        "date_updated": 1792903919,
         "url": "https://ag.wd3.myworkdayjobs.com/en-US/airbus/job/Mobile-Area-AL/Short-term-Internship---Tool-Technology-and-Development-Engineering_JR10451236",
         "locations": [
             "Mobile Area, AL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Airbus",
         "title": "Tool Technology and Development Engineering Intern",
         "source": "vanshb03",
@@ -11045,13 +11045,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792261427,
+        "date_updated": 1792903919,
         "url": "https://jobs.ashbyhq.com/persona/a50a3137-1c9a-4947-9f4e-1a4ef26c2bec/application",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Persona",
         "title": "Product Design Intern",
         "source": "vanshb03",
@@ -11255,13 +11255,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792370268,
+        "date_updated": 1792903919,
         "url": "https://jobs.ashbyhq.com/abridge/aab11857-7ed3-4fc5-aab3-35256601117e/application?embed=true",
         "locations": [
             "SF"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Abridge",
         "title": "Member of Technical Staff Intern",
         "source": "vanshb03",
@@ -12392,13 +12392,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1792511186,
+        "date_updated": 1792903919,
         "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Part-time-Software-Engineer-Co-op--Remote-_01883452",
         "locations": [
             "Aurora, CO"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "RTX",
         "title": "Software Engineer Co-op",
         "source": "vanshb03",
@@ -13414,13 +13414,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792535448,
+        "date_updated": 1792903919,
         "url": "https://jobs.ashbyhq.com/skydio/370da6a5-5ae6-48fe-8e08-9b1dcc63bf34",
         "locations": [
             "San Mateo, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Skydio",
         "title": "Embedded Software Engineer Intern",
         "source": "vanshb03",
@@ -13534,13 +13534,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1792536445,
+        "date_updated": 1792903919,
         "url": "https://jobs.ashbyhq.com/integrate/d619e978-446a-4147-a788-9e53918a1736",
         "locations": [
             "Seattle, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Integrate",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
@@ -14067,13 +14067,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792602873,
+        "date_updated": 1792903919,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10257053",
         "locations": [
             "Roy, UT"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Northrop Grumman",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -14795,13 +14795,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792629862,
+        "date_updated": 1792903919,
         "url": "https://jobs.ashbyhq.com/crusoe/07a8a6a9-975e-471c-ac31-b5aaa97f9af5",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Crusoe",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
@@ -18985,6 +18985,59 @@
         "source": "vanshb03",
         "id": "3456a4f2-5b46-4222-b463-f64cc37e2f68",
         "date_posted": 1792812585,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1792903493,
+        "url": "https://job-boards.greenhouse.io/studiokraftonboard/jobs/8906470002",
+        "locations": [
+            "Montreal, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "KRAFTON",
+        "title": "UI Programming Intern",
+        "source": "vanshb03",
+        "id": "af004110-eae9-47af-b27e-d38c69a10f61",
+        "date_posted": 1792679825,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1792903493,
+        "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000704366",
+        "locations": [
+            "Kanata, Canada",
+            "Ottawa, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Aptiv",
+        "title": "Cloud Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "620479e0-2a5b-4657-bb31-6b8fec445b99",
+        "date_posted": 1792713600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1792903493,
+        "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000704367",
+        "locations": [
+            "Kanata, Canada",
+            "Ottawa, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Aptiv",
+        "title": "Engineering Intern",
+        "source": "vanshb03",
+        "id": "0c52a839-8526-498a-b9a8-33c0dccee238",
+        "date_posted": 1792713600,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
