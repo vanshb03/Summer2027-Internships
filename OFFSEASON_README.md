@@ -48,8 +48,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Data Analytics & Data Science Intern | Burlingame, CA | <a href="https://jobs.lever.co/SimbeRobotics/96ee45fb-f094-4751-a43d-3e376f32667f/apply?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
 | Nokia | Network Systems Engineer Co-op | Canada | <a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41672?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
 | MSA Safety | AI Engineer Co-op | Cranberry Township, PA | <a href="https://careers.msasafety.com/jobs/10243?icims=1&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
-| Flagship Pioneering | AI/ML Engineering Co-op, SAGE Platform | Cambridge, MA | <a href="https://job-boards.greenhouse.io/fspco-op012325/jobs/8911276002?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
-| ↳ | Bioinformatics Data Engineering Co-op | Cambridge, MA | <a href="https://job-boards.greenhouse.io/fspco-op012325/jobs/8911245002?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
 | Figure AI | Developer Productivity Intern | San Jose, CA | <a href="https://job-boards.greenhouse.io/figureai/jobs/4724521006?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
 | Coretek Services | AI & Data Automation Developer Co-op | Remote</br>United States | <a href="https://apply.workable.com/coretek-services/j/21D19CC253/apply?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
 | ↳ | Data Consultant Co-op | Remote</br>United States | <a href="https://apply.workable.com/coretek-services/j/BD2FA6BDD9/apply?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
@@ -288,6 +286,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Rippling | Software Engineer Intern | New York, NY</br>San Francisco, CA | <a href="https://ats.rippling.com/en-GB/rippling/jobs/203e0cac-0e30-4603-8087-f764e8c3f85c?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 06 |
 | ↳ | Machine Learning Engineer Intern | San Francisco, CA | <a href="https://ats.rippling.com/en-GB/rippling/jobs/ee1ec0b1-9a55-408d-979d-9c74f257e9ea?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 06 |
 | ↳ | Frontend Software Engineer Intern | New York, NY</br>San Francisco, CA | <a href="https://ats.rippling.com/en-GB/rippling/jobs/3fd9615a-d0c7-458c-a0fc-5d9d7f0ce77c?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 06 |
+| Flagship Pioneering | AI/ML Engineering Co-op, SAGE Platform | Cambridge, MA | 🔒 | Oct 23 |
+| ↳ | Bioinformatics Data Engineering Co-op | Cambridge, MA | 🔒 | Oct 23 |
 | RTX | Software Engineer Co-op 🇺🇸 | Richardson, TX | 🔒 | Oct 20 |
 | BMO | Data & AI Analyst Co-op | Toronto, ON, Canada | 🔒 | Oct 20 |
 | Manulife Financial | AI Co-op | Toronto, ON, Canada | 🔒 | Oct 18 |
