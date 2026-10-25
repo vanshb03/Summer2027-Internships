@@ -19143,5 +19143,22 @@
         "date_posted": 1792917773,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1792917795,
+        "url": "https://go.vansh.nyc/BC",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Skydio",
+        "title": "Process Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "92fc6bb2-3953-4bee-897c-5e2c9c2489ee",
+        "date_posted": 1792917795,
+        "company_url": "",
+        "is_visible": true
     }
 ]
