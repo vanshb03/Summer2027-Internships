@@ -19075,5 +19075,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1792917703,
+        "url": "https://go.vansh.nyc/By",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Skydio",
+        "title": "Hardware Test and Reliability Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "6905f160-f608-4f3d-862c-5a3e26b4f321",
+        "date_posted": 1792917703,
+        "company_url": "",
+        "is_visible": true
     }
 ]
