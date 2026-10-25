@@ -19092,5 +19092,22 @@
         "date_posted": 1792917703,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1792917728,
+        "url": "https://go.vansh.nyc/Bz",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Skydio",
+        "title": "Flight Test Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "a99121c0-26d3-478c-9877-a3613e39a14f",
+        "date_posted": 1792917728,
+        "company_url": "",
+        "is_visible": true
     }
 ]
