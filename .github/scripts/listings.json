@@ -19160,5 +19160,22 @@
         "date_posted": 1792917795,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1792917819,
+        "url": "https://go.vansh.nyc/BD",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Skydio",
+        "title": "Embedded Software Engineer Intern",
+        "season": "Winter",
+        "source": "vanshb03",
+        "id": "2295901e-eac9-41b9-8e2c-6164c9d0f3bf",
+        "date_posted": 1792917819,
+        "company_url": "",
+        "is_visible": true
     }
 ]
