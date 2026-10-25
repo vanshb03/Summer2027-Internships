@@ -19109,5 +19109,22 @@
         "date_posted": 1792917728,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1792917752,
+        "url": "https://go.vansh.nyc/BA",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Skydio",
+        "title": "Autonomy Engineer Intern, Computer Vision / Deep Learning",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "3e8d9753-7659-4467-b4f1-2f05cc19984f",
+        "date_posted": 1792917752,
+        "company_url": "",
+        "is_visible": true
     }
 ]
