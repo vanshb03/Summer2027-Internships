@@ -19041,5 +19041,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1792915221,
+        "url": "https://go.vansh.nyc/i",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Skydio",
+        "title": "Wireless Hardware Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "0d53e571-a12a-43b0-a575-b956d62cfcb5",
+        "date_posted": 1792915221,
+        "company_url": "",
+        "is_visible": true
     }
 ]
