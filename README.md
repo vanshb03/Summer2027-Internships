@@ -459,7 +459,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Astreya | AI Infrastructure DC Design Intern | Remote (US) | <a href="https://go.vansh.nyc/8Z?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
 | ↳ | AI Infrastructure DC Design Intern | Remote (US) | <a href="https://go.vansh.nyc/90?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
 | ↳ | AI Infrastructure DC Design Intern | Remote (US) | <a href="https://go.vansh.nyc/91?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
-| ↳ | AI Infrastructure DC Design Intern | Remote (US) | <a href="https://go.vansh.nyc/92?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
 | American Family Insurance Group | Enterprise Data Intern, Enablement, Service & Support | Madison, WI | <a href="https://go.vansh.nyc/CE?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
 | American Century Investments | Enterprise Data Intern 🛂 | Kansas City, MO | <a href="https://go.vansh.nyc/8Y?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
 | WTW | Risk & Analytics Core Intern 🛂 | New York, NY | <a href="https://go.vansh.nyc/8T?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 13 |
@@ -937,6 +936,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Northrop Grumman | Tech Publications & Training Intern, Product Support 🇺🇸 | Saint Augustine, FL | 🔒 | Oct 14 |
 | GE Vernova | AI Evaluation & Benchmarking Intern, AGI | Bellevue, WA | 🔒 | Oct 14 |
 | CACI | Software Engineering Intern | Florham Park, NJ | 🔒 | Oct 14 |
+| Astreya | AI Infrastructure DC Design Intern | Remote (US) | 🔒 | Oct 14 |
 | Vertiv | Data Analytics Intern | Delaware, OH | 🔒 | Oct 13 |
 | The Federal Reserve System | System IT Intern, Credit Risk Management | Dallas, TX | 🔒 | Oct 13 |
 | NVIDIA | Sparse Linear Algebra Libraries Intern | Santa Clara, CA | 🔒 | Oct 13 |
