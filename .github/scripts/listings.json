@@ -19339,5 +19339,107 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793009169,
+        "url": "https://go.vansh.nyc/BQ",
+        "locations": [
+            "Gardena, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Mesh Optical Technologies",
+        "title": "Associate Software Engineer Co-op",
+        "source": "vanshb03",
+        "id": "c711a765-070c-4241-884c-5aaa170a5db5",
+        "date_posted": 1771299964,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1793009169,
+        "url": "https://go.vansh.nyc/BR",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "DocuSign",
+        "title": "AI Platform Engineer Intern",
+        "source": "vanshb03",
+        "id": "913881c8-e4c3-4cf4-9ea2-65da8adefa3c",
+        "date_posted": 1792728000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793009169,
+        "url": "https://go.vansh.nyc/BS",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "DocuSign",
+        "title": "Agentic AI Engineer Intern",
+        "source": "vanshb03",
+        "id": "1b1c3fa2-b537-4afc-96b0-0061ec92709d",
+        "date_posted": 1792728000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793009169,
+        "url": "https://go.vansh.nyc/BT",
+        "locations": [
+            "Fenton, MO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Delta Dental Of Missouri",
+        "title": "Data Science Intern",
+        "source": "vanshb03",
+        "id": "76926c5a-3d07-4404-99e3-84b3a81b1460",
+        "date_posted": 1792769719,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793009169,
+        "url": "https://go.vansh.nyc/BU",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "DocuSign",
+        "title": "Software Developer Intern",
+        "source": "vanshb03",
+        "id": "0d839e35-71ec-4a1a-b4ff-1c8476d57733",
+        "date_posted": 1792772100,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793009169,
+        "url": "https://go.vansh.nyc/BV",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hook Music",
+        "title": "Data Intern",
+        "source": "vanshb03",
+        "id": "fb3a80b8-f6dd-4b82-b6f7-beb1ef458880",
+        "date_posted": 1792861394,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
