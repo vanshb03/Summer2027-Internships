@@ -29552,5 +29552,124 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793027119,
+        "url": "https://go.vansh.nyc/Qa",
+        "locations": [
+            "Calgary, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Royal Bank of Canada",
+        "title": "Data Engineer Intern",
+        "source": "vanshb03",
+        "id": "5e54e940-1299-475c-b748-9b4bf2f5d44f",
+        "date_posted": 1792972800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793027119,
+        "url": "https://go.vansh.nyc/Qb",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Royal Bank of Canada",
+        "title": "Developer Intern",
+        "source": "vanshb03",
+        "id": "e6640fc6-e86e-493c-9cdf-d3343d6d73e7",
+        "date_posted": 1792972800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793027119,
+        "url": "https://go.vansh.nyc/Qc",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Royal Bank of Canada",
+        "title": "Data Engineer Intern",
+        "source": "vanshb03",
+        "id": "c635e7fb-9b3c-4f4d-bd78-ee08363390d4",
+        "date_posted": 1792972800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793027119,
+        "url": "https://go.vansh.nyc/Qd",
+        "locations": [
+            "Montreal, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Royal Bank of Canada",
+        "title": "Developer Intern",
+        "source": "vanshb03",
+        "id": "6e27f299-15e3-4494-82e4-6791233b1cfe",
+        "date_posted": 1792972800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793027119,
+        "url": "https://go.vansh.nyc/Qe",
+        "locations": [
+            "Calgary, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Royal Bank of Canada",
+        "title": "Developer Intern",
+        "source": "vanshb03",
+        "id": "1870892d-5798-4e90-b0d2-ddf4b93156ad",
+        "date_posted": 1792972800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793027183,
+        "url": "https://go.vansh.nyc/Qf",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Analog Devices",
+        "title": "DevOps Co-op",
+        "source": "vanshb03",
+        "id": "1bd1c54e-b16c-4fad-90ce-49f547f7b54d",
+        "date_posted": 1793026643,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1793027183,
+        "url": "https://go.vansh.nyc/Qg",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Analog Devices",
+        "title": "Embedded Systems Co-op",
+        "source": "vanshb03",
+        "id": "07e1bb21-7619-40d4-b4d9-449ecde412b0",
+        "date_posted": 1793026643,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
