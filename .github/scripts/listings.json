@@ -12205,13 +12205,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792511186,
+        "date_updated": 1793033743,
         "url": "https://go.vansh.nyc/bE",
         "locations": [
             "Holtsville, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Zebra Technologies",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -16017,13 +16017,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792717375,
+        "date_updated": 1793033743,
         "url": "https://go.vansh.nyc/fd",
         "locations": [
             "Minneapolis, MN"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "SPS Commerce",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -22937,13 +22937,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793015500,
+        "date_updated": 1793033743,
         "url": "https://go.vansh.nyc/FO",
         "locations": [
             "Cedar Rapids, IA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "RTX",
         "title": "Software Engineer Co-op",
         "source": "vanshb03",
@@ -31457,6 +31457,488 @@
         "source": "vanshb03",
         "id": "f5b21763-fb2b-49d3-88d4-b5b2c4cc58ed",
         "date_posted": 1792611555,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793033059,
+        "url": "https://go.vansh.nyc/Si",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Skydio",
+        "title": "Autonomy Engineer Intern, Simulation & Robotics",
+        "source": "vanshb03",
+        "id": "1cc7f966-3969-44a6-b1f3-2fd0dfa0fafe",
+        "date_posted": 1793031859,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793033059,
+        "url": "https://go.vansh.nyc/Sj",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Skydio",
+        "title": "Autonomy Engineer Intern, Autonomy Infrastructure, Systems and Tools",
+        "source": "vanshb03",
+        "id": "62eba377-6395-4c21-82a8-c2238c2155e2",
+        "date_posted": 1793031859,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793033120,
+        "url": "https://go.vansh.nyc/Sk",
+        "locations": [
+            "South San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zipline",
+        "title": "Software Systems Validation Intern",
+        "source": "vanshb03",
+        "id": "ef4eb26b-6a49-4a74-8305-1b8f91efec7d",
+        "date_posted": 1792081701,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1793033120,
+        "url": "https://go.vansh.nyc/Sl",
+        "locations": [
+            "South San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zipline",
+        "title": "Software Systems Validation Intern",
+        "source": "vanshb03",
+        "id": "dca2f4c8-8450-4382-841c-b370e9d9df08",
+        "date_posted": 1792081701,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793033120,
+        "url": "https://go.vansh.nyc/Sm",
+        "locations": [
+            "Dorval, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bombardier",
+        "title": "Extended Reality Programmer Intern",
+        "source": "vanshb03",
+        "id": "9c282fbd-4cbc-44b7-ab73-716b59b88838",
+        "date_posted": 1792339604,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1793033120,
+        "url": "https://go.vansh.nyc/Sn",
+        "locations": [
+            "Mississauga, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bombardier",
+        "title": "Developer Intern",
+        "source": "vanshb03",
+        "id": "e5f73601-c1a4-418f-b0ff-832d8ef423fb",
+        "date_posted": 1792339604,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1793033120,
+        "url": "https://go.vansh.nyc/So",
+        "locations": [
+            "Dorval, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bombardier",
+        "title": "Data Science and AI Intern, Connected Aircraft",
+        "source": "vanshb03",
+        "id": "8d3d8081-282f-4769-b4a7-cb8fddbf8919",
+        "date_posted": 1792339604,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1793033120,
+        "url": "https://go.vansh.nyc/Sp",
+        "locations": [
+            "St-Laurent, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bombardier",
+        "title": "Software Developer Intern",
+        "source": "vanshb03",
+        "id": "2f3556cf-9ff6-48f6-b46a-301d3bc35ee0",
+        "date_posted": 1792339604,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1793033120,
+        "url": "https://go.vansh.nyc/Sq",
+        "locations": [
+            "Bloomington, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Seagate Technology",
+        "title": "Software and Data Analytics Development Intern, AFM",
+        "source": "vanshb03",
+        "id": "1a2007e0-5dd6-4853-a5f2-2d5d9b18b471",
+        "date_posted": 1792339604,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793033120,
+        "url": "https://go.vansh.nyc/Sr",
+        "locations": [
+            "Bloomington, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Seagate Technology",
+        "title": "Machine Learning for Corporate Strategy Intern",
+        "source": "vanshb03",
+        "id": "09dfa08f-d303-4338-b61a-7feab35b41be",
+        "date_posted": 1792339604,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793033120,
+        "url": "https://go.vansh.nyc/Ss",
+        "locations": [
+            "Longmont, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Seagate Technology",
+        "title": "Embedded Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "cf2f32dd-f355-4cec-9bdc-b8b433b22fcd",
+        "date_posted": 1792339604,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793033120,
+        "url": "https://go.vansh.nyc/St",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Seagate Technology",
+        "title": "Recording Media R&D Intern, AI & Data Science",
+        "source": "vanshb03",
+        "id": "a91cdfbd-e68d-419f-be3e-260e70c758c0",
+        "date_posted": 1792339604,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793033120,
+        "url": "https://go.vansh.nyc/Su",
+        "locations": [
+            "South San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zipline",
+        "title": "System Test Automation Intern",
+        "source": "vanshb03",
+        "id": "fbe59b47-ded9-4eb2-9cb9-08cce71e019a",
+        "date_posted": 1792431415,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1793033120,
+        "url": "https://go.vansh.nyc/Sv",
+        "locations": [
+            "South San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zipline",
+        "title": "System Test Automation Intern",
+        "source": "vanshb03",
+        "id": "4fd9ce59-228a-40f5-b325-4383ed8e25c7",
+        "date_posted": 1792431689,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793033120,
+        "url": "https://go.vansh.nyc/Sx",
+        "locations": [
+            "Lexington, MA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Booz Allen Hamilton",
+        "title": "Cyber Security Intern",
+        "source": "vanshb03",
+        "id": "ce9b9b1d-ded6-4134-a17e-6216c4b235b3",
+        "date_posted": 1793032585,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793033120,
+        "url": "https://go.vansh.nyc/Sy",
+        "locations": [
+            "Kokomo, IN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "BorgWarner",
+        "title": "Systems Test Automation Engineering Intern",
+        "source": "vanshb03",
+        "id": "5081cfca-a484-4ef5-8a23-f02d8a67c6db",
+        "date_posted": 1793032585,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793033120,
+        "url": "https://go.vansh.nyc/Sz",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cadence",
+        "title": "CST Application Engineer Intern, Silicon",
+        "source": "vanshb03",
+        "id": "be3bddf8-0116-4d05-92c4-87291b45a966",
+        "date_posted": 1793032585,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793033120,
+        "url": "https://go.vansh.nyc/SA",
+        "locations": [
+            "Montreal, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CAE",
+        "title": "Cybersecurity Integration Specialist Intern",
+        "source": "vanshb03",
+        "id": "706f74b2-a530-49de-85a6-1df3fe3dda55",
+        "date_posted": 1793032585,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1793033120,
+        "url": "https://go.vansh.nyc/SB",
+        "locations": [
+            "Remote",
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cisive",
+        "title": "Software Developer Intern",
+        "source": "vanshb03",
+        "id": "afb036e7-c0b8-4f2d-bd17-24c709ec9ad8",
+        "date_posted": 1793032585,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793033120,
+        "url": "https://go.vansh.nyc/SC",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Copart",
+        "title": "Vulnerability Management Engineering Intern",
+        "source": "vanshb03",
+        "id": "c893fece-e04c-4ef2-8f7e-8a076260fe7f",
+        "date_posted": 1793032585,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793033120,
+        "url": "https://go.vansh.nyc/SD",
+        "locations": [
+            "Chicago, IL",
+            "Indianapolis, IN",
+            "Dallas, TX",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Crowe",
+        "title": "Cybersecurity Intern",
+        "source": "vanshb03",
+        "id": "d597c743-5494-4509-9e8f-eeffb11dcba3",
+        "date_posted": 1793032585,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793033120,
+        "url": "https://go.vansh.nyc/SE",
+        "locations": [
+            "Sarasota, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Crowe",
+        "title": "Incident Response Intern",
+        "source": "vanshb03",
+        "id": "e59ee6e6-0370-4060-a0c9-be244c5d4de1",
+        "date_posted": 1793032585,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793033120,
+        "url": "https://go.vansh.nyc/SF",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Rakuten International",
+        "title": "eReader Quality Assurance Intern",
+        "source": "vanshb03",
+        "id": "6c89d959-dcfe-4399-afa9-65f37ad8b24f",
+        "date_posted": 1793032585,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1793033120,
+        "url": "https://go.vansh.nyc/SG",
+        "locations": [
+            "Mississauga, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SOTI",
+        "title": "Performance Test Engineer Intern",
+        "source": "vanshb03",
+        "id": "14292558-0630-41a6-a43d-4b78369bf91a",
+        "date_posted": 1793032585,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1793033120,
+        "url": "https://go.vansh.nyc/SH",
+        "locations": [
+            "Mississauga, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SOTI",
+        "title": "Quality Assurance Specialist Intern, SOTI Connect",
+        "source": "vanshb03",
+        "id": "399a4e73-6975-4475-b616-3021a03b75e7",
+        "date_posted": 1793032585,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1793033120,
+        "url": "https://go.vansh.nyc/SI",
+        "locations": [
+            "Mississauga, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SOTI",
+        "title": "Software Developer Intern, Android",
+        "source": "vanshb03",
+        "id": "919309b0-7029-4ac7-abae-b97ce5677802",
+        "date_posted": 1793032585,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793033120,
+        "url": "https://go.vansh.nyc/SJ",
+        "locations": [
+            "Mississauga, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SOTI",
+        "title": "Software Developer Intern, Server",
+        "source": "vanshb03",
+        "id": "1605f560-b8fd-4dd2-ae91-6111f9c9ce84",
+        "date_posted": 1793032585,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793033120,
+        "url": "https://go.vansh.nyc/SK",
+        "locations": [
+            "Markham, Canada",
+            "Remote",
+            "Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Member Solutions",
+        "title": "Software Developer Intern",
+        "source": "vanshb03",
+        "id": "910c7624-1d11-48c0-a8cb-70a8ded99846",
+        "date_posted": 1793032585,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
