@@ -8985,13 +8985,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792261427,
+        "date_updated": 1792998743,
         "url": "https://go.vansh.nyc/8C",
         "locations": [
             "Seattle, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Expedia Group",
         "title": "Security Engineering Intern",
         "source": "vanshb03",
@@ -11408,13 +11408,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792370268,
+        "date_updated": 1792998743,
         "url": "https://go.vansh.nyc/aU",
         "locations": [
             "Toronto, ON, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "KPMG",
         "title": "AI Builder Co-op",
         "source": "vanshb03",
@@ -14735,7 +14735,7 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1792629862,
+        "date_updated": 1792998743,
         "url": "https://go.vansh.nyc/e2",
         "locations": [
             "San Jose, CA",
@@ -14744,7 +14744,7 @@
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Cisco",
         "title": "Software Engineer Intern, Embedded Systems II",
         "source": "vanshb03",
@@ -14755,7 +14755,7 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792629862,
+        "date_updated": 1792998743,
         "url": "https://go.vansh.nyc/e3",
         "locations": [
             "San Jose, CA",
@@ -14764,7 +14764,7 @@
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Cisco",
         "title": "Software Engineer Intern, Full Stack / Backend I",
         "source": "vanshb03",
@@ -14775,7 +14775,7 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792629862,
+        "date_updated": 1792998743,
         "url": "https://go.vansh.nyc/e4",
         "locations": [
             "San Jose, CA",
@@ -14784,7 +14784,7 @@
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Cisco",
         "title": "Software Engineer Intern, Full Stack / Backend II",
         "source": "vanshb03",
@@ -14829,7 +14829,7 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792629862,
+        "date_updated": 1792998743,
         "url": "https://go.vansh.nyc/e7",
         "locations": [
             "San Jose, CA",
@@ -14838,7 +14838,7 @@
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Cisco",
         "title": "Machine Learning Engineer I Intern",
         "source": "vanshb03",
@@ -14849,7 +14849,7 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792629862,
+        "date_updated": 1792998743,
         "url": "https://go.vansh.nyc/e8",
         "locations": [
             "San Jose, CA",
@@ -14858,7 +14858,7 @@
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Cisco",
         "title": "Machine Learning Engineer II Intern",
         "source": "vanshb03",
@@ -14903,7 +14903,7 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792629862,
+        "date_updated": 1792998743,
         "url": "https://go.vansh.nyc/eb",
         "locations": [
             "San Jose, CA",
@@ -14912,7 +14912,7 @@
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Cisco",
         "title": "Engineering Product Management Specialist I Intern",
         "source": "vanshb03",
@@ -14923,7 +14923,7 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792629862,
+        "date_updated": 1792998743,
         "url": "https://go.vansh.nyc/ec",
         "locations": [
             "San Jose, CA",
@@ -14932,7 +14932,7 @@
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Cisco",
         "title": "AI Operations Engineer I Intern",
         "source": "vanshb03",
@@ -17352,7 +17352,7 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792731778,
+        "date_updated": 1792998743,
         "url": "https://go.vansh.nyc/gs",
         "locations": [
             "San Jose, CA",
@@ -17361,7 +17361,7 @@
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Cisco",
         "title": "Software Engineer Intern, Data & AI",
         "source": "vanshb03",
@@ -17732,7 +17732,7 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792775105,
+        "date_updated": 1792998743,
         "url": "https://go.vansh.nyc/gO",
         "locations": [
             "San Jose, CA",
@@ -17741,7 +17741,7 @@
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Cisco",
         "title": "Software Engineer Data & AI II Intern",
         "source": "vanshb03",
