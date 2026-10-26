@@ -17474,13 +17474,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792774401,
+        "date_updated": 1793040072,
         "url": "https://go.vansh.nyc/gz",
         "locations": [
             "Greenville, SC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "ABB",
         "title": "R&D Software Engineer Intern",
         "source": "vanshb03",
@@ -20212,7 +20212,7 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793013503,
+        "date_updated": 1793040072,
         "url": "https://go.vansh.nyc/CH",
         "locations": [
             "San Jose, CA",
@@ -20221,7 +20221,7 @@
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tessera Labs",
         "title": "Full Stack Software Engineer Intern",
         "source": "vanshb03",
@@ -32009,6 +32009,75 @@
         "source": "vanshb03",
         "id": "08907d7a-69c3-41c7-a683-9f5d301e9488",
         "date_posted": 1793019968,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793039764,
+        "url": "https://go.vansh.nyc/SR",
+        "locations": [
+            "Remote",
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Highmark Health",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "95e28595-e7d0-4cde-93ad-3f62be4ce75f",
+        "date_posted": 1793038924,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793039764,
+        "url": "https://go.vansh.nyc/SS",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Highmark Health",
+        "title": "Enterprise Architecture Software Engineer & Architect Intern",
+        "source": "vanshb03",
+        "id": "b2827845-a836-4c64-801b-69d60a3ecccc",
+        "date_posted": 1793038924,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793039764,
+        "url": "https://go.vansh.nyc/ST",
+        "locations": [
+            "Beavercreek, OH"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Northrop Grumman",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "89bca250-ab21-474c-b928-0ef143615731",
+        "date_posted": 1793038864,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793039964,
+        "url": "https://go.vansh.nyc/SU",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Altera",
+        "title": "Undergrad Technical Intern",
+        "source": "vanshb03",
+        "id": "460644c4-062d-46bd-8e75-27d5b789e06a",
+        "date_posted": 1793039950,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
