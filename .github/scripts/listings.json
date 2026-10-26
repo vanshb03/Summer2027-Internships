@@ -14324,13 +14324,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792629569,
+        "date_updated": 1793043600,
         "url": "https://go.vansh.nyc/dE",
         "locations": [
             "Las Vegas, NV"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Light & Wonder",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
@@ -14341,13 +14341,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792629569,
+        "date_updated": 1793043600,
         "url": "https://go.vansh.nyc/dF",
         "locations": [
             "Las Vegas, NV"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Light & Wonder",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
