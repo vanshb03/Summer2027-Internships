@@ -32373,5 +32373,73 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793055913,
+        "url": "https://go.vansh.nyc/Tf",
+        "locations": [
+            "Logan, UT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Space Dynamics Laboratory",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "0f14f9ee-4995-4523-b72d-ee46dc3d887e",
+        "date_posted": 1793054616,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793055913,
+        "url": "https://go.vansh.nyc/Tg",
+        "locations": [
+            "Inver Grove Heights, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CHS",
+        "title": "Data Engineer Intern",
+        "source": "vanshb03",
+        "id": "c1dafc23-1e62-4437-a153-90defdb19f3e",
+        "date_posted": 1793054618,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793055979,
+        "url": "https://go.vansh.nyc/Th",
+        "locations": [
+            "Los Altos, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Toyota Research Institute",
+        "title": "Robotics Intern, Trustworthy Learning under Uncertainty",
+        "source": "vanshb03",
+        "id": "c5e73c29-1081-46e8-b85b-49f1de7b8f8f",
+        "date_posted": 1793053939,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793056095,
+        "url": "https://go.vansh.nyc/Ti",
+        "locations": [
+            "Mason, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "AtriCure, Inc.",
+        "title": "IT Security Analyst Co-op",
+        "source": "vanshb03",
+        "id": "1f4bf0cf-d92d-401b-9a66-4b3fe3d7a28c",
+        "date_posted": 1793048840,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
