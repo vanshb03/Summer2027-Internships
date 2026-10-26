@@ -304,7 +304,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | DriveWealth | AI Engineer Intern, AI Consulting Associate Program | Chicago, IL</br>NYC | <a href="https://go.vansh.nyc/de?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 20 |
 | ↳ | Product Owner Intern, AI Consulting Associate Program | Chicago, IL</br>NYC | <a href="https://go.vansh.nyc/df?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 20 |
 | CoStar Group | Security Engineer Intern | Arlington, VA | <a href="https://go.vansh.nyc/cL?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 20 |
-| Centene Corporation | Cybersecurity Intern | Remote in USA | <a href="https://go.vansh.nyc/eJ?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 20 |
 | Bosch | Calibration Process Optimization Intern | Farmington Hills, MI | <a href="https://go.vansh.nyc/ds?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 20 |
 | Berkshire Hathaway Energy | Software Engineering Intern | Des Moines, IA | <a href="https://go.vansh.nyc/cA?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 20 |
 | Apple | Software Engineering Intern, AI-Assisted Baseband Debugging Evaluation | United States | <a href="https://go.vansh.nyc/D3?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 20 |
@@ -1235,6 +1234,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Integrate | Software Engineering Intern | Seattle, WA | 🔒 | Oct 20 |
 | Expedia Group | Software Developer 1 Intern | Springfield, MO | 🔒 | Oct 20 |
 | Cisco | Software Engineer Intern, Data & AI | <details><summary>**4 locations**</summary>San Jose, CA</br>Milpitas, CA</br>Research Triangle Park, NC</br>San Francisco, CA</details> | 🔒 | Oct 20 |
+| Centene Corporation | Cybersecurity Intern | Remote in USA | 🔒 | Oct 20 |
 | Zebra Technologies | Software Engineer Intern | Holtsville, NY | 🔒 | Oct 19 |
 | RTX | Software Engineer Intern | Annapolis, MD | 🔒 | Oct 19 |
 | L3Harris Technologies | Software Engineering Intern | Salt Lake City, UT | 🔒 | Oct 19 |
