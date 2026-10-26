@@ -19699,13 +19699,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793013503,
+        "date_updated": 1793020321,
         "url": "https://go.vansh.nyc/Cd",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "LSEG",
         "title": "Finance Engineer Intern",
         "source": "vanshb03",
@@ -19716,13 +19716,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793013503,
+        "date_updated": 1793020321,
         "url": "https://go.vansh.nyc/Ce",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "LSEG",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
