@@ -54,8 +54,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Nokia | Network Systems Engineer Co-op | Canada | <a href="https://go.vansh.nyc/gX?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
 | MSA Safety | AI Engineer Co-op | Cranberry Township, PA | <a href="https://go.vansh.nyc/hD?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
 | Figure AI | Developer Productivity Intern | San Jose, CA | <a href="https://go.vansh.nyc/hT?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
-| Coretek Services | AI & Data Automation Developer Co-op | Remote</br>United States | <a href="https://go.vansh.nyc/hB?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
-| ↳ | Data Consultant Co-op | Remote</br>United States | <a href="https://go.vansh.nyc/hP?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
 | Cisco | Software Engineer Full Stack / Backend I Co-op | San Jose, CA</br>Carlsbad, CA | <a href="https://go.vansh.nyc/gP?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
 | ↳ | Software Engineer Embedded Systems I Co-op | San Jose, CA</br>Milpitas, CA</br>Research Triangle Park, NC | <a href="https://go.vansh.nyc/gQ?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
 | 1Password | Product Management Intern, End User Experience | Remote</br>United States</br>Canada | <a href="https://go.vansh.nyc/gR?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
@@ -135,7 +133,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Emerging Technologies Co-op | Spring House, PA | <a href="https://go.vansh.nyc/a2?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
 | Inter Miami CF | Business Intelligence Intern, Software Development | Miami, FL | <a href="https://go.vansh.nyc/gl?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
 | Definity Financial | Cloud Engineer Co-op | Waterloo, ON | <a href="https://go.vansh.nyc/9Y?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
-| Commonwealth Fusion Systems | AI & Infrastructure Engineer Intern | Devens, MA | <a href="https://go.vansh.nyc/CL?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
 | CIBC | Information Security Analyst Co-op | Toronto, ON | <a href="https://go.vansh.nyc/9X?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
 | CACI | Software Test Engineer Intern | Remote</br>United States | <a href="https://go.vansh.nyc/CX?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
 | BC Pensions | Application Developer Co-op | Victoria, BC, Canada | <a href="https://go.vansh.nyc/aP?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
@@ -246,6 +243,24 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Vanguard | Co-op, Multiple Teams | Dallas, TX | <a href="https://go.vansh.nyc/IB?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 16 |
 | OCC | Data Intern | Chicago, IL | <a href="https://go.vansh.nyc/IE?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 16 |
 | Kenvue | Tech & Data Co-op | Summit, NJ | <a href="https://go.vansh.nyc/JN?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 15 |
+| Insulet Corporation | Embedded Software Test Engineering Co-op 🛂 | Acton, MA | <a href="https://go.vansh.nyc/Ne?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 15 |
+| Geotab | Embedded Developer Intern, Engine Data Reliability | Oakville, Canada | <a href="https://go.vansh.nyc/MF?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 10 |
+| Definity Financial | Business Intelligence Co-op | Toronto, Canada</br>Waterloo, Canada | <a href="https://go.vansh.nyc/MN?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 10 |
+| Insulet Corporation | Embedded Software Engineering Co-op | Acton, MA | <a href="https://go.vansh.nyc/MC?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 09 |
+| Royal Bank of Canada | Developer & IT Specialist Co-op, Global Asset Management | Toronto, Canada</br>Vancouver, Canada | <a href="https://go.vansh.nyc/Md?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 03 |
+| Nokia | DSP Firmware Engineer Co-op | Ottawa, Canada | <a href="https://go.vansh.nyc/M7?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 02 |
+| Booz Allen Hamilton | Electronic Warfare FPGA Engineer Intern | Beavercreek, OH | <a href="https://go.vansh.nyc/M1?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 02 |
+| OnLogic | Firmware Engineer Co-op | South Burlington, VT</br>Cary, NC | <a href="https://go.vansh.nyc/LY?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 01 |
+| Elevance Health | Information Security Co-op | Indianapolis, IN</br>Atlanta, GA | <a href="https://go.vansh.nyc/N1?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 01 |
+| AMD | Machine Learning/Artificial Intelligence Co-op | Markham, Canada | <a href="https://go.vansh.nyc/LF?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 01 |
+| ↳ | Graphics Software Engineer Co-op | Markham, Canada | <a href="https://go.vansh.nyc/LH?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 01 |
+| ↳ | Software Engineer Co-op | Vancouver, Canada | <a href="https://go.vansh.nyc/LK?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 01 |
+| ↳ | Hardware Design Engineer Co-op | Markham, Canada | <a href="https://go.vansh.nyc/LM?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 01 |
+| ↳ | Firmware Engineer Co-op | Vancouver, Canada | <a href="https://go.vansh.nyc/LP?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 01 |
+| ↳ | Firmware Engineer Co-op | Markham, Canada | <a href="https://go.vansh.nyc/LR?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 01 |
+| ↳ | Compiler Engineer Co-op | <details><summary>**5 locations**</summary>Austin, TX</br>Longmont, CO</br>Fishkill, NY</br>Fort Collins, CO</br>Boxborough, MA</details> | <a href="https://go.vansh.nyc/LS?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 01 |
+| ↳ | Compiler Engineer Co-op | San Jose, CA</br>Santa Clara, CA | <a href="https://go.vansh.nyc/LT?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 01 |
+| CACI | Embedded Software Engineer Co-op | Danbury, CT | <a href="https://go.vansh.nyc/Lu?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 31 |
 | Verition Fund Management LLC | Software Engineer Intern | Remote | <a href="https://go.vansh.nyc/7e?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 21 |
 | Millennium | Applied AI Engineer Intern | New York, NY | <a href="https://go.vansh.nyc/7h?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 21 |
 | Crowe | Data Analytics Developer Intern 🛂 | Chicago, IL | <a href="https://go.vansh.nyc/7n?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 21 |
@@ -320,6 +335,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Automation Development & Tooling Engineer Intern | Brooklyn Park, MN</br>Elgin, IL</br>Grand Rapids, MI | <a href="https://go.vansh.nyc/o?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 02 |
 | Flagship Pioneering | AI/ML Engineering Co-op, SAGE Platform | Cambridge, MA | 🔒 | Oct 23 |
 | ↳ | Bioinformatics Data Engineering Co-op | Cambridge, MA | 🔒 | Oct 23 |
+| Coretek Services | AI & Data Automation Developer Co-op | Remote</br>United States | 🔒 | Oct 23 |
+| ↳ | Data Consultant Co-op | Remote</br>United States | 🔒 | Oct 23 |
 | Skydio | Embedded Software Engineer Intern | San Mateo, CA | 🔒 | Oct 20 |
 | RTX | Software Engineer Co-op 🇺🇸 | Aurora, CO | 🔒 | Oct 20 |
 | ↳ | Software Engineer Co-op 🇺🇸 | Richardson, TX | 🔒 | Oct 20 |
@@ -332,6 +349,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | TD Bank | Portfolio Analytics Data Analyst Intern/Co-op | Toronto, ON | 🔒 | Oct 15 |
 | ↳ | Portfolio Analytics Developer Intern/Co-op | Toronto, ON | 🔒 | Oct 15 |
 | RTX | Software Engineering Co-op 🇺🇸 | Cedar Rapids, IA | 🔒 | Oct 15 |
+| Commonwealth Fusion Systems | AI & Infrastructure Engineer Intern | Devens, MA | 🔒 | Oct 15 |
 | Abridge | Member of Technical Staff Intern | SF | 🔒 | Oct 15 |
 | Sony Pictures Entertainment | Current Programming Intern, Sony Pictures Television | Culver City, CA | 🔒 | Oct 14 |
 | Disney | Disney & Pixar Games Production Intern | Glendale, CA | 🔒 | Oct 13 |
