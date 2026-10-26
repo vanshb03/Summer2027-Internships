@@ -15897,13 +15897,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1792717375,
+        "date_updated": 1792973517,
         "url": "https://go.vansh.nyc/f6",
         "locations": [
             "Memphis, TN"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "FedEx Freight",
         "title": "Data Scientist Intern",
         "source": "vanshb03",
@@ -16454,13 +16454,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792717375,
+        "date_updated": 1792973517,
         "url": "https://go.vansh.nyc/fC",
         "locations": [
             "Boston, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Man Group",
         "title": "Systematic Quant Intern",
         "source": "vanshb03",
@@ -19213,5 +19213,40 @@
         "date_posted": 1792917865,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1792973127,
+        "url": "https://go.vansh.nyc/BG",
+        "locations": [
+            "Remote",
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ConnectPrep",
+        "title": "Data Analyst Intern",
+        "source": "vanshb03",
+        "id": "e3501e54-bbbf-4da5-bd43-62b20b77e320",
+        "date_posted": 1792968258,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1792973176,
+        "url": "https://go.vansh.nyc/BH",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Skydio",
+        "title": "Autonomy Engineer Intern",
+        "source": "vanshb03",
+        "id": "7e130fc4-054a-4b92-a9f1-27f509dfbfdc",
+        "date_posted": 1792970176,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
