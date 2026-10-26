@@ -12902,13 +12902,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792511227,
+        "date_updated": 1793045526,
         "url": "https://go.vansh.nyc/cj",
         "locations": [
             "Salt Lake City, UT"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "L3Harris Technologies",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
@@ -32078,6 +32078,40 @@
         "source": "vanshb03",
         "id": "460644c4-062d-46bd-8e75-27d5b789e06a",
         "date_posted": 1793039950,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793045154,
+        "url": "https://go.vansh.nyc/SV",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Glean",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "80f7b19b-00f3-4200-b8e8-8c6193b8a35e",
+        "date_posted": 1793043054,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793045154,
+        "url": "https://go.vansh.nyc/SW",
+        "locations": [
+            "North Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "AbbVie",
+        "title": "Cybersecurity Intern, Business Technology Solutions",
+        "source": "vanshb03",
+        "id": "312a27e1-0cdd-4a23-a178-b751e36d2b02",
+        "date_posted": 1793042934,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
