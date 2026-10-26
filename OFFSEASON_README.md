@@ -50,7 +50,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Notion | Software Engineer Intern, Mobile | San Francisco, CA</br>New York, NY | <a href="https://go.vansh.nyc/BF?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 25 |
 | ↳ | Software Engineer Intern | San Francisco, CA</br>New York, NY | <a href="https://go.vansh.nyc/BE?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 25 |
 | Trimble | Software Engineering Intern | Richmond Hill, Canada | <a href="https://go.vansh.nyc/h6?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
-| TD Bank | Product Management Co-op, L&H | Toronto, Canada | <a href="https://go.vansh.nyc/ha?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
 | Simbe Robotics | Robot Software Engineer Intern | Burlingame, CA | <a href="https://go.vansh.nyc/hI?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
 | ↳ | Data Analytics & Data Science Intern | Burlingame, CA | <a href="https://go.vansh.nyc/hK?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
 | Nokia | Network Systems Engineer Co-op | Canada | <a href="https://go.vansh.nyc/gX?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
@@ -346,6 +345,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Chassis Validation Engineer Intern, Vehicle Firmware | Palo Alto, CA | <a href="https://go.vansh.nyc/q?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 08 |
 | Tesla | Machine Learning Engineer Intern, Noise Vibration Harshness Engineering | Fremont, CA | <a href="https://go.vansh.nyc/p?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 02 |
 | ↳ | Automation Development & Tooling Engineer Intern | Brooklyn Park, MN</br>Elgin, IL</br>Grand Rapids, MI | <a href="https://go.vansh.nyc/o?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 02 |
+| TD Bank | Product Management Co-op, L&H | Toronto, Canada | 🔒 | Oct 23 |
 | Flagship Pioneering | AI/ML Engineering Co-op, SAGE Platform | Cambridge, MA | 🔒 | Oct 23 |
 | ↳ | Bioinformatics Data Engineering Co-op | Cambridge, MA | 🔒 | Oct 23 |
 | Coretek Services | AI & Data Automation Developer Co-op | Remote</br>United States | 🔒 | Oct 23 |
