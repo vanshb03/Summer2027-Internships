@@ -15270,13 +15270,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792697714,
+        "date_updated": 1793031062,
         "url": "https://go.vansh.nyc/ew",
         "locations": [
             "Dallas, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Copart",
         "title": "QA Engineer Intern",
         "source": "vanshb03",
@@ -18118,13 +18118,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1792811877,
+        "date_updated": 1793031062,
         "url": "https://go.vansh.nyc/ha",
         "locations": [
             "Toronto, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TD Bank",
         "title": "Product Management Co-op, L&H",
         "source": "vanshb03",
@@ -21391,13 +21391,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793015500,
+        "date_updated": 1793031062,
         "url": "https://go.vansh.nyc/En",
         "locations": [
             "Toronto, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Marvell",
         "title": "Firmware Engineer Co-op",
         "source": "vanshb03",
@@ -29855,6 +29855,40 @@
         "source": "vanshb03",
         "id": "57b9e98d-0aab-4fef-923d-3ed981403d3b",
         "date_posted": 1787682506,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793030742,
+        "url": "https://go.vansh.nyc/Qs",
+        "locations": [
+            "Lexington, MA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Booz Allen Hamilton",
+        "title": "Games Systems Engineer Intern",
+        "source": "vanshb03",
+        "id": "2f91e9c4-1b12-4b14-a545-b8a0c3ebfe13",
+        "date_posted": 1793029302,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793030742,
+        "url": "https://go.vansh.nyc/Qt",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "The Federal Reserve System",
+        "title": "Innovation Intern",
+        "source": "vanshb03",
+        "id": "e3195368-14b2-4bae-acd3-b0c7ca241676",
+        "date_posted": 1793028582,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
