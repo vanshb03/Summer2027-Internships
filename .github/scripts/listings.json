@@ -15499,13 +15499,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1792697915,
+        "date_updated": 1793052609,
         "url": "https://go.vansh.nyc/eJ",
         "locations": [
             "Remote in USA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Centene Corporation",
         "title": "Cybersecurity Intern",
         "source": "vanshb03",
