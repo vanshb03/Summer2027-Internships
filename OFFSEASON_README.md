@@ -47,6 +47,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Quality Assurance Specialist Intern, SOTI Connect | Mississauga, Canada | <a href="https://go.vansh.nyc/SH?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
 | RTX | Software Platform Engineer Co-op 🇺🇸 | Aurora, CO</br>Remote</br>United States | <a href="https://go.vansh.nyc/CR?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
 | Rakuten International | eReader Quality Assurance Intern | Toronto, Canada | <a href="https://go.vansh.nyc/SF?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
+| Lila Sciences | Agentic Simulations for Materials Science Co-op | Cambridge, MA</br>San Francisco, CA | <a href="https://go.vansh.nyc/T3?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
 | CIBC | AI Scientist Co-op | Toronto, Canada | <a href="https://go.vansh.nyc/T1?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
 | CAE | Cybersecurity Integration Specialist Intern | Montreal, Canada | <a href="https://go.vansh.nyc/SA?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
 | Analog Devices | DevOps Co-op | Boston, MA | <a href="https://go.vansh.nyc/Qf?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
@@ -221,8 +222,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Solink | Software Engineer Co-op, Apps | Ottawa, Canada | <a href="https://go.vansh.nyc/ET?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 05 |
 | Rivian | Software Engineer Co-op, Embedded Software | Palo Alto, CA | <a href="https://go.vansh.nyc/ER?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 05 |
 | NVIDIA | PCIe Design Verification Intern | Santa Clara, CA | <a href="https://go.vansh.nyc/EV?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 05 |
-| Moment Energy | Firmware Engineering Co-op | Surrey, Canada | <a href="https://go.vansh.nyc/F7?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 05 |
-| ↳ | Software Engineering Co-op | Surrey, Canada | <a href="https://go.vansh.nyc/F8?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 05 |
+| Moment Energy | Software Engineering Co-op | Surrey, Canada | <a href="https://go.vansh.nyc/F8?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 05 |
 | McKesson | Pharmaceutical Distribution Developer Intern | Montreal, Canada | <a href="https://go.vansh.nyc/F3?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 05 |
 | Lumentum | Embedded Software Engineer Co-op | Ottawa, Canada | <a href="https://go.vansh.nyc/EX?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 05 |
 | Judi Health | Data Engineer Intern | New York, NY</br>Denver, CO | <a href="https://go.vansh.nyc/Fw?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 05 |
@@ -406,6 +406,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | 1Password | Data Intern, Product Analytics | Remote (United States | Canada) | 🔒 | Oct 12 |
 | Truist | TD&O Program Enablement Specialist Intern 🛂 | Charlotte, NC | 🔒 | Oct 10 |
 | Johnson & Johnson | TDS CGT-Digital Automation Co-op 🛂 | Malvern, PA | 🔒 | Oct 10 |
+| Moment Energy | Firmware Engineering Co-op | Surrey, Canada | 🔒 | Oct 05 |
 | Varda Space Industries | Applications Engineer Intern | El Segundo, CA | 🔒 | Aug 21 |
 | TransMarket Group | Software Engineer Intern | Chicago, IL | 🔒 | Aug 21 |
 | Point72 | Quantitative Developer Intern | New York, NY | 🔒 | Aug 21 |
