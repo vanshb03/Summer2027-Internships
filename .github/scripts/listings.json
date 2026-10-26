@@ -13688,13 +13688,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792554309,
+        "date_updated": 1793054467,
         "url": "https://go.vansh.nyc/d3",
         "locations": [
             "Toronto, ON, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Altera",
         "title": "FPGA IP Design Engineer Intern",
         "source": "vanshb03",
@@ -32235,5 +32235,143 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1793054129,
+        "url": "https://go.vansh.nyc/T5",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "General Dynamics Mission Systems",
+        "title": "Software Test Engineer Intern",
+        "source": "vanshb03",
+        "id": "14f1ef81-dbef-40a3-992c-418b1cdf48e9",
+        "date_posted": 1792972800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793054129,
+        "url": "https://go.vansh.nyc/T6",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Peraton",
+        "title": "Solution Architect Co-op",
+        "source": "vanshb03",
+        "id": "03a7f2d2-ad81-4cf1-8d2f-7663d13986f1",
+        "date_posted": 1792972800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1793054205,
+        "url": "https://go.vansh.nyc/T7",
+        "locations": [
+            "Chicago, IL",
+            "Richardson, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "HCSC",
+        "title": "Product Engineer Intern",
+        "source": "vanshb03",
+        "id": "6aef2db2-7107-4d8b-8d2e-b0e5efa907d2",
+        "date_posted": 1792972800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793054205,
+        "url": "https://go.vansh.nyc/T8",
+        "locations": [
+            "Remote",
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Highmark Health",
+        "title": "Provider Delivery Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "8c03754c-bb98-4e5f-8a0c-c7a08a737f2a",
+        "date_posted": 1792972800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793054205,
+        "url": "https://go.vansh.nyc/T9",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Danaher Corporation",
+        "title": "Supply Chain AI Co-op",
+        "source": "vanshb03",
+        "id": "5b32709a-f93f-4272-bdf5-5dce7ab47f98",
+        "date_posted": 1792972800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1793054205,
+        "url": "https://go.vansh.nyc/Ta",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hive Financial Systems",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "d6b79623-dc2e-44e2-9f30-70399ca4537d",
+        "date_posted": 1793026080,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793054205,
+        "url": "https://go.vansh.nyc/Tb",
+        "locations": [
+            "Rockwall, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "L3Harris Technologies",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "0bfaefa3-e008-4766-a9ec-957fcb692f45",
+        "date_posted": 1793053470,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793054358,
+        "url": "https://go.vansh.nyc/Tc",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cohesity",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "0d4115b1-ca44-4ed6-ab79-926c694af93c",
+        "date_posted": 1793054321,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
