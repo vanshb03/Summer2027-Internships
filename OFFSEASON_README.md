@@ -153,6 +153,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | AGCO | AI & Data Science Intern | Champaign, IL | <a href="https://go.vansh.nyc/Ct?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
 | Zoox | AI Validation and Benchmarking Engineer Intern | Foster City, CA | <a href="https://go.vansh.nyc/8X?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 13 |
 | Plexus | Digital Engineer Intern | Neenah, WI | <a href="https://go.vansh.nyc/8W?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 13 |
+| Covestro | Supply Chain Application Developer Co-op | Pittsburgh, PA | <a href="https://go.vansh.nyc/PS?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 13 |
 | Astera Labs | Firmware Engineer Co-op | Vancouver, Canada | <a href="https://go.vansh.nyc/Ck?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 13 |
 | Western Digital | Recording Electronics Data Analytics & Optimization Co-op | Rochester, MN | <a href="https://go.vansh.nyc/8o?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 12 |
 | Watts Water | Product Management Co-op | Menomonee Falls, WI | <a href="https://go.vansh.nyc/8n?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 12 |
@@ -251,6 +252,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Nokia | DSP Firmware Engineer Co-op | Ottawa, Canada | <a href="https://go.vansh.nyc/M7?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 02 |
 | Booz Allen Hamilton | Electronic Warfare FPGA Engineer Intern | Beavercreek, OH | <a href="https://go.vansh.nyc/M1?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 02 |
 | OnLogic | Firmware Engineer Co-op | South Burlington, VT</br>Cary, NC | <a href="https://go.vansh.nyc/LY?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 01 |
+| Lawrence Livermore National Laboratory (LLNL) | Computing Intern | Livermore, CA | <a href="https://go.vansh.nyc/Q6?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 01 |
 | Elevance Health | Information Security Co-op | Indianapolis, IN</br>Atlanta, GA | <a href="https://go.vansh.nyc/N1?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 01 |
 | AMD | Machine Learning/Artificial Intelligence Co-op | Markham, Canada | <a href="https://go.vansh.nyc/LF?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 01 |
 | ↳ | Graphics Software Engineer Co-op | Markham, Canada | <a href="https://go.vansh.nyc/LH?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 01 |
@@ -264,6 +266,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | SK Hynix Memory Solution | SSD Firmware Development Engineer Intern | San Jose, CA | <a href="https://go.vansh.nyc/OS?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 30 |
 | fab2 | Embedded Software Engineer Intern | San Francisco, CA</br>Austin, TX | <a href="https://go.vansh.nyc/OC?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 27 |
 | Verkada | Embedded Software Engineer Intern | San Mateo, CA | <a href="https://go.vansh.nyc/Ot?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
+| Medpace | Python Intern | Cincinnati, OH | <a href="https://go.vansh.nyc/Q8?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 24 |
 | Kodiak Robotics | Planning Intern, Mission Planning | Mountain View, CA | <a href="https://go.vansh.nyc/Os?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 24 |
 | Philips | Software Systems Engineering Co-op, Image Guided Therapy Devices - IVUS Clinical Imaging Software Application | Plymouth, MN | <a href="https://go.vansh.nyc/Op?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 23 |
 | Verition Fund Management LLC | Software Engineer Intern | Remote | <a href="https://go.vansh.nyc/7e?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 21 |
