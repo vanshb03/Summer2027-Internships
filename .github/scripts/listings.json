@@ -29671,5 +29671,192 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1793028574,
+        "url": "https://go.vansh.nyc/Qh",
+        "locations": [
+            "Kansas City, MO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Americo Financial Life and Annuity",
+        "title": "Artificial Intelligence Intern",
+        "source": "vanshb03",
+        "id": "9626bcbf-0a01-40c8-ba1e-73544238468c",
+        "date_posted": 1792763329,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793028574,
+        "url": "https://go.vansh.nyc/Qi",
+        "locations": [
+            "Kansas City, MO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Americo Financial Life and Annuity",
+        "title": "Software Development Intern",
+        "source": "vanshb03",
+        "id": "b9f402bf-4197-47ce-81c1-eb2a8797cbca",
+        "date_posted": 1792763329,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793028574,
+        "url": "https://go.vansh.nyc/Qj",
+        "locations": [
+            "Middleton, WI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ETC",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "3f755df7-3e31-49a1-8767-595c1e85a392",
+        "date_posted": 1792763349,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793028574,
+        "url": "https://go.vansh.nyc/Qk",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Domino Data Lab",
+        "title": "Forward Deployed Engineer Intern",
+        "source": "vanshb03",
+        "id": "47cb7e73-22bf-4680-b063-0d7e80c2ca6a",
+        "date_posted": 1788991996,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1793028574,
+        "url": "https://go.vansh.nyc/Ql",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lyft",
+        "title": "Data Engineer Intern",
+        "source": "vanshb03",
+        "id": "96c8d4a5-0ddc-4d4d-8cf7-8df1eafd1002",
+        "date_posted": 1789164504,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793028574,
+        "url": "https://go.vansh.nyc/Qm",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lyft",
+        "title": "Software Engineer Intern, Backend",
+        "source": "vanshb03",
+        "id": "1b07aa70-502b-4d79-a50d-87e9fac7d55b",
+        "date_posted": 1789164508,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793028574,
+        "url": "https://go.vansh.nyc/Qn",
+        "locations": [
+            "Montreal, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lyft",
+        "title": "Software Engineer Intern, Backend",
+        "source": "vanshb03",
+        "id": "b1fb4428-6ebb-49cb-b5fb-326bf423731f",
+        "date_posted": 1789164508,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793028574,
+        "url": "https://go.vansh.nyc/Qo",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lyft",
+        "title": "Software Engineer Intern, Machine Learning",
+        "source": "vanshb03",
+        "id": "30b23fed-ca38-4e65-9bf0-e26afb8f01ef",
+        "date_posted": 1789164508,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793028574,
+        "url": "https://go.vansh.nyc/Qp",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lyft",
+        "title": "Software Engineer Intern, Backend",
+        "source": "vanshb03",
+        "id": "6de55455-b178-4e23-8fda-c540611bf634",
+        "date_posted": 1789164508,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793028574,
+        "url": "https://go.vansh.nyc/Qq",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lyft",
+        "title": "Software Engineer Intern, Fullstack",
+        "source": "vanshb03",
+        "id": "2b0a5d6e-0d6f-4755-875e-0d0302b894fb",
+        "date_posted": 1789164508,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793028574,
+        "url": "https://go.vansh.nyc/Qr",
+        "locations": [
+            "Greenwich, CT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "AQR Capital Management",
+        "title": "Arbitrage Research Analyst Intern, Arbitrage",
+        "source": "vanshb03",
+        "id": "57b9e98d-0aab-4fef-923d-3ed981403d3b",
+        "date_posted": 1787682506,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
