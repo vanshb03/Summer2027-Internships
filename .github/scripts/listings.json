@@ -28512,5 +28512,719 @@
         "company_url": "",
         "is_visible": true,
         "season": "Spring"
+    },
+    {
+        "date_updated": 1793025667,
+        "url": "https://go.vansh.nyc/Oh",
+        "locations": [
+            "Lansing, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Auto-Owners Insurance",
+        "title": "Predictive Modeler Intern",
+        "source": "vanshb03",
+        "id": "c44550db-670e-4433-bbbd-6922e7ad6163",
+        "date_posted": 1787274930,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793025667,
+        "url": "https://go.vansh.nyc/Oi",
+        "locations": [
+            "Rochester, NY",
+            "Austin, TX",
+            "Longmont, CO",
+            "Fishkill, NY",
+            "Fort Collins, CO",
+            "Boxborough, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "AMD",
+        "title": "Machine Learning Co-op",
+        "source": "vanshb03",
+        "id": "c1391b74-83b0-4560-a46b-1d0e605fbd0e",
+        "date_posted": 1787293338,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1793025667,
+        "url": "https://go.vansh.nyc/Oj",
+        "locations": [
+            "Secaucus, NJ",
+            "Rochester, NY",
+            "Austin, TX",
+            "Longmont, CO",
+            "Fishkill, NY",
+            "Fort Collins, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "AMD",
+        "title": "Firmware Engineer Co-op",
+        "source": "vanshb03",
+        "id": "db6dd5a0-d69a-41a6-8ca0-69010cbfb6d1",
+        "date_posted": 1787293338,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1793025667,
+        "url": "https://go.vansh.nyc/Ok",
+        "locations": [
+            "San Jose, CA",
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "AMD",
+        "title": "Firmware Engineering Co-op",
+        "source": "vanshb03",
+        "id": "4afb86d3-e547-45fe-a6ed-03c5e403470d",
+        "date_posted": 1787293338,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1793025667,
+        "url": "https://go.vansh.nyc/Ol",
+        "locations": [
+            "San Jose, CA",
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "AMD",
+        "title": "Machine Learning Co-op, Artificial Intelligence",
+        "source": "vanshb03",
+        "id": "630bfc7d-0cd2-430e-bccc-aeaf278a300e",
+        "date_posted": 1787293338,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1793025667,
+        "url": "https://go.vansh.nyc/Om",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "AI Product Manager Intern, Product Social",
+        "source": "vanshb03",
+        "id": "fbe86983-dae4-42b2-8ec5-feff0071249f",
+        "date_posted": 1787361563,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793025667,
+        "url": "https://go.vansh.nyc/On",
+        "locations": [
+            "Hartford, CT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "The Hartford",
+        "title": "Software Engineer Intern, Tech & Data Program",
+        "source": "vanshb03",
+        "id": "092b06d6-76c1-4e08-b1a8-1436fe8b5fc2",
+        "date_posted": 1787529600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793025667,
+        "url": "https://go.vansh.nyc/Oo",
+        "locations": [
+            "Hartford, CT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "The Hartford",
+        "title": "Data Engineer Intern, Technology, Data, AI, and Operations",
+        "source": "vanshb03",
+        "id": "cb801228-b623-4a1b-b4a3-547f4887cefa",
+        "date_posted": 1787529600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793025667,
+        "url": "https://go.vansh.nyc/Op",
+        "locations": [
+            "Plymouth, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Philips",
+        "title": "Software Systems Engineering Co-op, Image Guided Therapy Devices - IVUS Clinical Imaging Software Application",
+        "source": "vanshb03",
+        "id": "86db5ef4-7db3-4734-8616-f1ffdf469767",
+        "date_posted": 1787529600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1793025667,
+        "url": "https://go.vansh.nyc/Oq",
+        "locations": [
+            "Olathe, KS"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Garmin",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "c7f7a590-bcb7-4a3f-996c-060d3e533d33",
+        "date_posted": 1787602171,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793025667,
+        "url": "https://go.vansh.nyc/Or",
+        "locations": [
+            "Cranberry Township, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "MSA Safety",
+        "title": "Software Engineer Intern, Product Development",
+        "source": "vanshb03",
+        "id": "37848f53-5db5-465d-a498-f63b7f3864be",
+        "date_posted": 1787603300,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793025667,
+        "url": "https://go.vansh.nyc/Os",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Kodiak Robotics",
+        "title": "Planning Intern, Mission Planning",
+        "source": "vanshb03",
+        "id": "bb9b465b-1d64-4d78-87cd-2fd0da3daf8b",
+        "date_posted": 1787603743,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1793025667,
+        "url": "https://go.vansh.nyc/Ot",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Verkada",
+        "title": "Embedded Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "9182f910-36f9-456c-b69b-e868455546f9",
+        "date_posted": 1787681642,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1793025667,
+        "url": "https://go.vansh.nyc/Ou",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Honeywell",
+        "title": "Embedded Engineer Intern",
+        "source": "vanshb03",
+        "id": "8f4cd172-87e2-4445-a104-95cab0b448fa",
+        "date_posted": 1787691874,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793025667,
+        "url": "https://go.vansh.nyc/Ov",
+        "locations": [
+            "Sun Prairie, WI",
+            "Mankato, MN",
+            "Bloomington, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Compeer Financial",
+        "title": "Engineering Intern",
+        "source": "vanshb03",
+        "id": "e8dd3bf0-5c5e-4f9e-875b-17619bdfec7d",
+        "date_posted": 1787692414,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793025667,
+        "url": "https://go.vansh.nyc/Ow",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "DV Trading",
+        "title": "Futures & Options Trading Analyst Intern",
+        "source": "vanshb03",
+        "id": "6db43d40-7db5-4dd5-baba-702655d217ff",
+        "date_posted": 1787704197,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793025667,
+        "url": "https://go.vansh.nyc/Ox",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "AI Infrastructure Engineer Intern, Recommendation & LLM",
+        "source": "vanshb03",
+        "id": "3efb2bbd-9139-441f-842a-cb0b656b97ec",
+        "date_posted": 1787704451,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793025667,
+        "url": "https://go.vansh.nyc/Oy",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Booz Allen Hamilton",
+        "title": "Software Developer Intern",
+        "source": "vanshb03",
+        "id": "702d1faa-d613-4a9e-bb2a-22362f0f7faf",
+        "date_posted": 1787788800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793025667,
+        "url": "https://go.vansh.nyc/Oz",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "IMC Trading",
+        "title": "Performance Engineer Intern",
+        "source": "vanshb03",
+        "id": "3f504f4a-4912-4d20-af1f-c0814f78098a",
+        "date_posted": 1787869657,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793025667,
+        "url": "https://go.vansh.nyc/OA",
+        "locations": [
+            "Andover, MA",
+            "Bloomington, MN",
+            "San Jose, CA",
+            "Spring, TX",
+            "Durham, NC",
+            "Westford, MA",
+            "Chippewa Falls, WI",
+            "Fort Collins, CO",
+            "Sunnyvale, CA",
+            "Roseville, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hewlett Packard Enterprise",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "f67cfe00-1276-4f62-b9e0-6f6a848883f6",
+        "date_posted": 1787875200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793025667,
+        "url": "https://go.vansh.nyc/OB",
+        "locations": [
+            "Andover, MA",
+            "Bloomington, MN",
+            "San Jose, CA",
+            "Spring, TX",
+            "Durham, NC",
+            "Westford, MA",
+            "Chippewa Falls, WI",
+            "Fort Collins, CO",
+            "Sunnyvale, CA",
+            "Roseville, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hewlett Packard Enterprise",
+        "title": "Product Management Intern",
+        "source": "vanshb03",
+        "id": "56162ad4-dbf6-4523-8879-f5512d6c687e",
+        "date_posted": 1787875200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793025667,
+        "url": "https://go.vansh.nyc/OC",
+        "locations": [
+            "San Francisco, CA",
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "fab2",
+        "title": "Embedded Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "855e82b4-84ec-4205-8af2-715d9fa32d21",
+        "date_posted": 1787886883,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1793025667,
+        "url": "https://go.vansh.nyc/OD",
+        "locations": [
+            "Andover, MA",
+            "Bloomington, MN",
+            "San Jose, CA",
+            "Spring, TX",
+            "Durham, NC",
+            "Westford, MA",
+            "Chippewa Falls, WI",
+            "Fort Collins, CO",
+            "Sunnyvale, CA",
+            "Roseville, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hewlett Packard Enterprise",
+        "title": "Data Science Intern",
+        "source": "vanshb03",
+        "id": "d4268fbb-2c89-4c07-84b2-e348328a2a57",
+        "date_posted": 1788048000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793025667,
+        "url": "https://go.vansh.nyc/OE",
+        "locations": [
+            "Danbury, CT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CACI",
+        "title": "Software Engineer Co-op",
+        "source": "vanshb03",
+        "id": "8228caeb-818c-413b-a67b-22aefe7b85b9",
+        "date_posted": 1788134400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793025667,
+        "url": "https://go.vansh.nyc/OF",
+        "locations": [
+            "Vancouver, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Royal Bank of Canada",
+        "title": "Data Engineer Intern",
+        "source": "vanshb03",
+        "id": "8f473d50-4cdd-4b5d-8235-3ccbd88aca40",
+        "date_posted": 1792972800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793025667,
+        "url": "https://go.vansh.nyc/OG",
+        "locations": [
+            "Halifax, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Royal Bank of Canada",
+        "title": "Developer Intern",
+        "source": "vanshb03",
+        "id": "ab2e2b85-2148-45a2-ac98-71912c6b140b",
+        "date_posted": 1792972800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793025667,
+        "url": "https://go.vansh.nyc/OH",
+        "locations": [
+            "Vancouver, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Royal Bank of Canada",
+        "title": "Developer Intern",
+        "source": "vanshb03",
+        "id": "8e968d5d-1e2d-4b52-b2ea-18e0b5394d92",
+        "date_posted": 1792972800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793025667,
+        "url": "https://go.vansh.nyc/OI",
+        "locations": [
+            "Irving, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CVS Health",
+        "title": "Innovation & Technology Intern, Data Engineering",
+        "source": "vanshb03",
+        "id": "9aa2859a-0e72-4c28-a8c4-1b98e68409f5",
+        "date_posted": 1792972800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793025667,
+        "url": "https://go.vansh.nyc/OJ",
+        "locations": [
+            "Halifax, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Royal Bank of Canada",
+        "title": "Data Engineer Intern",
+        "source": "vanshb03",
+        "id": "abd9e690-0dda-4315-8b66-f9a280096d65",
+        "date_posted": 1792972800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793025930,
+        "url": "https://go.vansh.nyc/OK",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Palantir Technologies",
+        "title": "Information Security Engineer Intern",
+        "source": "vanshb03",
+        "id": "f950002f-358a-4bca-835c-4f7a8e2881cc",
+        "date_posted": 1659554724,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793025930,
+        "url": "https://go.vansh.nyc/OL",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "AMD",
+        "title": "Software Test Engineering Co-op",
+        "source": "vanshb03",
+        "id": "c940468e-8d66-460b-8b82-4998e734399b",
+        "date_posted": 1787638200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793025930,
+        "url": "https://go.vansh.nyc/OM",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "AMD",
+        "title": "Software Test Engineering Co-op",
+        "source": "vanshb03",
+        "id": "682de77e-740a-4e3f-bdc4-6717b30772d0",
+        "date_posted": 1787638200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793025930,
+        "url": "https://go.vansh.nyc/ON",
+        "locations": [
+            "University Park, PA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "PennState University",
+        "title": "Cyber Security Engineer Intern",
+        "source": "vanshb03",
+        "id": "4964327d-cde7-43f1-a409-c56c9e807129",
+        "date_posted": 1787869975,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793025930,
+        "url": "https://go.vansh.nyc/OO",
+        "locations": [
+            "Spring, TX",
+            "Westford, MA",
+            "Ft. Collins, CO",
+            "Chippewa Falls, WI",
+            "Durham, NC",
+            "Sunnyvale, CA",
+            "Roseville, CA",
+            "San Jose, CA",
+            "Bloomington, MN",
+            "Andover, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Juniper Networks",
+        "title": "Cloud Engineer Intern",
+        "source": "vanshb03",
+        "id": "3e77768e-b247-414d-a0e3-560a2ebfd0dc",
+        "date_posted": 1787928851,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793025930,
+        "url": "https://go.vansh.nyc/OP",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Aerospace Corporation",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "2e3a3590-da0a-4580-81bf-8dc3ebf06889",
+        "date_posted": 1787943014,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793025930,
+        "url": "https://go.vansh.nyc/OQ",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Aerospace Corporation",
+        "title": "Embedded Engineering Intern",
+        "source": "vanshb03",
+        "id": "9f104d1a-4820-4239-afde-cc6b99be1cb1",
+        "date_posted": 1787944583,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793025930,
+        "url": "https://go.vansh.nyc/OR",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Aerospace Corporation",
+        "title": "Software AI Intern",
+        "source": "vanshb03",
+        "id": "d73dd65d-8e30-49c6-ae14-24b0ccb7a52c",
+        "date_posted": 1787956732,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793025930,
+        "url": "https://go.vansh.nyc/OS",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SK Hynix Memory Solution",
+        "title": "SSD Firmware Development Engineer Intern",
+        "source": "vanshb03",
+        "id": "4f2b4ed6-7e7f-47ac-b8b5-08d99a18d8a3",
+        "date_posted": 1788134400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1793025930,
+        "url": "https://go.vansh.nyc/OT",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Procter & Gamble (P&G)",
+        "title": "IT Security Intern",
+        "source": "vanshb03",
+        "id": "c52f4e19-ef29-4dca-b48e-d42878971174",
+        "date_posted": 1790765211,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
