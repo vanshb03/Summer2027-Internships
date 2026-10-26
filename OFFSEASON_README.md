@@ -53,8 +53,10 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Analog Devices | DevOps Co-op | Boston, MA | <a href="https://go.vansh.nyc/Qf?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
 | ↳ | Embedded Systems Co-op | Boston, MA | <a href="https://go.vansh.nyc/Qg?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
 | Skydio | Embedded Software Engineer Intern | San Mateo, CA | <a href="https://go.vansh.nyc/BD?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 25 |
+| Peraton | Solution Architect Co-op | San Diego, CA | <a href="https://go.vansh.nyc/T6?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 25 |
 | Notion | Software Engineer Intern, Mobile | San Francisco, CA</br>New York, NY | <a href="https://go.vansh.nyc/BF?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 25 |
 | ↳ | Software Engineer Intern | San Francisco, CA</br>New York, NY | <a href="https://go.vansh.nyc/BE?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 25 |
+| Danaher Corporation | Supply Chain AI Co-op | United States | <a href="https://go.vansh.nyc/T9?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 25 |
 | Trimble | Software Engineering Intern | Richmond Hill, Canada | <a href="https://go.vansh.nyc/h6?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
 | Simbe Robotics | Robot Software Engineer Intern | Burlingame, CA | <a href="https://go.vansh.nyc/hI?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
 | ↳ | Data Analytics & Data Science Intern | Burlingame, CA | <a href="https://go.vansh.nyc/hK?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
