@@ -17474,13 +17474,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792774401,
+        "date_updated": 1793038177,
         "url": "https://go.vansh.nyc/gz",
         "locations": [
             "Greenville, SC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "ABB",
         "title": "R&D Software Engineer Intern",
         "source": "vanshb03",
@@ -20212,7 +20212,7 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793013503,
+        "date_updated": 1793038177,
         "url": "https://go.vansh.nyc/CH",
         "locations": [
             "San Jose, CA",
@@ -20221,7 +20221,7 @@
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tessera Labs",
         "title": "Full Stack Software Engineer Intern",
         "source": "vanshb03",
@@ -32009,6 +32009,23 @@
         "source": "vanshb03",
         "id": "08907d7a-69c3-41c7-a683-9f5d301e9488",
         "date_posted": 1793019968,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793038041,
+        "url": "https://go.vansh.nyc/SQ",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Altera",
+        "title": "Undergrad Technical Intern",
+        "source": "vanshb03",
+        "id": "687bddca-1906-454e-8997-51c7c86dfdd3",
+        "date_posted": 1793038035,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
