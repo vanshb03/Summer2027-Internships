@@ -13090,13 +13090,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792511227,
+        "date_updated": 1793024587,
         "url": "https://go.vansh.nyc/cu",
         "locations": [
             "North Logan, UT"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Space Dynamics Laboratory",
         "title": "AI-Enabled Requirements Engineering Intern",
         "source": "vanshb03",
