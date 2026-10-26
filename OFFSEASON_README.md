@@ -204,6 +204,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Pinterest | Machine Learning Intern, PhD | <details><summary>**4 locations**</summary>San Francisco, CA</br>Palo Alto, CA</br>Seattle, WA</br>New York, NY</details> | <a href="https://go.vansh.nyc/1C?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 20 |
 | ↳ | Software Engineer Intern | Toronto, Canada | <a href="https://go.vansh.nyc/1s?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 20 |
 | PathAI | Machine Learning Intern, AI Product and ML Core | Boston, MA</br>New York, NY</br>Remote | <a href="https://go.vansh.nyc/1A?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 20 |
+| Mesh Optical Technologies | Associate Software Engineer Co-op | Gardena, CA | <a href="https://go.vansh.nyc/BQ?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 16 |
 | Tesla | Software Engineer Intern, Information Security | Bellevue, WA | <a href="https://go.vansh.nyc/14?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | ↳ | Software Engineer Intern, Service Engineering | Palo Alto, CA | <a href="https://go.vansh.nyc/13?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | Pinterest | Software Engineer Intern | Toronto, Canada | <a href="https://go.vansh.nyc/Y?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 24 |
