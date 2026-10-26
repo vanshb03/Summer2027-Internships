@@ -18662,13 +18662,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792812208,
+        "date_updated": 1793034688,
         "url": "https://go.vansh.nyc/hF",
         "locations": [
             "Sunnyvale, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Amperesand",
         "title": "AI/ML Engineer Intern",
         "source": "vanshb03",
@@ -31939,6 +31939,76 @@
         "source": "vanshb03",
         "id": "910c7624-1d11-48c0-a8cb-70a8ded99846",
         "date_posted": 1793032585,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793034380,
+        "url": "https://go.vansh.nyc/SL",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Trace3",
+        "title": "Innovation Research & Development Lab Intern",
+        "source": "vanshb03",
+        "id": "355c7332-cd4c-4b07-b7d8-0e8d4892b046",
+        "date_posted": 1793032100,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793034433,
+        "url": "https://go.vansh.nyc/SM",
+        "locations": [
+            "Spring, TX",
+            "Fort Collins, CO",
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hewlett Packard (HP)",
+        "title": "Software Intern",
+        "source": "vanshb03",
+        "id": "8943a40d-9de2-4f9a-a860-14c619abf673",
+        "date_posted": 1793034411,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793034433,
+        "url": "https://go.vansh.nyc/SN",
+        "locations": [
+            "Overland Park, KS"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Netsmart",
+        "title": "Security Analyst Intern",
+        "source": "vanshb03",
+        "id": "a1135dd4-b93c-4659-b358-2e858d36b1ba",
+        "date_posted": 1793034411,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793034559,
+        "url": "https://go.vansh.nyc/SO",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Two Six Technologies",
+        "title": "Research Intern",
+        "source": "vanshb03",
+        "id": "08907d7a-69c3-41c7-a683-9f5d301e9488",
+        "date_posted": 1793019968,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
