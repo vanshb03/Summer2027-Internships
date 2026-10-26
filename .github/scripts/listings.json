@@ -8339,13 +8339,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1792261427,
+        "date_updated": 1792987997,
         "url": "https://go.vansh.nyc/80",
         "locations": [
             "Malvern, PA"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Johnson & Johnson",
         "title": "TDS CGT-Digital Automation Co-op",
         "source": "vanshb03",
@@ -11459,13 +11459,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792370268,
+        "date_updated": 1792987997,
         "url": "https://go.vansh.nyc/aX",
         "locations": [
             "SF"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Assort Health",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -14307,13 +14307,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792629569,
+        "date_updated": 1792987997,
         "url": "https://go.vansh.nyc/dD",
         "locations": [
             "Raleigh, NC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Genworth",
         "title": "Risk Modeling Intern",
         "source": "vanshb03",
@@ -16437,13 +16437,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792717375,
+        "date_updated": 1792987997,
         "url": "https://go.vansh.nyc/fB",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Renesas Electronics",
         "title": "Memory Server System Testing Intern",
         "source": "vanshb03",
@@ -19245,6 +19245,40 @@
         "source": "vanshb03",
         "id": "7e130fc4-054a-4b92-a9f1-27f509dfbfdc",
         "date_posted": 1792970176,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1792987520,
+        "url": "https://go.vansh.nyc/BL",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Skydio",
+        "title": "Autonomy Engineer Intern, Deep Learning / Computer Vision",
+        "source": "vanshb03",
+        "id": "1a4f4af9-752d-49f3-a793-3e1c570b36e6",
+        "date_posted": 1792886400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1792987584,
+        "url": "https://go.vansh.nyc/BM",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hewlett Packard Enterprise",
+        "title": "AI/ML Developer Intern",
+        "source": "vanshb03",
+        "id": "7d114dc6-adae-491c-9ac0-14dae86c561f",
+        "date_posted": 1792983984,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
