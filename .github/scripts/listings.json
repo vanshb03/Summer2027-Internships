@@ -20955,13 +20955,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793015500,
+        "date_updated": 1793049106,
         "url": "https://go.vansh.nyc/DY",
         "locations": [
             "Warrendale, PA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Westinghouse Electric Company",
         "title": "Software Developer Intern, Tools & Apps",
         "source": "vanshb03",
@@ -22193,13 +22193,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793015500,
+        "date_updated": 1793049106,
         "url": "https://go.vansh.nyc/F7",
         "locations": [
             "Surrey, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Moment Energy",
         "title": "Firmware Engineering Co-op",
         "source": "vanshb03",
@@ -32217,5 +32217,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793048768,
+        "url": "https://go.vansh.nyc/T3",
+        "locations": [
+            "Cambridge, MA",
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lila Sciences",
+        "title": "Agentic Simulations for Materials Science Co-op",
+        "source": "vanshb03",
+        "id": "03b770ea-627a-4806-b0c9-2cfa5dbdaec7",
+        "date_posted": 1793048288,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
