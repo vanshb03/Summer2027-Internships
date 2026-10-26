@@ -44,6 +44,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | RTX | Software Platform Engineer Co-op 🇺🇸 | Aurora, CO</br>Remote</br>United States | <a href="https://go.vansh.nyc/CR?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
+| Analog Devices | DevOps Co-op | Boston, MA | <a href="https://go.vansh.nyc/Qf?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
+| ↳ | Embedded Systems Co-op | Boston, MA | <a href="https://go.vansh.nyc/Qg?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
 | Skydio | Embedded Software Engineer Intern | San Mateo, CA | <a href="https://go.vansh.nyc/BD?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 25 |
 | Notion | Software Engineer Intern, Mobile | San Francisco, CA</br>New York, NY | <a href="https://go.vansh.nyc/BF?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 25 |
 | ↳ | Software Engineer Intern | San Francisco, CA</br>New York, NY | <a href="https://go.vansh.nyc/BE?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 25 |

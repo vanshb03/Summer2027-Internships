@@ -56,7 +56,12 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Flight Test Intern | San Mateo, CA | <a href="https://go.vansh.nyc/Bz?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 25 |
 | ↳ | Hardware Test and Reliability Intern | San Mateo, CA | <a href="https://go.vansh.nyc/By?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 25 |
 | ↳ | Wireless Hardware Engineer Intern | San Mateo, CA | <a href="https://go.vansh.nyc/i?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 25 |
-| Royal Bank of Canada | Data Engineer Intern | Vancouver, Canada | <a href="https://go.vansh.nyc/OF?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 25 |
+| Royal Bank of Canada | Data Engineer Intern | Calgary, Canada | <a href="https://go.vansh.nyc/Qa?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 25 |
+| ↳ | Developer Intern | Toronto, Canada | <a href="https://go.vansh.nyc/Qb?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 25 |
+| ↳ | Data Engineer Intern | Toronto, Canada | <a href="https://go.vansh.nyc/Qc?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 25 |
+| ↳ | Developer Intern | Montreal, Canada | <a href="https://go.vansh.nyc/Qd?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 25 |
+| ↳ | Developer Intern | Calgary, Canada | <a href="https://go.vansh.nyc/Qe?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 25 |
+| ↳ | Data Engineer Intern | Vancouver, Canada | <a href="https://go.vansh.nyc/OF?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 25 |
 | ↳ | Developer Intern | Halifax, Canada | <a href="https://go.vansh.nyc/OG?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 25 |
 | ↳ | Developer Intern | Vancouver, Canada | <a href="https://go.vansh.nyc/OH?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 25 |
 | ↳ | Data Engineer Intern | Halifax, Canada | <a href="https://go.vansh.nyc/OJ?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 25 |
