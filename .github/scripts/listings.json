@@ -29280,13 +29280,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793027048,
+        "date_updated": 1793041785,
         "url": "https://go.vansh.nyc/PU",
         "locations": [
             "North Logan, UT"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Space Dynamics Laboratory",
         "title": "FPGA Electrical Engineer Intern, Civil & Commercial Space",
         "source": "vanshb03",
