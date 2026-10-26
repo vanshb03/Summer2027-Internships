@@ -131,8 +131,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Qualcomm | AI and DSP Applications Engineer Intern | Markham, Canada | <a href="https://go.vansh.nyc/fy?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | ↳ | Camera Design Implementation Intern | Vancouver, BC, Canada | <a href="https://go.vansh.nyc/es?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | ↳ | Applied AI Engineering Intern, Hardware Systems | Vancouver, BC, Canada | <a href="https://go.vansh.nyc/et?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
-| Pattern | Data Science Intern | Lehi, UT | <a href="https://go.vansh.nyc/fu?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
-| ↳ | AI Automation Engineer Intern | Lehi, UT | <a href="https://go.vansh.nyc/fw?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | Patreon | Product Manager Intern | New York, NY</br>San Francisco, CA | <a href="https://go.vansh.nyc/fA?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | Palantir Technologies | Deployment Strategist Intern, Warp Speed | New York, NY | <a href="https://go.vansh.nyc/fJ?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | Palantir | Forward Deployed Software Engineer Intern, Warp Speed | New York, NY | <a href="https://go.vansh.nyc/fD?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
@@ -406,7 +404,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | RTX | System Administrator Intern 🇺🇸 | Middletown, RI | <a href="https://go.vansh.nyc/9O?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
 | OpenSesame | Security Analyst Intern | Remote</br>United States | <a href="https://go.vansh.nyc/CY?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
 | Muon Space | Ground Software Engineer Intern | San Jose, CA | <a href="https://go.vansh.nyc/CJ?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
-| Micron Technology | Memory Design Engineer Intern, HBM | Richardson, TX | <a href="https://go.vansh.nyc/CN?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
 | Mastercard | Platform Engineering Intern | O'Fallon, MO | <a href="https://go.vansh.nyc/gm?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
 | Keysight Technologies | R&D Software Engineer Intern | Santa Rosa, CA | <a href="https://go.vansh.nyc/aO?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
 | Inversion Space | Avionics Embedded Software Engineer Intern | Playa Vista, CA | <a href="https://go.vansh.nyc/aM?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
@@ -1116,7 +1113,9 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ASML | Software Quality Assurance Intern | San Jose, CA | 🔒 | Oct 23 |
 | STR | Data Analyst Intern | Arlington, VA</br>Woburn, MA | 🔒 | Oct 22 |
 | Renesas Electronics | Memory Server System Testing Intern | San Jose, CA | 🔒 | Oct 22 |
-| Pattern | AI Infrastructure Engineer Intern | Lehi, UT | 🔒 | Oct 22 |
+| Pattern | Data Science Intern | Lehi, UT | 🔒 | Oct 22 |
+| ↳ | AI Automation Engineer Intern | Lehi, UT | 🔒 | Oct 22 |
+| ↳ | AI Infrastructure Engineer Intern | Lehi, UT | 🔒 | Oct 22 |
 | Northrop Grumman | Cyber Software Engineer Intern 🇺🇸 | San Antonio, TX | 🔒 | Oct 22 |
 | Man Group | Systematic Quant Intern | Boston, MA | 🔒 | Oct 22 |
 | Biogen | Integrated Insights & Analytics Co-op, Nephrology | Cambridge, MA | 🔒 | Oct 22 |
@@ -1167,6 +1166,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Software Engineering Intern 🇺🇸 | Sterling, VA | 🔒 | Oct 15 |
 | ↳ | Quality Assurance Intern 🇺🇸 | Cheshire, CT | 🔒 | Oct 15 |
 | ROCKWOOL Group | Associate Product Management Intern | Chicago, IL | 🔒 | Oct 15 |
+| Micron Technology | Memory Design Engineer Intern, HBM | Richardson, TX | 🔒 | Oct 15 |
 | Northrop Grumman | Tech Publications & Training Intern, Product Support 🇺🇸 | Saint Augustine, FL | 🔒 | Oct 14 |
 | GE Vernova | AI Evaluation & Benchmarking Intern, AGI | Bellevue, WA | 🔒 | Oct 14 |
 | CACI | Software Engineering Intern | Florham Park, NJ | 🔒 | Oct 14 |
