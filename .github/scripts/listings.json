@@ -20544,13 +20544,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1793013650,
+        "date_updated": 1793047275,
         "url": "https://go.vansh.nyc/D0",
         "locations": [
             "Annapolis Junction, MD"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "General Dynamics Mission Systems, Inc.",
         "title": "Engineer Intern, Electrical or Firmware",
         "source": "vanshb03",
@@ -23585,13 +23585,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793015500,
+        "date_updated": 1793047275,
         "url": "https://go.vansh.nyc/Gp",
         "locations": [
             "Austin, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Itron",
         "title": "HR AI Data Science Intern",
         "source": "vanshb03",
@@ -32112,6 +32112,108 @@
         "source": "vanshb03",
         "id": "312a27e1-0cdd-4a23-a178-b751e36d2b02",
         "date_posted": 1793042934,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793046954,
+        "url": "https://go.vansh.nyc/SX",
+        "locations": [
+            "Detroit, MI"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Booz Allen Hamilton",
+        "title": "Systems Engineer Intern",
+        "source": "vanshb03",
+        "id": "a18d77e3-844e-4943-b121-6e2c2d79d9b6",
+        "date_posted": 1793046594,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793046954,
+        "url": "https://go.vansh.nyc/SY",
+        "locations": [
+            "Detroit, MI"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Booz Allen Hamilton",
+        "title": "Software Developer Intern",
+        "source": "vanshb03",
+        "id": "0f277df1-f76a-4b63-947d-bc876f9f40a3",
+        "date_posted": 1793046594,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793046954,
+        "url": "https://go.vansh.nyc/SZ",
+        "locations": [
+            "Dayton, OH"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Booz Allen Hamilton",
+        "title": "Software Developer Intern",
+        "source": "vanshb03",
+        "id": "e55c80f4-f851-434e-b973-5edeca45139a",
+        "date_posted": 1793046594,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793046997,
+        "url": "https://go.vansh.nyc/T0",
+        "locations": [
+            "Albuquerque, NM"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Booz Allen Hamilton",
+        "title": "Systems Engineer Intern, Games",
+        "source": "vanshb03",
+        "id": "ec7c1876-5feb-4ef7-ba4f-631b4855fb04",
+        "date_posted": 1793046983,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793046997,
+        "url": "https://go.vansh.nyc/T1",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CIBC",
+        "title": "AI Scientist Co-op",
+        "source": "vanshb03",
+        "id": "ee4d6818-4f15-4e88-99bf-e2a6cd3d4460",
+        "date_posted": 1793046983,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1793046997,
+        "url": "https://go.vansh.nyc/T2",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "RTX",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "bbd0c620-54fe-4568-b5ed-1a31793eff10",
+        "date_posted": 1793046983,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
