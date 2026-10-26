@@ -9427,13 +9427,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792261427,
+        "date_updated": 1793016826,
         "url": "https://go.vansh.nyc/92",
         "locations": [
             "Remote (US)"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Astreya",
         "title": "AI Infrastructure DC Design Intern",
         "source": "vanshb03",
