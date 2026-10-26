@@ -30347,12 +30347,12 @@
         "date_updated": 1793031368,
         "url": "https://go.vansh.nyc/QU",
         "locations": [
-            "Ca, Canada"
+            "Saint-Bruno, Canada"
         ],
         "sponsorship": "Other",
         "active": true,
         "company_name": "Alstom",
-        "title": "Stagiaire Ing\u00e9nieur(e) de donn\u00e9es num\u00e9riques (Janvier 2027) (Saint-Bruno, QC, CA)",
+        "title": "Digital Data Engineer Intern",
         "source": "vanshb03",
         "id": "9e6cee18-0f6a-482d-be29-c9712bcce098",
         "date_posted": 1792339604,
@@ -31420,23 +31420,6 @@
         "title": "Software Engineer Intern, Test Automation",
         "source": "vanshb03",
         "id": "84e98a74-4945-4ef6-93c7-2a0dc54bf485",
-        "date_posted": 1792449816,
-        "company_url": "",
-        "is_visible": true,
-        "season": "Summer"
-    },
-    {
-        "date_updated": 1793031368,
-        "url": "https://go.vansh.nyc/RU",
-        "locations": [
-            "Montreal, Canada"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "company_name": "Lyft",
-        "title": "D\u00e9veloppeur Logiciels (Stagiaire), Automatisation des tests (l'\u00e9t\u00e9 2027)",
-        "source": "vanshb03",
-        "id": "ac12b304-590e-4df3-847a-248fd2a6480b",
         "date_posted": 1792449816,
         "company_url": "",
         "is_visible": true,
