@@ -8679,13 +8679,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792261427,
+        "date_updated": 1793029251,
         "url": "https://go.vansh.nyc/8k",
         "locations": [
             "Remote (United States | Canada)"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "1Password",
         "title": "Data Intern, Product Analytics",
         "source": "vanshb03",
@@ -16316,13 +16316,13 @@
         "season": "Spring"
     },
     {
-        "date_updated": 1792717375,
+        "date_updated": 1793029251,
         "url": "https://go.vansh.nyc/fu",
         "locations": [
             "Lehi, UT"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Pattern",
         "title": "Data Science Intern",
         "source": "vanshb03",
@@ -16350,13 +16350,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792717375,
+        "date_updated": 1793029251,
         "url": "https://go.vansh.nyc/fw",
         "locations": [
             "Lehi, UT"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Pattern",
         "title": "AI Automation Engineer Intern",
         "source": "vanshb03",
@@ -18203,13 +18203,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792812208,
+        "date_updated": 1793029251,
         "url": "https://go.vansh.nyc/hf",
         "locations": [
             "Toronto, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Marvell",
         "title": "Design Verification Intern",
         "source": "vanshb03",
@@ -20318,13 +20318,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793013503,
+        "date_updated": 1793029251,
         "url": "https://go.vansh.nyc/CN",
         "locations": [
             "Richardson, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Micron Technology",
         "title": "Memory Design Engineer Intern, HBM",
         "source": "vanshb03",
