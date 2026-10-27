@@ -33887,5 +33887,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793136962,
+        "url": "https://go.vansh.nyc/Wr",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ASML",
+        "title": "Frontend Developer Intern",
+        "source": "vanshb03",
+        "id": "0dc94aef-3f4b-43a8-816a-8b67847bd41d",
+        "date_posted": 1793136542,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
