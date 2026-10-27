@@ -11476,13 +11476,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1792370268,
+        "date_updated": 1793110124,
         "url": "https://go.vansh.nyc/aY",
         "locations": [
             "Montreal, QC, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Behaviour Interactive",
         "title": "Product Management Intern, 7 Days to Die",
         "source": "vanshb03",
@@ -13193,13 +13193,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792535294,
+        "date_updated": 1793110124,
         "url": "https://go.vansh.nyc/cA",
         "locations": [
             "Des Moines, IA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Berkshire Hathaway Energy",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
@@ -33180,5 +33180,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793109981,
+        "url": "https://go.vansh.nyc/VD",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lila Sciences",
+        "title": "Robot Perception & State Estimation Co-op",
+        "source": "vanshb03",
+        "id": "aeac02ff-2233-4805-8e71-f465fd607871",
+        "date_posted": 1793108661,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
     }
 ]
