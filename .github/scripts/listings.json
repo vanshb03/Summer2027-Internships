@@ -34144,5 +34144,56 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793144169,
+        "url": "https://go.vansh.nyc/WQ",
+        "locations": [
+            "Marlborough, MA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "RTX",
+        "title": "Software Engineer Intern, Receiver, Exciter, & Processing Architecture",
+        "source": "vanshb03",
+        "id": "f3d2fc52-679b-4e73-843f-acf80903413e",
+        "date_posted": 1793143329,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793144463,
+        "url": "https://go.vansh.nyc/WR",
+        "locations": [
+            "Burnaby, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "OpusClip",
+        "title": "Customer Experience Test Automation Intern",
+        "source": "vanshb03",
+        "id": "a9059e0d-3ef0-4df0-98e5-f72a4c3ac4b3",
+        "date_posted": 1793127136,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1793144463,
+        "url": "https://go.vansh.nyc/WS",
+        "locations": [
+            "Washington, DC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Protagonist",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "22a4b422-398f-49cf-a6ac-12a4c62e708f",
+        "date_posted": 1793135605,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
