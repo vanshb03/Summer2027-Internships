@@ -293,7 +293,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Definity Financial | Business Intelligence Co-op | Toronto, Canada</br>Waterloo, Canada | <a href="https://go.vansh.nyc/MN?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 10 |
 | Insulet Corporation | Embedded Software Engineering Co-op | Acton, MA | <a href="https://go.vansh.nyc/MC?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 09 |
 | Domino Data Lab | Forward Deployed Engineer Intern | New York, NY | <a href="https://go.vansh.nyc/Qk?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 09 |
-| Royal Bank of Canada | Developer & IT Specialist Co-op, Global Asset Management | Toronto, Canada</br>Vancouver, Canada | <a href="https://go.vansh.nyc/Md?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 03 |
 | Nokia | DSP Firmware Engineer Co-op | Ottawa, Canada | <a href="https://go.vansh.nyc/M7?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 02 |
 | Booz Allen Hamilton | Electronic Warfare FPGA Engineer Intern | Beavercreek, OH | <a href="https://go.vansh.nyc/M1?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 02 |
 | OnLogic | Firmware Engineer Co-op | South Burlington, VT</br>Cary, NC | <a href="https://go.vansh.nyc/LY?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 01 |
@@ -421,6 +420,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Truist | TD&O Program Enablement Specialist Intern 🛂 | Charlotte, NC | 🔒 | Oct 10 |
 | Johnson & Johnson | TDS CGT-Digital Automation Co-op 🛂 | Malvern, PA | 🔒 | Oct 10 |
 | Moment Energy | Firmware Engineering Co-op | Surrey, Canada | 🔒 | Oct 05 |
+| Royal Bank of Canada | Developer & IT Specialist Co-op, Global Asset Management | Toronto, Canada</br>Vancouver, Canada | 🔒 | Sep 03 |
 | Varda Space Industries | Applications Engineer Intern | El Segundo, CA | 🔒 | Aug 21 |
 | TransMarket Group | Software Engineer Intern | Chicago, IL | 🔒 | Aug 21 |
 | Point72 | Quantitative Developer Intern | New York, NY | 🔒 | Aug 21 |
