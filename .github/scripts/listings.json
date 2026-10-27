@@ -6024,13 +6024,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1785852859,
+        "date_updated": 1793111922,
         "url": "https://go.vansh.nyc/5R",
         "locations": [
             "New York City, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Melius",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
@@ -11289,13 +11289,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792370268,
+        "date_updated": 1793111922,
         "url": "https://go.vansh.nyc/aN",
         "locations": [
             "Sunnyvale, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Apple",
         "title": "SoC Machine Learning Software Engineer Intern",
         "source": "vanshb03",
@@ -12494,13 +12494,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792511227,
+        "date_updated": 1793111922,
         "url": "https://go.vansh.nyc/bV",
         "locations": [
             "Denver, CO"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Creative Artists Agency",
         "title": "Data Analytics Intern",
         "source": "vanshb03",
@@ -21092,13 +21092,13 @@
         "season": "Spring"
     },
     {
-        "date_updated": 1793015500,
+        "date_updated": 1793111922,
         "url": "https://go.vansh.nyc/E6",
         "locations": [
             "Saline, MI"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Quantum Signal AI",
         "title": "Embedded and Real-Time Software Intern",
         "source": "vanshb03",
@@ -27394,14 +27394,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793023513,
+        "date_updated": 1793111922,
         "url": "https://go.vansh.nyc/Md",
         "locations": [
             "Toronto, Canada",
             "Vancouver, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Royal Bank of Canada",
         "title": "Developer & IT Specialist Co-op, Global Asset Management",
         "source": "vanshb03",
@@ -33197,5 +33197,57 @@
         "company_url": "",
         "is_visible": true,
         "season": "Spring"
+    },
+    {
+        "date_updated": 1793111762,
+        "url": "https://go.vansh.nyc/VE",
+        "locations": [
+            "Ashburn, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Visa",
+        "title": "Sophomore Program Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "64ca0d9f-2eed-4a8a-9c64-60c22f2ae353",
+        "date_posted": 1793059200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793111762,
+        "url": "https://go.vansh.nyc/VF",
+        "locations": [
+            "Remote",
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "EQT Corporation",
+        "title": "AI Intern",
+        "source": "vanshb03",
+        "id": "ef600d9e-9fae-4940-a16e-29cfe23a8790",
+        "date_posted": 1793110276,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793111820,
+        "url": "https://go.vansh.nyc/VG",
+        "locations": [
+            "Woburn, MA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "RTX",
+        "title": "Secure Software Intern",
+        "source": "vanshb03",
+        "id": "1fe89484-cadc-486a-9f6e-e65f20873f7e",
+        "date_posted": 1793111100,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
