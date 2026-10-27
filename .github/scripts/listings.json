@@ -32628,5 +32628,39 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793091935,
+        "url": "https://go.vansh.nyc/UY",
+        "locations": [
+            "Greenville, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "L3Harris Technologies",
+        "title": "Associate Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "402c7563-daf8-4f05-bd2b-ebcf615e32a1",
+        "date_posted": 1793064890,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793091935,
+        "url": "https://go.vansh.nyc/UZ",
+        "locations": [
+            "Rochester, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "L3Harris Technologies",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "7f0a225d-b66b-4e43-8e35-a0354727ba66",
+        "date_posted": 1793064890,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
