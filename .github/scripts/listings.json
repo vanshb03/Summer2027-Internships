@@ -14101,13 +14101,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792602873,
+        "date_updated": 1793073993,
         "url": "https://go.vansh.nyc/dr",
         "locations": [
             "Tewksbury, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "RTX",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -14187,14 +14187,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792603055,
+        "date_updated": 1793073993,
         "url": "https://go.vansh.nyc/dw",
         "locations": [
             "Atlanta, GA",
             "Frisco, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "T-Mobile",
         "title": "Software Engineer Intern, Cloud Security",
         "source": "vanshb03",
@@ -15914,13 +15914,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792717375,
+        "date_updated": 1793073993,
         "url": "https://go.vansh.nyc/f7",
         "locations": [
             "Dulles, VA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Northrop Grumman",
         "title": "Systems Engineering Intern, AI Experience",
         "source": "vanshb03",
@@ -26458,7 +26458,7 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1793022083,
+        "date_updated": 1793073993,
         "url": "https://go.vansh.nyc/K6",
         "locations": [
             "Kanata, Canada",
@@ -26469,7 +26469,7 @@
             "Ottawa, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Cisco",
         "title": "Software Developer Embedded Systems I Co-op",
         "source": "vanshb03",
