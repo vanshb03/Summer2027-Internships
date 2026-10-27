@@ -12919,13 +12919,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792511227,
+        "date_updated": 1793120979,
         "url": "https://go.vansh.nyc/ck",
         "locations": [
             "Cranberry Township, PA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Westinghouse Electric Company",
         "title": "Software Development Intern",
         "source": "vanshb03",
@@ -15236,13 +15236,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792697616,
+        "date_updated": 1793120979,
         "url": "https://go.vansh.nyc/eu",
         "locations": [
             "Vancouver, BC, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Nutanix",
         "title": "Software Developer Co-op",
         "source": "vanshb03",
@@ -18956,13 +18956,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792812629,
+        "date_updated": 1793120979,
         "url": "https://go.vansh.nyc/hW",
         "locations": [
             "Spring, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Hewlett Packard Enterprise",
         "title": "Cybersecurity Engineering Intern",
         "source": "vanshb03",
@@ -22775,13 +22775,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1793015500,
+        "date_updated": 1793120979,
         "url": "https://go.vansh.nyc/FF",
         "locations": [
             "Boise, ID"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Cl\u0113nera",
         "title": "Data Engineer Intern",
         "source": "vanshb03",
@@ -33474,5 +33474,124 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793120802,
+        "url": "https://go.vansh.nyc/VW",
+        "locations": [
+            "Devens, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CFS Energy",
+        "title": "Scientific Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "3e129c42-4d8e-48a9-a1f7-37a7cb6c1b2a",
+        "date_posted": 1793120022,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793120802,
+        "url": "https://go.vansh.nyc/VX",
+        "locations": [
+            "Boise, ID"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Micron Technology",
+        "title": "AI Engineer Intern, Platform",
+        "source": "vanshb03",
+        "id": "387c364e-62ab-46b7-ab00-e4ab73cfdb92",
+        "date_posted": 1793120262,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793120802,
+        "url": "https://go.vansh.nyc/VY",
+        "locations": [
+            "Richardson, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Micron Technology",
+        "title": "HBM Data Scientist Intern",
+        "source": "vanshb03",
+        "id": "9bd5f620-83d0-4d5a-af4d-991891b1d6af",
+        "date_posted": 1793120262,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793120802,
+        "url": "https://go.vansh.nyc/VZ",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Atoms",
+        "title": "AI Research Intern",
+        "source": "vanshb03",
+        "id": "4bc018bf-c9e2-4c40-8046-40e6396be075",
+        "date_posted": 1793119002,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793120876,
+        "url": "https://go.vansh.nyc/W0",
+        "locations": [
+            "Scottsdale, AZ"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "General Dynamics Mission Systems, Inc.",
+        "title": "Software Test Engineering Intern, Space and Embedded Crypto",
+        "source": "vanshb03",
+        "id": "5ce68fbc-de37-4445-bfa3-eace50711b17",
+        "date_posted": 1792987200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793120876,
+        "url": "https://go.vansh.nyc/W1",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Apple",
+        "title": "Software Engineer Intern, Core OS",
+        "source": "vanshb03",
+        "id": "54c6c262-2f23-4e23-9281-09171536e781",
+        "date_posted": 1793024849,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793120876,
+        "url": "https://go.vansh.nyc/W2",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Peraton",
+        "title": "Cybersecurity Engineer Co-op",
+        "source": "vanshb03",
+        "id": "4431e9f8-80b1-4161-a7f1-852132e97a7c",
+        "date_posted": 1793073600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
     }
 ]
