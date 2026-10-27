@@ -33836,5 +33836,39 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793133352,
+        "url": "https://go.vansh.nyc/Wl",
+        "locations": [
+            "Azusa, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Northrop Grumman",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "9eb663a4-d935-4dc7-ab6c-e8393c93623c",
+        "date_posted": 1793132512,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793133352,
+        "url": "https://go.vansh.nyc/Wm",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "National Interstate Insurance",
+        "title": "Claims Lab Developer Intern",
+        "source": "vanshb03",
+        "id": "fb46dc2d-c304-4d14-8137-958358ab0c1b",
+        "date_posted": 1793132452,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
