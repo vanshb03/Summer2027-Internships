@@ -32594,5 +32594,39 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793088346,
+        "url": "https://go.vansh.nyc/UG",
+        "locations": [
+            "Foster City, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Visa",
+        "title": "Data Science Intern, Data and AI Team",
+        "source": "vanshb03",
+        "id": "6eb61632-0a8a-412c-b9d4-cebb3cbb6a7c",
+        "date_posted": 1793085226,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793088500,
+        "url": "https://go.vansh.nyc/UH",
+        "locations": [
+            "Boca Raton, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ADT",
+        "title": "Cybersecurity & Risk Intern",
+        "source": "vanshb03",
+        "id": "3efa911b-c2ff-4ca3-bd86-0da0a5509d58",
+        "date_posted": 1792972800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
