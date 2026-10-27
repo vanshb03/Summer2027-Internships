@@ -89,7 +89,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Amazon.com Services LLC | System Development Engineer Co-op, Robotics | North Reading, MA | <a href="https://go.vansh.nyc/i1?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | Amazon | Junior Software Development Engineer Intern | Detroit, MI | <a href="https://go.vansh.nyc/gC?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | ↳ | Hardware Development Engineer Intern | Bellevue, WA | <a href="https://go.vansh.nyc/gD?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
-| ↳ | Systems Development Engineer Intern | Bellevue, WA | <a href="https://go.vansh.nyc/gH?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | ↳ | Embedded Firmware Co-op | North Reading, MA</br>Westborough, MA | <a href="https://go.vansh.nyc/gK?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | 1Password | Developer Intern, Data Security | Remote</br>United States</br>Canada | <a href="https://go.vansh.nyc/eY?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | ↳ | Developer Intern, Machine Identity | Remote</br>United States</br>Canada | <a href="https://go.vansh.nyc/eZ?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
@@ -399,6 +398,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Cisco | Software Engineer Embedded Systems I Co-op | San Jose, CA</br>Milpitas, CA</br>Research Triangle Park, NC | 🔒 | Oct 23 |
 | Nutanix | Software Developer Co-op | Vancouver, BC, Canada | 🔒 | Oct 22 |
 | Marvell | Design Verification Intern | Toronto, Canada | 🔒 | Oct 22 |
+| Amazon | Systems Development Engineer Intern | Bellevue, WA | 🔒 | Oct 22 |
 | Skydio | Embedded Software Engineer Intern | San Mateo, CA | 🔒 | Oct 20 |
 | RTX | Software Engineer Co-op 🇺🇸 | Aurora, CO | 🔒 | Oct 20 |
 | ↳ | Software Engineer Co-op 🇺🇸 | Richardson, TX | 🔒 | Oct 20 |
