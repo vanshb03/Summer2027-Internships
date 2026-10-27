@@ -17611,13 +17611,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792774401,
+        "date_updated": 1793142448,
         "url": "https://go.vansh.nyc/gH",
         "locations": [
             "Bellevue, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Amazon",
         "title": "Systems Development Engineer Intern",
         "source": "vanshb03",
@@ -17628,13 +17628,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1792774401,
+        "date_updated": 1793142448,
         "url": "https://go.vansh.nyc/gI",
         "locations": [
             "Vancouver, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Amazon",
         "title": "Systems Development Engineer Intern",
         "source": "vanshb03",
@@ -34072,6 +34072,75 @@
         "source": "vanshb03",
         "id": "8dcb9c56-7815-46d6-9634-3aabe90b91b3",
         "date_posted": 1793139142,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793142313,
+        "url": "https://go.vansh.nyc/WM",
+        "locations": [
+            "San Francisco, CA",
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "42dot",
+        "title": "Foundation Models Intern",
+        "source": "vanshb03",
+        "id": "0067f634-5226-4bfa-8e4e-754d3ae726ee",
+        "date_posted": 1793059200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793142313,
+        "url": "https://go.vansh.nyc/WN",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Assurant",
+        "title": "AI and Data Science Intern",
+        "source": "vanshb03",
+        "id": "fa6f9531-7065-4d97-9889-3c2b4fd12a52",
+        "date_posted": 1793059200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793142313,
+        "url": "https://go.vansh.nyc/WO",
+        "locations": [
+            "Columbia Falls, MT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nomad GCS",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "7b6e88c4-1e3c-4850-b60b-f96d9558b02d",
+        "date_posted": 1793140122,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793142313,
+        "url": "https://go.vansh.nyc/WP",
+        "locations": [
+            "Chillicothe, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Paccar",
+        "title": "Data Engineer Intern",
+        "source": "vanshb03",
+        "id": "0deb1307-b63b-48ff-ab8c-71f507415d95",
+        "date_posted": 1793140414,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
