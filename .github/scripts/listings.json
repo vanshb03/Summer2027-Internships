@@ -13380,13 +13380,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792535448,
+        "date_updated": 1793126571,
         "url": "https://go.vansh.nyc/cL",
         "locations": [
             "Arlington, VA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "CoStar Group",
         "title": "Security Engineer Intern",
         "source": "vanshb03",
@@ -33628,6 +33628,41 @@
         "source": "vanshb03",
         "id": "b775aa20-627d-457e-bf32-212f0f479ad1",
         "date_posted": 1793122559,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793126156,
+        "url": "https://go.vansh.nyc/W7",
+        "locations": [
+            "Remote",
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Workiva",
+        "title": "Machine Learning Engineering Intern",
+        "source": "vanshb03",
+        "id": "5bc214c6-c7b2-4d66-b3d7-ee3cfef52ba6",
+        "date_posted": 1793122856,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793126197,
+        "url": "https://go.vansh.nyc/W8",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Papa John's",
+        "title": "Cyber Security Intern",
+        "source": "vanshb03",
+        "id": "132a0d74-23e4-4072-baf2-424117a6b827",
+        "date_posted": 1793126180,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
