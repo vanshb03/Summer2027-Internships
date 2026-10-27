@@ -24411,13 +24411,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793016276,
+        "date_updated": 1793124529,
         "url": "https://go.vansh.nyc/Hb",
         "locations": [
             "Ashburn, VA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "CACI",
         "title": "Cyber Analyst Intern",
         "source": "vanshb03",
