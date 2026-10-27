@@ -32560,5 +32560,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793066756,
+        "url": "https://go.vansh.nyc/UD",
+        "locations": [
+            "Cleveland, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Sherwin-Williams",
+        "title": "R&D Product Systems Intern",
+        "source": "vanshb03",
+        "id": "a46eb914-7874-414e-8319-9b24152abe98",
+        "date_posted": 1793059556,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
