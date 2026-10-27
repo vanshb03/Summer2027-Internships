@@ -50,7 +50,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Rockwell Automation | Cybersecurity Intern 🛂 | Milwaukee, WI</br>Chelmsford, MA | <a href="https://go.vansh.nyc/Vd?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
 | PTC | Onshape QA Intern | Boston, MA | <a href="https://go.vansh.nyc/Vf?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
 | ↳ | Onshape SysOps Intern | Boston, MA | <a href="https://go.vansh.nyc/Vg?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
-| NVIDIA (Eightfold) | Software Engineering Intern, AI Agents & Backend Infrastructure | Berlin, DE | <a href="https://go.vansh.nyc/Vv?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
 | Ericsson | Cybersecurity Analyst Intern 🛂 | Plano, TX | <a href="https://go.vansh.nyc/Vu?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
 | Cencora | AI Intern | Conshohocken, PA | <a href="https://go.vansh.nyc/Vc?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
 | Zillow | Data Science Intern | Seattle, WA | <a href="https://go.vansh.nyc/Tk?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
@@ -421,7 +420,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Firmware/Embedded Software Engineering Intern | Toronto, Canada | <a href="https://go.vansh.nyc/Ry?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
 | ↳ | Low Power AI Software Development Intern | Markham, Canada | <a href="https://go.vansh.nyc/Rz?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
 | ↳ | PAL Firmware Development Intern | Markham, Canada | <a href="https://go.vansh.nyc/RA?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
-| ↳ | AI Driven Test Automation Engineering Intern | Haifa District, IL | <a href="https://go.vansh.nyc/RB?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
 | ↳ | Design Automation & Quality Assurance Engineering Intern | Ottawa, Canada | <a href="https://go.vansh.nyc/RC?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
 | NVIDIA | Deep Learning Computer Architecture Intern | Santa Clara, CA | <a href="https://go.vansh.nyc/Rn?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
 | ↳ | Systems Software Engineering Intern | Santa Clara, CA | <a href="https://go.vansh.nyc/Ro?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
@@ -1219,6 +1217,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | BlinqLABS | Java Web Development Intern | Remote</br>United States | <a href="https://go.vansh.nyc/Qw?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 2021 |
 | Barkback | Software Intern | Santa Barbara, CA | <a href="https://go.vansh.nyc/Qv?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 2016 |
 | Northwestern Mutual | Application Development Intern | Milwaukee, WI | <a href="https://go.vansh.nyc/Qu?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 2015 |
+| NVIDIA | Software Engineering Intern, AI Agents & Backend Infrastructure | Berlin, DE | 🔒 | Oct 27 |
 | Trimble | Navigation & Machine Learning Engineering Intern | Richmond Hill, Canada | 🔒 | Oct 23 |
 | MongoDB | Software Engineer Intern | <details><summary>**5 locations**</summary>Palo Alto, CA</br>Seattle, WA</br>San Francisco, CA</br>Austin, TX</br>New York, NY</details> | 🔒 | Oct 23 |
 | Merck | Data, AI, and Genome Sciences Intern | Cambridge, MA | 🔒 | Oct 23 |
@@ -1281,6 +1280,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | RTX | Software Engineering Co-op | Cedar Rapids, IA | 🔒 | Oct 18 |
 | ↳ | Software Engineer Intern | Cedar Rapids, IA | 🔒 | Oct 18 |
 | Rogue Fitness | AI Engineer Intern | Columbus, OH | 🔒 | Oct 18 |
+| Qualcomm | AI Driven Test Automation Engineering Intern | Haifa District, IL | 🔒 | Oct 18 |
 | Northrop Grumman | Software Engineering Intern 🇺🇸 | Boulder, CO | 🔒 | Oct 18 |
 | MITRE | AI Engineering Intern | Bedford, MA | 🔒 | Oct 18 |
 | General Dynamics Mission Systems, Inc. | Engineer Intern, Electrical or Firmware 🇺🇸 | Annapolis Junction, MD | 🔒 | Oct 18 |
