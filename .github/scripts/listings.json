@@ -32458,5 +32458,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793063402,
+        "url": "https://go.vansh.nyc/Tm",
+        "locations": [
+            "Markham, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NUVACORE",
+        "title": "CPU Software Intern",
+        "source": "vanshb03",
+        "id": "c9f4b947-9adb-4f90-9f0b-75f519f872d3",
+        "date_posted": 1793043355,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
