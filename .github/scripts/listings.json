@@ -13671,13 +13671,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792554309,
+        "date_updated": 1793138892,
         "url": "https://go.vansh.nyc/d2",
         "locations": [
             "Toronto, ON, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Altera",
         "title": "Quartus User Interface Intern",
         "source": "vanshb03",
@@ -33904,5 +33904,107 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793138717,
+        "url": "https://go.vansh.nyc/Wu",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Great American Insurance Group",
+        "title": "Cloud Data Platform Intern",
+        "source": "vanshb03",
+        "id": "1f983299-b158-41a9-ae49-7c57cecf32c9",
+        "date_posted": 1793059200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793138717,
+        "url": "https://go.vansh.nyc/Wv",
+        "locations": [
+            "Pearl Harbor, HI"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Leidos",
+        "title": "Cybersecurity Analyst Intern",
+        "source": "vanshb03",
+        "id": "d9a0ff83-5415-47df-8c88-e00454324f5a",
+        "date_posted": 1793059200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793138717,
+        "url": "https://go.vansh.nyc/Ww",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "RTX",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "2be02248-53d3-4ef6-89ef-f4e879acc872",
+        "date_posted": 1793059200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793138717,
+        "url": "https://go.vansh.nyc/Wx",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Uber",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "923fdad5-e187-4274-9847-d4fa0cbea6b7",
+        "date_posted": 1793059200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793138717,
+        "url": "https://go.vansh.nyc/Wy",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CIBC",
+        "title": "Data Analyst Co-op",
+        "source": "vanshb03",
+        "id": "3e9b4615-d61b-4b4f-9ad0-3042ada78f63",
+        "date_posted": 1793059200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1793138717,
+        "url": "https://go.vansh.nyc/Wz",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hitachi",
+        "title": "Software Analyst Intern",
+        "source": "vanshb03",
+        "id": "66e6a911-07a7-4d99-b098-aa9a92beec2a",
+        "date_posted": 1793059200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
