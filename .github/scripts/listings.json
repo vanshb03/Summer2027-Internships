@@ -33870,5 +33870,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793135167,
+        "url": "https://go.vansh.nyc/Wp",
+        "locations": [
+            "San Antonio, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SWBC",
+        "title": "Integration Analyst Intern",
+        "source": "vanshb03",
+        "id": "80816a91-7ea9-44a5-b2a6-23816279dfee",
+        "date_posted": 1793133007,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
