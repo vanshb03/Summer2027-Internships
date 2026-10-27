@@ -16901,13 +16901,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792731778,
+        "date_updated": 1793122686,
         "url": "https://go.vansh.nyc/g2",
         "locations": [
             "Akron, OH"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Revvity",
         "title": "Software Integration Co-op",
         "source": "vanshb03",
@@ -28713,13 +28713,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793025667,
+        "date_updated": 1793122686,
         "url": "https://go.vansh.nyc/Os",
         "locations": [
             "Mountain View, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Kodiak Robotics",
         "title": "Planning Intern, Mission Planning",
         "source": "vanshb03",
@@ -33593,5 +33593,43 @@
         "company_url": "",
         "is_visible": true,
         "season": "Spring"
+    },
+    {
+        "date_updated": 1793122585,
+        "url": "https://go.vansh.nyc/W4",
+        "locations": [
+            "Chicago, IL",
+            "Kansas City, MO",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cboe Global Markets",
+        "title": "Linux Engineer Intern",
+        "source": "vanshb03",
+        "id": "51681238-3706-4e39-8cb9-3a201f757a8a",
+        "date_posted": 1793122559,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793122585,
+        "url": "https://go.vansh.nyc/W5",
+        "locations": [
+            "Arlington, VA",
+            "Washington, DC",
+            "Camp Springs, MD"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Kudu Dynamics",
+        "title": "Cybersecurity Intern",
+        "source": "vanshb03",
+        "id": "b775aa20-627d-457e-bf32-212f0f479ad1",
+        "date_posted": 1793122559,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
