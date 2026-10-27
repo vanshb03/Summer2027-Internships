@@ -33044,5 +33044,56 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793102771,
+        "url": "https://go.vansh.nyc/Vt",
+        "locations": [
+            "Shady Grove, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Manitowoc",
+        "title": "Cybersecurity Intern",
+        "source": "vanshb03",
+        "id": "f74b9b5c-5245-4723-bb42-3808a8b11ec6",
+        "date_posted": 1791244800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793102771,
+        "url": "https://go.vansh.nyc/Vu",
+        "locations": [
+            "Plano, TX"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Ericsson",
+        "title": "Cybersecurity Analyst Intern",
+        "source": "vanshb03",
+        "id": "2a25a215-62d2-4694-8c15-aaa4be12b302",
+        "date_posted": 1793102753,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793102771,
+        "url": "https://go.vansh.nyc/Vv",
+        "locations": [
+            "Berlin, DE"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA (Eightfold)",
+        "title": "Software Engineering Intern, AI Agents & Backend Infrastructure",
+        "source": "vanshb03",
+        "id": "81e4349a-0208-4067-97c4-2bff5b00908a",
+        "date_posted": 1793102753,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
