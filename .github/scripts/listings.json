@@ -28662,13 +28662,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793025667,
+        "date_updated": 1793128137,
         "url": "https://go.vansh.nyc/Op",
         "locations": [
             "Plymouth, MN"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Philips",
         "title": "Software Systems Engineering Co-op, Image Guided Therapy Devices - IVUS Clinical Imaging Software Application",
         "source": "vanshb03",
@@ -33663,6 +33663,57 @@
         "source": "vanshb03",
         "id": "132a0d74-23e4-4072-baf2-424117a6b827",
         "date_posted": 1793126180,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793128003,
+        "url": "https://go.vansh.nyc/W9",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Sonos",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "c0f16512-8c7e-4733-bd2b-f0450e636a7e",
+        "date_posted": 1793127043,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793128003,
+        "url": "https://go.vansh.nyc/Wa",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Sonos",
+        "title": "Data Quality Intern",
+        "source": "vanshb03",
+        "id": "4c983d05-ac91-444e-9afe-6ea248bd18b8",
+        "date_posted": 1793127043,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793128003,
+        "url": "https://go.vansh.nyc/Wb",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amazon Development Center U.S., Inc. - B02",
+        "title": "Database Engineer Intern",
+        "source": "vanshb03",
+        "id": "aeaea374-58dd-417b-81be-305beb6f83ac",
+        "date_posted": 1793059603,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
