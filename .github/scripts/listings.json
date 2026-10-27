@@ -20680,13 +20680,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793013650,
+        "date_updated": 1793065933,
         "url": "https://go.vansh.nyc/D8",
         "locations": [
             "Cary, NC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "SAS",
         "title": "JMP Software Testing Intern",
         "source": "vanshb03",
@@ -32472,6 +32472,91 @@
         "source": "vanshb03",
         "id": "c9f4b947-9adb-4f90-9f0b-75f519f872d3",
         "date_posted": 1793043355,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793065616,
+        "url": "https://go.vansh.nyc/Uy",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Niantic Spatial",
+        "title": "Software Engineer Intern, Native SDK & Mobile Platforms",
+        "source": "vanshb03",
+        "id": "58603e5e-b4f0-48ac-a231-daa3e18befd7",
+        "date_posted": 1792972800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793065680,
+        "url": "https://go.vansh.nyc/Uz",
+        "locations": [
+            "Vancouver, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Disney",
+        "title": "Systems Engineer Intern, Data Services",
+        "source": "vanshb03",
+        "id": "2a9f325f-5fc8-435a-be34-f7766e9f1dac",
+        "date_posted": 1793065665,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793065680,
+        "url": "https://go.vansh.nyc/UA",
+        "locations": [
+            "Vancouver, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Disney",
+        "title": "Software Engineer Intern, Pipeline Infrastructure",
+        "source": "vanshb03",
+        "id": "5c72cd4d-39c1-4f66-8944-0c1aa015e1f7",
+        "date_posted": 1793065665,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793065680,
+        "url": "https://go.vansh.nyc/UB",
+        "locations": [
+            "Laurel, MD"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Johns Hopkins APL",
+        "title": "Cybersecurity Software Developer Intern",
+        "source": "vanshb03",
+        "id": "377e2491-909a-4174-a6b7-558591e7963c",
+        "date_posted": 1793065665,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1793065680,
+        "url": "https://go.vansh.nyc/UC",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lockheed Martin",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "d2362609-cc36-4fdf-8c97-53a4bf6b5bac",
+        "date_posted": 1793065665,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
