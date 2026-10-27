@@ -25599,13 +25599,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793021626,
+        "date_updated": 1793117477,
         "url": "https://go.vansh.nyc/Ji",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Neuberger Berman",
         "title": "Quantitative Analyst Intern",
         "source": "vanshb03",
@@ -33350,6 +33350,40 @@
         "source": "vanshb03",
         "id": "12171d05-3363-4c18-a881-e5e4831cf8c4",
         "date_posted": 1793115417,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793117176,
+        "url": "https://go.vansh.nyc/VP",
+        "locations": [
+            "Boise, ID"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Micron Technology",
+        "title": "Product Yield Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "63ac0a6d-d75c-4d16-ae7b-e30f5346a86a",
+        "date_posted": 1793116696,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793117176,
+        "url": "https://go.vansh.nyc/VQ",
+        "locations": [
+            "Sparks, NV"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Sierra Nevada Corporation",
+        "title": "Cybersecurity Analyst Intern",
+        "source": "vanshb03",
+        "id": "c0358ba7-a6d8-4f54-987e-64009fbb7134",
+        "date_posted": 1793116696,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
