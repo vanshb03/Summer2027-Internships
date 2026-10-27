@@ -23024,13 +23024,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793015500,
+        "date_updated": 1793131694,
         "url": "https://go.vansh.nyc/FT",
         "locations": [
             "Chicago, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Akuna Capital",
         "title": "Entry-Level Software Engineer Intern, C++",
         "source": "vanshb03",
@@ -24908,13 +24908,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793021626,
+        "date_updated": 1793131694,
         "url": "https://go.vansh.nyc/IE",
         "locations": [
             "Chicago, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "OCC",
         "title": "Data Intern",
         "source": "vanshb03",
@@ -28981,13 +28981,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793025667,
+        "date_updated": 1793131694,
         "url": "https://go.vansh.nyc/OG",
         "locations": [
             "Halifax, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Royal Bank of Canada",
         "title": "Developer Intern",
         "source": "vanshb03",
@@ -29032,13 +29032,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793025667,
+        "date_updated": 1793131694,
         "url": "https://go.vansh.nyc/OJ",
         "locations": [
             "Halifax, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Royal Bank of Canada",
         "title": "Data Engineer Intern",
         "source": "vanshb03",
@@ -33751,5 +33751,90 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1793131566,
+        "url": "https://go.vansh.nyc/Wf",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Texas Instruments",
+        "title": "Web Marketing Intern, Front-end Developer",
+        "source": "vanshb03",
+        "id": "b542b35a-7251-4689-9327-5a516f0ac8a7",
+        "date_posted": 1793063166,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1793131566,
+        "url": "https://go.vansh.nyc/Wg",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "National Interstate Insurance",
+        "title": "Data Automation Intern",
+        "source": "vanshb03",
+        "id": "6b5fbd03-5d2b-4a86-9b2d-b0b7226e5d09",
+        "date_posted": 1793131026,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793131566,
+        "url": "https://go.vansh.nyc/Wh",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "National Interstate Insurance",
+        "title": "Emerging Technology Intern",
+        "source": "vanshb03",
+        "id": "3ca28853-231d-4b48-bea6-435d0279a5d2",
+        "date_posted": 1793131026,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793131566,
+        "url": "https://go.vansh.nyc/Wi",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "National Interstate Insurance",
+        "title": "Platform Operations Developer Intern",
+        "source": "vanshb03",
+        "id": "d77a8685-3590-46b7-ad9d-1a7861d5cce1",
+        "date_posted": 1793131026,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793131566,
+        "url": "https://go.vansh.nyc/Wj",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "National Interstate Insurance",
+        "title": "Data Application Development Intern",
+        "source": "vanshb03",
+        "id": "27ad69bb-6743-450e-a1ad-0d91264776d8",
+        "date_posted": 1793131026,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
