@@ -10688,13 +10688,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792261427,
+        "date_updated": 1793095734,
         "url": "https://go.vansh.nyc/ae",
         "locations": [
             "Campbell, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "ChargePoint",
         "title": "IT & Network Intern",
         "source": "vanshb03",
@@ -32659,6 +32659,252 @@
         "source": "vanshb03",
         "id": "7f0a225d-b66b-4e43-8e35-a0354727ba66",
         "date_posted": 1793064890,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793095565,
+        "url": "https://go.vansh.nyc/V0",
+        "locations": [
+            "Knoxville, TN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Pilot Company",
+        "title": "Program Intern, Cloud Operations",
+        "source": "vanshb03",
+        "id": "265a2781-693d-4f87-b158-e0bf80738e8a",
+        "date_posted": 1788975910,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793095565,
+        "url": "https://go.vansh.nyc/V1",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Oceaneering",
+        "title": "ROV Software Intern",
+        "source": "vanshb03",
+        "id": "83508569-f58d-4d50-b350-a8e2f69665b4",
+        "date_posted": 1790121600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793095565,
+        "url": "https://go.vansh.nyc/V2",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Oceaneering",
+        "title": "Software Intern, C++",
+        "source": "vanshb03",
+        "id": "7dc09b8e-172c-4828-8ed0-c34a35c91ea3",
+        "date_posted": 1790121600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793095565,
+        "url": "https://go.vansh.nyc/V3",
+        "locations": [
+            "Houston, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Oceaneering",
+        "title": "IT/OT Cybersecurity Intern",
+        "source": "vanshb03",
+        "id": "e7ae9f9e-2715-41ef-95f3-a19bb93e963b",
+        "date_posted": 1790812800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793095565,
+        "url": "https://go.vansh.nyc/V4",
+        "locations": [
+            "Irvine, CA",
+            "Fairfax, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tevora",
+        "title": "Cybersecurity Intern, Enterprise Risk Management",
+        "source": "vanshb03",
+        "id": "a600015e-f6e9-4d06-8e4f-a14785c2b05e",
+        "date_posted": 1791245993,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1793095565,
+        "url": "https://go.vansh.nyc/V5",
+        "locations": [
+            "Fairfax, VA",
+            "Irvine, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tevora",
+        "title": "Cybersecurity Intern, Federal",
+        "source": "vanshb03",
+        "id": "122c51b3-f345-4f30-9c08-5dfdb7cfb08d",
+        "date_posted": 1791246073,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1793095565,
+        "url": "https://go.vansh.nyc/V6",
+        "locations": [
+            "Irvine, CA",
+            "Fairfax, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tevora",
+        "title": "Cybersecurity Intern, Healthcare",
+        "source": "vanshb03",
+        "id": "648e38bf-c82f-4318-921e-153b3157ca1b",
+        "date_posted": 1791246119,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1793095565,
+        "url": "https://go.vansh.nyc/V7",
+        "locations": [
+            "Irvine, CA",
+            "Fairfax, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tevora",
+        "title": "Cybersecurity Intern, ISO",
+        "source": "vanshb03",
+        "id": "ae46eca1-c7cc-429f-a044-d59487ef8abe",
+        "date_posted": 1791246227,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1793095565,
+        "url": "https://go.vansh.nyc/V8",
+        "locations": [
+            "Fairfax, VA",
+            "Irvine, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tevora",
+        "title": "Cybersecurity Intern, Payments",
+        "source": "vanshb03",
+        "id": "31e4a7bd-7e06-465c-bd08-a4bf84e2cfdc",
+        "date_posted": 1791246270,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1793095565,
+        "url": "https://go.vansh.nyc/V9",
+        "locations": [
+            "Irvine, CA",
+            "Fairfax, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tevora",
+        "title": "Cybersecurity Intern, Solutions",
+        "source": "vanshb03",
+        "id": "8086a511-535c-4515-b421-458e7cd50666",
+        "date_posted": 1791246361,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1793095565,
+        "url": "https://go.vansh.nyc/Va",
+        "locations": [
+            "Irvine, CA",
+            "Fairfax, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tevora",
+        "title": "Cybersecurity Intern, Threat",
+        "source": "vanshb03",
+        "id": "055e4d0c-ddc0-4a38-b042-f2efc307dfac",
+        "date_posted": 1791246395,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1793095565,
+        "url": "https://go.vansh.nyc/Vb",
+        "locations": [
+            "Ottawa, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Blackberry",
+        "title": "Software Testing Development Intern, QNX",
+        "source": "vanshb03",
+        "id": "b4e138c3-e89e-4234-8abd-cb1a573290cf",
+        "date_posted": 1793095534,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1793095565,
+        "url": "https://go.vansh.nyc/Vc",
+        "locations": [
+            "Conshohocken, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cencora",
+        "title": "AI Intern",
+        "source": "vanshb03",
+        "id": "04174180-3bbe-40e4-814d-976fbe2907f5",
+        "date_posted": 1793095534,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793095565,
+        "url": "https://go.vansh.nyc/Vd",
+        "locations": [
+            "Milwaukee, WI",
+            "Chelmsford, MA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Rockwell Automation",
+        "title": "Cybersecurity Intern",
+        "source": "vanshb03",
+        "id": "e36fe995-216c-457c-9096-69de27ab8d65",
+        "date_posted": 1793095534,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
