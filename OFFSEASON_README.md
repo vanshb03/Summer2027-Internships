@@ -53,6 +53,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Johns Hopkins APL | Cybersecurity Software Developer Intern | Laurel, MD | <a href="https://go.vansh.nyc/UB?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
 | CIBC | AI Scientist Co-op | Toronto, Canada | <a href="https://go.vansh.nyc/T1?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
 | CAE | Cybersecurity Integration Specialist Intern | Montreal, Canada | <a href="https://go.vansh.nyc/SA?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
+| Boston Properties | Cyber Security Co-op | Boston, MA | <a href="https://go.vansh.nyc/VJ?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
 | AtriCure, Inc. | IT Security Analyst Co-op | Mason, OH | <a href="https://go.vansh.nyc/Ti?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
 | Analog Devices | DevOps Co-op | Boston, MA | <a href="https://go.vansh.nyc/Qf?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
 | ↳ | Embedded Systems Co-op | Boston, MA | <a href="https://go.vansh.nyc/Qg?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
