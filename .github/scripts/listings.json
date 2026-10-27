@@ -33717,5 +33717,39 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793129776,
+        "url": "https://go.vansh.nyc/Wd",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "National Interstate Insurance",
+        "title": "Data Engineering Intern",
+        "source": "vanshb03",
+        "id": "982b4a35-a723-4d4c-9258-56549a8eabf5",
+        "date_posted": 1793129416,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793129811,
+        "url": "https://go.vansh.nyc/We",
+        "locations": [
+            "Vancouver, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Motorola",
+        "title": "Localization and QA Automation Developer Co-op",
+        "source": "vanshb03",
+        "id": "92162b4d-b294-4eaa-9f3b-c8aabd83618d",
+        "date_posted": 1793125469,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
