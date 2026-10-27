@@ -66,7 +66,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | MSA Safety | AI Engineer Co-op | Cranberry Township, PA | <a href="https://go.vansh.nyc/hD?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
 | Figure AI | Developer Productivity Intern | San Jose, CA | <a href="https://go.vansh.nyc/hT?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
 | Cisco | Software Engineer Full Stack / Backend I Co-op | San Jose, CA</br>Carlsbad, CA | <a href="https://go.vansh.nyc/gP?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
-| ↳ | Software Engineer Embedded Systems I Co-op | San Jose, CA</br>Milpitas, CA</br>Research Triangle Park, NC | <a href="https://go.vansh.nyc/gQ?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
 | 1Password | Product Management Intern, End User Experience | Remote</br>United States</br>Canada | <a href="https://go.vansh.nyc/gR?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
 | ↳ | Developer Intern, Developer Interfaces | Remote</br>United States</br>Canada | <a href="https://go.vansh.nyc/gS?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
 | ↳ | Developer Intern, Credential Brokering | Remote</br>United States</br>Canada | <a href="https://go.vansh.nyc/gT?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
@@ -388,6 +387,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Bioinformatics Data Engineering Co-op | Cambridge, MA | 🔒 | Oct 23 |
 | Coretek Services | AI & Data Automation Developer Co-op | Remote</br>United States | 🔒 | Oct 23 |
 | ↳ | Data Consultant Co-op | Remote</br>United States | 🔒 | Oct 23 |
+| Cisco | Software Engineer Embedded Systems I Co-op | San Jose, CA</br>Milpitas, CA</br>Research Triangle Park, NC | 🔒 | Oct 23 |
 | Marvell | Design Verification Intern | Toronto, Canada | 🔒 | Oct 22 |
 | Skydio | Embedded Software Engineer Intern | San Mateo, CA | 🔒 | Oct 20 |
 | RTX | Software Engineer Co-op 🇺🇸 | Aurora, CO | 🔒 | Oct 20 |
