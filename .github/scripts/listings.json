@@ -32908,5 +32908,141 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793099175,
+        "url": "https://go.vansh.nyc/Vf",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "PTC",
+        "title": "Onshape QA Intern",
+        "source": "vanshb03",
+        "id": "ce5d2ed0-8e6e-4896-8f16-fa8aee436285",
+        "date_posted": 1793098155,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793099175,
+        "url": "https://go.vansh.nyc/Vg",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "PTC",
+        "title": "Onshape SysOps Intern",
+        "source": "vanshb03",
+        "id": "5588b5b8-7828-466f-b216-29d2005491a3",
+        "date_posted": 1793098155,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793099227,
+        "url": "https://go.vansh.nyc/Vh",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "QuantCo",
+        "title": "Data Science Intern",
+        "source": "vanshb03",
+        "id": "de10477d-16f5-4531-914d-19473b5bdb3f",
+        "date_posted": 1714602604,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793099227,
+        "url": "https://go.vansh.nyc/Vi",
+        "locations": [
+            "Boulder, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ricoh",
+        "title": "Software Development Intern",
+        "source": "vanshb03",
+        "id": "27d01d17-8aa6-430d-aac4-b97541736fdd",
+        "date_posted": 1789603200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793099227,
+        "url": "https://go.vansh.nyc/Vj",
+        "locations": [
+            "Boulder, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ricoh",
+        "title": "Software Engineer Intern, Microservice Developer",
+        "source": "vanshb03",
+        "id": "4d3ecf9d-da61-4291-bbb9-58a1780c4f19",
+        "date_posted": 1790812800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793099227,
+        "url": "https://go.vansh.nyc/Vk",
+        "locations": [
+            "Perrysburg, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "First Solar (US)",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "a6e71544-6972-44f0-8ff4-390a382624aa",
+        "date_posted": 1791158400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1793099227,
+        "url": "https://go.vansh.nyc/Vl",
+        "locations": [
+            "Boulder, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ricoh",
+        "title": "Software Engineer Intern, Graphic Communications",
+        "source": "vanshb03",
+        "id": "f33cf776-07e3-4510-a84d-4b0f368a0a5e",
+        "date_posted": 1792368000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793099227,
+        "url": "https://go.vansh.nyc/Vm",
+        "locations": [
+            "Boulder, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ricoh",
+        "title": "SW Engineer Intern",
+        "source": "vanshb03",
+        "id": "5a516736-27ac-470c-ac75-a26360cf4d72",
+        "date_posted": 1792627200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
