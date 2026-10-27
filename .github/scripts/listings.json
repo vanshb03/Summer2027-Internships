@@ -34006,5 +34006,74 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1793140523,
+        "url": "https://go.vansh.nyc/WD",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Salesforce",
+        "title": "Forward Deployed Engineer Intern, Global Public Sector",
+        "source": "vanshb03",
+        "id": "a37a1acf-a0a0-4dc4-b183-d7050135a28f",
+        "date_posted": 1793059200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793140523,
+        "url": "https://go.vansh.nyc/WE",
+        "locations": [
+            "Santa Rosa, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Keysight Technologies",
+        "title": "Application Development Intern",
+        "source": "vanshb03",
+        "id": "b9f31bc6-ccbf-43cf-a16c-c2fef7124db3",
+        "date_posted": 1793122980,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793140523,
+        "url": "https://go.vansh.nyc/WF",
+        "locations": [
+            "Seattle, WA",
+            "East Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "Database Engineer Intern",
+        "source": "vanshb03",
+        "id": "5d47405e-be7e-44cf-ae05-5a0e284d0fb7",
+        "date_posted": 1793138653,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793140523,
+        "url": "https://go.vansh.nyc/WG",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Emerson Electric",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "8dcb9c56-7815-46d6-9634-3aabe90b91b3",
+        "date_posted": 1793139142,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
