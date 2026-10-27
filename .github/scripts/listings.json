@@ -33095,5 +33095,56 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793106385,
+        "url": "https://go.vansh.nyc/Vx",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Visa",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "6ff3b44c-5a15-4442-8d13-69b75b7648e9",
+        "date_posted": 1793106025,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793106385,
+        "url": "https://go.vansh.nyc/Vy",
+        "locations": [
+            "Foster City, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Visa",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "cb3be6bb-b78a-496a-b038-04c0ce4dfc64",
+        "date_posted": 1793106025,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793106385,
+        "url": "https://go.vansh.nyc/Vz",
+        "locations": [
+            "Ashburn, VA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Visa",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "0b685b11-974d-481f-926a-9ae29b965b87",
+        "date_posted": 1793106025,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
