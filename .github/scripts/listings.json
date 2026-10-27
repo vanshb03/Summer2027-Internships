@@ -33387,5 +33387,92 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793118984,
+        "url": "https://go.vansh.nyc/VR",
+        "locations": [
+            "Deerfield Beach, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "JM Family Enterprises",
+        "title": "Data Engineer Intern",
+        "source": "vanshb03",
+        "id": "1ee9c0e8-06f9-4984-892b-3eeca0c71af5",
+        "date_posted": 1793118444,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793118984,
+        "url": "https://go.vansh.nyc/VS",
+        "locations": [
+            "Okemos, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Delta Dental",
+        "title": "Application Development Intern",
+        "source": "vanshb03",
+        "id": "47d8470d-7727-4e19-a12c-9f292fdacb33",
+        "date_posted": 1793118384,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793119022,
+        "url": "https://go.vansh.nyc/VT",
+        "locations": [
+            "Remote",
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Galaxy",
+        "title": "Cybersecurity Intern",
+        "source": "vanshb03",
+        "id": "8e0138e6-207a-48f3-8169-23b905ce7a6b",
+        "date_posted": 1792526721,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793119022,
+        "url": "https://go.vansh.nyc/VU",
+        "locations": [
+            "Remote",
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "GuidePoint Security",
+        "title": "Cybersecurity Intern",
+        "source": "vanshb03",
+        "id": "22c278c3-5e6f-49f1-b592-837d53b36496",
+        "date_posted": 1792703028,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1793119022,
+        "url": "https://go.vansh.nyc/VV",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Apple Bank",
+        "title": "Information Security Intern",
+        "source": "vanshb03",
+        "id": "fa34164f-5141-4fa7-b26a-1f6e51bab2d1",
+        "date_posted": 1793119003,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
