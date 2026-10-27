@@ -43,6 +43,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Blackberry | Software Testing Development Intern, QNX | Ottawa, Canada | <a href="https://go.vansh.nyc/Vb?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
 | SOTI | Performance Test Engineer Intern | Mississauga, Canada | <a href="https://go.vansh.nyc/SG?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
 | ↳ | Quality Assurance Specialist Intern, SOTI Connect | Mississauga, Canada | <a href="https://go.vansh.nyc/SH?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
 | RTX | Software Platform Engineer Co-op 🇺🇸 | Aurora, CO</br>Remote</br>United States | <a href="https://go.vansh.nyc/CR?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
@@ -220,7 +221,14 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Clēnera | Data Engineer Intern | Boise, ID | <a href="https://go.vansh.nyc/FF?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
 | Bose | Data Analytics Engineer Co-op | Bloomfield Hills, MI</br>Framingham, MA</br>Atlanta, GA | <a href="https://go.vansh.nyc/FJ?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
 | ↳ | Embedded Software Engineer Co-op, Audio Tech | <details><summary>**4 locations**</summary>Bloomfield Hills, MI</br>Framingham, MA</br>Troy, MI</br>Atlanta, GA</details> | <a href="https://go.vansh.nyc/FK?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
-| Tevora | Cybersecurity Intern, Systems and Organizations Controls (SOC) | Irvine, CA</br>Fairfax, VA | <a href="https://go.vansh.nyc/H9?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 05 |
+| Tevora | Cybersecurity Intern, Enterprise Risk Management | Irvine, CA</br>Fairfax, VA | <a href="https://go.vansh.nyc/V4?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 05 |
+| ↳ | Cybersecurity Intern, Federal | Fairfax, VA</br>Irvine, CA | <a href="https://go.vansh.nyc/V5?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 05 |
+| ↳ | Cybersecurity Intern, Healthcare | Irvine, CA</br>Fairfax, VA | <a href="https://go.vansh.nyc/V6?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 05 |
+| ↳ | Cybersecurity Intern, ISO | Irvine, CA</br>Fairfax, VA | <a href="https://go.vansh.nyc/V7?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 05 |
+| ↳ | Cybersecurity Intern, Payments | Fairfax, VA</br>Irvine, CA | <a href="https://go.vansh.nyc/V8?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 05 |
+| ↳ | Cybersecurity Intern, Solutions | Irvine, CA</br>Fairfax, VA | <a href="https://go.vansh.nyc/V9?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 05 |
+| ↳ | Cybersecurity Intern, Threat | Irvine, CA</br>Fairfax, VA | <a href="https://go.vansh.nyc/Va?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 05 |
+| ↳ | Cybersecurity Intern, Systems and Organizations Controls (SOC) | Irvine, CA</br>Fairfax, VA | <a href="https://go.vansh.nyc/H9?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 05 |
 | Solink | Software Engineer Co-op, Apps | Ottawa, Canada | <a href="https://go.vansh.nyc/ET?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 05 |
 | Rivian | Software Engineer Co-op, Embedded Software | Palo Alto, CA | <a href="https://go.vansh.nyc/ER?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 05 |
 | NVIDIA | PCIe Design Verification Intern | Santa Clara, CA | <a href="https://go.vansh.nyc/EV?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 05 |
