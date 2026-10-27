@@ -46,7 +46,10 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
-| Visa | Data Science Intern, Data and AI Team | Foster City, CA | <a href="https://go.vansh.nyc/UG?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
+| Visa | Software Engineer Intern 🛂 | Bellevue, WA | <a href="https://go.vansh.nyc/Vx?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
+| ↳ | Software Engineer Intern 🛂 | Foster City, CA | <a href="https://go.vansh.nyc/Vy?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
+| ↳ | Software Engineer Intern 🛂 | Ashburn, VA | <a href="https://go.vansh.nyc/Vz?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
+| ↳ | Data Science Intern, Data and AI Team | Foster City, CA | <a href="https://go.vansh.nyc/UG?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
 | Rockwell Automation | Cybersecurity Intern 🛂 | Milwaukee, WI</br>Chelmsford, MA | <a href="https://go.vansh.nyc/Vd?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
 | PTC | Onshape QA Intern | Boston, MA | <a href="https://go.vansh.nyc/Vf?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
 | ↳ | Onshape SysOps Intern | Boston, MA | <a href="https://go.vansh.nyc/Vg?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
