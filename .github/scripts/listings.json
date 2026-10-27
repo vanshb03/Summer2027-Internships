@@ -32577,5 +32577,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793070354,
+        "url": "https://go.vansh.nyc/UF",
+        "locations": [
+            "Camp Hill, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Highmark Health",
+        "title": "Cyber Risk Management Analyst Undergraduate Intern",
+        "source": "vanshb03",
+        "id": "f2b525de-c1bd-4d2a-99cc-54fa507a54ab",
+        "date_posted": 1793070174,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
