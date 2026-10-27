@@ -10108,13 +10108,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792261427,
+        "date_updated": 1793113712,
         "url": "https://go.vansh.nyc/9G",
         "locations": [
             "Cambridge, MA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Draper",
         "title": "Operations Engineering Intern",
         "source": "vanshb03",
@@ -33249,5 +33249,57 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793113543,
+        "url": "https://go.vansh.nyc/VH",
+        "locations": [
+            "Dallas, TX",
+            "Franklin, TN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nissan",
+        "title": "AI Intern",
+        "source": "vanshb03",
+        "id": "5df0054c-1e48-4670-a44d-30078b3d6a34",
+        "date_posted": 1793059200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793113543,
+        "url": "https://go.vansh.nyc/VI",
+        "locations": [
+            "Goleta, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "RTX",
+        "title": "Embedded Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "0a37169d-5f2e-49e2-9079-41c0725b6526",
+        "date_posted": 1793059200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793113611,
+        "url": "https://go.vansh.nyc/VJ",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Boston Properties",
+        "title": "Cyber Security Co-op",
+        "source": "vanshb03",
+        "id": "6984b932-171c-4714-8a3a-1e96578219e6",
+        "date_posted": 1793059611,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
