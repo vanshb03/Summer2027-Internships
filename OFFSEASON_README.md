@@ -246,7 +246,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Semtech | Software Developer Co-op, Web/Cloud Application | Richmond, Canada | <a href="https://go.vansh.nyc/EI?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 04 |
 | Lumentum | Embedded Software Developer Co-op, Optical Circuit Switch | Ottawa, Canada | <a href="https://go.vansh.nyc/EB?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 04 |
 | First Solar (US) | Software Engineer Intern | Perrysburg, OH | <a href="https://go.vansh.nyc/Vk?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 04 |
-| Revvity | Software Integration Co-op | Akron, OH | <a href="https://go.vansh.nyc/g2?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 02 |
 | Regeneron Pharmaceuticals | Data Science & Computational Biology Co-op, Research | Tarrytown, NY | <a href="https://go.vansh.nyc/H4?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 02 |
 | Mindex | Software Engineer Co-op | Rochester, NY | <a href="https://go.vansh.nyc/Es?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 02 |
 | Regeneron Pharmaceuticals | Data Science & Digital Innovation Co-op, Preclinical Manufacturing & Research IT | Tarrytown, NY | <a href="https://go.vansh.nyc/Ek?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 01 |
@@ -312,7 +311,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | fab2 | Embedded Software Engineer Intern | San Francisco, CA</br>Austin, TX | <a href="https://go.vansh.nyc/OC?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 27 |
 | Verkada | Embedded Software Engineer Intern | San Mateo, CA | <a href="https://go.vansh.nyc/Ot?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
 | Medpace | Python Intern | Cincinnati, OH | <a href="https://go.vansh.nyc/Q8?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 24 |
-| Kodiak Robotics | Planning Intern, Mission Planning | Mountain View, CA | <a href="https://go.vansh.nyc/Os?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 24 |
 | Philips | Software Systems Engineering Co-op, Image Guided Therapy Devices - IVUS Clinical Imaging Software Application | Plymouth, MN | <a href="https://go.vansh.nyc/Op?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 23 |
 | Verition Fund Management LLC | Software Engineer Intern | Remote | <a href="https://go.vansh.nyc/7e?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 21 |
 | Millennium | Applied AI Engineer Intern | New York, NY | <a href="https://go.vansh.nyc/7h?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 21 |
@@ -423,7 +421,9 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Johnson & Johnson | TDS CGT-Digital Automation Co-op 🛂 | Malvern, PA | 🔒 | Oct 10 |
 | Clēnera | Data Engineer Intern | Boise, ID | 🔒 | Oct 06 |
 | Moment Energy | Firmware Engineering Co-op | Surrey, Canada | 🔒 | Oct 05 |
+| Revvity | Software Integration Co-op | Akron, OH | 🔒 | Oct 02 |
 | Royal Bank of Canada | Developer & IT Specialist Co-op, Global Asset Management | Toronto, Canada</br>Vancouver, Canada | 🔒 | Sep 03 |
+| Kodiak Robotics | Planning Intern, Mission Planning | Mountain View, CA | 🔒 | Aug 24 |
 | Varda Space Industries | Applications Engineer Intern | El Segundo, CA | 🔒 | Aug 21 |
 | TransMarket Group | Software Engineer Intern | Chicago, IL | 🔒 | Aug 21 |
 | Point72 | Quantitative Developer Intern | New York, NY | 🔒 | Aug 21 |
