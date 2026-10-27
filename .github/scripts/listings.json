@@ -31099,13 +31099,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793031368,
+        "date_updated": 1793104968,
         "url": "https://go.vansh.nyc/RB",
         "locations": [
             "Haifa District, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Qualcomm",
         "title": "AI Driven Test Automation Engineering Intern",
         "source": "vanshb03",
@@ -33080,14 +33080,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793102771,
+        "date_updated": 1793104968,
         "url": "https://go.vansh.nyc/Vv",
         "locations": [
             "Berlin, DE"
         ],
         "sponsorship": "Other",
-        "active": true,
-        "company_name": "NVIDIA (Eightfold)",
+        "active": false,
+        "company_name": "NVIDIA",
         "title": "Software Engineering Intern, AI Agents & Backend Infrastructure",
         "source": "vanshb03",
         "id": "81e4349a-0208-4067-97c4-2bff5b00908a",
