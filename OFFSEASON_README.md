@@ -244,6 +244,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | SOTI | Data Scientist Intern | Mississauga, Canada | <a href="https://go.vansh.nyc/EA?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 04 |
 | Semtech | Software Developer Co-op, Web/Cloud Application | Richmond, Canada | <a href="https://go.vansh.nyc/EI?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 04 |
 | Lumentum | Embedded Software Developer Co-op, Optical Circuit Switch | Ottawa, Canada | <a href="https://go.vansh.nyc/EB?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 04 |
+| First Solar (US) | Software Engineer Intern | Perrysburg, OH | <a href="https://go.vansh.nyc/Vk?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 04 |
 | Revvity | Software Integration Co-op | Akron, OH | <a href="https://go.vansh.nyc/g2?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 02 |
 | Regeneron Pharmaceuticals | Data Science & Computational Biology Co-op, Research | Tarrytown, NY | <a href="https://go.vansh.nyc/H4?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 02 |
 | Mindex | Software Engineer Co-op | Rochester, NY | <a href="https://go.vansh.nyc/Es?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 02 |
