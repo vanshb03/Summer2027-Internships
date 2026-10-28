@@ -46,7 +46,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | OpusClip | Customer Experience Test Automation Intern | Burnaby, Canada | <a href="https://go.vansh.nyc/WR?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
 | Motorola | Localization and QA Automation Developer Co-op | Vancouver, Canada | <a href="https://go.vansh.nyc/We?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
 | Lila Sciences | Robot Perception & State Estimation Co-op | Cambridge, MA | <a href="https://go.vansh.nyc/VD?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
-| Blackberry | Software Testing Development Intern, QNX | Ottawa, Canada | <a href="https://go.vansh.nyc/Vb?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
 | Texas Instruments | Web Marketing Intern, Front-end Developer | Dallas, TX | <a href="https://go.vansh.nyc/Wf?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
 | SOTI | Performance Test Engineer Intern | Mississauga, Canada | <a href="https://go.vansh.nyc/SG?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
 | ↳ | Quality Assurance Specialist Intern, SOTI Connect | Mississauga, Canada | <a href="https://go.vansh.nyc/SH?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
@@ -356,7 +355,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Software Engineer Intern | San Francisco, CA | <a href="https://go.vansh.nyc/3x?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | Fullscript | Software Developer Co-op | Ottawa, Canada | <a href="https://go.vansh.nyc/GV?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 22 |
 | GeoComply | Browser Security Engineer Intern | Vancouver, Canada | <a href="https://go.vansh.nyc/QA?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 09 |
-| Etched | Supercomputing Intern | San Jose, CA | <a href="https://go.vansh.nyc/2P?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 22 |
 | Tesla | Software Engineer Intern, Service Engineering | Palo Alto, CA | <a href="https://go.vansh.nyc/2v?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 11 |
 | Tesla | Software Engineer Intern, Update Systems | Palo Alto, CA | <a href="https://go.vansh.nyc/2o?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 09 |
 | ↳ | Software Engineer Intern, Maps & Navigation Validation | Palo Alto, CA | <a href="https://go.vansh.nyc/2n?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 09 |
@@ -391,6 +389,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Chassis Validation Engineer Intern, Vehicle Firmware | Palo Alto, CA | <a href="https://go.vansh.nyc/q?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 08 |
 | Tesla | Machine Learning Engineer Intern, Noise Vibration Harshness Engineering | Fremont, CA | <a href="https://go.vansh.nyc/p?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 02 |
 | ↳ | Automation Development & Tooling Engineer Intern | Brooklyn Park, MN</br>Elgin, IL</br>Grand Rapids, MI | <a href="https://go.vansh.nyc/o?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 02 |
+| Blackberry | Software Testing Development Intern, QNX | Ottawa, Canada | 🔒 | Oct 27 |
 | TD Bank | Product Management Co-op, L&H | Toronto, Canada | 🔒 | Oct 23 |
 | Flagship Pioneering | AI/ML Engineering Co-op, SAGE Platform | Cambridge, MA | 🔒 | Oct 23 |
 | ↳ | Bioinformatics Data Engineering Co-op | Cambridge, MA | 🔒 | Oct 23 |
@@ -498,6 +497,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ABB | Application Engineering Intern 🇺🇸 | Alpharetta, GA</br>Lombard, IL | 🔒 | Jul 09 |
 | Rocket Lab | Software Intern 🇺🇸 | Albuquerque, NM | 🔒 | May 22 |
 | Etched | Supercomputing Intern | San Jose, CA | 🔒 | May 22 |
+| ↳ | Supercomputing Intern | San Jose, CA | 🔒 | May 22 |
 | ↳ | Infrastructure Intern | San Jose, CA | 🔒 | May 22 |
 | ↳ | Infrastructure Intern | San Jose, CA | 🔒 | May 22 |
 | ↳ | Firmware Intern | San Jose, CA | 🔒 | May 22 |
