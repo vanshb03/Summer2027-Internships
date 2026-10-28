@@ -52,7 +52,9 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Software Engineering Intern | Austin, TX</br>Santa Clara, CA | <a href="https://go.vansh.nyc/Xo?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | ↳ | AI Accelerator Design Verification Engineer Intern | Austin, TX</br>Santa Clara, CA | <a href="https://go.vansh.nyc/Xp?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | Micron Technology | Data Science Intern | San Jose, CA</br>Folsom, CA | <a href="https://go.vansh.nyc/XF?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
-| Lockheed Martin | Software Engineer Intern 🇺🇸 | Sunnyvale, CA | <a href="https://go.vansh.nyc/Xr?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
+| Lockheed Martin | Software Engineer Intern 🇺🇸 | Littleton, CO | <a href="https://go.vansh.nyc/XV?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
+| ↳ | Software Engineer Intern 🇺🇸 | Sunnyvale, CA | <a href="https://go.vansh.nyc/Xr?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
+| L3Harris Technologies | Information Security Systems Engineer Intern 🇺🇸 | Salt Lake City, UT | <a href="https://go.vansh.nyc/XU?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | Infleqtion | Quantum Software Intern | Chicago, IL | <a href="https://go.vansh.nyc/Xz?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | Daimler Truck | Software Release Management Intern | Portland, OR | <a href="https://go.vansh.nyc/Xd?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | CrowdStrike | Overwatch Intern, Research | Arlington, VA</br>Austin, TX | <a href="https://go.vansh.nyc/XD?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
