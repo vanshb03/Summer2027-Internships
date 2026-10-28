@@ -34642,5 +34642,39 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793185624,
+        "url": "https://go.vansh.nyc/Xq",
+        "locations": [
+            "Boulder, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ricoh",
+        "title": "Robotics Engineer Intern",
+        "source": "vanshb03",
+        "id": "58f2a330-ef75-479f-a686-0b7f6e930255",
+        "date_posted": 1790812800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793185624,
+        "url": "https://go.vansh.nyc/Xr",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Lockheed Martin",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "12457784-c81a-4877-9db8-ecccb9c9d098",
+        "date_posted": 1793185551,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
