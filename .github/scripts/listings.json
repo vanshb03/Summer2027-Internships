@@ -33923,13 +33923,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793138717,
+        "date_updated": 1793209068,
         "url": "https://go.vansh.nyc/Wv",
         "locations": [
             "Pearl Harbor, HI"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Leidos",
         "title": "Cybersecurity Analyst Intern",
         "source": "vanshb03",
