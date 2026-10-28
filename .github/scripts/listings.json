@@ -35398,5 +35398,181 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793228719,
+        "url": "https://go.vansh.nyc/Yo",
+        "locations": [
+            "Omaha, NE"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Valmont",
+        "title": "AI and Data Engineering Intern",
+        "source": "vanshb03",
+        "id": "d5ff67f9-c46d-457c-bfb0-f0387930e359",
+        "date_posted": 1793145600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1793228719,
+        "url": "https://go.vansh.nyc/Yp",
+        "locations": [
+            "Boise, ID"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Marvell",
+        "title": "Data Science Intern",
+        "source": "vanshb03",
+        "id": "df8be692-afad-435f-b152-3a3fc49d1623",
+        "date_posted": 1793145600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793228719,
+        "url": "https://go.vansh.nyc/Yq",
+        "locations": [
+            "Rensselaer, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Regeneron Pharmaceuticals",
+        "title": "Data Science & Digital Innovation Intern, Industrial Operations and Product Supply",
+        "source": "vanshb03",
+        "id": "784554cb-ddf9-4d93-a99e-f3d591ba2bf9",
+        "date_posted": 1793145600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793228719,
+        "url": "https://go.vansh.nyc/Yr",
+        "locations": [
+            "Armonk, NY",
+            "Warren, NJ",
+            "Tarrytown, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Regeneron Pharmaceuticals",
+        "title": "Data Analytics Intern, Dashboards & Business Process Automation",
+        "source": "vanshb03",
+        "id": "2bc9073b-e695-45eb-ae23-aec2bb582bc2",
+        "date_posted": 1793145600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793228719,
+        "url": "https://go.vansh.nyc/Ys",
+        "locations": [
+            "Cambridge, MA",
+            "Armonk, NY",
+            "Warren, NJ",
+            "Sleepy Hollow, NY",
+            "Tarrytown, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Regeneron Pharmaceuticals",
+        "title": "AI/ML & Data Engineering Intern",
+        "source": "vanshb03",
+        "id": "c3a2463a-f896-4e9d-8388-4584ec262574",
+        "date_posted": 1793145600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793228719,
+        "url": "https://go.vansh.nyc/Yt",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ASML",
+        "title": "Data Engineer Co-op",
+        "source": "vanshb03",
+        "id": "da5430c4-dcac-49b3-ac50-586e96ea3113",
+        "date_posted": 1793145600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1793228719,
+        "url": "https://go.vansh.nyc/Yu",
+        "locations": [
+            "Germantown, MD"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Viavi Solutions",
+        "title": "Hardware Engineer Co-op",
+        "source": "vanshb03",
+        "id": "0b92cdfd-b4b8-48b1-9c17-1ad09489acad",
+        "date_posted": 1793145600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1793228719,
+        "url": "https://go.vansh.nyc/Yv",
+        "locations": [
+            "Brecksville, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Sherwin-Williams",
+        "title": "R&D Data Science Co-op",
+        "source": "vanshb03",
+        "id": "99ff9d52-4148-4098-a107-353bc183e7c0",
+        "date_posted": 1793226485,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793228719,
+        "url": "https://go.vansh.nyc/Yw",
+        "locations": [
+            "Carlsbad, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "L3Harris Technologies",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "bd110fa4-dae1-4c2e-8f03-15b9a474e116",
+        "date_posted": 1793227322,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793228719,
+        "url": "https://go.vansh.nyc/Yx",
+        "locations": [
+            "Beaverton, OR"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Apple",
+        "title": "Design Verification Engineer Intern",
+        "source": "vanshb03",
+        "id": "3f7b7be2-9288-4160-9b4d-80a869da8856",
+        "date_posted": 1793227512,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
