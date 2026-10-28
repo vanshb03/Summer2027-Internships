@@ -20508,14 +20508,14 @@
         "season": "Spring"
     },
     {
-        "date_updated": 1793013650,
+        "date_updated": 1793225249,
         "url": "https://go.vansh.nyc/CY",
         "locations": [
             "Remote",
             "United States"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "OpenSesame",
         "title": "Security Analyst Intern",
         "source": "vanshb03",
@@ -35052,6 +35052,23 @@
         "source": "vanshb03",
         "id": "2c0587ab-64d3-4fe6-9900-41ca9e5b8818",
         "date_posted": 1793221821,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793225156,
+        "url": "https://go.vansh.nyc/Y2",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ASML",
+        "title": "Software Development Engineer in Test Intern",
+        "source": "vanshb03",
+        "id": "d54f7250-8e5d-4e5c-9dbb-5ca417ea7ff4",
+        "date_posted": 1793223776,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
