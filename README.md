@@ -86,6 +86,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Kudu Dynamics | Cybersecurity Intern 🇺🇸 | Arlington, VA</br>Washington, DC</br>Camp Springs, MD | <a href="https://go.vansh.nyc/W5?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
 | Keysight Technologies | Application Development Intern | Santa Rosa, CA | <a href="https://go.vansh.nyc/WE?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
 | JM Family Enterprises | Data Engineer Intern | Deerfield Beach, FL | <a href="https://go.vansh.nyc/VR?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
+| Hive Financial Systems | Analytics Intern | Atlanta, GA | <a href="https://go.vansh.nyc/Xk?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
 | FUTO | Software Engineer Intern | Austin, TX | <a href="https://go.vansh.nyc/WW?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
 | Ericsson | Cybersecurity Analyst Intern 🛂 | Plano, TX | <a href="https://go.vansh.nyc/Vu?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
 | EQT Corporation | AI Intern | Remote</br>United States | <a href="https://go.vansh.nyc/VF?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
@@ -104,10 +105,10 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | American Family Insurance Group | Cybersecurity Intern | Madison, WI</br>Boston, MA | <a href="https://go.vansh.nyc/VN?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
 | Amazon | Database Engineer Intern | Seattle, WA</br>East Palo Alto, CA | <a href="https://go.vansh.nyc/WF?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
 | Zillow | Data Science Intern | Seattle, WA | <a href="https://go.vansh.nyc/Tk?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
-| Visa | Software Engineer Intern 🛂 | Foster City, CA | <a href="https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Software-Engineer--Intern---Foster-City-2027_REF089875W-1"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
-| ↳ | Software Engineer Intern 🛂 | Austin, TX | <a href="https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Software-Engineer--Intern---2027-Austin--TX_REF089918W-1"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
-| ↳ | Network and Security Engineering Intern 🛂 | Ashburn, VA | <a href="https://visa.wd5.myworkdayjobs.com/Visa/job/US---Ashburn-VA/Network-and-Security-Engineering-Intern---2027--Ashburn--VA_REF089778W"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
-| ↳ | Network and Security Engineering Intern 🛂 | Denver, CO | <a href="https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/Network-and-Security-Engineering-Intern---2027--Highlands-Ranch--CO_REF089779W-1"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
+| Visa | Software Engineer Intern 🛂 | Foster City, CA | <a href="https://go.vansh.nyc/Xe?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
+| ↳ | Software Engineer Intern 🛂 | Austin, TX | <a href="https://go.vansh.nyc/Xf?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
+| ↳ | Network and Security Engineering Intern 🛂 | Ashburn, VA | <a href="https://go.vansh.nyc/Xg?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
+| ↳ | Network and Security Engineering Intern 🛂 | Denver, CO | <a href="https://go.vansh.nyc/Xh?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
 | ↳ | Sophomore Program Software Engineer Intern | Ashburn, VA | <a href="https://go.vansh.nyc/VE?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
 | Uber | Software Engineering Intern | Toronto, Canada | <a href="https://go.vansh.nyc/Wx?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
 | Two Six Technologies | Research Intern 🇺🇸 | Arlington, VA | <a href="https://go.vansh.nyc/SO?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |

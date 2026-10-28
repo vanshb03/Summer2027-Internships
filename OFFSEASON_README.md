@@ -44,10 +44,13 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Wabtec | Software Engineering Co-op | Schenectady, NY | <a href="https://go.vansh.nyc/X9?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
+| Philips | Embedded Test Engineer Co-op | Murrysville, PA | <a href="https://go.vansh.nyc/Xl?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
 | OpusClip | Customer Experience Test Automation Intern | Burnaby, Canada | <a href="https://go.vansh.nyc/WR?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
 | Motorola | Localization and QA Automation Developer Co-op | Vancouver, Canada | <a href="https://go.vansh.nyc/We?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
 | Lila Sciences | Robot Perception & State Estimation Co-op | Cambridge, MA | <a href="https://go.vansh.nyc/VD?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
+| The Walt Disney Company | Content Research Insights & Analytics Intern | Burbank, CA | <a href="https://go.vansh.nyc/Xi?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
 | Texas Instruments | Web Marketing Intern, Front-end Developer | Dallas, TX | <a href="https://go.vansh.nyc/Wf?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
+| Sun Life | Quality Engineering Analyst Intern | Waterloo, Canada | <a href="https://go.vansh.nyc/Xj?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
 | SOTI | Performance Test Engineer Intern | Mississauga, Canada | <a href="https://go.vansh.nyc/SG?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
 | ↳ | Quality Assurance Specialist Intern, SOTI Connect | Mississauga, Canada | <a href="https://go.vansh.nyc/SH?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
 | RTX | Software Platform Engineer Co-op 🇺🇸 | Aurora, CO</br>Remote</br>United States | <a href="https://go.vansh.nyc/CR?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
