@@ -34710,5 +34710,56 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1793194562,
+        "url": "https://go.vansh.nyc/Xv",
+        "locations": [
+            "Golden, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Allegion",
+        "title": "Software Systems Engineering Intern",
+        "source": "vanshb03",
+        "id": "b6a9003d-149f-4f13-b5df-63c10630f95b",
+        "date_posted": 1793193542,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793194562,
+        "url": "https://go.vansh.nyc/Xw",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Schonfeld",
+        "title": "DMFI Intern",
+        "source": "vanshb03",
+        "id": "8fefa28f-756f-443c-ba30-582781371daf",
+        "date_posted": 1793192342,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793194941,
+        "url": "https://go.vansh.nyc/Xx",
+        "locations": [
+            "Oak Brook, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ace Hardware Corporation",
+        "title": "IT Associate Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "213ac571-729d-450b-ae2a-9339c87cc649",
+        "date_posted": 1793194806,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
