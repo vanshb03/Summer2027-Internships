@@ -34229,5 +34229,56 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793153113,
+        "url": "https://go.vansh.nyc/WV",
+        "locations": [
+            "Chillicothe, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Paccar",
+        "title": "Application Developer Intern",
+        "source": "vanshb03",
+        "id": "b73f6b97-cb90-4e15-ada4-87e6281f9471",
+        "date_posted": 1793149905,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793153113,
+        "url": "https://go.vansh.nyc/WW",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "FUTO",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "db5486f5-75e7-4698-ad55-ec6ade8735f3",
+        "date_posted": 1793150194,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793153113,
+        "url": "https://go.vansh.nyc/WX",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Perspective Therapeutics",
+        "title": "AI Innovation Intern",
+        "source": "vanshb03",
+        "id": "96a3a3bd-eba6-4f69-9558-1a3e345b0c16",
+        "date_posted": 1793150868,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
