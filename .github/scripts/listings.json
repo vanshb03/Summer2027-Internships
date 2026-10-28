@@ -19580,13 +19580,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793013503,
+        "date_updated": 1793210924,
         "url": "https://go.vansh.nyc/C6",
         "locations": [
             "Irving, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "7-Eleven",
         "title": "AI Analyst / AI Automation Specialist Intern",
         "source": "vanshb03",
@@ -29860,13 +29860,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793030742,
+        "date_updated": 1793210924,
         "url": "https://go.vansh.nyc/Qs",
         "locations": [
             "Lexington, MA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Booz Allen Hamilton",
         "title": "Games Systems Engineer Intern",
         "source": "vanshb03",
@@ -30204,13 +30204,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793031368,
+        "date_updated": 1793210924,
         "url": "https://go.vansh.nyc/QM",
         "locations": [
             "Lexington, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Booz Allen Hamilton",
         "title": "Games Software Developer Intern",
         "source": "vanshb03",
@@ -30221,13 +30221,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793031368,
+        "date_updated": 1793210924,
         "url": "https://go.vansh.nyc/QN",
         "locations": [
             "Lexington, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Booz Allen Hamilton",
         "title": "Games Data Scientist Intern",
         "source": "vanshb03",
@@ -31700,13 +31700,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793033120,
+        "date_updated": 1793210924,
         "url": "https://go.vansh.nyc/Sx",
         "locations": [
             "Lexington, MA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Booz Allen Hamilton",
         "title": "Cyber Security Intern",
         "source": "vanshb03",
@@ -32168,13 +32168,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793046997,
+        "date_updated": 1793210924,
         "url": "https://go.vansh.nyc/T0",
         "locations": [
             "Albuquerque, NM"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Booz Allen Hamilton",
         "title": "Systems Engineer Intern, Games",
         "source": "vanshb03",
@@ -34845,6 +34845,41 @@
         "source": "vanshb03",
         "id": "664c456f-0e7e-4fea-b482-3eee6c7d2dd6",
         "date_posted": 1793206262,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793210767,
+        "url": "https://go.vansh.nyc/XH",
+        "locations": [
+            "Cambridge, MA",
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lila Sciences",
+        "title": "Structuring Scientific Data for Discovery Co-op",
+        "source": "vanshb03",
+        "id": "240e289b-c760-4524-9309-d938312db71f",
+        "date_posted": 1793207227,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1793210825,
+        "url": "https://go.vansh.nyc/XI",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Filevine",
+        "title": "Security Specialist Intern",
+        "source": "vanshb03",
+        "id": "389dd25d-561b-4f31-bc01-3904fc8b7b2b",
+        "date_posted": 1793132417,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
