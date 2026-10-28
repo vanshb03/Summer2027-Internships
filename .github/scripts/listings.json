@@ -9785,13 +9785,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792261427,
+        "date_updated": 1793219884,
         "url": "https://go.vansh.nyc/9n",
         "locations": [
             "US GA Atlanta Suwanee 1 DC1"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "QTS",
         "title": "Information Security Operations Analyst Intern",
         "source": "vanshb03",
@@ -22918,7 +22918,7 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793015500,
+        "date_updated": 1793219884,
         "url": "https://go.vansh.nyc/FN",
         "locations": [
             "Remote",
@@ -22926,7 +22926,7 @@
             "Reston, VA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "ICF International",
         "title": "Data Engineer Intern",
         "source": "vanshb03",
@@ -33633,14 +33633,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793126156,
+        "date_updated": 1793219884,
         "url": "https://go.vansh.nyc/W7",
         "locations": [
             "Remote",
             "United States"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Workiva",
         "title": "Machine Learning Engineering Intern",
         "source": "vanshb03",
@@ -34282,14 +34282,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793167543,
+        "date_updated": 1793219884,
         "url": "https://go.vansh.nyc/X3",
         "locations": [
             "Remote",
             "United States"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "VSP Vision",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -35002,5 +35002,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793219763,
+        "url": "https://go.vansh.nyc/XZ",
+        "locations": [
+            "Bethesda, MD"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Leidos",
+        "title": "Cybersecurity Engineer Co-op",
+        "source": "vanshb03",
+        "id": "cc0e484e-272e-4f9e-bef7-6daaa2d5c550",
+        "date_posted": 1793218683,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
