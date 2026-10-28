@@ -34418,5 +34418,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793174751,
+        "url": "https://go.vansh.nyc/Xd",
+        "locations": [
+            "Portland, OR"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Daimler Truck",
+        "title": "Software Release Management Intern",
+        "source": "vanshb03",
+        "id": "82eda68a-6c7a-45f7-8627-721589451e3c",
+        "date_posted": 1793172051,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
