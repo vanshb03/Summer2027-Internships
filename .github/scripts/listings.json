@@ -34917,5 +34917,39 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793214414,
+        "url": "https://go.vansh.nyc/XU",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "L3Harris Technologies",
+        "title": "Information Security Systems Engineer Intern",
+        "source": "vanshb03",
+        "id": "1839d642-6be7-46e2-b16a-7055bd0c2271",
+        "date_posted": 1793214392,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793214414,
+        "url": "https://go.vansh.nyc/XV",
+        "locations": [
+            "Littleton, CO"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Lockheed Martin",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "d3403517-9a3f-4fa3-bfe0-6f836a0bacd7",
+        "date_posted": 1793214392,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
