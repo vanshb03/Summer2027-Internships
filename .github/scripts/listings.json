@@ -8968,13 +8968,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792261427,
+        "date_updated": 1793198307,
         "url": "https://go.vansh.nyc/8B",
         "locations": [
             "Cambridge, MA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Draper",
         "title": "Classified Cybersecurity/IT Intern",
         "source": "vanshb03",
@@ -16105,7 +16105,7 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792717375,
+        "date_updated": 1793198307,
         "url": "https://go.vansh.nyc/fi",
         "locations": [
             "Hartford, CT",
@@ -16114,7 +16114,7 @@
             "Woonsocket, RI"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "CVS Health",
         "title": "Product & Agile Delivery Intern, Innovation & Technology",
         "source": "vanshb03",
@@ -16125,7 +16125,7 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792717375,
+        "date_updated": 1793198307,
         "url": "https://go.vansh.nyc/fj",
         "locations": [
             "Scottsdale, AZ",
@@ -16134,7 +16134,7 @@
             "Woonsocket, RI"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "CVS Health",
         "title": "Software Engineer Intern, Platform & Applications",
         "source": "vanshb03",
@@ -30619,13 +30619,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1793031368,
+        "date_updated": 1793198307,
         "url": "https://go.vansh.nyc/Ra",
         "locations": [
             "Laurel, MD"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Johns Hopkins Applied Physics Laboratory",
         "title": "Cybersecurity Intern, Mission Engineering",
         "source": "vanshb03",
@@ -34758,6 +34758,40 @@
         "source": "vanshb03",
         "id": "213ac571-729d-450b-ae2a-9339c87cc649",
         "date_posted": 1793194806,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793198120,
+        "url": "https://go.vansh.nyc/Xy",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "WorldEngine AI",
+        "title": "Research Intern, Robotics Data - Real-to-Sim",
+        "source": "vanshb03",
+        "id": "a3b2e74c-da8f-4bf1-a39b-5a58a70704b8",
+        "date_posted": 1793145600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793198120,
+        "url": "https://go.vansh.nyc/Xz",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Infleqtion",
+        "title": "Quantum Software Intern",
+        "source": "vanshb03",
+        "id": "3f178600-999b-4d23-8264-65108f950e20",
+        "date_posted": 1793196709,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
