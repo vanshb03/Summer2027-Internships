@@ -10297,13 +10297,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792261427,
+        "date_updated": 1793218094,
         "url": "https://go.vansh.nyc/9R",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Salesforce",
         "title": "Solution Engineer Intern",
         "source": "vanshb03",
@@ -33668,13 +33668,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793128003,
+        "date_updated": 1793218094,
         "url": "https://go.vansh.nyc/W9",
         "locations": [
             "Seattle, WA"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Sonos",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
@@ -34965,6 +34965,40 @@
         "source": "vanshb03",
         "id": "a861def9-f6e2-47b3-9cae-1269088eee33",
         "date_posted": 1793214894,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793217981,
+        "url": "https://go.vansh.nyc/XX",
+        "locations": [
+            "Boise, ID"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Micron Technology",
+        "title": "Embedded Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "0ecc23a9-3ba8-4c00-beee-aad3199b0d40",
+        "date_posted": 1793145981,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793217981,
+        "url": "https://go.vansh.nyc/XY",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Schonfeld",
+        "title": "Enterprise AI Intern",
+        "source": "vanshb03",
+        "id": "ab65694a-817d-43df-b248-09adc8475dca",
+        "date_posted": 1793214981,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
