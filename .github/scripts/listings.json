@@ -34195,5 +34195,39 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793145964,
+        "url": "https://go.vansh.nyc/WT",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Mercor",
+        "title": "Research Engineer Intern, Benchmarking",
+        "source": "vanshb03",
+        "id": "39a68014-dbb0-408c-9589-3e0a125e9864",
+        "date_posted": 1793143744,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793145964,
+        "url": "https://go.vansh.nyc/WU",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Mercor",
+        "title": "Research Engineer Intern, Environments, Data and Post-Training",
+        "source": "vanshb03",
+        "id": "f7184a24-acd7-45c6-8917-b33db779ddd9",
+        "date_posted": 1793143444,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
