@@ -10671,13 +10671,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792261427,
+        "date_updated": 1793227257,
         "url": "https://go.vansh.nyc/ad",
         "locations": [
             "Fayetteville, NC"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Booz Allen Hamilton",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -17372,13 +17372,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792774166,
+        "date_updated": 1793227257,
         "url": "https://go.vansh.nyc/gt",
         "locations": [
             "Toronto, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Altera",
         "title": "Software Intern",
         "source": "vanshb03",
@@ -35069,6 +35069,332 @@
         "source": "vanshb03",
         "id": "d54f7250-8e5d-4e5c-9dbb-5ca417ea7ff4",
         "date_posted": 1793223776,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793226913,
+        "url": "https://go.vansh.nyc/Y3",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Applied Materials",
+        "title": "Data Scientist Intern",
+        "source": "vanshb03",
+        "id": "624ea33d-d0d2-4492-84c1-7d6290c70d59",
+        "date_posted": 1793145600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793226913,
+        "url": "https://go.vansh.nyc/Y4",
+        "locations": [
+            "Fort Belvoir, VA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Leidos",
+        "title": "Data Engineer Intern",
+        "source": "vanshb03",
+        "id": "cb3e8b58-dd2a-4d39-b0cc-e3cae70ada01",
+        "date_posted": 1793145600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793226913,
+        "url": "https://go.vansh.nyc/Y5",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "LinkedIn",
+        "title": "Software Engineer Intern, First Play",
+        "source": "vanshb03",
+        "id": "d1dc33d2-36e1-4f24-bd0b-d8b4f6e5694b",
+        "date_posted": 1793145600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793226961,
+        "url": "https://go.vansh.nyc/Y6",
+        "locations": [
+            "Pleasanton, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Workday",
+        "title": "Analytics Engineer Intern",
+        "source": "vanshb03",
+        "id": "62904951-e31a-469e-9522-f8c4f5620265",
+        "date_posted": 1793145600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793226961,
+        "url": "https://go.vansh.nyc/Y7",
+        "locations": [
+            "Dallas, TX",
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Revantage Corporate Services",
+        "title": "Insurance Technology & AI Analytics Intern",
+        "source": "vanshb03",
+        "id": "da763d43-565a-4ab1-ae07-6ad8f58c66d1",
+        "date_posted": 1793145600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793226961,
+        "url": "https://go.vansh.nyc/Y8",
+        "locations": [
+            "Livermore, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "FormFactor",
+        "title": "Electrical Design Automation Intern, AI & EDA Automation",
+        "source": "vanshb03",
+        "id": "2fc8d318-737f-4ff8-96aa-a7d54581a443",
+        "date_posted": 1793145600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793226961,
+        "url": "https://go.vansh.nyc/Y9",
+        "locations": [
+            "Boca Raton, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Florida Atlantic University",
+        "title": "Data Analyst Intern",
+        "source": "vanshb03",
+        "id": "7a5ba4bc-8bb7-4297-b2d1-c7926656b1ff",
+        "date_posted": 1793145600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793226961,
+        "url": "https://go.vansh.nyc/Ya",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Applied Materials",
+        "title": "Data Science Intern",
+        "source": "vanshb03",
+        "id": "a6421ba0-be51-45a0-ba54-61a94d2eebba",
+        "date_posted": 1793145600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793226961,
+        "url": "https://go.vansh.nyc/Yb",
+        "locations": [
+            "Burlington, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Johnson Controls",
+        "title": "Software Engineering Co-op",
+        "source": "vanshb03",
+        "id": "2e9d39ef-3478-4dd7-a209-1f159dd84a65",
+        "date_posted": 1793145600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1793226961,
+        "url": "https://go.vansh.nyc/Yc",
+        "locations": [
+            "Remote",
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Subtotal",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "bf987a07-4488-439f-94a0-35d69467dcb8",
+        "date_posted": 1793145600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793226961,
+        "url": "https://go.vansh.nyc/Yd",
+        "locations": [
+            "State College, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Pennsylvania State University",
+        "title": "Research and Development Engineer Intern",
+        "source": "vanshb03",
+        "id": "d5efe028-7392-4a8d-9d89-a6ed4f0fde5b",
+        "date_posted": 1793145600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793226961,
+        "url": "https://go.vansh.nyc/Ye",
+        "locations": [
+            "Overland Park, KS"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "T-Mobile",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "c56d9bc9-31c0-4c8e-ad32-e97f7472ac13",
+        "date_posted": 1793145600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793226961,
+        "url": "https://go.vansh.nyc/Yf",
+        "locations": [
+            "Frisco, TX",
+            "Overland Park, KS"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "T-Mobile",
+        "title": "Associate AI Engineer Intern",
+        "source": "vanshb03",
+        "id": "c9844c11-9390-4bf0-9e62-0a70e582dbdb",
+        "date_posted": 1793145600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793226961,
+        "url": "https://go.vansh.nyc/Yg",
+        "locations": [
+            "Frisco, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "T-Mobile",
+        "title": "Associate Technical Product Manager Intern",
+        "source": "vanshb03",
+        "id": "94e71177-854a-4091-ac3a-393cb40c1f73",
+        "date_posted": 1793145600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793226961,
+        "url": "https://go.vansh.nyc/Yh",
+        "locations": [
+            "Markham, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Qualcomm",
+        "title": "Deep Learning Research Intern, Interim Engineering Systems",
+        "source": "vanshb03",
+        "id": "061500d0-e969-4daa-aef2-76675839e80c",
+        "date_posted": 1793226130,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793226961,
+        "url": "https://go.vansh.nyc/Yi",
+        "locations": [
+            "Vancouver, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Qualcomm",
+        "title": "Camera Design Engineering Intern",
+        "source": "vanshb03",
+        "id": "a3deb92a-dfe2-4c77-82f9-5ea968a9ba1e",
+        "date_posted": 1793226135,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793226961,
+        "url": "https://go.vansh.nyc/Yj",
+        "locations": [
+            "Deer Park, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Clean Harbors",
+        "title": "Software & Field Technology Intern",
+        "source": "vanshb03",
+        "id": "ffef1301-deea-401a-9af8-b1319adcb2b3",
+        "date_posted": 1793226368,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793227156,
+        "url": "https://go.vansh.nyc/Yk",
+        "locations": [
+            "Beavercreek, OH"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Booz Allen Hamilton",
+        "title": "Design and Verification Engineer Intern",
+        "source": "vanshb03",
+        "id": "f20c3454-be94-48bf-a2a9-21b8a47c095a",
+        "date_posted": 1793225296,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793227189,
+        "url": "https://go.vansh.nyc/Yl",
+        "locations": [
+            "South Ogden, UT"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Gauss Management Research & Engineering",
+        "title": "Web Application Developer Intern",
+        "source": "vanshb03",
+        "id": "cf6c8448-0a07-4d49-af11-ba91777dcbcf",
+        "date_posted": 1793145600,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
