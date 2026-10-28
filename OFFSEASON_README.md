@@ -147,7 +147,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Military Systems Cybersecurity Engineer Intern | Laurel, MD | <a href="https://go.vansh.nyc/R7?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
 | ↳ | Cyber Security Intern, Cyber Dominance | Laurel, MD | <a href="https://go.vansh.nyc/R8?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
 | ↳ | Reverse Engineer Intern, Offensive Cyber Capabilities | Laurel, MD | <a href="https://go.vansh.nyc/R9?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
-| ↳ | Cybersecurity Intern, Mission Engineering | Laurel, MD | <a href="https://go.vansh.nyc/Ra?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
 | ↳ | Algorithm, Software, or RF Systems Engineering Intern | Laurel, MD | <a href="https://go.vansh.nyc/Rb?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
 | ↳ | Cybersecurity Engineer Intern, Critical Infrastructure Protection | Laurel, MD | <a href="https://go.vansh.nyc/Rc?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
 | HeyGen | Software Engineer Intern | <details><summary>**4 locations**</summary>Toronto, ON, Canada</br>SF</br>LA</br>Singapore</details> | <a href="https://go.vansh.nyc/bb?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
@@ -409,6 +408,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Software Engineer Co-op 🇺🇸 | Richardson, TX | 🔒 | Oct 20 |
 | BMO | Data & AI Analyst Co-op | Toronto, ON, Canada | 🔒 | Oct 20 |
 | Manulife Financial | AI Co-op | Toronto, ON, Canada | 🔒 | Oct 18 |
+| Johns Hopkins Applied Physics Laboratory | Cybersecurity Intern, Mission Engineering | Laurel, MD | 🔒 | Oct 18 |
 | RTX | Development Operations Intern, Engineering Development Program 🇺🇸 | Middletown, CT | 🔒 | Oct 16 |
 | KPMG | AI Builder Co-op | Toronto, ON, Canada | 🔒 | Oct 16 |
 | D2L | Software Developer Co-op, Custom Development Services | Kitchener, ON, Canada | 🔒 | Oct 16 |
