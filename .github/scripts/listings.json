@@ -2755,13 +2755,13 @@
         "season": "Spring"
     },
     {
-        "date_updated": 1779485547,
+        "date_updated": 1793160404,
         "url": "https://go.vansh.nyc/2P",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Etched",
         "title": "Supercomputing Intern",
         "source": "vanshb03",
@@ -13999,13 +13999,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792602840,
+        "date_updated": 1793160404,
         "url": "https://go.vansh.nyc/dl",
         "locations": [
             "Andover, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Smith+Nephew",
         "title": "Agentic AI Software Engineering Intern",
         "source": "vanshb03",
@@ -32858,13 +32858,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1793095565,
+        "date_updated": 1793160404,
         "url": "https://go.vansh.nyc/Vb",
         "locations": [
             "Ottawa, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Blackberry",
         "title": "Software Testing Development Intern, QNX",
         "source": "vanshb03",
@@ -32875,13 +32875,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1793095565,
+        "date_updated": 1793160404,
         "url": "https://go.vansh.nyc/Vc",
         "locations": [
             "Conshohocken, PA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Cencora",
         "title": "AI Intern",
         "source": "vanshb03",
