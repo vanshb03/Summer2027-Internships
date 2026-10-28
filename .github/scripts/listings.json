@@ -3646,13 +3646,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1784878926,
+        "date_updated": 1793205510,
         "url": "https://go.vansh.nyc/3D",
         "locations": [
             "Chicago, IL"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Akuna Capital",
         "title": "Software Engineer Intern, Full Stack Web",
         "source": "vanshb03",
@@ -3663,13 +3663,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1784878929,
+        "date_updated": 1793205510,
         "url": "https://go.vansh.nyc/3E",
         "locations": [
             "Chicago, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Akuna Capital",
         "title": "Software Engineer Intern, C# .NET Desktop",
         "source": "vanshb03",
@@ -15618,13 +15618,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792717232,
+        "date_updated": 1793205510,
         "url": "https://go.vansh.nyc/eQ",
         "locations": [
             "Huntsville, AL"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Leidos",
         "title": "AI/ML Intern",
         "source": "vanshb03",
@@ -20629,13 +20629,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1793013650,
+        "date_updated": 1793205510,
         "url": "https://go.vansh.nyc/D5",
         "locations": [
             "Saint Louis, MO"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Stifel",
         "title": "Technology Product Development Developer Intern",
         "source": "vanshb03",
@@ -26441,13 +26441,13 @@
         "season": "Spring"
     },
     {
-        "date_updated": 1793022083,
+        "date_updated": 1793205510,
         "url": "https://go.vansh.nyc/K5",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "iRhythm Technologies",
         "title": "Firmware Quality Assurance Engineer Co-op",
         "source": "vanshb03",
@@ -34809,6 +34809,24 @@
         "source": "vanshb03",
         "id": "13514f71-f31f-453f-be8b-dfa2ce705626",
         "date_posted": 1793203810,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793205400,
+        "url": "https://go.vansh.nyc/XD",
+        "locations": [
+            "Arlington, VA",
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CrowdStrike",
+        "title": "Overwatch Intern, Research",
+        "source": "vanshb03",
+        "id": "bb1b1b9a-7773-4016-b325-34f11045f08f",
+        "date_posted": 1793204320,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
