@@ -24600,13 +24600,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793016276,
+        "date_updated": 1793212963,
         "url": "https://go.vansh.nyc/Hm",
         "locations": [
             "Greensboro, NC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Arch Capital Group",
         "title": "Security Operations Intern",
         "source": "vanshb03",
@@ -28817,13 +28817,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793025667,
+        "date_updated": 1793212963,
         "url": "https://go.vansh.nyc/Oy",
         "locations": [
             "San Diego, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Booz Allen Hamilton",
         "title": "Software Developer Intern",
         "source": "vanshb03",
@@ -32117,13 +32117,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793046954,
+        "date_updated": 1793212963,
         "url": "https://go.vansh.nyc/SX",
         "locations": [
             "Detroit, MI"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Booz Allen Hamilton",
         "title": "Systems Engineer Intern",
         "source": "vanshb03",
@@ -32134,13 +32134,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793046954,
+        "date_updated": 1793212963,
         "url": "https://go.vansh.nyc/SY",
         "locations": [
             "Detroit, MI"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Booz Allen Hamilton",
         "title": "Software Developer Intern",
         "source": "vanshb03",
@@ -32151,13 +32151,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793046954,
+        "date_updated": 1793212963,
         "url": "https://go.vansh.nyc/SZ",
         "locations": [
             "Dayton, OH"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Booz Allen Hamilton",
         "title": "Software Developer Intern",
         "source": "vanshb03",
@@ -33493,13 +33493,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793120802,
+        "date_updated": 1793212963,
         "url": "https://go.vansh.nyc/VX",
         "locations": [
             "Boise, ID"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Micron Technology",
         "title": "AI Engineer Intern, Platform",
         "source": "vanshb03",
@@ -34880,6 +34880,40 @@
         "source": "vanshb03",
         "id": "389dd25d-561b-4f31-bc01-3904fc8b7b2b",
         "date_posted": 1793132417,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793212558,
+        "url": "https://go.vansh.nyc/XL",
+        "locations": [
+            "Washington, DC"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "The Nuclear Company",
+        "title": "Security Engineer Intern",
+        "source": "vanshb03",
+        "id": "620d54df-7e0f-4832-bdb0-7af7d299fc41",
+        "date_posted": 1793211238,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1793212558,
+        "url": "https://go.vansh.nyc/XM",
+        "locations": [
+            "Bridgeport, WV"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Berkshire Hathaway Energy",
+        "title": "Intern, Data Systems",
+        "source": "vanshb03",
+        "id": "9a5bfd8b-766c-4fbd-a1e9-d2a7eeaf9d30",
+        "date_posted": 1793147758,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
