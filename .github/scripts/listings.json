@@ -3578,13 +3578,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1784878914,
+        "date_updated": 1793204041,
         "url": "https://go.vansh.nyc/3z",
         "locations": [
             "Chicago, IL"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Akuna Capital",
         "title": "Software Engineer Intern, C++",
         "source": "vanshb03",
@@ -34792,6 +34792,23 @@
         "source": "vanshb03",
         "id": "3f178600-999b-4d23-8264-65108f950e20",
         "date_posted": 1793196709,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793203968,
+        "url": "https://go.vansh.nyc/XB",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Sonos",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "13514f71-f31f-453f-be8b-dfa2ce705626",
+        "date_posted": 1793203810,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
