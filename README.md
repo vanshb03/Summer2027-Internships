@@ -149,7 +149,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Member Solutions | Software Developer Intern | Markham, Canada</br>Remote</br>Canada | <a href="https://go.vansh.nyc/SK?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
 | Manhattan Associates | Cloud Intern | Atlanta, GA | <a href="https://go.vansh.nyc/MX?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
 | Lockheed Martin | Software Engineer Intern | Huntsville, AL | <a href="https://go.vansh.nyc/UC?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
-| Leidos | Cybersecurity Analyst Intern 🇺🇸 | Pearl Harbor, HI | <a href="https://go.vansh.nyc/Wv?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
 | L3Harris Technologies | Associate Software Engineering Intern | Greenville, TX | <a href="https://go.vansh.nyc/UY?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
 | ↳ | Software Engineer Intern | Rochester, NY | <a href="https://go.vansh.nyc/UZ?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
 | ↳ | Software Engineer Intern | Rockwall, TX | <a href="https://go.vansh.nyc/Tb?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
@@ -1265,6 +1264,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Northwestern Mutual | Application Development Intern | Milwaukee, WI | <a href="https://go.vansh.nyc/Qu?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 2015 |
 | NVIDIA | Software Engineering Intern, AI Agents & Backend Infrastructure | Berlin, DE | 🔒 | Oct 27 |
 | Cencora | AI Intern | Conshohocken, PA | 🔒 | Oct 27 |
+| Leidos | Cybersecurity Analyst Intern 🇺🇸 | Pearl Harbor, HI | 🔒 | Oct 26 |
 | Apple | Software Engineer Intern, Core OS | United States | 🔒 | Oct 26 |
 | Royal Bank of Canada | Developer Intern | Halifax, Canada | 🔒 | Oct 25 |
 | ↳ | Data Engineer Intern | Halifax, Canada | 🔒 | Oct 25 |
