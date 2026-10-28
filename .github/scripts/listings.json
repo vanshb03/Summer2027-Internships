@@ -32426,13 +32426,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793056095,
+        "date_updated": 1793196475,
         "url": "https://go.vansh.nyc/Ti",
         "locations": [
             "Mason, OH"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "AtriCure, Inc.",
         "title": "IT Security Analyst Co-op",
         "source": "vanshb03",
