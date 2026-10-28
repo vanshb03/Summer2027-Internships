@@ -33561,13 +33561,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793120876,
+        "date_updated": 1793174809,
         "url": "https://go.vansh.nyc/W1",
         "locations": [
             "United States"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Apple",
         "title": "Software Engineer Intern, Core OS",
         "source": "vanshb03",
