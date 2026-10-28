@@ -34676,5 +34676,39 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793190907,
+        "url": "https://go.vansh.nyc/Xt",
+        "locations": [
+            "Golden, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Allegion",
+        "title": "Software Engineering Intern, Quality Assurance",
+        "source": "vanshb03",
+        "id": "34c528f8-854f-47f6-a542-98288d7250d4",
+        "date_posted": 1793145600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793190907,
+        "url": "https://go.vansh.nyc/Xu",
+        "locations": [
+            "Marlborough, MA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "RTX",
+        "title": "Software Engineer Co-op",
+        "source": "vanshb03",
+        "id": "4f8a0d1a-15be-43df-a3fb-fa32ad91a73c",
+        "date_posted": 1793145600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
