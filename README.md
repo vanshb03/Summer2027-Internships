@@ -76,6 +76,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Micron Technology | AI Engineer Intern, Platform | Boise, ID | <a href="https://go.vansh.nyc/VX?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
 | ↳ | HBM Data Scientist Intern | Richardson, TX | <a href="https://go.vansh.nyc/VY?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
 | ↳ | Product Yield Software Engineer Intern | Boise, ID | <a href="https://go.vansh.nyc/VP?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
+| Mercor | Research Engineer Intern, Benchmarking | San Francisco, CA | <a href="https://go.vansh.nyc/WT?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
+| ↳ | Research Engineer Intern, Environments, Data and Post-Training | San Francisco, CA | <a href="https://go.vansh.nyc/WU?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
 | Kudu Dynamics | Cybersecurity Intern 🇺🇸 | Arlington, VA</br>Washington, DC</br>Camp Springs, MD | <a href="https://go.vansh.nyc/W5?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
 | Keysight Technologies | Application Development Intern | Santa Rosa, CA | <a href="https://go.vansh.nyc/WE?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
 | JM Family Enterprises | Data Engineer Intern | Deerfield Beach, FL | <a href="https://go.vansh.nyc/VR?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
