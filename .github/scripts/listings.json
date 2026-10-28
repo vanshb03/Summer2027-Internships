@@ -24428,13 +24428,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793016276,
+        "date_updated": 1793189225,
         "url": "https://go.vansh.nyc/Hc",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "MEMX",
         "title": "Information Security Intern",
         "source": "vanshb03",
