@@ -34438,7 +34438,7 @@
     },
     {
         "date_updated": 1793176575,
-        "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Software-Engineer--Intern---Foster-City-2027_REF089875W-1",
+        "url": "https://go.vansh.nyc/Xe",
         "locations": [
             "Foster City, CA"
         ],
@@ -34455,7 +34455,7 @@
     },
     {
         "date_updated": 1793176575,
-        "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Software-Engineer--Intern---2027-Austin--TX_REF089918W-1",
+        "url": "https://go.vansh.nyc/Xf",
         "locations": [
             "Austin, TX"
         ],
@@ -34472,7 +34472,7 @@
     },
     {
         "date_updated": 1793176575,
-        "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Ashburn-VA/Network-and-Security-Engineering-Intern---2027--Ashburn--VA_REF089778W",
+        "url": "https://go.vansh.nyc/Xg",
         "locations": [
             "Ashburn, VA"
         ],
@@ -34489,7 +34489,7 @@
     },
     {
         "date_updated": 1793176575,
-        "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/Network-and-Security-Engineering-Intern---2027--Highlands-Ranch--CO_REF089779W-1",
+        "url": "https://go.vansh.nyc/Xh",
         "locations": [
             "Denver, CO"
         ],
@@ -34503,5 +34503,73 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793178335,
+        "url": "https://go.vansh.nyc/Xi",
+        "locations": [
+            "Burbank, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "The Walt Disney Company",
+        "title": "Content Research Insights & Analytics Intern",
+        "source": "vanshb03",
+        "id": "b1373e2b-dbab-438f-bbf7-d04d0ddd6f26",
+        "date_posted": 1793059200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1793178335,
+        "url": "https://go.vansh.nyc/Xj",
+        "locations": [
+            "Waterloo, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Sun Life",
+        "title": "Quality Engineering Analyst Intern",
+        "source": "vanshb03",
+        "id": "d692f355-d86f-49ee-b94a-99feca4a840a",
+        "date_posted": 1793059200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1793178335,
+        "url": "https://go.vansh.nyc/Xk",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hive Financial Systems",
+        "title": "Analytics Intern",
+        "source": "vanshb03",
+        "id": "79f9fcc0-6103-4e5f-b8bc-bb99ccf849db",
+        "date_posted": 1793129285,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793178477,
+        "url": "https://go.vansh.nyc/Xl",
+        "locations": [
+            "Murrysville, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Philips",
+        "title": "Embedded Test Engineer Co-op",
+        "source": "vanshb03",
+        "id": "180a83ed-b7b0-4a01-97e7-461fb225068d",
+        "date_posted": 1793092077,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
     }
 ]
