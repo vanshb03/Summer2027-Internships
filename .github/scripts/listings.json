@@ -17316,7 +17316,7 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792731778,
+        "date_updated": 1793171237,
         "url": "https://go.vansh.nyc/gq",
         "locations": [
             "El Segundo, CA",
@@ -17324,7 +17324,7 @@
             "Colorado Springs, CO"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Aerospace Corporation",
         "title": "Cloud Solutions Engineer Intern, Site Reliability",
         "source": "vanshb03",
@@ -34346,6 +34346,75 @@
         "source": "vanshb03",
         "id": "3870fd15-e536-4e22-b402-5c9d45b4322f",
         "date_posted": 1793145600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793171118,
+        "url": "https://go.vansh.nyc/X7",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Shield AI",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "52a02a43-2bb2-45a3-ba50-5c48d9de679c",
+        "date_posted": 1792972800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793171118,
+        "url": "https://go.vansh.nyc/X8",
+        "locations": [
+            "Remote",
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "VSP Vision",
+        "title": "Software Engineer Intern, Technology Innovation",
+        "source": "vanshb03",
+        "id": "5074e01c-8570-44f1-bcf2-3a01313085fb",
+        "date_posted": 1793145600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793171118,
+        "url": "https://go.vansh.nyc/X9",
+        "locations": [
+            "Schenectady, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Wabtec",
+        "title": "Software Engineering Co-op",
+        "source": "vanshb03",
+        "id": "6be8bdd2-732f-42ad-8ecd-6b8f9c3754f3",
+        "date_posted": 1793157694,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1793171118,
+        "url": "https://go.vansh.nyc/Xa",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Certa",
+        "title": "Frontend Engineer Intern",
+        "source": "vanshb03",
+        "id": "01fc6607-f112-4bf3-9323-6878fc2ef682",
+        "date_posted": 1793168940,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
