@@ -264,7 +264,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Cisco | Physical Design Engineer I Co-op | Maynard, MA | <a href="https://go.vansh.nyc/GY?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 29 |
 | Bracco | Firmware Engineering Co-op | Pleasanton, CA | <a href="https://go.vansh.nyc/fT?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 29 |
 | Risepoint | Analytics Engineering Co-op | Remote</br>United States | <a href="https://go.vansh.nyc/DV?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 28 |
-| iRhythm Technologies | Firmware Quality Assurance Engineer Co-op | San Francisco, CA | <a href="https://go.vansh.nyc/K5?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 28 |
 | Insulet Corporation | Software Development Engineer in Test Co-op 🛂 | Acton, MA | <a href="https://go.vansh.nyc/fS?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 28 |
 | Cloudflare | Software Engineer Intern | Austin, TX | <a href="https://go.vansh.nyc/DW?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 28 |
 | Cisco | Firmware Engineer II Co-op | Maynard, MA | <a href="https://go.vansh.nyc/fQ?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 28 |
@@ -429,6 +428,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Clēnera | Data Engineer Intern | Boise, ID | 🔒 | Oct 06 |
 | Moment Energy | Firmware Engineering Co-op | Surrey, Canada | 🔒 | Oct 05 |
 | Revvity | Software Integration Co-op | Akron, OH | 🔒 | Oct 02 |
+| iRhythm Technologies | Firmware Quality Assurance Engineer Co-op | San Francisco, CA | 🔒 | Sep 28 |
 | OCC | Data Intern | Chicago, IL | 🔒 | Sep 16 |
 | Royal Bank of Canada | Developer & IT Specialist Co-op, Global Asset Management | Toronto, Canada</br>Vancouver, Canada | 🔒 | Sep 03 |
 | Kodiak Robotics | Planning Intern, Mission Planning | Mountain View, CA | 🔒 | Aug 24 |
