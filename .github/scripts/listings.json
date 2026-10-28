@@ -34571,5 +34571,76 @@
         "company_url": "",
         "is_visible": true,
         "season": "Spring"
+    },
+    {
+        "date_updated": 1793181912,
+        "url": "https://go.vansh.nyc/Xm",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Axiom Math",
+        "title": "Member of Technical Staff Intern",
+        "source": "vanshb03",
+        "id": "e05c4ec2-79ca-492f-a162-f88dfb235dff",
+        "date_posted": 1793145600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793181912,
+        "url": "https://go.vansh.nyc/Xn",
+        "locations": [
+            "Austin, TX",
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "RosaicLabs",
+        "title": "CPU Design Verification Engineer Intern",
+        "source": "vanshb03",
+        "id": "2eac8cee-f1b4-4623-88d4-75ad95ef9a32",
+        "date_posted": 1793180285,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793181912,
+        "url": "https://go.vansh.nyc/Xo",
+        "locations": [
+            "Austin, TX",
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "RosaicLabs",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "3cc96ca5-f8b2-4a59-bab9-ba33a4cac7f0",
+        "date_posted": 1793180285,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793181912,
+        "url": "https://go.vansh.nyc/Xp",
+        "locations": [
+            "Austin, TX",
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "RosaicLabs",
+        "title": "AI Accelerator Design Verification Engineer Intern",
+        "source": "vanshb03",
+        "id": "84b313c1-2637-4d59-b8fb-a2a1abb7788e",
+        "date_posted": 1793180294,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
