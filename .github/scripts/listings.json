@@ -10654,13 +10654,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792261427,
+        "date_updated": 1793207301,
         "url": "https://go.vansh.nyc/ac",
         "locations": [
             "Toronto, ON"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Altera",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -11170,13 +11170,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792367657,
+        "date_updated": 1793207301,
         "url": "https://go.vansh.nyc/aG",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Clera",
         "title": "Computer Vision & Robotics Intern",
         "source": "vanshb03",
@@ -16419,14 +16419,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792717375,
+        "date_updated": 1793207301,
         "url": "https://go.vansh.nyc/fA",
         "locations": [
             "New York, NY",
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Patreon",
         "title": "Product Manager Intern",
         "source": "vanshb03",
@@ -34827,6 +34827,24 @@
         "source": "vanshb03",
         "id": "bb1b1b9a-7773-4016-b325-34f11045f08f",
         "date_posted": 1793204320,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793207162,
+        "url": "https://go.vansh.nyc/XF",
+        "locations": [
+            "San Jose, CA",
+            "Folsom, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Micron Technology",
+        "title": "Data Science Intern",
+        "source": "vanshb03",
+        "id": "664c456f-0e7e-4fea-b482-3eee6c7d2dd6",
+        "date_posted": 1793206262,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
