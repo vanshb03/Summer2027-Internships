@@ -9546,13 +9546,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792261427,
+        "date_updated": 1793201878,
         "url": "https://go.vansh.nyc/99",
         "locations": [
             "Taunton, MA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "General Dynamics Mission Systems",
         "title": "Software Engineer Intern, Crypto and Cross Domain Solutions",
         "source": "vanshb03",
@@ -9682,13 +9682,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792261427,
+        "date_updated": 1793201878,
         "url": "https://go.vansh.nyc/9h",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Nasdaq",
         "title": "Intelligent Automation Intern",
         "source": "vanshb03",
