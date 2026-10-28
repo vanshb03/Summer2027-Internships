@@ -34280,5 +34280,74 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793167543,
+        "url": "https://go.vansh.nyc/X3",
+        "locations": [
+            "Remote",
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "VSP Vision",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "d3bd142d-32e3-4c0b-adc4-4ce114a210d9",
+        "date_posted": 1793164723,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793167563,
+        "url": "https://go.vansh.nyc/X4",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "stealth-startup-community",
+        "title": "Embedded Firmware and Controls Engineer Intern",
+        "source": "vanshb03",
+        "id": "e8e70970-4449-45d3-8ff1-06d5de380e1e",
+        "date_posted": 1793059200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793167563,
+        "url": "https://go.vansh.nyc/X5",
+        "locations": [
+            "Denver, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "chathamfinancial",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "cda7ba17-183a-488e-91e2-03a1effd33c7",
+        "date_posted": 1793145600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793167563,
+        "url": "https://go.vansh.nyc/X6",
+        "locations": [
+            "Kennett Square, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "chathamfinancial",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "3870fd15-e536-4e22-b402-5c9d45b4322f",
+        "date_posted": 1793145600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
