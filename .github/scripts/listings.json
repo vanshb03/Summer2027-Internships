@@ -32307,13 +32307,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793054205,
+        "date_updated": 1793216263,
         "url": "https://go.vansh.nyc/T9",
         "locations": [
             "United States"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Danaher Corporation",
         "title": "Supply Chain AI Co-op",
         "source": "vanshb03",
@@ -34948,6 +34948,23 @@
         "source": "vanshb03",
         "id": "d3403517-9a3f-4fa3-bfe0-6f836a0bacd7",
         "date_posted": 1793214392,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793216154,
+        "url": "https://go.vansh.nyc/XW",
+        "locations": [
+            "Boise, ID"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Micron Technology",
+        "title": "Embedded Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "a861def9-f6e2-47b3-9cae-1269088eee33",
+        "date_posted": 1793214894,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
