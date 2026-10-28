@@ -20561,13 +20561,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793013650,
+        "date_updated": 1793174947,
         "url": "https://go.vansh.nyc/D1",
         "locations": [
             "United States"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Apple",
         "title": "Aeon Modeling Software Intern",
         "source": "vanshb03",
@@ -20595,13 +20595,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793013650,
+        "date_updated": 1793174947,
         "url": "https://go.vansh.nyc/D3",
         "locations": [
             "United States"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Apple",
         "title": "Software Engineering Intern, AI-Assisted Baseband Debugging Evaluation",
         "source": "vanshb03",
@@ -20697,13 +20697,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793013650,
+        "date_updated": 1793174947,
         "url": "https://go.vansh.nyc/D9",
         "locations": [
             "United States"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Apple",
         "title": "Information Security Intern",
         "source": "vanshb03",
@@ -20748,13 +20748,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1793013650,
+        "date_updated": 1793174947,
         "url": "https://go.vansh.nyc/Dc",
         "locations": [
             "United States"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Apple",
         "title": "Software Engineering Intern, On-Demand Agent Provisioning in Cellular Test",
         "source": "vanshb03",
@@ -20765,13 +20765,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793013650,
+        "date_updated": 1793174947,
         "url": "https://go.vansh.nyc/Dd",
         "locations": [
             "United States"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Apple",
         "title": "Cellular Baseband Design Verification Intern",
         "source": "vanshb03",
