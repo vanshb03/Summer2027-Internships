@@ -47,11 +47,14 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Lila Sciences | Structuring Scientific Data for Discovery Co-op | Cambridge, MA</br>San Francisco, CA | <a href="https://go.vansh.nyc/XH?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | Leidos | Cybersecurity Engineer Co-op | Bethesda, MD | <a href="https://go.vansh.nyc/XZ?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | Wabtec | Software Engineering Co-op | Schenectady, NY | <a href="https://go.vansh.nyc/X9?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
+| Viavi Solutions | Hardware Engineer Co-op | Germantown, MD | <a href="https://go.vansh.nyc/Yu?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
+| Valmont | AI and Data Engineering Intern | Omaha, NE | <a href="https://go.vansh.nyc/Yo?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
 | RTX | Software Engineer Co-op 🇺🇸 | Marlborough, MA | <a href="https://go.vansh.nyc/Xu?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
 | Philips | Embedded Test Engineer Co-op | Murrysville, PA | <a href="https://go.vansh.nyc/Xl?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
 | OpusClip | Customer Experience Test Automation Intern | Burnaby, Canada | <a href="https://go.vansh.nyc/WR?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
 | Lila Sciences | Robot Perception & State Estimation Co-op | Cambridge, MA | <a href="https://go.vansh.nyc/VD?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
 | Johnson Controls | Software Engineering Co-op | Burlington, MA | <a href="https://go.vansh.nyc/Yb?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
+| ASML | Data Engineer Co-op | San Diego, CA | <a href="https://go.vansh.nyc/Yt?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
 | The Walt Disney Company | Content Research Insights & Analytics Intern | Burbank, CA | <a href="https://go.vansh.nyc/Xi?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
 | Texas Instruments | Web Marketing Intern, Front-end Developer | Dallas, TX | <a href="https://go.vansh.nyc/Wf?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
 | Sun Life | Quality Engineering Analyst Intern | Waterloo, Canada | <a href="https://go.vansh.nyc/Xj?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
