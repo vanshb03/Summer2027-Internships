@@ -23842,13 +23842,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1793015500,
+        "date_updated": 1793221975,
         "url": "https://go.vansh.nyc/GE",
         "locations": [
             "Parsippany-Troy Hills, NJ"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "GAF",
         "title": "Master Data Management Intern",
         "source": "vanshb03",
@@ -25446,13 +25446,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793021626,
+        "date_updated": 1793221975,
         "url": "https://go.vansh.nyc/J9",
         "locations": [
             "El Segundo, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "The Aerospace Corporation",
         "title": "Software Tools and Assurance Intern, Information Systems and Cyber Division",
         "source": "vanshb03",
@@ -33736,13 +33736,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793129811,
+        "date_updated": 1793221975,
         "url": "https://go.vansh.nyc/We",
         "locations": [
             "Vancouver, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Motorola",
         "title": "Localization and QA Automation Developer Co-op",
         "source": "vanshb03",
@@ -35019,5 +35019,41 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1793221554,
+        "url": "https://go.vansh.nyc/Y0",
+        "locations": [
+            "New York, NY",
+            "Edgewood, NY",
+            "Newark, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Broadridge",
+        "title": "Technology Intern",
+        "source": "vanshb03",
+        "id": "9f8c76a8-a501-410c-8e4a-42950c0b6526",
+        "date_posted": 1793219574,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793221929,
+        "url": "https://go.vansh.nyc/Y1",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Sonos",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "2c0587ab-64d3-4fe6-9900-41ca9e5b8818",
+        "date_posted": 1793221821,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
