@@ -10040,13 +10040,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792261427,
+        "date_updated": 1793200086,
         "url": "https://go.vansh.nyc/9C",
         "locations": [
             "Arlington, VA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Booz Allen Hamilton",
         "title": "Digital Transformation Analyst Intern",
         "source": "vanshb03",
@@ -10057,13 +10057,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792261427,
+        "date_updated": 1793200086,
         "url": "https://go.vansh.nyc/9D",
         "locations": [
             "Arlington, VA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Booz Allen Hamilton",
         "title": "Digital Transformation Analyst Intern",
         "source": "vanshb03",
@@ -15669,14 +15669,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792717232,
+        "date_updated": 1793200086,
         "url": "https://go.vansh.nyc/eT",
         "locations": [
             "Remote",
             "Canada"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Texas Instruments",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
