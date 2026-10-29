@@ -8662,13 +8662,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792261427,
+        "date_updated": 1793317352,
         "url": "https://go.vansh.nyc/8j",
         "locations": [
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tencent",
         "title": "Data Science Intern",
         "source": "vanshb03",
