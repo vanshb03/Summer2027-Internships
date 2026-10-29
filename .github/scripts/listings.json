@@ -16145,13 +16145,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792717375,
+        "date_updated": 1793299416,
         "url": "https://go.vansh.nyc/fk",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "CVS Health",
         "title": "Data Engineering Intern, Innovation & Technology",
         "source": "vanshb03",
@@ -26407,13 +26407,13 @@
         "season": "Spring"
     },
     {
-        "date_updated": 1793022083,
+        "date_updated": 1793299416,
         "url": "https://go.vansh.nyc/K3",
         "locations": [
             "Perrysburg, OH"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "First Solar (US)",
         "title": "Data Engineering Intern",
         "source": "vanshb03",
@@ -29015,13 +29015,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793025667,
+        "date_updated": 1793299416,
         "url": "https://go.vansh.nyc/OI",
         "locations": [
             "Irving, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "CVS Health",
         "title": "Innovation & Technology Intern, Data Engineering",
         "source": "vanshb03",
@@ -36203,6 +36203,23 @@
         "source": "vanshb03",
         "id": "904d55bc-686a-4dc4-b686-d499155e215d",
         "date_posted": 1793290700,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793299022,
+        "url": "https://go.vansh.nyc/Zo",
+        "locations": [
+            "Los Altos, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Toyota Research Institute",
+        "title": "Human Interactive Driving Research Intern, Learning-Based Control for Safe Autonomous Driving",
+        "source": "vanshb03",
+        "id": "7ee99162-a1cb-4b48-8bd0-a5884ac8f78d",
+        "date_posted": 1793296082,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
