@@ -10399,13 +10399,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1792261427,
+        "date_updated": 1793246850,
         "url": "https://go.vansh.nyc/9X",
         "locations": [
             "Toronto, ON"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "CIBC",
         "title": "Information Security Analyst Co-op",
         "source": "vanshb03",
@@ -10433,13 +10433,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1792261427,
+        "date_updated": 1793246850,
         "url": "https://go.vansh.nyc/9Z",
         "locations": [
             "Raritan, NJ"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Johnson & Johnson",
         "title": "Technology TS AM CBT Co-op",
         "source": "vanshb03",
@@ -10450,13 +10450,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1792261427,
+        "date_updated": 1793246850,
         "url": "https://go.vansh.nyc/a0",
         "locations": [
             "Raritan, NJ"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Johnson & Johnson",
         "title": "Technology IM R&D Co-op",
         "source": "vanshb03",
@@ -14273,13 +14273,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792603147,
+        "date_updated": 1793246850,
         "url": "https://go.vansh.nyc/dB",
         "locations": [
             "Andover, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Smith+Nephew",
         "title": "Computer Vision Software Engineering Intern",
         "source": "vanshb03",
