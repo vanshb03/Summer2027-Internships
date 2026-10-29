@@ -27321,13 +27321,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793023513,
+        "date_updated": 1793304521,
         "url": "https://go.vansh.nyc/M9",
         "locations": [
             "Clarksburg, MD"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "DIRECTV",
         "title": "Product Development Intern, DIRECTV for Business",
         "source": "vanshb03",
@@ -36220,6 +36220,74 @@
         "source": "vanshb03",
         "id": "7ee99162-a1cb-4b48-8bd0-a5884ac8f78d",
         "date_posted": 1793296082,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793304410,
+        "url": "https://go.vansh.nyc/Zr",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "National Interstate Insurance",
+        "title": "DevOps Developer Intern",
+        "source": "vanshb03",
+        "id": "314f0588-ce31-4f40-bbb9-35d0dcb3a58a",
+        "date_posted": 1793302070,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793304410,
+        "url": "https://go.vansh.nyc/Zs",
+        "locations": [
+            "Arlington, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "GM Financial",
+        "title": "Data Engineer Intern",
+        "source": "vanshb03",
+        "id": "9aa67d6b-548d-479a-9e5c-e86d8a27cf48",
+        "date_posted": 1793232410,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793304410,
+        "url": "https://go.vansh.nyc/Zt",
+        "locations": [
+            "Roseville, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hewlett Packard Enterprise",
+        "title": "ASIC Verification Engineering Intern",
+        "source": "vanshb03",
+        "id": "b600cd62-e9b7-4ae0-91ff-fa1f3081e5c2",
+        "date_posted": 1793303030,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793304410,
+        "url": "https://go.vansh.nyc/Zu",
+        "locations": [
+            "Los Altos, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Toyota Research Institute",
+        "title": "Human Interactive Driving Research Intern, Perception for Driving at the Limits",
+        "source": "vanshb03",
+        "id": "3bcb75c5-3c4d-4ecb-a8d2-e8a8b349f421",
+        "date_posted": 1793301110,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
