@@ -35983,5 +35983,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793291859,
+        "url": "https://go.vansh.nyc/Z7",
+        "locations": [
+            "Foster City, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Gilead Sciences",
+        "title": "Research Intern, Oncology Biomarker - AI",
+        "source": "vanshb03",
+        "id": "c5877d41-6fad-49e8-aabf-fc86e5dceb42",
+        "date_posted": 1793289519,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
