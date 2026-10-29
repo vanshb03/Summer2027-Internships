@@ -36342,5 +36342,244 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793313325,
+        "url": "https://go.vansh.nyc/Zz",
+        "locations": [
+            "Overland Park, KS"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "T-Mobile",
+        "title": "Associate Product Manager Intern",
+        "source": "vanshb03",
+        "id": "2573e3b3-1b76-4c17-80ab-81d150f302e6",
+        "date_posted": 1793232000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793313325,
+        "url": "https://go.vansh.nyc/ZA",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Altera",
+        "title": "Software Engineer Intern, Factory Apps",
+        "source": "vanshb03",
+        "id": "cfbff1d0-207b-4112-807c-c5f37d4e30c4",
+        "date_posted": 1793232000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793313325,
+        "url": "https://go.vansh.nyc/ZB",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Sun Life",
+        "title": "Data Analyst Co-op",
+        "source": "vanshb03",
+        "id": "5dea4f57-c58e-4d98-beaa-1f6d600406bf",
+        "date_posted": 1793232000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1793313325,
+        "url": "https://go.vansh.nyc/ZC",
+        "locations": [
+            "Ottawa, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ciena",
+        "title": "Embedded Software Engineer Co-op",
+        "source": "vanshb03",
+        "id": "53cf460a-f0fc-4419-b148-3483151541bf",
+        "date_posted": 1793232000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1793313325,
+        "url": "https://go.vansh.nyc/ZD",
+        "locations": [
+            "Ottawa, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ciena",
+        "title": "Hardware Characterization Automation Co-op",
+        "source": "vanshb03",
+        "id": "a120326f-7289-404b-ad6b-bc4f013c0c8e",
+        "date_posted": 1793232000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1793313325,
+        "url": "https://go.vansh.nyc/ZE",
+        "locations": [
+            "Sterling, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "RTX",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "4dfef876-1791-4479-9de5-2b1ea7b034e7",
+        "date_posted": 1793232000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793313325,
+        "url": "https://go.vansh.nyc/ZF",
+        "locations": [
+            "Brea, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Danaher Corporation",
+        "title": "Application Integration Developer Intern",
+        "source": "vanshb03",
+        "id": "606520dc-1970-4108-9dc6-da13fec6e0ee",
+        "date_posted": 1793232000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793313325,
+        "url": "https://go.vansh.nyc/ZG",
+        "locations": [
+            "Seattle, WA",
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "General Motors",
+        "title": "AI/ML Engineer Intern, Autonomous Vehicles",
+        "source": "vanshb03",
+        "id": "5795c3b4-62d3-4d0a-b835-b28940422d0a",
+        "date_posted": 1793232000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793313325,
+        "url": "https://go.vansh.nyc/ZH",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Schweitzer Engineering Laboratories",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "6e307582-0cdd-4612-bcdb-435e548876ac",
+        "date_posted": 1793232000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793313325,
+        "url": "https://go.vansh.nyc/ZI",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Centene Corporation",
+        "title": "AI Engineer Intern",
+        "source": "vanshb03",
+        "id": "ba301bde-5ad9-49ff-a05f-788c9f813a63",
+        "date_posted": 1793232000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793313325,
+        "url": "https://go.vansh.nyc/ZJ",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Path Robotics",
+        "title": "Machine Learning & Robotics Intern",
+        "source": "vanshb03",
+        "id": "9623519f-1399-404e-9a44-25bc2727d7c1",
+        "date_posted": 1793300964,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1793313325,
+        "url": "https://go.vansh.nyc/ZK",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Qualcomm",
+        "title": "AI Software Engineering Co-op",
+        "source": "vanshb03",
+        "id": "06325c22-2856-4591-84d5-789e7a3e09c2",
+        "date_posted": 1793312674,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793313325,
+        "url": "https://go.vansh.nyc/ZL",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Qualcomm",
+        "title": "AI Software Systems Co-op",
+        "source": "vanshb03",
+        "id": "098e65d7-784e-4e19-b5ec-c2009027cae1",
+        "date_posted": 1793312674,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793313325,
+        "url": "https://go.vansh.nyc/ZM",
+        "locations": [
+            "Markham, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Qualcomm",
+        "title": "Deep Learning Research Intern, Embodied AI Systems",
+        "source": "vanshb03",
+        "id": "4460aee0-f981-4047-ad8c-ec10c94b877b",
+        "date_posted": 1793312674,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
