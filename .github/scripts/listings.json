@@ -27092,13 +27092,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793023513,
+        "date_updated": 1793302651,
         "url": "https://go.vansh.nyc/LW",
         "locations": [
             "Laurel, MD"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Johns Hopkins Applied Physics Laboratory",
         "title": "Cyber Software Engineer Intern, Capabilities Development",
         "source": "vanshb03",
