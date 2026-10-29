@@ -35795,5 +35795,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793271912,
+        "url": "https://go.vansh.nyc/YS",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "KLA",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "38b69735-77a1-417a-b44c-3d9447a4232e",
+        "date_posted": 1793232000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
