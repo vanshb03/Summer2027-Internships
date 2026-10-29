@@ -36581,5 +36581,350 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793315116,
+        "url": "https://go.vansh.nyc/ZS",
+        "locations": [
+            "Burnaby, Canada",
+            "Oakville, Canada",
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Geotab",
+        "title": "Data Analyst Intern",
+        "source": "vanshb03",
+        "id": "936c2992-6e60-40e0-8c53-147c42aee462",
+        "date_posted": 1793232000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1793315116,
+        "url": "https://go.vansh.nyc/ZT",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Leidos",
+        "title": "Software Developer Intern",
+        "source": "vanshb03",
+        "id": "cf6b6920-a29d-4d42-a5cf-3794ffd28c89",
+        "date_posted": 1793232000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793315116,
+        "url": "https://go.vansh.nyc/ZU",
+        "locations": [
+            "Orlando, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Metova Federal",
+        "title": "AI Intern",
+        "source": "vanshb03",
+        "id": "2705fddb-5c2e-49a7-8931-a9f2cb01ea7a",
+        "date_posted": 1793232000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793315116,
+        "url": "https://go.vansh.nyc/ZV",
+        "locations": [
+            "Mississauga, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SOTI",
+        "title": "Software Developer Intern, XSight",
+        "source": "vanshb03",
+        "id": "82bf50c9-9d21-4578-bebd-5cc267fac87e",
+        "date_posted": 1793232000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793315116,
+        "url": "https://go.vansh.nyc/ZW",
+        "locations": [
+            "Bentonville, AR"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Walmart",
+        "title": "Data & Tech Transformation Intern",
+        "source": "vanshb03",
+        "id": "41121d8d-2ac6-4aa3-b763-cad00c0c3c52",
+        "date_posted": 1793232000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793315116,
+        "url": "https://go.vansh.nyc/ZX",
+        "locations": [
+            "Foster City, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zoox",
+        "title": "Autonomy and Geofence Expansion Intern",
+        "source": "vanshb03",
+        "id": "19487997-177b-46fb-97d7-b633c3c6a0a5",
+        "date_posted": 1793232000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793315116,
+        "url": "https://go.vansh.nyc/ZY",
+        "locations": [
+            "Foster City, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zoox",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "30e6ad4f-5843-480a-b4ee-d9d1f1106507",
+        "date_posted": 1793232000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793315116,
+        "url": "https://go.vansh.nyc/ZZ",
+        "locations": [
+            "Murrysville, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Philips",
+        "title": "Data Engineer Co-op, Biocompatibility",
+        "source": "vanshb03",
+        "id": "12da6159-9c25-4d4e-aba2-9b3d1041c25e",
+        "date_posted": 1793232000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1793315116,
+        "url": "https://go.vansh.nyc/100",
+        "locations": [
+            "Wakefield, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Vestmark Internship Program",
+        "title": "Cloud Engineer Co-op",
+        "source": "vanshb03",
+        "id": "c1bc6c0d-0b72-44de-9537-3a9dd6c0fcec",
+        "date_posted": 1793232000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1793315160,
+        "url": "https://go.vansh.nyc/101",
+        "locations": [
+            "Ottawa, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Blackberry",
+        "title": "Application Engineering Student Intern",
+        "source": "vanshb03",
+        "id": "5a0aec26-4088-46ee-912f-9ec992c8ac41",
+        "date_posted": 1793232000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793315160,
+        "url": "https://go.vansh.nyc/102",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "Compiler Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "1b35ac91-492b-42cc-b9a4-30743630cfd0",
+        "date_posted": 1793232000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793315160,
+        "url": "https://go.vansh.nyc/103",
+        "locations": [
+            "Houston, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Axiom Space",
+        "title": "Enterprise Data Analyst Intern, Power BI & Data Quality",
+        "source": "vanshb03",
+        "id": "cbccc413-2fc6-4f13-8b92-e6639aa67a42",
+        "date_posted": 1793232000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793315160,
+        "url": "https://go.vansh.nyc/104",
+        "locations": [
+            "Cambridge, MA",
+            "Morristown, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Sanofi",
+        "title": "Advanced Analytics Intern",
+        "source": "vanshb03",
+        "id": "8abcbbb2-49a3-4405-b1a7-39fd0ff44a69",
+        "date_posted": 1793232000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793315160,
+        "url": "https://go.vansh.nyc/105",
+        "locations": [
+            "Remote",
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CareSource",
+        "title": "AI Intern",
+        "source": "vanshb03",
+        "id": "16548cf1-df8b-47df-bce7-46d837d6ae19",
+        "date_posted": 1793232000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793315160,
+        "url": "https://go.vansh.nyc/106",
+        "locations": [
+            "Remote",
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CareSource",
+        "title": "Full Stack AI Development Intern",
+        "source": "vanshb03",
+        "id": "b734dd9d-1e96-40eb-ab1f-fbda46899990",
+        "date_posted": 1793232000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793315160,
+        "url": "https://go.vansh.nyc/107",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Genius AI",
+        "title": "Engineering Intern",
+        "source": "vanshb03",
+        "id": "fcffc986-c82a-4880-850c-fc61a113d0de",
+        "date_posted": 1793232000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793315160,
+        "url": "https://go.vansh.nyc/108",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Genius AI",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "aa6a99b7-7eba-4da8-a33d-c6c7d761b386",
+        "date_posted": 1793232000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1793315160,
+        "url": "https://go.vansh.nyc/109",
+        "locations": [
+            "Lansing, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Waggoner Financial",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "e807e466-ecf6-46aa-a6f7-5c2e9650c5c0",
+        "date_posted": 1793313025,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793315160,
+        "url": "https://go.vansh.nyc/10a",
+        "locations": [
+            "Victoria, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Waterworth",
+        "title": "Computer Science Co-op",
+        "source": "vanshb03",
+        "id": "97a45c60-1f33-4d75-9270-8d0dbabc30d4",
+        "date_posted": 1793313056,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1793315160,
+        "url": "https://go.vansh.nyc/10b",
+        "locations": [
+            "Ottawa, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Synopsys",
+        "title": "Technical Engineer Intern",
+        "source": "vanshb03",
+        "id": "8e500365-034e-41e5-bc3e-8eb7709fc553",
+        "date_posted": 1793313324,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
