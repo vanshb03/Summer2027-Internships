@@ -64,6 +64,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | L3Harris Technologies | Software Engineering Intern 🇺🇸 | Carlsbad, CA | <a href="https://go.vansh.nyc/YO?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | ↳ | Software Engineer Intern | Carlsbad, CA | <a href="https://go.vansh.nyc/Yw?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | ↳ | Information Security Systems Engineer Intern 🇺🇸 | Salt Lake City, UT | <a href="https://go.vansh.nyc/XU?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
+| KLA | Software Engineer Intern | Milpitas, CA | <a href="https://go.vansh.nyc/YS?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | Infleqtion | Quantum Software Intern | Chicago, IL | <a href="https://go.vansh.nyc/Xz?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | HP Inc. | Software Product Security Intern, HP IQ | San Francisco, CA | <a href="https://go.vansh.nyc/YE?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | Ericsson | AI and Automation Engineer Intern 🛂 | Plano, TX | <a href="https://go.vansh.nyc/YK?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
