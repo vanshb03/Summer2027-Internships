@@ -36000,5 +36000,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793295463,
+        "url": "https://go.vansh.nyc/Z8",
+        "locations": [
+            "Minneapolis, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Micron Technology",
+        "title": "ASIC Digital Design Intern",
+        "source": "vanshb03",
+        "id": "dd1bffdc-6a81-490e-8c8f-9d83aceb59c4",
+        "date_posted": 1793234263,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
