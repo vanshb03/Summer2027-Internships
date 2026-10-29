@@ -35830,5 +35830,56 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793282772,
+        "url": "https://go.vansh.nyc/YV",
+        "locations": [
+            "Rochester, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CACI",
+        "title": "Software Engineering Co-op",
+        "source": "vanshb03",
+        "id": "5d30b04b-fa9c-457b-a4a3-3bc138691104",
+        "date_posted": 1793280792,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1793282772,
+        "url": "https://go.vansh.nyc/YW",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Sonos",
+        "title": "Software Partner Engineering Intern",
+        "source": "vanshb03",
+        "id": "3390b0e1-069e-4fde-80d8-f6fcf512a97f",
+        "date_posted": 1793281752,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793282772,
+        "url": "https://go.vansh.nyc/YX",
+        "locations": [
+            "Arden Hills, MN"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Boston Scientific",
+        "title": "Software & Systems Testing Engineering Intern",
+        "source": "vanshb03",
+        "id": "24e351c3-bb80-4ec5-a251-87c878397fcc",
+        "date_posted": 1793250372,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
