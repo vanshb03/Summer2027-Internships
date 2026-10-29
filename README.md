@@ -46,7 +46,9 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Two Six Technologies | Systems Software Engineer Intern | Arlington, VA | <a href="https://go.vansh.nyc/Z3?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
 | Sonos | Software Partner Engineering Intern 🛂 | Boston, MA | <a href="https://go.vansh.nyc/YW?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
+| Microsoft | Applied Scientist Intern, Turing | Redmond, WA | <a href="https://go.vansh.nyc/Z4?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
 | JM Family Enterprises | Software Engineer Intern | Deerfield Beach, FL</br>Jacksonville, FL | <a href="https://go.vansh.nyc/YU?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
 | Sonos | Software Engineering Intern 🛂 | Seattle, WA | <a href="https://go.vansh.nyc/Y1?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | ↳ | Software Engineering Intern 🛂 | Boston, MA | <a href="https://go.vansh.nyc/XB?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
@@ -916,7 +918,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Western National Insurance | Data Engineering Intern, Data & Integrations | Edina, MN | <a href="https://go.vansh.nyc/JG?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 25 |
 | Keysight Technologies | DevOps Intern | Colorado Springs, CO | <a href="https://go.vansh.nyc/K1?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 25 |
 | Johns Hopkins Applied Physics Laboratory | Space Exploration Software Engineer Intern, Embedded Applications | Laurel, MD | <a href="https://go.vansh.nyc/JE?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 25 |
-| ↳ | Artificial Intelligence and Machine Learning Research Assistant Intern | Laurel, MD | <a href="https://go.vansh.nyc/JF?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 25 |
 | Flint | Engineering Intern | San Francisco, CA | <a href="https://go.vansh.nyc/JI?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 25 |
 | Zurn Elkay Water Solutions | Embedded Hardware Intern | Milwaukee, WI | <a href="https://go.vansh.nyc/MW?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 24 |
 | ↳ | Embedded Firmware Intern | Milwaukee, WI | <a href="https://go.vansh.nyc/JD?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 24 |
@@ -1454,6 +1455,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | CACI | Software Development/Engineer Intern | Remote</br>United States | 🔒 | Sep 30 |
 | Westinghouse Electric Company | Software Developer Intern, Tools & Apps | Warrendale, PA | 🔒 | Sep 29 |
 | H&R Block | Software Engineering Intern, Embark | Kansas City, MO | 🔒 | Sep 27 |
+| Johns Hopkins Applied Physics Laboratory | Artificial Intelligence and Machine Learning Research Assistant Intern | Laurel, MD | 🔒 | Sep 25 |
 | Neuberger Berman | Quantitative Analyst Intern | New York, NY | 🔒 | Sep 22 |
 | General Dynamics Information Technology | Software Development Intern | Bossier City, LA | 🔒 | Sep 22 |
 | ↳ | AI Network Engineering Intern | Bossier City, LA | 🔒 | Sep 22 |
