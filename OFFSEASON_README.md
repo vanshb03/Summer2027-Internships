@@ -295,7 +295,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Kenvue | Tech & Data Co-op | Summit, NJ | <a href="https://go.vansh.nyc/JN?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 15 |
 | Insulet Corporation | Embedded Software Test Engineering Co-op 🛂 | Acton, MA | <a href="https://go.vansh.nyc/Ne?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 15 |
 | Geotab | Embedded Developer Intern, Engine Data Reliability | Oakville, Canada | <a href="https://go.vansh.nyc/MF?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 10 |
-| Definity Financial | Business Intelligence Co-op | Toronto, Canada</br>Waterloo, Canada | <a href="https://go.vansh.nyc/MN?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 10 |
 | Insulet Corporation | Embedded Software Engineering Co-op | Acton, MA | <a href="https://go.vansh.nyc/MC?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 09 |
 | Domino Data Lab | Forward Deployed Engineer Intern | New York, NY | <a href="https://go.vansh.nyc/Qk?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 09 |
 | Nokia | DSP Firmware Engineer Co-op | Ottawa, Canada | <a href="https://go.vansh.nyc/M7?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 02 |
@@ -438,6 +437,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Revvity | Software Integration Co-op | Akron, OH | 🔒 | Oct 02 |
 | iRhythm Technologies | Firmware Quality Assurance Engineer Co-op | San Francisco, CA | 🔒 | Sep 28 |
 | OCC | Data Intern | Chicago, IL | 🔒 | Sep 16 |
+| Definity Financial | Business Intelligence Co-op | Toronto, Canada</br>Waterloo, Canada | 🔒 | Sep 10 |
 | Royal Bank of Canada | Developer & IT Specialist Co-op, Global Asset Management | Toronto, Canada</br>Vancouver, Canada | 🔒 | Sep 03 |
 | Kodiak Robotics | Planning Intern, Mission Planning | Mountain View, CA | 🔒 | Aug 24 |
 | Philips | Software Systems Engineering Co-op, Image Guided Therapy Devices - IVUS Clinical Imaging Software Application | Plymouth, MN | 🔒 | Aug 23 |
