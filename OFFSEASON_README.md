@@ -117,7 +117,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Booz Allen | Enterprise Cybersecurity Data and Business Intelligence Analyst Intern | McLean, VA | <a href="https://go.vansh.nyc/fl?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 21 |
 | Anduril | Robotics Engineer Co-op | Quincy, MA | <a href="https://go.vansh.nyc/dS?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 21 |
 | Analytic Partners | Data Science Co-op | Miami, FL | <a href="https://go.vansh.nyc/dz?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 21 |
-| The Federal Reserve System | Technology Risk Intern | Dallas, TX | <a href="https://go.vansh.nyc/cR?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 20 |
 | Survalent | Web Developer Co-op, Quality and Infrastructure | Mississauga, Canada | <a href="https://go.vansh.nyc/D4?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 20 |
 | OpenAI | Backend Software Engineer Intern, Cooperative AI (Evals) | San Francisco, CA | <a href="https://go.vansh.nyc/bO?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 20 |
 | Keysight Technologies | R&D Software Engineer Intern | Santa Rosa, CA | <a href="https://go.vansh.nyc/db?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 20 |
@@ -406,6 +405,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Nutanix | Software Developer Co-op | Vancouver, BC, Canada | 🔒 | Oct 22 |
 | Marvell | Design Verification Intern | Toronto, Canada | 🔒 | Oct 22 |
 | Amazon | Systems Development Engineer Intern | Bellevue, WA | 🔒 | Oct 22 |
+| The Federal Reserve System | Technology Risk Intern | Dallas, TX | 🔒 | Oct 20 |
 | Skydio | Embedded Software Engineer Intern | San Mateo, CA | 🔒 | Oct 20 |
 | RTX | Software Engineer Co-op 🇺🇸 | Aurora, CO | 🔒 | Oct 20 |
 | ↳ | Software Engineer Co-op 🇺🇸 | Richardson, TX | 🔒 | Oct 20 |
