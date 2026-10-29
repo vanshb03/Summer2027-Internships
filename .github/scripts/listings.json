@@ -36208,13 +36208,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793299022,
+        "date_updated": 1793312178,
         "url": "https://go.vansh.nyc/Zo",
         "locations": [
             "Los Altos, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Toyota Research Institute",
         "title": "Human Interactive Driving Research Intern, Learning-Based Control for Safe Autonomous Driving",
         "source": "vanshb03",
@@ -36276,13 +36276,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793304410,
+        "date_updated": 1793312178,
         "url": "https://go.vansh.nyc/Zu",
         "locations": [
             "Los Altos, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Toyota Research Institute",
         "title": "Human Interactive Driving Research Intern, Perception for Driving at the Limits",
         "source": "vanshb03",
@@ -36310,13 +36310,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793308024,
+        "date_updated": 1793312178,
         "url": "https://go.vansh.nyc/Zx",
         "locations": [
             "Los Altos, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Toyota Research Institute",
         "title": "Robotics Intern, Human-Machine Interaction Research",
         "source": "vanshb03",
