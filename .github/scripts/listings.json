@@ -14718,13 +14718,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792629862,
+        "date_updated": 1793284696,
         "url": "https://go.vansh.nyc/e1",
         "locations": [
             "Folsom, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Intel",
         "title": "Information Security Engineer Intern",
         "source": "vanshb03",
@@ -21198,14 +21198,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793015500,
+        "date_updated": 1793284696,
         "url": "https://go.vansh.nyc/Ec",
         "locations": [
             "Remote",
             "United States"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "CACI",
         "title": "Software Development/Engineer Intern",
         "source": "vanshb03",
@@ -35878,6 +35878,40 @@
         "source": "vanshb03",
         "id": "24e351c3-bb80-4ec5-a251-87c878397fcc",
         "date_posted": 1793250372,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793284515,
+        "url": "https://go.vansh.nyc/YZ",
+        "locations": [
+            "Montreal, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CIBC",
+        "title": "AI Developer Co-op, Bilingual",
+        "source": "vanshb03",
+        "id": "324535cb-6cce-4db1-89d4-2075ab2f4f47",
+        "date_posted": 1793232000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1793284515,
+        "url": "https://go.vansh.nyc/Z0",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bank of Montreal",
+        "title": "Quantitative Trading Analyst Co-op",
+        "source": "vanshb03",
+        "id": "3ecc44ff-86bf-46c2-9bb2-cf6475ba9ae5",
+        "date_posted": 1793232000,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
