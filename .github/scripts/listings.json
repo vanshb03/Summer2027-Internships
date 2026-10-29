@@ -32083,13 +32083,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793045154,
+        "date_updated": 1793311690,
         "url": "https://go.vansh.nyc/SV",
         "locations": [
             "Mountain View, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Glean",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -36322,6 +36322,23 @@
         "source": "vanshb03",
         "id": "0df9c622-5187-40fa-be37-134f02e0659d",
         "date_posted": 1793306584,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793311629,
+        "url": "https://go.vansh.nyc/Zy",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Interco",
+        "title": "Software Development Intern, React",
+        "source": "vanshb03",
+        "id": "dd973491-4b26-48e1-92da-e5ed651d333a",
+        "date_posted": 1793296295,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
