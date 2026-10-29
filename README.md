@@ -47,6 +47,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Two Six Technologies | Systems Software Engineer Intern | Arlington, VA | <a href="https://go.vansh.nyc/Z3?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
+| Toyota Research Institute | Human Interactive Driving Research Intern, Learning-Based Control for Safe Autonomous Driving | Los Altos, CA | <a href="https://go.vansh.nyc/Zo?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
 | Sonos | Software Partner Engineering Intern 🛂 | Boston, MA | <a href="https://go.vansh.nyc/YW?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
 | RTX | Sustainment Data and Analytics Intern 🇺🇸 | East Hartford, CT | <a href="https://go.vansh.nyc/Zm?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
 | National Interstate Insurance | Extreme Programming Engineer Intern | Cincinnati, OH | <a href="https://go.vansh.nyc/Zd?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
@@ -258,7 +259,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | HCSC | Product Engineer Intern | Chicago, IL</br>Richardson, TX | <a href="https://go.vansh.nyc/T7?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 25 |
 | General Dynamics Mission Systems, Inc. | Software Test Engineering Intern, Space and Embedded Crypto 🇺🇸 | Scottsdale, AZ | <a href="https://go.vansh.nyc/W0?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 25 |
 | General Dynamics Mission Systems | Software Test Engineer Intern 🇺🇸 | Pittsburgh, PA | <a href="https://go.vansh.nyc/T5?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 25 |
-| CVS Health | Innovation & Technology Intern, Data Engineering | Irving, TX | <a href="https://go.vansh.nyc/OI?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 25 |
 | ConnectPrep | Data Analyst Intern | Remote</br>United States | <a href="https://go.vansh.nyc/BG?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 25 |
 | ADT | Cybersecurity & Risk Intern | Boca Raton, FL | <a href="https://go.vansh.nyc/UH?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 25 |
 | Skydio | Autonomy Engineer Intern, Deep Learning / Computer Vision | San Mateo, CA | <a href="https://go.vansh.nyc/BL?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |
@@ -397,7 +397,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Information Security Intern 🛂 | Charlotte, NC | <a href="https://go.vansh.nyc/ef?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 21 |
 | ↳ | Application Analyst Intern | Itasca, IL | <a href="https://go.vansh.nyc/dt?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 21 |
 | CVS Health | Medicaid Data Analytics Intern | Hartford, CT | <a href="https://go.vansh.nyc/fh?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 21 |
-| ↳ | Data Engineering Intern, Innovation & Technology | New York, NY | <a href="https://go.vansh.nyc/fk?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 21 |
 | ↳ | Data Science Intern, Innovation & Technology | New York, NY | <a href="https://go.vansh.nyc/fm?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 21 |
 | ↳ | Software Engineering: Data & Intelligence Intern, Innovation & Technology | New York, NY | <a href="https://go.vansh.nyc/fn?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 21 |
 | Brookhaven Lab | Data Engineering Student Assistant Intern | Upton, NY | <a href="https://go.vansh.nyc/fb?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 21 |
@@ -1314,6 +1313,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Apple | Software Engineer Intern, Core OS | United States | 🔒 | Oct 26 |
 | Royal Bank of Canada | Developer Intern | Halifax, Canada | 🔒 | Oct 25 |
 | ↳ | Data Engineer Intern | Halifax, Canada | 🔒 | Oct 25 |
+| CVS Health | Innovation & Technology Intern, Data Engineering | Irving, TX | 🔒 | Oct 25 |
 | Trimble | Navigation & Machine Learning Engineering Intern | Richmond Hill, Canada | 🔒 | Oct 23 |
 | MongoDB | Software Engineer Intern | <details><summary>**5 locations**</summary>Palo Alto, CA</br>Seattle, WA</br>San Francisco, CA</br>Austin, TX</br>New York, NY</details> | 🔒 | Oct 23 |
 | Merck | Data, AI, and Genome Sciences Intern | Cambridge, MA | 🔒 | Oct 23 |
@@ -1349,7 +1349,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Software Engineer Intern | Las Vegas, NV | 🔒 | Oct 21 |
 | Genworth | Risk Modeling Intern | Raleigh, NC | 🔒 | Oct 21 |
 | FedEx Freight | Data Scientist Intern | Memphis, TN | 🔒 | Oct 21 |
-| CVS Health | Product & Agile Delivery Intern, Innovation & Technology | <details><summary>**4 locations**</summary>Hartford, CT</br>Dallas, TX</br>Scottsdale, AZ</br>Woonsocket, RI</details> | 🔒 | Oct 21 |
+| CVS Health | Data Engineering Intern, Innovation & Technology | New York, NY | 🔒 | Oct 21 |
+| ↳ | Product & Agile Delivery Intern, Innovation & Technology | <details><summary>**4 locations**</summary>Hartford, CT</br>Dallas, TX</br>Scottsdale, AZ</br>Woonsocket, RI</details> | 🔒 | Oct 21 |
 | ↳ | Software Engineer Intern, Platform & Applications | <details><summary>**4 locations**</summary>Scottsdale, AZ</br>Dallas, TX</br>Hartford, CT</br>Woonsocket, RI</details> | 🔒 | Oct 21 |
 | Crusoe | Software Engineering Intern | San Francisco, CA | 🔒 | Oct 21 |
 | Cisco | Software Engineer Intern, Embedded Systems II | <details><summary>**4 locations**</summary>San Jose, CA</br>Milpitas, CA</br>Rtp, NC</br>San Francisco, CA</details> | 🔒 | Oct 21 |

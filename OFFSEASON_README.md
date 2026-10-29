@@ -270,7 +270,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Cisco | Firmware Engineer II Co-op | Maynard, MA | <a href="https://go.vansh.nyc/fQ?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 28 |
 | Moment Energy | Data Scientist Co-op | Surrey, Canada | <a href="https://go.vansh.nyc/JH?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 25 |
 | First Solar (US) | Data Science Intern | Perrysburg, OH | <a href="https://go.vansh.nyc/K2?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 25 |
-| ↳ | Data Engineering Intern | Perrysburg, OH | <a href="https://go.vansh.nyc/K3?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 25 |
 | ↳ | Data Analytics Intern | Perrysburg, OH | <a href="https://go.vansh.nyc/K4?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 25 |
 | Rockwell Automation | AI Software Engineering Co-op | Mayfield Heights, OH</br>Milwaukee, WI | <a href="https://go.vansh.nyc/Jz?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 24 |
 | iRhythm Technologies | Embedded SDET Co-op | San Francisco, CA | <a href="https://go.vansh.nyc/K0?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 24 |
@@ -439,6 +438,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Moment Energy | Firmware Engineering Co-op | Surrey, Canada | 🔒 | Oct 05 |
 | Revvity | Software Integration Co-op | Akron, OH | 🔒 | Oct 02 |
 | iRhythm Technologies | Firmware Quality Assurance Engineer Co-op | San Francisco, CA | 🔒 | Sep 28 |
+| First Solar (US) | Data Engineering Intern | Perrysburg, OH | 🔒 | Sep 25 |
 | OCC | Data Intern | Chicago, IL | 🔒 | Sep 16 |
 | Definity Financial | Business Intelligence Co-op | Toronto, Canada</br>Waterloo, Canada | 🔒 | Sep 10 |
 | Royal Bank of Canada | Developer & IT Specialist Co-op, Global Asset Management | Toronto, Canada</br>Vancouver, Canada | 🔒 | Sep 03 |
