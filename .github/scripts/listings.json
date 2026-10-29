@@ -18169,13 +18169,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792812208,
+        "date_updated": 1793297329,
         "url": "https://go.vansh.nyc/hd",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Ivalua",
         "title": "Marketing Web Developer Intern",
         "source": "vanshb03",
@@ -34265,13 +34265,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793153113,
+        "date_updated": 1793297329,
         "url": "https://go.vansh.nyc/WX",
         "locations": [
             "Seattle, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Perspective Therapeutics",
         "title": "AI Innovation Intern",
         "source": "vanshb03",
@@ -36014,6 +36014,195 @@
         "source": "vanshb03",
         "id": "dd1bffdc-6a81-490e-8c8f-9d83aceb59c4",
         "date_posted": 1793234263,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793297173,
+        "url": "https://go.vansh.nyc/Zc",
+        "locations": [
+            "Wayzata, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "GardaWorld",
+        "title": "Software Engineer Intern, C#",
+        "source": "vanshb03",
+        "id": "44ae88e5-8ae4-4524-b8ca-d1e944296d85",
+        "date_posted": 1793225173,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793297173,
+        "url": "https://go.vansh.nyc/Zd",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "National Interstate Insurance",
+        "title": "Extreme Programming Engineer Intern",
+        "source": "vanshb03",
+        "id": "8b119943-e802-4caa-909c-635e15db593d",
+        "date_posted": 1793295793,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793297173,
+        "url": "https://go.vansh.nyc/Ze",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "National Interstate Insurance",
+        "title": "Content Publishing Developer Intern",
+        "source": "vanshb03",
+        "id": "26cf2c9e-5e3f-4465-a7ff-c4576c827abf",
+        "date_posted": 1793295793,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793297173,
+        "url": "https://go.vansh.nyc/Zf",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "National Interstate Insurance",
+        "title": "IT Data Intern",
+        "source": "vanshb03",
+        "id": "bbf55520-5eb1-400b-8829-a8e3da126098",
+        "date_posted": 1793295793,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793297173,
+        "url": "https://go.vansh.nyc/Zg",
+        "locations": [
+            "Research Triangle Park, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cisco",
+        "title": "Security Consulting Engineer I Intern",
+        "source": "vanshb03",
+        "id": "dc894930-d001-48de-bf53-f3ddbbe8b30f",
+        "date_posted": 1793295733,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793297249,
+        "url": "https://go.vansh.nyc/Zh",
+        "locations": [
+            "Sioux Falls, SD"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Solarity",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "53eec40f-8769-4c25-ae2a-ea60c183acd1",
+        "date_posted": 1793157421,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793297249,
+        "url": "https://go.vansh.nyc/Zi",
+        "locations": [
+            "Greenville, SC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Current Lighting Employee Co",
+        "title": "AI Co-op",
+        "source": "vanshb03",
+        "id": "ed456dfb-a62f-48de-9b8b-5b0b55952a48",
+        "date_posted": 1793171494,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1793297249,
+        "url": "https://go.vansh.nyc/Zj",
+        "locations": [
+            "Tarrytown, NY",
+            "Sleepy Hollow, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Regeneron Pharmaceuticals",
+        "title": "Genomics, Computational Biology & Translational Data Science Intern",
+        "source": "vanshb03",
+        "id": "7478a923-e07f-4e5c-a541-768a31df7bee",
+        "date_posted": 1793188526,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793297249,
+        "url": "https://go.vansh.nyc/Zk",
+        "locations": [
+            "Tarrytown, NY",
+            "Sleepy Hollow, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Regeneron Pharmaceuticals",
+        "title": "IT, Digital Enablement & Information Security Intern",
+        "source": "vanshb03",
+        "id": "60b8d750-82e1-4cc8-b5c2-504745232fcf",
+        "date_posted": 1793188526,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793297249,
+        "url": "https://go.vansh.nyc/Zl",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "KLA",
+        "title": "Software Intern",
+        "source": "vanshb03",
+        "id": "972a06df-1885-4871-a815-3a3d70d25b10",
+        "date_posted": 1793232000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793297249,
+        "url": "https://go.vansh.nyc/Zm",
+        "locations": [
+            "East Hartford, CT"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "RTX",
+        "title": "Sustainment Data and Analytics Intern",
+        "source": "vanshb03",
+        "id": "904d55bc-686a-4dc4-b686-d499155e215d",
+        "date_posted": 1793290700,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
