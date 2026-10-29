@@ -43,13 +43,18 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Waterworth | Computer Science Co-op | Victoria, Canada | <a href="https://go.vansh.nyc/10a?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
 | Path Robotics | Machine Learning & Robotics Intern | Columbus, OH | <a href="https://go.vansh.nyc/ZJ?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
 | CACI | Software Engineering Co-op | Rochester, NY | <a href="https://go.vansh.nyc/YV?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
+| Vestmark Internship Program | Cloud Engineer Co-op | Wakefield, MA | <a href="https://go.vansh.nyc/100?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | The Nuclear Company | Security Engineer Intern 🛂 | Washington, DC | <a href="https://go.vansh.nyc/XL?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | Sun Life | Data Analyst Co-op | Toronto, Canada | <a href="https://go.vansh.nyc/ZB?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
+| Philips | Data Engineer Co-op, Biocompatibility | Murrysville, PA | <a href="https://go.vansh.nyc/ZZ?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | Lila Sciences | Structuring Scientific Data for Discovery Co-op | Cambridge, MA</br>San Francisco, CA | <a href="https://go.vansh.nyc/XH?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | Leidos | Cybersecurity Engineer Co-op | Bethesda, MD | <a href="https://go.vansh.nyc/XZ?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | L3Harris Technologies | Software Engineering Co-op | Waterdown, Canada | <a href="https://go.vansh.nyc/YN?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
+| Geotab | Data Analyst Intern | Burnaby, Canada</br>Oakville, Canada</br>Toronto, Canada | <a href="https://go.vansh.nyc/ZS?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
+| Genius AI | Software Engineer Intern | New York, NY | <a href="https://go.vansh.nyc/108?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | Current Lighting Employee Co | AI Co-op | Greenville, SC | <a href="https://go.vansh.nyc/Zi?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | Ciena | Embedded Software Engineer Co-op | Ottawa, Canada | <a href="https://go.vansh.nyc/ZC?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | ↳ | Hardware Characterization Automation Co-op | Ottawa, Canada | <a href="https://go.vansh.nyc/ZD?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
