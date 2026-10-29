@@ -28027,14 +28027,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793023513,
+        "date_updated": 1793277447,
         "url": "https://go.vansh.nyc/MN",
         "locations": [
             "Toronto, Canada",
             "Waterloo, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Definity Financial",
         "title": "Business Intelligence Co-op",
         "source": "vanshb03",
