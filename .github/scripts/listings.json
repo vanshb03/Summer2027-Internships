@@ -12766,13 +12766,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792511227,
+        "date_updated": 1793300865,
         "url": "https://go.vansh.nyc/cb",
         "locations": [
             "Wichita, KS"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "NetApp",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
