@@ -36291,5 +36291,39 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793308024,
+        "url": "https://go.vansh.nyc/Zw",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "PTC",
+        "title": "Arena Engineering Intern",
+        "source": "vanshb03",
+        "id": "3f90e47a-751c-46b6-8e72-d96ec0b9cf0f",
+        "date_posted": 1793307004,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793308024,
+        "url": "https://go.vansh.nyc/Zx",
+        "locations": [
+            "Los Altos, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Toyota Research Institute",
+        "title": "Robotics Intern, Human-Machine Interaction Research",
+        "source": "vanshb03",
+        "id": "0df9c622-5187-40fa-be37-134f02e0659d",
+        "date_posted": 1793306584,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
