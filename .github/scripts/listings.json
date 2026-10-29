@@ -18517,13 +18517,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792812208,
+        "date_updated": 1793288282,
         "url": "https://go.vansh.nyc/hx",
         "locations": [
             "East Syracuse, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Carrier Global",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -35946,6 +35946,40 @@
         "source": "vanshb03",
         "id": "eedc87ed-7d87-43f8-affb-6bb5fc12eaad",
         "date_posted": 1793282793,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793288179,
+        "url": "https://go.vansh.nyc/Z5",
+        "locations": [
+            "Foster City, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Gilead Sciences",
+        "title": "Research Intern, Discovery Sciences and Technologies, AI",
+        "source": "vanshb03",
+        "id": "3ef2f9e9-730a-47d5-ab4a-bd8a3db7514f",
+        "date_posted": 1793286679,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793288179,
+        "url": "https://go.vansh.nyc/Z6",
+        "locations": [
+            "Foster City, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Gilead Sciences",
+        "title": "Research Intern, Inflammation, AI",
+        "source": "vanshb03",
+        "id": "d19387ec-2347-4987-a911-d5de0f474f3a",
+        "date_posted": 1793286679,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
