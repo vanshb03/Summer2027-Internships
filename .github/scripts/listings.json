@@ -35812,5 +35812,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793280967,
+        "url": "https://go.vansh.nyc/YU",
+        "locations": [
+            "Deerfield Beach, FL",
+            "Jacksonville, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "JM Family Enterprises",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "2d7b1372-c43b-4ed6-9207-32a15a7ac4a7",
+        "date_posted": 1793279587,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
