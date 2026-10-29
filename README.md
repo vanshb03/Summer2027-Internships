@@ -347,8 +347,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Trace3 | Data and Analytics Engineer Intern | Irvine, CA | <a href="https://go.vansh.nyc/dV?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 21 |
 | Toyota | Data Science Intern, TFS | Plano, TX | <a href="https://go.vansh.nyc/dm?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 21 |
 | Taylor | Enablement Data & Insights Intern | Remote</br>United States | <a href="https://go.vansh.nyc/fg?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 21 |
-| Smith+Nephew | Computer Vision Software Engineering Intern | Andover, MA | <a href="https://go.vansh.nyc/dB?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 21 |
-| ↳ | Embedded Software Engineering Intern | Andover, MA | <a href="https://go.vansh.nyc/dA?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 21 |
+| Smith+Nephew | Embedded Software Engineering Intern | Andover, MA | <a href="https://go.vansh.nyc/dA?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 21 |
 | Safran | Software Engineering Intern | Bedford, NH | <a href="https://go.vansh.nyc/dQ?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 21 |
 | RTX | Software Engineer Intern | Aurora, CO | <a href="https://go.vansh.nyc/eq?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 21 |
 | Rockwell Automation | Firmware Engineer Intern | Mequon, WI</br>Eden Prairie, MN | <a href="https://go.vansh.nyc/gA?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 21 |
@@ -1318,7 +1317,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Amazon | Systems Development Engineer Intern | Vancouver, Canada | 🔒 | Oct 22 |
 | ↳ | Software Engineer Intern | Redmond, WA | 🔒 | Oct 22 |
 | SPS Commerce | Software Engineer Intern | Minneapolis, MN | 🔒 | Oct 21 |
-| Smith+Nephew | Agentic AI Software Engineering Intern | Andover, MA | 🔒 | Oct 21 |
+| Smith+Nephew | Computer Vision Software Engineering Intern | Andover, MA | 🔒 | Oct 21 |
+| ↳ | Agentic AI Software Engineering Intern | Andover, MA | 🔒 | Oct 21 |
 | Northrop Grumman | Systems Engineering Intern, AI Experience | Dulles, VA | 🔒 | Oct 21 |
 | ManTech | AI Workflow Intern | Remote in USA</br>Stafford, VA | 🔒 | Oct 21 |
 | Light & Wonder | Software Engineering Intern | Las Vegas, NV | 🔒 | Oct 21 |

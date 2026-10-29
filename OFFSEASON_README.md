@@ -179,13 +179,10 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Susquehanna International Group | Business Analytics AI Co-op | Remote (US) | <a href="https://go.vansh.nyc/a5?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
 | ↳ | Technical Business Analyst Co-op | Remote (US) | <a href="https://go.vansh.nyc/a6?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
 | Nokia | Embedded Software Developer Co-op, C/C++ | Ottawa, Canada | <a href="https://go.vansh.nyc/CI?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
-| Johnson & Johnson | Technology TS AM CBT Co-op | Raritan, NJ | <a href="https://go.vansh.nyc/9Z?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
-| ↳ | Technology IM R&D Co-op | Raritan, NJ | <a href="https://go.vansh.nyc/a0?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
-| ↳ | Data Operations & Analytics Co-op | Somerset, NJ | <a href="https://go.vansh.nyc/a1?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
+| Johnson & Johnson | Data Operations & Analytics Co-op | Somerset, NJ | <a href="https://go.vansh.nyc/a1?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
 | ↳ | Emerging Technologies Co-op | Spring House, PA | <a href="https://go.vansh.nyc/a2?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
 | Inter Miami CF | Business Intelligence Intern, Software Development | Miami, FL | <a href="https://go.vansh.nyc/gl?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
 | Definity Financial | Cloud Engineer Co-op | Waterloo, ON | <a href="https://go.vansh.nyc/9Y?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
-| CIBC | Information Security Analyst Co-op | Toronto, ON | <a href="https://go.vansh.nyc/9X?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
 | CACI | Software Test Engineer Intern | Remote</br>United States | <a href="https://go.vansh.nyc/CX?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
 | BC Pensions | Application Developer Co-op | Victoria, BC, Canada | <a href="https://go.vansh.nyc/aP?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
 | Anduril | Research Engineer Co-op | Santa Ana, CA | <a href="https://go.vansh.nyc/9W?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
@@ -424,7 +421,10 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | TD Bank | Portfolio Analytics Data Analyst Intern/Co-op | Toronto, ON | 🔒 | Oct 15 |
 | ↳ | Portfolio Analytics Developer Intern/Co-op | Toronto, ON | 🔒 | Oct 15 |
 | RTX | Software Engineering Co-op 🇺🇸 | Cedar Rapids, IA | 🔒 | Oct 15 |
+| Johnson & Johnson | Technology TS AM CBT Co-op | Raritan, NJ | 🔒 | Oct 15 |
+| ↳ | Technology IM R&D Co-op | Raritan, NJ | 🔒 | Oct 15 |
 | Commonwealth Fusion Systems | AI & Infrastructure Engineer Intern | Devens, MA | 🔒 | Oct 15 |
+| CIBC | Information Security Analyst Co-op | Toronto, ON | 🔒 | Oct 15 |
 | Abridge | Member of Technical Staff Intern | SF | 🔒 | Oct 15 |
 | Tessera Labs | Full Stack Software Engineer Intern | <details><summary>**4 locations**</summary>San Jose, CA</br>Remote</br>United States</br>New York, NY</details> | 🔒 | Oct 14 |
 | Sony Pictures Entertainment | Current Programming Intern, Sony Pictures Television | Culver City, CA | 🔒 | Oct 14 |
