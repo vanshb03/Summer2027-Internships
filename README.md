@@ -50,7 +50,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Sonos | Software Partner Engineering Intern 🛂 | Boston, MA | <a href="https://go.vansh.nyc/YW?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
 | Microsoft | Applied Scientist Intern, Turing | Redmond, WA | <a href="https://go.vansh.nyc/Z4?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
 | JM Family Enterprises | Software Engineer Intern | Deerfield Beach, FL</br>Jacksonville, FL | <a href="https://go.vansh.nyc/YU?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
-| Gilead Sciences | Research Intern, Discovery Sciences and Technologies, AI | Foster City, CA | <a href="https://go.vansh.nyc/Z5?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
+| Gilead Sciences | Research Intern, Oncology Biomarker - AI | Foster City, CA | <a href="https://go.vansh.nyc/Z7?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
+| ↳ | Research Intern, Discovery Sciences and Technologies, AI | Foster City, CA | <a href="https://go.vansh.nyc/Z5?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
 | ↳ | Research Intern, Inflammation, AI | Foster City, CA | <a href="https://go.vansh.nyc/Z6?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
 | Sonos | Software Engineering Intern 🛂 | Seattle, WA | <a href="https://go.vansh.nyc/Y1?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | ↳ | Software Engineering Intern 🛂 | Boston, MA | <a href="https://go.vansh.nyc/XB?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
