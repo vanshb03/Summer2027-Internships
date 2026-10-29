@@ -15325,13 +15325,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792697714,
+        "date_updated": 1793254057,
         "url": "https://go.vansh.nyc/ez",
         "locations": [
             "Remote in USA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "RTX",
         "title": "Software Engineer Co-op",
         "source": "vanshb03",
@@ -35690,6 +35690,91 @@
         "source": "vanshb03",
         "id": "9e6b7cbd-fa95-4f46-8906-a1b710f86bd8",
         "date_posted": 1793250347,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793253969,
+        "url": "https://go.vansh.nyc/YL",
+        "locations": [
+            "Orlando, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Disney",
+        "title": "Enterprise Technology & Data Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "f7f95b4a-0bae-44da-a14f-a4c778913a8b",
+        "date_posted": 1793253948,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793253969,
+        "url": "https://go.vansh.nyc/YM",
+        "locations": [
+            "Burbank, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Disney",
+        "title": "Full Stack Web Development Intern, Walt Disney Animation Studios",
+        "source": "vanshb03",
+        "id": "07df078d-861d-40c9-80f1-ec6fdd8a0efb",
+        "date_posted": 1793253948,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793253969,
+        "url": "https://go.vansh.nyc/YN",
+        "locations": [
+            "Waterdown, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "L3Harris Technologies",
+        "title": "Software Engineering Co-op",
+        "source": "vanshb03",
+        "id": "decedfca-7da5-44cc-ac15-a22b5e08c3ee",
+        "date_posted": 1793253948,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1793253969,
+        "url": "https://go.vansh.nyc/YO",
+        "locations": [
+            "Carlsbad, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "L3Harris Technologies",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "6af0f2e1-0a80-4689-98cb-317d3f23b101",
+        "date_posted": 1793253948,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793253969,
+        "url": "https://go.vansh.nyc/YP",
+        "locations": [
+            "Markham, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Qualcomm",
+        "title": "Deep Learning Research Intern",
+        "source": "vanshb03",
+        "id": "c27f8823-9615-45d4-abf3-7e36c1d5b78e",
+        "date_posted": 1793253948,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
