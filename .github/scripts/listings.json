@@ -25994,13 +25994,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793021626,
+        "date_updated": 1793286503,
         "url": "https://go.vansh.nyc/JF",
         "locations": [
             "Laurel, MD"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Johns Hopkins Applied Physics Laboratory",
         "title": "Artificial Intelligence and Machine Learning Research Assistant Intern",
         "source": "vanshb03",
@@ -35912,6 +35912,40 @@
         "source": "vanshb03",
         "id": "3ecc44ff-86bf-46c2-9bb2-cf6475ba9ae5",
         "date_posted": 1793232000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793286335,
+        "url": "https://go.vansh.nyc/Z3",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Two Six Technologies",
+        "title": "Systems Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "c5cc5d8b-d86f-436e-bdf4-d99805871589",
+        "date_posted": 1793283993,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793286393,
+        "url": "https://go.vansh.nyc/Z4",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Applied Scientist Intern, Turing",
+        "source": "vanshb03",
+        "id": "eedc87ed-7d87-43f8-affb-6bb5fc12eaad",
+        "date_posted": 1793282793,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
