@@ -35778,5 +35778,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793257512,
+        "url": "https://go.vansh.nyc/YR",
+        "locations": [
+            "Arden Hills, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Boston Scientific",
+        "title": "AI Solutions Engineering Intern",
+        "source": "vanshb03",
+        "id": "81f222a6-fd59-49c3-a8ec-25f0bfed8c06",
+        "date_posted": 1793255197,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
