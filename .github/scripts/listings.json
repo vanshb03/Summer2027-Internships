@@ -13482,13 +13482,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792535448,
+        "date_updated": 1793250741,
         "url": "https://go.vansh.nyc/cR",
         "locations": [
             "Dallas, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "The Federal Reserve System",
         "title": "Technology Risk Intern",
         "source": "vanshb03",
@@ -14409,13 +14409,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1792629614,
+        "date_updated": 1793250741,
         "url": "https://go.vansh.nyc/dJ",
         "locations": [
             "Madison, WI"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "American Family Insurance Group",
         "title": "Data Engineer Intern",
         "source": "vanshb03",
@@ -35673,6 +35673,23 @@
         "source": "vanshb03",
         "id": "623d2f58-747a-4370-9fa3-48215315ffe8",
         "date_posted": 1793238312,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793250366,
+        "url": "https://go.vansh.nyc/YK",
+        "locations": [
+            "Plano, TX"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Ericsson",
+        "title": "AI and Automation Engineer Intern",
+        "source": "vanshb03",
+        "id": "9e6b7cbd-fa95-4f46-8906-a1b710f86bd8",
+        "date_posted": 1793250347,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
