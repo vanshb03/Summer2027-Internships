@@ -12579,13 +12579,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792511227,
+        "date_updated": 1793333236,
         "url": "https://go.vansh.nyc/c0",
         "locations": [
             "Toronto, ON, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Accenture",
         "title": "MES & Supply Chain Systems Co-op Analyst",
         "source": "vanshb03",
@@ -16697,13 +16697,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792731778,
+        "date_updated": 1793333236,
         "url": "https://go.vansh.nyc/fQ",
         "locations": [
             "Maynard, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Cisco",
         "title": "Firmware Engineer II Co-op",
         "source": "vanshb03",
@@ -16782,13 +16782,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792731778,
+        "date_updated": 1793333236,
         "url": "https://go.vansh.nyc/fV",
         "locations": [
             "Maynard, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Cisco",
         "title": "Software Engineer II Co-op",
         "source": "vanshb03",
@@ -16799,13 +16799,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1792731778,
+        "date_updated": 1793333236,
         "url": "https://go.vansh.nyc/fW",
         "locations": [
             "Maynard, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Cisco",
         "title": "Software Engineer I Co-op",
         "source": "vanshb03",
@@ -18919,7 +18919,7 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1792812489,
+        "date_updated": 1793333236,
         "url": "https://go.vansh.nyc/hU",
         "locations": [
             "Pittsburgh, PA",
@@ -18928,7 +18928,7 @@
             "Morrisville, NC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Thermo Fisher Scientific",
         "title": "IT & Digital Intern",
         "source": "vanshb03",
@@ -24189,13 +24189,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793016276,
+        "date_updated": 1793333236,
         "url": "https://go.vansh.nyc/GY",
         "locations": [
             "Maynard, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Cisco",
         "title": "Physical Design Engineer I Co-op",
         "source": "vanshb03",
@@ -24874,13 +24874,13 @@
         "season": "Spring"
     },
     {
-        "date_updated": 1793021626,
+        "date_updated": 1793333236,
         "url": "https://go.vansh.nyc/IC",
         "locations": [
             "Boston, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "LSEG",
         "title": "Engineering Intern, Multiple Teams",
         "source": "vanshb03",
@@ -28201,13 +28201,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793023877,
+        "date_updated": 1793333236,
         "url": "https://go.vansh.nyc/MX",
         "locations": [
             "Atlanta, GA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Manhattan Associates",
         "title": "Cloud Intern",
         "source": "vanshb03",
@@ -34146,13 +34146,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793144169,
+        "date_updated": 1793333236,
         "url": "https://go.vansh.nyc/WQ",
         "locations": [
             "Marlborough, MA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "RTX",
         "title": "Software Engineer Intern, Receiver, Exciter, & Processing Architecture",
         "source": "vanshb03",
