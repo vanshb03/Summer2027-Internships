@@ -36926,5 +36926,57 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793325913,
+        "url": "https://go.vansh.nyc/10k",
+        "locations": [
+            "Des Moines, IA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Dee Zee",
+        "title": "Software Development Intern",
+        "source": "vanshb03",
+        "id": "211924be-810b-443c-b403-b66681678e8b",
+        "date_posted": 1793232000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793325913,
+        "url": "https://go.vansh.nyc/10l",
+        "locations": [
+            "Seattle, WA",
+            "Arlington, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Axon",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "a31f5ed8-30ae-4c7a-a40a-43e3dba50abd",
+        "date_posted": 1793320794,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793325913,
+        "url": "https://go.vansh.nyc/10m",
+        "locations": [
+            "Ottawa, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Qualcomm",
+        "title": "Soft IP Engineer Co-op",
+        "source": "vanshb03",
+        "id": "55a05621-7c19-4c66-95ad-fd691adb9d08",
+        "date_posted": 1793322411,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
