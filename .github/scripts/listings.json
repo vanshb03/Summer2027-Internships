@@ -7888,13 +7888,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1787327091,
+        "date_updated": 1793337123,
         "url": "https://go.vansh.nyc/7A",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Kastle",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -26763,13 +26763,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793023513,
+        "date_updated": 1793337123,
         "url": "https://go.vansh.nyc/LD",
         "locations": [
             "Sunrise, FL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "American Express",
         "title": "Data Engineer Intern, Enterprise Technology Services",
         "source": "vanshb03",
@@ -36498,13 +36498,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793313325,
+        "date_updated": 1793337123,
         "url": "https://go.vansh.nyc/ZI",
         "locations": [
             "United States"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Centene Corporation",
         "title": "AI Engineer Intern",
         "source": "vanshb03",
