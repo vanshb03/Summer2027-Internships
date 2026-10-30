@@ -15721,13 +15721,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792717232,
+        "date_updated": 1793383696,
         "url": "https://go.vansh.nyc/eW",
         "locations": [
             "Lancaster, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Walmart",
         "title": "Automation, Product Manager, Corporate Intern",
         "source": "vanshb03",
@@ -37116,14 +37116,14 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1793374570,
+        "date_updated": 1793383696,
         "url": "https://go.vansh.nyc/10w",
         "locations": [
             "Davidson, NC",
             "Minneapolis, MN"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Trane Technologies",
         "title": "AI & Analytics Intern",
         "source": "vanshb03",
@@ -37334,6 +37334,75 @@
         "source": "vanshb03",
         "id": "d3a3558e-b1ed-476c-b03c-7aaf22697c08",
         "date_posted": 1793329555,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1793383569,
+        "url": "https://go.vansh.nyc/10J",
+        "locations": [
+            "San Francisco, CA",
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Salesforce",
+        "title": "AI Labs Intern, Emerging Talent",
+        "source": "vanshb03",
+        "id": "4667cd04-65e9-4348-a8e9-cd0f90a631ec",
+        "date_posted": 1793382489,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793383627,
+        "url": "https://go.vansh.nyc/10K",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Harmonic",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "589552c3-f3eb-4d48-941c-a466b56abb42",
+        "date_posted": 1793211967,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793383627,
+        "url": "https://go.vansh.nyc/10L",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Emerson Electric",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "f18d3054-7cd6-4697-bf75-300bff4f5a75",
+        "date_posted": 1793298691,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793383627,
+        "url": "https://go.vansh.nyc/10M",
+        "locations": [
+            "Melbourne, FL"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Ensco",
+        "title": "Information Security Intern",
+        "source": "vanshb03",
+        "id": "c8316379-6c68-410c-9e01-c8e3c4d339c0",
+        "date_posted": 1793366606,
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
