@@ -37063,5 +37063,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793363763,
+        "url": "https://go.vansh.nyc/10s",
+        "locations": [
+            "McLean, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "MITRE",
+        "title": "Critical Infrastructure Protection Intern",
+        "source": "vanshb03",
+        "id": "50581594-28c0-4f9d-95f1-9e356c4ac076",
+        "date_posted": 1793320563,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
