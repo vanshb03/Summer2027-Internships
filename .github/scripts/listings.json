@@ -10365,13 +10365,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792261427,
+        "date_updated": 1793392647,
         "url": "https://go.vansh.nyc/9V",
         "locations": [
             "Vandalia, OH"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Veolia",
         "title": "Operations Engineering Intern",
         "source": "vanshb03",
@@ -17077,13 +17077,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792731778,
+        "date_updated": 1793392647,
         "url": "https://go.vansh.nyc/gc",
         "locations": [
             "United States"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Residex Software",
         "title": "Product Management Intern",
         "source": "vanshb03",
@@ -19494,13 +19494,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1793013503,
+        "date_updated": 1793392647,
         "url": "https://go.vansh.nyc/C1",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "MEMX",
         "title": "Data Engineer Intern",
         "source": "vanshb03",
