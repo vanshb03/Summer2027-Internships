@@ -37046,5 +37046,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793361954,
+        "url": "https://go.vansh.nyc/10r",
+        "locations": [
+            "McLean, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "MITRE",
+        "title": "Trustworthy AI Intern",
+        "source": "vanshb03",
+        "id": "ddb41eea-b198-4772-8098-e157b801295d",
+        "date_posted": 1793322354,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
