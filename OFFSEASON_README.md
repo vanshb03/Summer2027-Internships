@@ -44,6 +44,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Fussball Club Cincinnati LLC (“FC Cincinnati”) | Data Analyst Intern | Cincinnati, OH | <a href="https://go.vansh.nyc/10v?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
+| Ensco | Information Security Intern 🇺🇸 | Melbourne, FL | <a href="https://go.vansh.nyc/10M?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | Carnegie Mellon University | Full-Stack Software Development Intern 🛂 | Pittsburgh, PA | <a href="https://go.vansh.nyc/10A?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | ↳ | Cyber Range Development Intern 🛂 | Pittsburgh, PA | <a href="https://go.vansh.nyc/10C?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | ↳ | Agentic Development Intern 🛂 | Pittsburgh, PA | <a href="https://go.vansh.nyc/10D?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
