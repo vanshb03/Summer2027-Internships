@@ -11615,14 +11615,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792370268,
+        "date_updated": 1793381900,
         "url": "https://go.vansh.nyc/b6",
         "locations": [
             "Chicago, IL",
             "Richardson, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "HCSC",
         "title": "Finance Data & Analytics Developer Intern",
         "source": "vanshb03",
@@ -11633,14 +11633,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792370268,
+        "date_updated": 1793381900,
         "url": "https://go.vansh.nyc/b7",
         "locations": [
             "Chicago, IL",
             "Richardson, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "HCSC",
         "title": "Finance Application Developer Intern",
         "source": "vanshb03",
@@ -36738,13 +36738,13 @@
         "season": "Spring"
     },
     {
-        "date_updated": 1793315160,
+        "date_updated": 1793381900,
         "url": "https://go.vansh.nyc/101",
         "locations": [
             "Ottawa, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Blackberry",
         "title": "Application Engineering Student Intern",
         "source": "vanshb03",
