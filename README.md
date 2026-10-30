@@ -835,8 +835,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Keysight Technologies | Software Development Engineer Intern, 6G Digital Twin and Visualization Platform | Santa Rosa, CA | <a href="https://go.vansh.nyc/FA?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
 | Hewlett Packard Enterprise | ASIC Design Engineer Intern | Sunnyvale, CA | <a href="https://go.vansh.nyc/FM?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
 | Garmin | Software Engineer Intern | Tucson, AZ | <a href="https://go.vansh.nyc/Fz?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
-| Dow Jones | Data Analyst Intern | New York, NY | <a href="https://go.vansh.nyc/FL?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
-| ↳ | Software Engineer Intern | New York, NY | <a href="https://go.vansh.nyc/FP?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
 | Courier Health | Software Engineer Intern | New York, NY | <a href="https://go.vansh.nyc/FG?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
 | Arcfield | Software Engineer Intern, On-Call | Middletown, RI | <a href="https://go.vansh.nyc/FD?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
 | Amazon | Software Engineer Intern, Embedded Systems | Redmond, WA</br>Northridge, CA | <a href="https://go.vansh.nyc/FS?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
@@ -1511,6 +1509,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | RTX | Software Engineer Co-op | Cedar Rapids, IA | 🔒 | Oct 06 |
 | MEMX | Information Security Intern | New York, NY | 🔒 | Oct 06 |
 | ICF International | Data Engineer Intern | Remote</br>United States</br>Reston, VA | 🔒 | Oct 06 |
+| Dow Jones | Data Analyst Intern | New York, NY | 🔒 | Oct 06 |
+| ↳ | Software Engineer Intern | New York, NY | 🔒 | Oct 06 |
 | CACI | Cyber Analyst Intern | Ashburn, VA | 🔒 | Oct 06 |
 | Akuna Capital | Entry-Level Software Engineer Intern, C++ | Chicago, IL | 🔒 | Oct 06 |
 | Space Dynamics Laboratory | FPGA Electrical Engineer Intern, Civil & Commercial Space | North Logan, UT | 🔒 | Oct 01 |
