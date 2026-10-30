@@ -22988,14 +22988,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793015500,
+        "date_updated": 1793403781,
         "url": "https://go.vansh.nyc/FR",
         "locations": [
             "Chantilly, VA",
             "El Segundo, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "The Aerospace Corporation",
         "title": "Embedded Systems/Software Engineer Intern",
         "source": "vanshb03",
@@ -37812,6 +37812,143 @@
         "source": "vanshb03",
         "id": "811fabb0-54ae-4063-ae19-e6e1966c104b",
         "date_posted": 1793394351,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793403332,
+        "url": "https://go.vansh.nyc/11s",
+        "locations": [
+            "Toronto, Canada",
+            "Sault Ste. Marie, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "OLG",
+        "title": "Front End Developer Intern",
+        "source": "vanshb03",
+        "id": "de1fced7-2aaa-44f3-acd8-9b2a3e7af23a",
+        "date_posted": 1793318400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1793403332,
+        "url": "https://go.vansh.nyc/11t",
+        "locations": [
+            "Miami, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "University of Miami",
+        "title": "Data Science & AI Intern",
+        "source": "vanshb03",
+        "id": "f1bbe2ad-b1c5-43fd-be0c-452c5b5a51ad",
+        "date_posted": 1793318400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793403332,
+        "url": "https://go.vansh.nyc/11u",
+        "locations": [
+            "Calabasas, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Keysight Technologies",
+        "title": "FPGA Design Intern",
+        "source": "vanshb03",
+        "id": "ea65e41f-5293-4aad-aed1-5ff9d2fb16b3",
+        "date_posted": 1793383500,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1793403332,
+        "url": "https://go.vansh.nyc/11v",
+        "locations": [
+            "Vancouver, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Qualcomm",
+        "title": "Camera Systems Intern",
+        "source": "vanshb03",
+        "id": "37a0bd84-3e98-46d5-9229-b20217402fe9",
+        "date_posted": 1793400023,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793403332,
+        "url": "https://go.vansh.nyc/11w",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Elucid",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "e283e8d0-3d06-4bf4-9c18-8fac705c201b",
+        "date_posted": 1793400164,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1793403332,
+        "url": "https://go.vansh.nyc/11x",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "Product Manager Project Intern, Global Monetization Product and Technology",
+        "source": "vanshb03",
+        "id": "9568f698-2f47-4701-862e-39d2cdb21212",
+        "date_posted": 1793400181,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1793403332,
+        "url": "https://go.vansh.nyc/11y",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "Product Manager Intern, Global Monetization Product and Technology",
+        "source": "vanshb03",
+        "id": "7814e72b-6899-43da-a1ee-dbb467d10e02",
+        "date_posted": 1793400181,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1793403332,
+        "url": "https://go.vansh.nyc/11z",
+        "locations": [
+            "Vancouver, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Qualcomm",
+        "title": "Camera HW ASIC Verification Intern",
+        "source": "vanshb03",
+        "id": "26ebb2f0-ea10-436f-884a-1a358c84f249",
+        "date_posted": 1793400189,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
