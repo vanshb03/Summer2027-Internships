@@ -488,7 +488,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | The Toro Company | Cloud Software Development Intern 🛂 | Frederick, CO | <a href="https://go.vansh.nyc/bD?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
 | Symbotic | Robot Manipulation Intern | Wilmington, MA | <a href="https://go.vansh.nyc/bt?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
 | SK Hynix Memory Solution | ASIC Design Intern | San Jose, CA | <a href="https://go.vansh.nyc/gp?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
-| Schweitzer Engineering Laboratories | Software Engineer Intern | Pullman, WA | <a href="https://go.vansh.nyc/cZ?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
 | Scale AI | Machine Learning Research Intern | New York, NY</br>San Francisco, CA | <a href="https://go.vansh.nyc/br?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
 | Salesforce | Software Engineer Intern, Security/Government 🇺🇸 | San Francisco, CA</br>Bellevue, WA | <a href="https://go.vansh.nyc/bA?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
 | Ryan | Application Engineering Intern | Plano, TX | <a href="https://go.vansh.nyc/cX?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
@@ -1420,6 +1419,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Aerospace Corporation | Cloud Solutions Engineer Intern, Site Reliability 🇺🇸 | El Segundo, CA</br>Chantilly, VA</br>Colorado Springs, CO | 🔒 | Oct 20 |
 | Zebra Technologies | Software Engineer Intern | Holtsville, NY | 🔒 | Oct 19 |
 | Westinghouse Electric Company | Software Development Intern | Cranberry Township, PA | 🔒 | Oct 19 |
+| Schweitzer Engineering Laboratories | Software Engineer Intern | Pullman, WA | 🔒 | Oct 19 |
 | RTX | Software Engineer Intern | Annapolis, MD | 🔒 | Oct 19 |
 | NetApp | Software Engineer Intern | Wichita, KS | 🔒 | Oct 19 |
 | L3Harris Technologies | Software Engineering Intern | Salt Lake City, UT | 🔒 | Oct 19 |
