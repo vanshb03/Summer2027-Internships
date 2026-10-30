@@ -34953,13 +34953,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793216154,
+        "date_updated": 1793329663,
         "url": "https://go.vansh.nyc/XW",
         "locations": [
             "Boise, ID"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Micron Technology",
         "title": "Embedded Software Engineer Intern",
         "source": "vanshb03",
@@ -36975,6 +36975,74 @@
         "source": "vanshb03",
         "id": "55a05621-7c19-4c66-95ad-fd691adb9d08",
         "date_posted": 1793322411,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793329593,
+        "url": "https://go.vansh.nyc/10n",
+        "locations": [
+            "Waterdown, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "L3Harris Technologies",
+        "title": "FPGA Software Tool Developer Co-op",
+        "source": "vanshb03",
+        "id": "c05faa87-289b-4adf-a908-5075cdc4f44f",
+        "date_posted": 1793329555,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793329593,
+        "url": "https://go.vansh.nyc/10o",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "AI Systems Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "86269d27-e8ef-4462-afc0-e0d487011313",
+        "date_posted": 1793329555,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793329593,
+        "url": "https://go.vansh.nyc/10p",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "Compiler Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "f4e4d984-265b-453b-9621-04c3bd6c1464",
+        "date_posted": 1793329555,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793329593,
+        "url": "https://go.vansh.nyc/10q",
+        "locations": [
+            "Markham, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Qualcomm",
+        "title": "Deep Learning Research Intern, Embodied AI",
+        "source": "vanshb03",
+        "id": "3f6aefe4-8050-430f-bc5b-6ad02780ba5c",
+        "date_posted": 1793329555,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
