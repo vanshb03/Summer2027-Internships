@@ -36515,13 +36515,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793313325,
+        "date_updated": 1793365695,
         "url": "https://go.vansh.nyc/ZJ",
         "locations": [
             "Columbus, OH"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Path Robotics",
         "title": "Machine Learning & Robotics Intern",
         "source": "vanshb03",
@@ -37077,6 +37077,23 @@
         "source": "vanshb03",
         "id": "50581594-28c0-4f9d-95f1-9e356c4ac076",
         "date_posted": 1793320563,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793365583,
+        "url": "https://go.vansh.nyc/10t",
+        "locations": [
+            "McLean, VA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "MITRE",
+        "title": "Data Science and Engineering Intern",
+        "source": "vanshb03",
+        "id": "51428a76-819a-42a2-ba3b-f9ee8f462fc9",
+        "date_posted": 1793322383,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
