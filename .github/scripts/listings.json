@@ -23878,14 +23878,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793015500,
+        "date_updated": 1793374686,
         "url": "https://go.vansh.nyc/GG",
         "locations": [
             "Franklin, TN",
             "Irving, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Nissan",
         "title": "AI & Data Analytics Intern",
         "source": "vanshb03",
@@ -37114,5 +37114,57 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1793374570,
+        "url": "https://go.vansh.nyc/10w",
+        "locations": [
+            "Davidson, NC",
+            "Minneapolis, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Trane Technologies",
+        "title": "AI & Analytics Intern",
+        "source": "vanshb03",
+        "id": "d42db248-5783-4325-915c-57cb26165edc",
+        "date_posted": 1793373490,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793374570,
+        "url": "https://go.vansh.nyc/10x",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Barclays",
+        "title": "Chief Client Office Intern, Client Data & Engineering Group",
+        "source": "vanshb03",
+        "id": "872fbbf8-e7d2-49b5-9222-5d1ce7f3525e",
+        "date_posted": 1793373370,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793374618,
+        "url": "https://go.vansh.nyc/10y",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "Software Development Engineer Intern, Machine Learning/Automated Reasoning",
+        "source": "vanshb03",
+        "id": "539ba40f-e018-40a9-95e7-f69964f01d62",
+        "date_posted": 1793318400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
