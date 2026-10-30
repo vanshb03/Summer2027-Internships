@@ -37014,13 +37014,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793329593,
+        "date_updated": 1793340939,
         "url": "https://go.vansh.nyc/10p",
         "locations": [
             "Redmond, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "NVIDIA",
         "title": "Compiler Software Engineering Intern",
         "source": "vanshb03",
@@ -37031,13 +37031,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793329593,
+        "date_updated": 1793340939,
         "url": "https://go.vansh.nyc/10q",
         "locations": [
             "Markham, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Qualcomm",
         "title": "Deep Learning Research Intern, Embodied AI",
         "source": "vanshb03",
