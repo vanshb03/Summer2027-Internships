@@ -173,7 +173,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Software Developer Intern | St-Laurent, Canada | <a href="https://go.vansh.nyc/Sp?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
 | Alstom | Data Engineering Intern | Saint-Bruno, Canada | <a href="https://go.vansh.nyc/QT?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
 | ↳ | Digital Data Engineer Intern | Saint-Bruno, Canada | <a href="https://go.vansh.nyc/QU?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
-| Accenture | MES & Supply Chain Systems Co-op Analyst | Toronto, ON, Canada | <a href="https://go.vansh.nyc/c0?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
 | Together AI | Research Intern, Frontier Speculative Decoding | San Francisco, CA | <a href="https://go.vansh.nyc/aB?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
 | W.R. Berkley | Enterprise Architecture Co-op | Urbandale, IA | <a href="https://go.vansh.nyc/ax?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 16 |
 | J.M. Smucker | Finance Technology Intern | Orrville, OH | <a href="https://go.vansh.nyc/av?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 16 |
@@ -269,14 +268,10 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Rivian | Engineering Co-op, Machine Learning Hardware | Palo Alto, CA | <a href="https://go.vansh.nyc/E4?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 30 |
 | ↳ | Design Verification Co-op, Neural Engine | Palo Alto, CA | <a href="https://go.vansh.nyc/E5?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 30 |
 | ↳ | Engineer Co-op, Design-for-Test | Palo Alto, CA | <a href="https://go.vansh.nyc/Eg?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 30 |
-| Cisco | Software Engineer II Co-op | Maynard, MA | <a href="https://go.vansh.nyc/fV?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 30 |
-| ↳ | Software Engineer I Co-op | Maynard, MA | <a href="https://go.vansh.nyc/fW?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 30 |
-| Cisco | Physical Design Engineer I Co-op | Maynard, MA | <a href="https://go.vansh.nyc/GY?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 29 |
 | Bracco | Firmware Engineering Co-op | Pleasanton, CA | <a href="https://go.vansh.nyc/fT?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 29 |
 | Risepoint | Analytics Engineering Co-op | Remote</br>United States | <a href="https://go.vansh.nyc/DV?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 28 |
 | Insulet Corporation | Software Development Engineer in Test Co-op 🛂 | Acton, MA | <a href="https://go.vansh.nyc/fS?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 28 |
 | Cloudflare | Software Engineer Intern | Austin, TX | <a href="https://go.vansh.nyc/DW?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 28 |
-| Cisco | Firmware Engineer II Co-op | Maynard, MA | <a href="https://go.vansh.nyc/fQ?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 28 |
 | Moment Energy | Data Scientist Co-op | Surrey, Canada | <a href="https://go.vansh.nyc/JH?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 25 |
 | First Solar (US) | Data Science Intern | Perrysburg, OH | <a href="https://go.vansh.nyc/K2?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 25 |
 | ↳ | Data Analytics Intern | Perrysburg, OH | <a href="https://go.vansh.nyc/K4?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 25 |
@@ -423,6 +418,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | BMO | Data & AI Analyst Co-op | Toronto, ON, Canada | 🔒 | Oct 20 |
 | Manulife Financial | AI Co-op | Toronto, ON, Canada | 🔒 | Oct 18 |
 | Johns Hopkins Applied Physics Laboratory | Cybersecurity Intern, Mission Engineering | Laurel, MD | 🔒 | Oct 18 |
+| Accenture | MES & Supply Chain Systems Co-op Analyst | Toronto, ON, Canada | 🔒 | Oct 18 |
 | RTX | Development Operations Intern, Engineering Development Program 🇺🇸 | Middletown, CT | 🔒 | Oct 16 |
 | KPMG | AI Builder Co-op | Toronto, ON, Canada | 🔒 | Oct 16 |
 | D2L | Software Developer Co-op, Custom Development Services | Kitchener, ON, Canada | 🔒 | Oct 16 |
@@ -446,7 +442,11 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Clēnera | Data Engineer Intern | Boise, ID | 🔒 | Oct 06 |
 | Moment Energy | Firmware Engineering Co-op | Surrey, Canada | 🔒 | Oct 05 |
 | Revvity | Software Integration Co-op | Akron, OH | 🔒 | Oct 02 |
+| Cisco | Software Engineer II Co-op | Maynard, MA | 🔒 | Sep 30 |
+| ↳ | Software Engineer I Co-op | Maynard, MA | 🔒 | Sep 30 |
+| Cisco | Physical Design Engineer I Co-op | Maynard, MA | 🔒 | Sep 29 |
 | iRhythm Technologies | Firmware Quality Assurance Engineer Co-op | San Francisco, CA | 🔒 | Sep 28 |
+| Cisco | Firmware Engineer II Co-op | Maynard, MA | 🔒 | Sep 28 |
 | First Solar (US) | Data Engineering Intern | Perrysburg, OH | 🔒 | Sep 25 |
 | OCC | Data Intern | Chicago, IL | 🔒 | Sep 16 |
 | Definity Financial | Business Intelligence Co-op | Toronto, Canada</br>Waterloo, Canada | 🔒 | Sep 10 |
