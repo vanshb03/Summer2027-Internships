@@ -33476,13 +33476,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793120802,
+        "date_updated": 1793398058,
         "url": "https://go.vansh.nyc/VW",
         "locations": [
             "Devens, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "CFS Energy",
         "title": "Scientific Software Engineer Intern",
         "source": "vanshb03",
