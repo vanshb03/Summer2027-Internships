@@ -16070,14 +16070,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792717375,
+        "date_updated": 1793394751,
         "url": "https://go.vansh.nyc/fg",
         "locations": [
             "Remote",
             "United States"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Taylor",
         "title": "Enablement Data & Insights Intern",
         "source": "vanshb03",
