@@ -51,7 +51,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Synopsys | Technical Engineer Intern | Ottawa, Canada | <a href="https://go.vansh.nyc/10b?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
 | Sonos | Software Partner Engineering Intern 🛂 | Boston, MA | <a href="https://go.vansh.nyc/YW?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
 | RTX | Sustainment Data and Analytics Intern 🇺🇸 | East Hartford, CT | <a href="https://go.vansh.nyc/Zm?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
-| Qualcomm | AI Software Engineering Co-op | Toronto, Canada | <a href="https://go.vansh.nyc/ZK?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
+| Qualcomm | Soft IP Engineer Co-op | Ottawa, Canada | <a href="https://go.vansh.nyc/10m?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
+| ↳ | AI Software Engineering Co-op | Toronto, Canada | <a href="https://go.vansh.nyc/ZK?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
 | ↳ | AI Software Systems Co-op | Toronto, Canada | <a href="https://go.vansh.nyc/ZL?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
 | ↳ | Deep Learning Research Intern, Embodied AI Systems | Markham, Canada | <a href="https://go.vansh.nyc/ZM?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
 | PTC | Arena Engineering Intern | San Mateo, CA | <a href="https://go.vansh.nyc/Zw?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
@@ -67,6 +68,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Research Intern, Discovery Sciences and Technologies, AI | Foster City, CA | <a href="https://go.vansh.nyc/Z5?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
 | ↳ | Research Intern, Inflammation, AI | Foster City, CA | <a href="https://go.vansh.nyc/Z6?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
 | Cisco | Security Consulting Engineer I Intern | Research Triangle Park, NC | <a href="https://go.vansh.nyc/Zg?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
+| Axon | Software Engineer Intern | Seattle, WA</br>Arlington, VA | <a href="https://go.vansh.nyc/10l?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
 | Zoox | Autonomy and Geofence Expansion Intern | Foster City, CA | <a href="https://go.vansh.nyc/ZX?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | ↳ | Software Engineer Intern | Foster City, CA | <a href="https://go.vansh.nyc/ZY?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | Walmart | Data & Tech Transformation Intern | Bentonville, AR | <a href="https://go.vansh.nyc/ZW?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
@@ -110,6 +112,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Ericsson | AI and Automation Engineer Intern 🛂 | Plano, TX | <a href="https://go.vansh.nyc/YK?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | Disney | Enterprise Technology & Data Software Engineering Intern | Orlando, FL | <a href="https://go.vansh.nyc/YL?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | ↳ | Full Stack Web Development Intern, Walt Disney Animation Studios | Burbank, CA | <a href="https://go.vansh.nyc/YM?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
+| Dee Zee | Software Development Intern | Des Moines, IA | <a href="https://go.vansh.nyc/10k?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | Danaher Corporation | Application Integration Developer Intern | Brea, CA | <a href="https://go.vansh.nyc/ZF?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | Daimler Truck | Software Release Management Intern | Portland, OR | <a href="https://go.vansh.nyc/Xd?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | CrowdStrike | Overwatch Intern, Research | Arlington, VA</br>Austin, TX | <a href="https://go.vansh.nyc/XD?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
