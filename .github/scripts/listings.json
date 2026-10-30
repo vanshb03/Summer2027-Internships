@@ -12375,13 +12375,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1792511186,
+        "date_updated": 1793396276,
         "url": "https://go.vansh.nyc/bO",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "OpenAI",
         "title": "Backend Software Engineer Intern, Cooperative AI (Evals)",
         "source": "vanshb03",
@@ -36945,14 +36945,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793325913,
+        "date_updated": 1793396276,
         "url": "https://go.vansh.nyc/10l",
         "locations": [
             "Seattle, WA",
             "Arlington, VA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Axon",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -37607,6 +37607,58 @@
         "source": "vanshb03",
         "id": "0b1dfbe9-b87d-439c-a343-b19582d8f703",
         "date_posted": 1793389933,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793396179,
+        "url": "https://go.vansh.nyc/111",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hewlett Packard Enterprise",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "4c707fa0-fcb8-480d-bac8-931686cab1f2",
+        "date_posted": 1793394199,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793396179,
+        "url": "https://go.vansh.nyc/112",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nokia",
+        "title": "Software Engineer Co-op",
+        "source": "vanshb03",
+        "id": "613bdfec-6f65-4560-891c-62159eeb29d9",
+        "date_posted": 1793320579,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1793396179,
+        "url": "https://go.vansh.nyc/113",
+        "locations": [
+            "Remote",
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "VSP Vision",
+        "title": "Agentic & Machine Learning Development Intern, AI",
+        "source": "vanshb03",
+        "id": "fd6784ab-4764-4c88-9860-b63002d7371b",
+        "date_posted": 1793394199,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
