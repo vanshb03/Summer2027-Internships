@@ -37576,5 +37576,39 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793390773,
+        "url": "https://go.vansh.nyc/10Z",
+        "locations": [
+            "Wayzata, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "GardaWorld",
+        "title": "Infrastructure Engineer Intern",
+        "source": "vanshb03",
+        "id": "bd4cd5a7-41d5-4ff5-a641-f3d304318f91",
+        "date_posted": 1793388973,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793390773,
+        "url": "https://go.vansh.nyc/110",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Carnegie Mellon University",
+        "title": "Enabling Mission Capability at Scale Intern",
+        "source": "vanshb03",
+        "id": "0b1dfbe9-b87d-439c-a343-b19582d8f703",
+        "date_posted": 1793389933,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
