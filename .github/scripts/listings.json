@@ -14118,13 +14118,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792602873,
+        "date_updated": 1793389121,
         "url": "https://go.vansh.nyc/ds",
         "locations": [
             "Farmington Hills, MI"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Bosch",
         "title": "Calibration Process Optimization Intern",
         "source": "vanshb03",
@@ -15948,13 +15948,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792717375,
+        "date_updated": 1793389121,
         "url": "https://go.vansh.nyc/f9",
         "locations": [
             "Ruston, LA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Radiance Technologies",
         "title": "Microelectronics Engineer Intern",
         "source": "vanshb03",
@@ -28287,13 +28287,13 @@
         "season": "Spring"
     },
     {
-        "date_updated": 1793024036,
+        "date_updated": 1793389121,
         "url": "https://go.vansh.nyc/N2",
         "locations": [
             "Minneapolis, MN"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Northmarq",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
@@ -37539,6 +37539,40 @@
         "source": "vanshb03",
         "id": "05251791-37a1-41a3-9ef7-c90df944470f",
         "date_posted": 1793385730,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793388957,
+        "url": "https://go.vansh.nyc/10X",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Dow Jones",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "1e2ea7ba-a6ec-49a0-83cf-8d27b929e1c0",
+        "date_posted": 1793387697,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793388957,
+        "url": "https://go.vansh.nyc/10Y",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "The New York Times",
+        "title": "Backend Engineering Intern, Wirecutter",
+        "source": "vanshb03",
+        "id": "788ac399-9808-4462-aaf7-b828eea92245",
+        "date_posted": 1793387337,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
