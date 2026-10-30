@@ -37798,5 +37798,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793401551,
+        "url": "https://go.vansh.nyc/11g",
+        "locations": [
+            "Waltham, MA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Boston Scientific",
+        "title": "Software Test Engineer Intern",
+        "source": "vanshb03",
+        "id": "811fabb0-54ae-4063-ae19-e6e1966c104b",
+        "date_posted": 1793394351,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
