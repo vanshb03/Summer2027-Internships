@@ -8254,13 +8254,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792261427,
+        "date_updated": 1793399907,
         "url": "https://go.vansh.nyc/7V",
         "locations": [
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "NVIDIA",
         "title": "Research Intern, World Models and Synthetic Data for Autonomous Driving",
         "source": "vanshb03",
@@ -9138,13 +9138,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792261427,
+        "date_updated": 1793399907,
         "url": "https://go.vansh.nyc/8L",
         "locations": [
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "NVIDIA",
         "title": "Differentiable Simulation Research Intern",
         "source": "vanshb03",
@@ -12460,13 +12460,13 @@
         "season": "Spring"
     },
     {
-        "date_updated": 1792511227,
+        "date_updated": 1793399907,
         "url": "https://go.vansh.nyc/bT",
         "locations": [
             "Toronto, ON, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "NVIDIA",
         "title": "ASIC Verification Intern",
         "source": "vanshb03",
@@ -21989,13 +21989,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793015500,
+        "date_updated": 1793399907,
         "url": "https://go.vansh.nyc/EV",
         "locations": [
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "NVIDIA",
         "title": "PCIe Design Verification Intern",
         "source": "vanshb03",
@@ -22006,13 +22006,13 @@
         "season": "Spring"
     },
     {
-        "date_updated": 1793015500,
+        "date_updated": 1793399907,
         "url": "https://go.vansh.nyc/EW",
         "locations": [
             "Austin, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "NVIDIA",
         "title": "PCIe Design Verification Intern",
         "source": "vanshb03",
@@ -36755,13 +36755,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793315160,
+        "date_updated": 1793399907,
         "url": "https://go.vansh.nyc/102",
         "locations": [
             "Redmond, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "NVIDIA",
         "title": "Compiler Software Engineer Intern",
         "source": "vanshb03",
@@ -37659,6 +37659,142 @@
         "source": "vanshb03",
         "id": "fd6784ab-4764-4c88-9860-b63002d7371b",
         "date_posted": 1793394199,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793399709,
+        "url": "https://go.vansh.nyc/114",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Morningstar",
+        "title": "Tech Intern",
+        "source": "vanshb03",
+        "id": "31c6bf9b-02de-4acc-8136-2032e1d77000",
+        "date_posted": 1793318400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793399756,
+        "url": "https://go.vansh.nyc/115",
+        "locations": [
+            "West Union, SC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Itron",
+        "title": "Systems Engineer Intern",
+        "source": "vanshb03",
+        "id": "15544548-a246-4248-829c-aaad115b04c1",
+        "date_posted": 1793318400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1793399756,
+        "url": "https://go.vansh.nyc/116",
+        "locations": [
+            "Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Revvity",
+        "title": "Full-Stack AI Developer Intern",
+        "source": "vanshb03",
+        "id": "92caa2f0-5514-42cc-8fd3-896d257a9d45",
+        "date_posted": 1793318400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793399756,
+        "url": "https://go.vansh.nyc/117",
+        "locations": [
+            "Rosemont, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Life Fitness",
+        "title": "IT Intern",
+        "source": "vanshb03",
+        "id": "a6aab6ad-991b-44f7-9b50-f28643f0b0db",
+        "date_posted": 1793318400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793399756,
+        "url": "https://go.vansh.nyc/118",
+        "locations": [
+            "Ottawa, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NAV CANADA",
+        "title": "Aviation Predictive Analytics Co-op",
+        "source": "vanshb03",
+        "id": "2d51b497-276d-4224-9d1b-713c0b66f416",
+        "date_posted": 1793318400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1793399756,
+        "url": "https://go.vansh.nyc/119",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Obsidian Entertainment",
+        "title": "Gameplay Engineer Intern",
+        "source": "vanshb03",
+        "id": "dbb2d427-5528-4c5b-be53-0fc3a539fb2b",
+        "date_posted": 1793398023,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793399756,
+        "url": "https://go.vansh.nyc/11a",
+        "locations": [
+            "Manassas, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Sophinea",
+        "title": "Mobile App Developer Intern",
+        "source": "vanshb03",
+        "id": "577c29e5-baa9-4182-97a2-ef9568f357d3",
+        "date_posted": 1793398847,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793399756,
+        "url": "https://go.vansh.nyc/11b",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cadillac Formula 1 Team",
+        "title": "Aerodynamics AI Industrial Placement Intern",
+        "source": "vanshb03",
+        "id": "ccded774-6598-4388-aa96-7b25197be670",
+        "date_posted": 1793399017,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
