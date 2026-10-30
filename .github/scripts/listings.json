@@ -15982,13 +15982,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792717375,
+        "date_updated": 1793385822,
         "url": "https://go.vansh.nyc/fb",
         "locations": [
             "Upton, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Brookhaven Lab",
         "title": "Data Engineering Student Assistant Intern",
         "source": "vanshb03",
@@ -37406,5 +37406,141 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1793385360,
+        "url": "https://go.vansh.nyc/10P",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Samsung Semiconductor",
+        "title": "SRAM Design Engineer Intern",
+        "source": "vanshb03",
+        "id": "9bd2a25a-98eb-42e8-878b-4ab6c60175a8",
+        "date_posted": 1793382480,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793385415,
+        "url": "https://go.vansh.nyc/10Q",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Brain Co.",
+        "title": "AI Platform Engineer Intern",
+        "source": "vanshb03",
+        "id": "3b8780e7-d461-49ef-a8c1-267ab7f97c8f",
+        "date_posted": 1789243187,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793385415,
+        "url": "https://go.vansh.nyc/10R",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Brain Co.",
+        "title": "AI Product Engineer Intern",
+        "source": "vanshb03",
+        "id": "b185c015-cd0f-432c-93b4-58369f200416",
+        "date_posted": 1789247674,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793385415,
+        "url": "https://go.vansh.nyc/10S",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Brain Co.",
+        "title": "AI Security Engineer Intern",
+        "source": "vanshb03",
+        "id": "328b3e78-dff9-424e-878c-ac697190471c",
+        "date_posted": 1789248479,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793385415,
+        "url": "https://go.vansh.nyc/10T",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Brain Co.",
+        "title": "Machine Learning Engineer Intern, Applied AI",
+        "source": "vanshb03",
+        "id": "d5c883a6-2ac0-494a-bf20-6ae747afb021",
+        "date_posted": 1789418082,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793385741,
+        "url": "https://go.vansh.nyc/10U",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "GCM Grosvenor",
+        "title": "Cybersecurity Intern",
+        "source": "vanshb03",
+        "id": "34e24515-4d5c-4a8b-8116-c8a19129600c",
+        "date_posted": 1793369571,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793385742,
+        "url": "https://go.vansh.nyc/10V",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Altera",
+        "title": "FPGA Development Tools Intern",
+        "source": "vanshb03",
+        "id": "d1823cbf-0c3d-4f43-af0c-9c91b87174d9",
+        "date_posted": 1793385719,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793385742,
+        "url": "https://go.vansh.nyc/10W",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Altera",
+        "title": "Hardware Design Engineer Intern",
+        "source": "vanshb03",
+        "id": "05251791-37a1-41a3-9ef7-c90df944470f",
+        "date_posted": 1793385730,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
