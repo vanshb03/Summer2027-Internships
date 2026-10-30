@@ -37097,5 +37097,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793372716,
+        "url": "https://go.vansh.nyc/10v",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Fussball Club Cincinnati LLC (\u201cFC Cincinnati\u201d)",
+        "title": "Data Analyst Intern",
+        "source": "vanshb03",
+        "id": "340bb7a9-6ead-4df1-a86c-f87f5e04d953",
+        "date_posted": 1793370392,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
