@@ -37203,13 +37203,13 @@
         "season": "Fall"
     },
     {
-        "date_updated": 1793376376,
+        "date_updated": 1793384189,
         "url": "https://go.vansh.nyc/10B",
         "locations": [
             "Pittsburgh, PA"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Carnegie Mellon SEI",
         "title": "Full-Stack Software Development Intern",
         "source": "vanshb03",
@@ -37254,13 +37254,13 @@
         "season": "Fall"
     },
     {
-        "date_updated": 1793376376,
+        "date_updated": 1793384189,
         "url": "https://go.vansh.nyc/10E",
         "locations": [
             "Pittsburgh, PA"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Carnegie Mellon SEI",
         "title": "Cyber Range Development Intern",
         "source": "vanshb03",
@@ -37271,13 +37271,13 @@
         "season": "Fall"
     },
     {
-        "date_updated": 1793376376,
+        "date_updated": 1793384189,
         "url": "https://go.vansh.nyc/10F",
         "locations": [
             "Pittsburgh, PA"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Carnegie Mellon SEI",
         "title": "Agentic Development Intern",
         "source": "vanshb03",
@@ -37305,13 +37305,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793380003,
+        "date_updated": 1793384196,
         "url": "https://go.vansh.nyc/10H",
         "locations": [
             "Toronto, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Qualcomm",
         "title": "AI Software Engineering Co-op",
         "source": "vanshb03",
@@ -37322,13 +37322,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1793380003,
+        "date_updated": 1793384196,
         "url": "https://go.vansh.nyc/10I",
         "locations": [
             "Toronto, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Qualcomm",
         "title": "AI Software Systems Co-op",
         "source": "vanshb03",
