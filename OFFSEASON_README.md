@@ -44,6 +44,12 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Fussball Club Cincinnati LLC (“FC Cincinnati”) | Data Analyst Intern | Cincinnati, OH | <a href="https://go.vansh.nyc/10v?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
+| Carnegie Mellon University | Full-Stack Software Development Intern 🛂 | Pittsburgh, PA | <a href="https://go.vansh.nyc/10A?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
+| ↳ | Cyber Range Development Intern 🛂 | Pittsburgh, PA | <a href="https://go.vansh.nyc/10C?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
+| ↳ | Agentic Development Intern 🛂 | Pittsburgh, PA | <a href="https://go.vansh.nyc/10D?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
+| Carnegie Mellon SEI | Full-Stack Software Development Intern 🛂 | Pittsburgh, PA | <a href="https://go.vansh.nyc/10B?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
+| ↳ | Cyber Range Development Intern 🛂 | Pittsburgh, PA | <a href="https://go.vansh.nyc/10E?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
+| ↳ | Agentic Development Intern 🛂 | Pittsburgh, PA | <a href="https://go.vansh.nyc/10F?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | Waterworth | Computer Science Co-op | Victoria, Canada | <a href="https://go.vansh.nyc/10a?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
 | CACI | Software Engineering Co-op | Rochester, NY | <a href="https://go.vansh.nyc/YV?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
 | Vestmark Internship Program | Cloud Engineer Co-op | Wakefield, MA | <a href="https://go.vansh.nyc/100?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
