@@ -22884,13 +22884,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1793015500,
+        "date_updated": 1793387261,
         "url": "https://go.vansh.nyc/FL",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Dow Jones",
         "title": "Data Analyst Intern",
         "source": "vanshb03",
@@ -22954,13 +22954,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793015500,
+        "date_updated": 1793387261,
         "url": "https://go.vansh.nyc/FP",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Dow Jones",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
