@@ -33685,13 +33685,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793128003,
+        "date_updated": 1793380102,
         "url": "https://go.vansh.nyc/Wa",
         "locations": [
             "Boston, MA"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Sonos",
         "title": "Data Quality Intern",
         "source": "vanshb03",
@@ -37286,5 +37286,56 @@
         "company_url": "",
         "is_visible": true,
         "season": "Fall"
+    },
+    {
+        "date_updated": 1793379966,
+        "url": "https://go.vansh.nyc/10G",
+        "locations": [
+            "Folsom, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Sierra Nevada Corporation",
+        "title": "Firmware Engineering Intern",
+        "source": "vanshb03",
+        "id": "99a38fc9-61dc-40cf-aa0f-06c2a363e9ce",
+        "date_posted": 1793379186,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793380003,
+        "url": "https://go.vansh.nyc/10H",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Qualcomm",
+        "title": "AI Software Engineering Co-op",
+        "source": "vanshb03",
+        "id": "e71be6b9-0233-43c3-9da4-a86e6bb19697",
+        "date_posted": 1793329555,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1793380003,
+        "url": "https://go.vansh.nyc/10I",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Qualcomm",
+        "title": "AI Software Systems Co-op",
+        "source": "vanshb03",
+        "id": "d3a3558e-b1ed-476c-b03c-7aaf22697c08",
+        "date_posted": 1793329555,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
