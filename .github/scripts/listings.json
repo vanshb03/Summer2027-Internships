@@ -24788,13 +24788,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793021626,
+        "date_updated": 1793344045,
         "url": "https://go.vansh.nyc/Ix",
         "locations": [
             "Irvine, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "CoStar Group",
         "title": "Associate Software Engineer Intern",
         "source": "vanshb03",
@@ -26199,7 +26199,7 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793022083,
+        "date_updated": 1793344045,
         "url": "https://go.vansh.nyc/JR",
         "locations": [
             "San Jose, CA",
@@ -26207,7 +26207,7 @@
             "Research Triangle Park, NC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Cisco",
         "title": "Hardware Engineer I Intern",
         "source": "vanshb03",
@@ -26235,7 +26235,7 @@
         "season": "Spring"
     },
     {
-        "date_updated": 1793022083,
+        "date_updated": 1793344045,
         "url": "https://go.vansh.nyc/JT",
         "locations": [
             "San Jose, CA",
@@ -26243,7 +26243,7 @@
             "Research Triangle Park, NC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Cisco",
         "title": "Data Analyst I Intern",
         "source": "vanshb03",
@@ -33838,13 +33838,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793133352,
+        "date_updated": 1793344045,
         "url": "https://go.vansh.nyc/Wl",
         "locations": [
             "Azusa, CA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Northrop Grumman",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
