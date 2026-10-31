@@ -38488,5 +38488,73 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793448391,
+        "url": "https://go.vansh.nyc/12g",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "0d271a3e-2bda-464d-89aa-a66367e0d913",
+        "date_posted": 1793448359,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793448391,
+        "url": "https://go.vansh.nyc/12h",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "Autonomous Vehicles and Robotics Intern",
+        "source": "vanshb03",
+        "id": "6ee2cb2f-6961-4041-bd33-6e01b1e68031",
+        "date_posted": 1793448359,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793448391,
+        "url": "https://go.vansh.nyc/12i",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "Developer and Performance Technology Intern",
+        "source": "vanshb03",
+        "id": "dcb9093d-05ea-469a-8d82-9643af61749b",
+        "date_posted": 1793448359,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1793448391,
+        "url": "https://go.vansh.nyc/12j",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "Deep Learning Intern",
+        "source": "vanshb03",
+        "id": "97cb1d5a-0449-4275-8a17-8e06e9051c75",
+        "date_posted": 1793448359,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
