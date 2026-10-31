@@ -38003,5 +38003,298 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793412414,
+        "url": "https://go.vansh.nyc/11M",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Sephora",
+        "title": "AI Automation Intern, WMS & DC Systems",
+        "source": "vanshb03",
+        "id": "e8670ca2-6370-4752-a4d5-e4b39de6b0cb",
+        "date_posted": 1793085643,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793412414,
+        "url": "https://go.vansh.nyc/11N",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Sephora",
+        "title": "AI Platform Infrastructure Intern, Technology",
+        "source": "vanshb03",
+        "id": "7e212b74-7029-43b3-bafa-dc0a5ce1208c",
+        "date_posted": 1793110684,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793412414,
+        "url": "https://go.vansh.nyc/11O",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Toshiba International Corporation",
+        "title": "Firmware Engineer Intern",
+        "source": "vanshb03",
+        "id": "430284bb-725b-4793-972e-985d86ba3596",
+        "date_posted": 1793118233,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793412414,
+        "url": "https://go.vansh.nyc/11P",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "sephora.com",
+        "title": "AI & Distribution Analytics Intern",
+        "source": "vanshb03",
+        "id": "58c23e57-8e9c-409a-84bf-11f176f04527",
+        "date_posted": 1793141577,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793412414,
+        "url": "https://go.vansh.nyc/11Q",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Sephora",
+        "title": "AI & Distribution Analytics Intern",
+        "source": "vanshb03",
+        "id": "286ea124-06a5-49e5-a3d7-5f047d2403e8",
+        "date_posted": 1793188244,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793412414,
+        "url": "https://go.vansh.nyc/11R",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Paccar",
+        "title": "Data Engineer Intern",
+        "source": "vanshb03",
+        "id": "5c98e77b-30f5-4560-b8a4-b2be275a21e4",
+        "date_posted": 1793199453,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793412414,
+        "url": "https://go.vansh.nyc/11S",
+        "locations": [
+            "New York, NY",
+            "Miami, FL",
+            "Greenwich, CT",
+            "Norwalk, CT",
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Verition Group",
+        "title": "AI Associate Intern, Equity Long/Short",
+        "source": "vanshb03",
+        "id": "95790371-2c07-4dca-98e3-d55554f6ae9d",
+        "date_posted": 1793201663,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793412414,
+        "url": "https://go.vansh.nyc/11T",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Beli",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "dedcc90b-3974-4b69-ac71-28d3e3144cfe",
+        "date_posted": 1793221150,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793412414,
+        "url": "https://go.vansh.nyc/11U",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Beli",
+        "title": "Data Science Intern",
+        "source": "vanshb03",
+        "id": "43a30b3f-ddd4-4dd2-b9c4-58630099cc32",
+        "date_posted": 1793221290,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793412414,
+        "url": "https://go.vansh.nyc/11V",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Syntiant",
+        "title": "DevOps Machine Learning Infrastructure Intern",
+        "source": "vanshb03",
+        "id": "d797e21f-0782-4fd8-96f2-1484714e5a2b",
+        "date_posted": 1793232000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793412414,
+        "url": "https://go.vansh.nyc/11W",
+        "locations": [
+            "Alpharetta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Mativ",
+        "title": "Cybersecurity Intern",
+        "source": "vanshb03",
+        "id": "21e771af-eaf0-47a6-98c9-3234868ef234",
+        "date_posted": 1793239152,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793412414,
+        "url": "https://go.vansh.nyc/11X",
+        "locations": [
+            "Burlington, VT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Benchmark Space Systems",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "7ab3ef47-c3a5-47ba-b129-a11d805479a1",
+        "date_posted": 1793290922,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793412414,
+        "url": "https://go.vansh.nyc/11Y",
+        "locations": [
+            "Alpharetta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Mativ",
+        "title": "Data Science and Business Analytics Intern",
+        "source": "vanshb03",
+        "id": "2ed25a5e-cbf3-46f0-a748-275e3c262fea",
+        "date_posted": 1793307475,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793412414,
+        "url": "https://go.vansh.nyc/11Z",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "HCSC",
+        "title": "Cybersecurity Operations Intern",
+        "source": "vanshb03",
+        "id": "29952876-2be6-4eb3-80ad-05bb4aee6fb4",
+        "date_posted": 1793308272,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793412414,
+        "url": "https://go.vansh.nyc/120",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Elucid",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "8bfff39e-a0c8-47a1-88c0-14705d3a9c50",
+        "date_posted": 1793318400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1793412414,
+        "url": "https://go.vansh.nyc/121",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nintendo",
+        "title": "Software Engineer Intern, Graphics",
+        "source": "vanshb03",
+        "id": "18ade0c3-6433-41b7-a7d1-16142670fdac",
+        "date_posted": 1793318400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793412414,
+        "url": "https://go.vansh.nyc/122",
+        "locations": [
+            "Carpentersville, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "OTTO Engineering",
+        "title": "Embedded Software Intern, Communications",
+        "source": "vanshb03",
+        "id": "64420589-2aa1-4628-9fe9-5ff4e1843141",
+        "date_posted": 1793318400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
