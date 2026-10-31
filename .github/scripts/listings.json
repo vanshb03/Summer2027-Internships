@@ -12596,13 +12596,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1792511227,
+        "date_updated": 1793413096,
         "url": "https://go.vansh.nyc/c1",
         "locations": [
             "Toronto, ON, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "CIBC",
         "title": "Application Developer Co-op - Enterprise Technology & Business Management",
         "source": "vanshb03",
@@ -12613,13 +12613,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1792511227,
+        "date_updated": 1793413096,
         "url": "https://go.vansh.nyc/c2",
         "locations": [
             "Toronto, ON, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "CIBC",
         "title": "Application/Software Developer Co-op - Capital Markets Technology",
         "source": "vanshb03",
@@ -17543,13 +17543,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1792774401,
+        "date_updated": 1793413096,
         "url": "https://go.vansh.nyc/gD",
         "locations": [
             "Bellevue, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Amazon",
         "title": "Hardware Development Engineer Intern",
         "source": "vanshb03",
@@ -17560,13 +17560,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1792774401,
+        "date_updated": 1793413096,
         "url": "https://go.vansh.nyc/gE",
         "locations": [
             "United States"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Amazon",
         "title": "Software Engineer Intern, Embedded Systems",
         "source": "vanshb03",
@@ -17662,14 +17662,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792774401,
+        "date_updated": 1793413096,
         "url": "https://go.vansh.nyc/gK",
         "locations": [
             "North Reading, MA",
             "Westborough, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Amazon",
         "title": "Embedded Firmware Co-op",
         "source": "vanshb03",
@@ -23006,14 +23006,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793015500,
+        "date_updated": 1793413096,
         "url": "https://go.vansh.nyc/FS",
         "locations": [
             "Redmond, WA",
             "Northridge, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Amazon",
         "title": "Software Engineer Intern, Embedded Systems",
         "source": "vanshb03",
@@ -30740,13 +30740,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793031368,
+        "date_updated": 1793413096,
         "url": "https://go.vansh.nyc/Rh",
         "locations": [
             "Calabasas, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Keysight Technologies",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
@@ -31031,13 +31031,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793031368,
+        "date_updated": 1793413096,
         "url": "https://go.vansh.nyc/Rx",
         "locations": [
             "Markham, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Qualcomm",
         "title": "Low-Power AI, Audio, and Sensors Subsystem Engineering Intern, ASIC Firmware / Embedded",
         "source": "vanshb03",
@@ -31048,13 +31048,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793031368,
+        "date_updated": 1793413096,
         "url": "https://go.vansh.nyc/Ry",
         "locations": [
             "Toronto, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Qualcomm",
         "title": "Firmware/Embedded Software Engineering Intern",
         "source": "vanshb03",
@@ -31082,13 +31082,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793031368,
+        "date_updated": 1793413096,
         "url": "https://go.vansh.nyc/RA",
         "locations": [
             "Markham, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Qualcomm",
         "title": "PAL Firmware Development Intern",
         "source": "vanshb03",
@@ -34042,14 +34042,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793140523,
+        "date_updated": 1793413096,
         "url": "https://go.vansh.nyc/WF",
         "locations": [
             "Seattle, WA",
             "East Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Amazon",
         "title": "Database Engineer Intern",
         "source": "vanshb03",
@@ -35763,13 +35763,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793253969,
+        "date_updated": 1793413096,
         "url": "https://go.vansh.nyc/YP",
         "locations": [
             "Markham, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Qualcomm",
         "title": "Deep Learning Research Intern",
         "source": "vanshb03",
@@ -38056,13 +38056,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793412414,
+        "date_updated": 1793413096,
         "url": "https://go.vansh.nyc/11P",
         "locations": [
             "Salt Lake City, UT"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "sephora.com",
         "title": "AI & Distribution Analytics Intern",
         "source": "vanshb03",
@@ -38247,13 +38247,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793412414,
+        "date_updated": 1793413096,
         "url": "https://go.vansh.nyc/120",
         "locations": [
             "Boston, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Elucid",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
