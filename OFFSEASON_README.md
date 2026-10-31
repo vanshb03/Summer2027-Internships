@@ -86,7 +86,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Sun Life | Quality Engineering Analyst Intern | Waterloo, Canada | <a href="https://go.vansh.nyc/Xj?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
 | SOTI | Performance Test Engineer Intern | Mississauga, Canada | <a href="https://go.vansh.nyc/SG?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
 | ↳ | Quality Assurance Specialist Intern, SOTI Connect | Mississauga, Canada | <a href="https://go.vansh.nyc/SH?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
-| RTX | Software Platform Engineer Co-op 🇺🇸 | Aurora, CO</br>Remote</br>United States | <a href="https://go.vansh.nyc/CR?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
 | Rakuten International | eReader Quality Assurance Intern | Toronto, Canada | <a href="https://go.vansh.nyc/SF?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
 | Peraton | Cybersecurity Engineer Co-op | San Diego, CA | <a href="https://go.vansh.nyc/W2?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
 | Lila Sciences | Agentic Simulations for Materials Science Co-op | Cambridge, MA</br>San Francisco, CA | <a href="https://go.vansh.nyc/T3?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
@@ -411,6 +410,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Motorola | Localization and QA Automation Developer Co-op | Vancouver, Canada | 🔒 | Oct 27 |
 | Johnson Controls | Software Engineering Co-op | Burlington, MA | 🔒 | Oct 27 |
 | Blackberry | Software Testing Development Intern, QNX | Ottawa, Canada | 🔒 | Oct 27 |
+| RTX | Software Platform Engineer Co-op 🇺🇸 | Aurora, CO</br>Remote</br>United States | 🔒 | Oct 26 |
 | AtriCure, Inc. | IT Security Analyst Co-op | Mason, OH | 🔒 | Oct 26 |
 | Danaher Corporation | Supply Chain AI Co-op | United States | 🔒 | Oct 25 |
 | TD Bank | Product Management Co-op, L&H | Toronto, Canada | 🔒 | Oct 23 |
