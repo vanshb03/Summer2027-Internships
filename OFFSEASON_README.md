@@ -303,7 +303,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Gemini | Software Engineer Intern | New York, NY | <a href="https://go.vansh.nyc/IO?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 18 |
 | Rivian | Engineering Co-op, Software Test 🛂 | Torrance, CA | <a href="https://go.vansh.nyc/JS?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
 | Vanguard | Co-op, Multiple Teams | Dallas, TX | <a href="https://go.vansh.nyc/IB?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 16 |
-| Kenvue | Tech & Data Co-op | Summit, NJ | <a href="https://go.vansh.nyc/JN?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 15 |
 | Insulet Corporation | Embedded Software Test Engineering Co-op 🛂 | Acton, MA | <a href="https://go.vansh.nyc/Ne?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 15 |
 | Geotab | Embedded Developer Intern, Engine Data Reliability | Oakville, Canada | <a href="https://go.vansh.nyc/MF?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 10 |
 | Insulet Corporation | Embedded Software Engineering Co-op | Acton, MA | <a href="https://go.vansh.nyc/MC?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 09 |
@@ -470,6 +469,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Cisco | Firmware Engineer II Co-op | Maynard, MA | 🔒 | Sep 28 |
 | First Solar (US) | Data Engineering Intern | Perrysburg, OH | 🔒 | Sep 25 |
 | OCC | Data Intern | Chicago, IL | 🔒 | Sep 16 |
+| Kenvue | Tech & Data Co-op | Summit, NJ | 🔒 | Sep 15 |
 | Definity Financial | Business Intelligence Co-op | Toronto, Canada</br>Waterloo, Canada | 🔒 | Sep 10 |
 | Royal Bank of Canada | Developer & IT Specialist Co-op, Global Asset Management | Toronto, Canada</br>Vancouver, Canada | 🔒 | Sep 03 |
 | Kodiak Robotics | Planning Intern, Mission Planning | Mountain View, CA | 🔒 | Aug 24 |
