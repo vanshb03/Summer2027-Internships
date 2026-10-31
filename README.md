@@ -59,6 +59,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Hewlett Packard Enterprise | Software Engineering Intern | Sunnyvale, CA | <a href="https://go.vansh.nyc/111?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | GCM Grosvenor | Cybersecurity Intern | Chicago, IL | <a href="https://go.vansh.nyc/10U?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | GardaWorld | Infrastructure Engineer Intern | Wayzata, MN | <a href="https://go.vansh.nyc/10Z?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
+| Firework | Data Engineer Intern | San Mateo, CA | <a href="https://go.vansh.nyc/11I?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | Dow Jones | Software Engineering Intern | New York, NY | <a href="https://go.vansh.nyc/10X?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | Carnegie Mellon University | Enabling Mission Capability at Scale Intern 🛂 | Pittsburgh, PA | <a href="https://go.vansh.nyc/110?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | Cadillac Formula 1 Team | Aerodynamics AI Industrial Placement Intern | Indianapolis, IN | <a href="https://go.vansh.nyc/11b?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
@@ -84,6 +85,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Content Publishing Developer Intern | Cincinnati, OH | <a href="https://go.vansh.nyc/Ze?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
 | ↳ | IT Data Intern | Cincinnati, OH | <a href="https://go.vansh.nyc/Zf?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
 | Morningstar | Tech Intern | Chicago, IL | <a href="https://go.vansh.nyc/114?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
+| Molina Healthcare | Data Analytics Internship (Remote) –(Undergraduate) | United States | <a href="https://go.vansh.nyc/11J?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
+| ↳ | Cybersecurity Internship (Remote) –(Undergraduate) | United States | <a href="https://go.vansh.nyc/11K?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
 | MITRE | Data Science and Engineering Intern 🇺🇸 | McLean, VA | <a href="https://go.vansh.nyc/10t?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
 | ↳ | Critical Infrastructure Protection Intern | McLean, VA | <a href="https://go.vansh.nyc/10s?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
 | ↳ | Trustworthy AI Intern | McLean, VA | <a href="https://go.vansh.nyc/10r?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
