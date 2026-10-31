@@ -38658,5 +38658,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793474153,
+        "url": "https://careers.nintendo.com/?gh_jid=4473568009",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nintendo",
+        "title": "Software Engineer Intern, Performance Tools",
+        "source": "vanshb03",
+        "id": "5e4c6e14-95b0-445d-a5ac-4eeb780a5ded",
+        "date_posted": 1793318400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
