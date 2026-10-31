@@ -37952,5 +37952,56 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793408751,
+        "url": "https://go.vansh.nyc/11I",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Firework",
+        "title": "Data Engineer Intern",
+        "source": "vanshb03",
+        "id": "7247e24f-8a59-4713-9f47-33d95c9011b8",
+        "date_posted": 1793405691,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793408793,
+        "url": "https://go.vansh.nyc/11J",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Molina Healthcare",
+        "title": "Data Analytics Internship (Remote) \u2013(Undergraduate)",
+        "source": "vanshb03",
+        "id": "cf6ab2d8-667e-47d4-bcf7-1cfcda3984ff",
+        "date_posted": 1793318400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793408793,
+        "url": "https://go.vansh.nyc/11K",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Molina Healthcare",
+        "title": "Cybersecurity Internship (Remote) \u2013(Undergraduate)",
+        "source": "vanshb03",
+        "id": "56445358-84c5-4d21-a78e-85ef9d86ea83",
+        "date_posted": 1793318400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
