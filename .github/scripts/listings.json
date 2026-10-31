@@ -38607,5 +38607,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793474153,
+        "url": "https://careers.nintendo.com/?gh_jid=4470048009",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nintendo",
+        "title": "Software Engineer Intern, Audio",
+        "source": "vanshb03",
+        "id": "f4b6f9d7-ced6-4d94-9be5-6a974966eb39",
+        "date_posted": 1793227060,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
