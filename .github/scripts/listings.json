@@ -38590,5 +38590,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793474153,
+        "url": "https://careers.nintendo.com/?gh_jid=4472002009",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nintendo",
+        "title": "Software Engineer Intern, DevOps",
+        "source": "vanshb03",
+        "id": "03cbf984-ebc6-4c0f-9488-696e2a3f6564",
+        "date_posted": 1793226660,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
