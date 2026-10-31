@@ -15096,13 +15096,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792658752,
+        "date_updated": 1793419631,
         "url": "https://go.vansh.nyc/em",
         "locations": [
             "Hartsville, SC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Duke Energy Corporation",
         "title": "Nuclear Cybersecurity Intern",
         "source": "vanshb03",
@@ -19546,13 +19546,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793013503,
+        "date_updated": 1793419631,
         "url": "https://go.vansh.nyc/C4",
         "locations": [
             "Indianapolis, IN"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Rolls-Royce",
         "title": "Integrated Control Systems Engineer Intern, Software",
         "source": "vanshb03",
@@ -20646,13 +20646,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793013650,
+        "date_updated": 1793419631,
         "url": "https://go.vansh.nyc/D6",
         "locations": [
             "Saint Louis, MO"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Stifel",
         "title": "Data Analyst Intern",
         "source": "vanshb03",
@@ -20663,13 +20663,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793013650,
+        "date_updated": 1793419631,
         "url": "https://go.vansh.nyc/D7",
         "locations": [
             "Saint Louis, MO"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Stifel",
         "title": "Information Security Intern",
         "source": "vanshb03",
@@ -21408,7 +21408,7 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793015500,
+        "date_updated": 1793419631,
         "url": "https://go.vansh.nyc/Eo",
         "locations": [
             "Indianapolis, IN",
@@ -21417,7 +21417,7 @@
             "Atlanta, GA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Elevance Health",
         "title": "Data Analytics Intern",
         "source": "vanshb03",
@@ -21428,7 +21428,7 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793015500,
+        "date_updated": 1793419631,
         "url": "https://go.vansh.nyc/Ep",
         "locations": [
             "Indianapolis, IN",
@@ -21437,7 +21437,7 @@
             "Atlanta, GA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Elevance Health",
         "title": "Engineering Intern",
         "source": "vanshb03",
@@ -26130,13 +26130,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793022083,
+        "date_updated": 1793419631,
         "url": "https://go.vansh.nyc/JN",
         "locations": [
             "Summit, NJ"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Kenvue",
         "title": "Tech & Data Co-op",
         "source": "vanshb03",
@@ -32049,13 +32049,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793039764,
+        "date_updated": 1793419631,
         "url": "https://go.vansh.nyc/ST",
         "locations": [
             "Beavercreek, OH"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Northrop Grumman",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
@@ -33234,13 +33234,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793111820,
+        "date_updated": 1793419631,
         "url": "https://go.vansh.nyc/VG",
         "locations": [
             "Woburn, MA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "RTX",
         "title": "Secure Software Intern",
         "source": "vanshb03",
@@ -36191,13 +36191,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793297249,
+        "date_updated": 1793419631,
         "url": "https://go.vansh.nyc/Zm",
         "locations": [
             "East Hartford, CT"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "RTX",
         "title": "Sustainment Data and Analytics Intern",
         "source": "vanshb03",
