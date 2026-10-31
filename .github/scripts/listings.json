@@ -38556,5 +38556,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793474153,
+        "url": "https://careers.nintendo.com/?gh_jid=4471972009",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nintendo",
+        "title": "Software Engineer Intern, CPU Debugger",
+        "source": "vanshb03",
+        "id": "d5ec9a96-e748-4a1f-aa36-361f9e0d6761",
+        "date_posted": 1793226293,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
