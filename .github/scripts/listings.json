@@ -38624,5 +38624,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793474153,
+        "url": "https://careers.nintendo.com/?gh_jid=4469778009",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nintendo",
+        "title": "Software Engineer Intern, Platform Security",
+        "source": "vanshb03",
+        "id": "efbc9130-73e4-4d04-b7f2-b2f52dec6953",
+        "date_posted": 1793227382,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
