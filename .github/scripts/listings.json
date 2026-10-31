@@ -38296,5 +38296,56 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793415953,
+        "url": "https://go.vansh.nyc/125",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Northrop Grumman",
+        "title": "Data Scientist Intern, Product Support",
+        "source": "vanshb03",
+        "id": "c5caf1a9-1f62-4ebc-a3ba-4cc81613d002",
+        "date_posted": 1793413073,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793415995,
+        "url": "https://go.vansh.nyc/126",
+        "locations": [
+            "Montreal, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "MDA",
+        "title": "FPGA Designer Intern",
+        "source": "vanshb03",
+        "id": "184dd779-3ffc-477a-a46c-4d2a2fe22a75",
+        "date_posted": 1793397965,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1793415995,
+        "url": "https://go.vansh.nyc/127",
+        "locations": [
+            "Montreal, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "MDA",
+        "title": "FPGA Verification Intern",
+        "source": "vanshb03",
+        "id": "dc07051f-c6c6-4560-80c1-aafea1e19cc4",
+        "date_posted": 1793397965,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
