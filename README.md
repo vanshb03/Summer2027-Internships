@@ -91,7 +91,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | PTC | Arena Engineering Intern | San Mateo, CA | <a href="https://go.vansh.nyc/Zw?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
 | OTTO Engineering | Embedded Software Intern, Communications | Carpentersville, IL | <a href="https://go.vansh.nyc/122?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
 | NVIDIA | AI Systems Software Engineering Intern | Austin, TX | <a href="https://go.vansh.nyc/10o?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
-| Nintendo | Software Engineer Intern, Graphics | Redmond, WA | <a href="https://go.vansh.nyc/121?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
+| Nintendo | Software Engineer Intern, Performance Tools | Redmond, WA | <a href="https://careers.nintendo.com/?gh_jid=4473568009"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
+| ↳ | Software Engineer Intern, Graphics | Redmond, WA | <a href="https://go.vansh.nyc/121?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
 | National Interstate Insurance | DevOps Developer Intern | Cincinnati, OH | <a href="https://go.vansh.nyc/Zr?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
 | ↳ | Extreme Programming Engineer Intern | Cincinnati, OH | <a href="https://go.vansh.nyc/Zd?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
 | ↳ | Content Publishing Developer Intern | Cincinnati, OH | <a href="https://go.vansh.nyc/Ze?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
@@ -139,6 +140,12 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Qualcomm | Deep Learning Research Intern, Interim Engineering Systems | Markham, Canada | <a href="https://go.vansh.nyc/Yh?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | ↳ | Camera Design Engineering Intern | Vancouver, Canada | <a href="https://go.vansh.nyc/Yi?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | Paccar | Data Engineer Intern | United States | <a href="https://go.vansh.nyc/11R?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
+| Nintendo | Software Engineer Intern, CPU Debugger | Redmond, WA | <a href="https://careers.nintendo.com/?gh_jid=4471972009"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
+| ↳ | Software Engineer Intern, CPU Profiler | Redmond, WA | <a href="https://careers.nintendo.com/?gh_jid=4469762009"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
+| ↳ | Software Engineer Intern, DevOps | Redmond, WA | <a href="https://careers.nintendo.com/?gh_jid=4472002009"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
+| ↳ | Software Engineer Intern, Audio | Redmond, WA | <a href="https://careers.nintendo.com/?gh_jid=4470048009"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
+| ↳ | Software Engineer Intern, Platform Security | Redmond, WA | <a href="https://careers.nintendo.com/?gh_jid=4469778009"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
+| ↳ | Software Engineer Intern, Connectivity | Redmond, WA | <a href="https://careers.nintendo.com/?gh_jid=4472147009"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | Micron Technology | ASIC Digital Design Intern | Minneapolis, MN | <a href="https://go.vansh.nyc/Z8?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | ↳ | Data Science Intern | San Jose, CA</br>Folsom, CA | <a href="https://go.vansh.nyc/XF?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | Metova Federal | AI Intern | Orlando, FL | <a href="https://go.vansh.nyc/ZU?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
