@@ -38559,7 +38559,7 @@
     },
     {
         "date_updated": 1793474153,
-        "url": "https://careers.nintendo.com/?gh_jid=4471972009",
+        "url": "https://go.vansh.nyc/12k",
         "locations": [
             "Redmond, WA"
         ],
@@ -38576,7 +38576,7 @@
     },
     {
         "date_updated": 1793474153,
-        "url": "https://careers.nintendo.com/?gh_jid=4469762009",
+        "url": "https://go.vansh.nyc/12l",
         "locations": [
             "Redmond, WA"
         ],
@@ -38593,7 +38593,7 @@
     },
     {
         "date_updated": 1793474153,
-        "url": "https://careers.nintendo.com/?gh_jid=4472002009",
+        "url": "https://go.vansh.nyc/12m",
         "locations": [
             "Redmond, WA"
         ],
@@ -38610,7 +38610,7 @@
     },
     {
         "date_updated": 1793474153,
-        "url": "https://careers.nintendo.com/?gh_jid=4470048009",
+        "url": "https://go.vansh.nyc/12n",
         "locations": [
             "Redmond, WA"
         ],
@@ -38627,7 +38627,7 @@
     },
     {
         "date_updated": 1793474153,
-        "url": "https://careers.nintendo.com/?gh_jid=4469778009",
+        "url": "https://go.vansh.nyc/12o",
         "locations": [
             "Redmond, WA"
         ],
@@ -38644,7 +38644,7 @@
     },
     {
         "date_updated": 1793474153,
-        "url": "https://careers.nintendo.com/?gh_jid=4472147009",
+        "url": "https://go.vansh.nyc/12p",
         "locations": [
             "Redmond, WA"
         ],
@@ -38661,7 +38661,7 @@
     },
     {
         "date_updated": 1793474153,
-        "url": "https://careers.nintendo.com/?gh_jid=4473568009",
+        "url": "https://go.vansh.nyc/12q",
         "locations": [
             "Redmond, WA"
         ],
@@ -38675,5 +38675,90 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793477197,
+        "url": "https://go.vansh.nyc/12r",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Virginia Tech Applied Research Corporation",
+        "title": "Research Intern, Applied AI & Software Development",
+        "source": "vanshb03",
+        "id": "49f34eb5-d141-4b0d-aaf3-f2c0c617e028",
+        "date_posted": 1793337748,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793477197,
+        "url": "https://go.vansh.nyc/12s",
+        "locations": [
+            "San Antonio, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Students Plus Startups",
+        "title": "Vroom Power Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "cdfaface-5d3f-43bb-bdba-7b7d973da95d",
+        "date_posted": 1793376324,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793477197,
+        "url": "https://go.vansh.nyc/12t",
+        "locations": [
+            "Des Plaines, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "GTI Energy",
+        "title": "Data Science Intern",
+        "source": "vanshb03",
+        "id": "419891dc-fc5e-4473-a5dc-ab97ecb181bd",
+        "date_posted": 1793386799,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793477197,
+        "url": "https://go.vansh.nyc/12u",
+        "locations": [
+            "Houston, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Economy Polymers & Chemicals",
+        "title": "AI & Business Systems Automation Intern",
+        "source": "vanshb03",
+        "id": "4859369a-fdcc-4874-89ec-10425cfb2735",
+        "date_posted": 1793389475,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793477197,
+        "url": "https://go.vansh.nyc/12v",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hendler Family Brewing Co.",
+        "title": "Software Engineering and IT Co-op",
+        "source": "vanshb03",
+        "id": "39ea91a3-58c8-45ba-9095-0947dff1dc8c",
+        "date_posted": 1793396392,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
     }
 ]
