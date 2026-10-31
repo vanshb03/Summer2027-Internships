@@ -38641,5 +38641,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793474153,
+        "url": "https://careers.nintendo.com/?gh_jid=4472147009",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nintendo",
+        "title": "Software Engineer Intern, Connectivity",
+        "source": "vanshb03",
+        "id": "e6c54299-f853-48fe-809f-28dac76240d3",
+        "date_posted": 1793232000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
