@@ -10722,13 +10722,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792261427,
+        "date_updated": 1793434363,
         "url": "https://go.vansh.nyc/ag",
         "locations": [
             "Foster City, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Gilead Sciences",
         "title": "Research Intern, Data Sciences - AI",
         "source": "vanshb03",
@@ -10739,13 +10739,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792261427,
+        "date_updated": 1793434363,
         "url": "https://go.vansh.nyc/ah",
         "locations": [
             "Foster City, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Gilead Sciences",
         "title": "Research Intern, Strategy, Innovation & Portfolio - AI",
         "source": "vanshb03",
@@ -12085,13 +12085,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792442374,
+        "date_updated": 1793434363,
         "url": "https://go.vansh.nyc/bx",
         "locations": [
             "Foster City, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Gilead Sciences",
         "title": "Research Intern, Clinical Virology - AI",
         "source": "vanshb03",
@@ -13210,13 +13210,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792535294,
+        "date_updated": 1793434363,
         "url": "https://go.vansh.nyc/cB",
         "locations": [
             "South San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Genentech",
         "title": "Product Technical Development Intern, Digital Sciences Focus",
         "source": "vanshb03",
@@ -20386,7 +20386,7 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793013555,
+        "date_updated": 1793434363,
         "url": "https://go.vansh.nyc/CR",
         "locations": [
             "Aurora, CO",
@@ -20394,7 +20394,7 @@
             "United States"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "RTX",
         "title": "Software Platform Engineer Co-op",
         "source": "vanshb03",
@@ -22159,13 +22159,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793015500,
+        "date_updated": 1793434363,
         "url": "https://go.vansh.nyc/F5",
         "locations": [
             "McKinney, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "RTX",
         "title": "FPGA Engineer Intern",
         "source": "vanshb03",
@@ -26182,13 +26182,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793022083,
+        "date_updated": 1793434363,
         "url": "https://go.vansh.nyc/JQ",
         "locations": [
             "St Paul, MN"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Trane Technologies",
         "title": "Software Development Engineering Intern",
         "source": "vanshb03",
@@ -26712,13 +26712,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793023513,
+        "date_updated": 1793434363,
         "url": "https://go.vansh.nyc/LA",
         "locations": [
             "El Segundo, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "RTX",
         "title": "Electrical Engineer Intern",
         "source": "vanshb03",
@@ -27377,13 +27377,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793023513,
+        "date_updated": 1793434363,
         "url": "https://go.vansh.nyc/Mc",
         "locations": [
             "West Des Moines, IA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Hy-Vee",
         "title": "Data Integration Intern",
         "source": "vanshb03",
@@ -27532,13 +27532,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793023513,
+        "date_updated": 1793434363,
         "url": "https://go.vansh.nyc/Mk",
         "locations": [
             "Tucson, AZ"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "RTX",
         "title": "FPGA Electrical Design Engineer Intern",
         "source": "vanshb03",
@@ -27549,13 +27549,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793023513,
+        "date_updated": 1793434363,
         "url": "https://go.vansh.nyc/Ml",
         "locations": [
             "Tucson, AZ"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "RTX",
         "title": "Digital Design Electrical Engineer Intern",
         "source": "vanshb03",
@@ -32202,13 +32202,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1793046997,
+        "date_updated": 1793434363,
         "url": "https://go.vansh.nyc/T2",
         "locations": [
             "San Diego, CA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "RTX",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
@@ -33269,13 +33269,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793113543,
+        "date_updated": 1793434363,
         "url": "https://go.vansh.nyc/VI",
         "locations": [
             "Goleta, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "RTX",
         "title": "Embedded Software Engineer Intern",
         "source": "vanshb03",
@@ -35951,13 +35951,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793288179,
+        "date_updated": 1793434363,
         "url": "https://go.vansh.nyc/Z5",
         "locations": [
             "Foster City, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Gilead Sciences",
         "title": "Research Intern, Discovery Sciences and Technologies, AI",
         "source": "vanshb03",
@@ -35968,13 +35968,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793288179,
+        "date_updated": 1793434363,
         "url": "https://go.vansh.nyc/Z6",
         "locations": [
             "Foster City, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Gilead Sciences",
         "title": "Research Intern, Inflammation, AI",
         "source": "vanshb03",
@@ -35985,13 +35985,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793291859,
+        "date_updated": 1793434363,
         "url": "https://go.vansh.nyc/Z7",
         "locations": [
             "Foster City, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Gilead Sciences",
         "title": "Research Intern, Oncology Biomarker - AI",
         "source": "vanshb03",
@@ -38347,5 +38347,146 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1793433914,
+        "url": "https://go.vansh.nyc/128",
+        "locations": [
+            "Alexandria, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Systems Planning and Analysis",
+        "title": "Data Engineer Intern",
+        "source": "vanshb03",
+        "id": "fc9ba220-7dcd-49f3-b0bd-88d68e54743f",
+        "date_posted": 1793223900,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793433914,
+        "url": "https://go.vansh.nyc/129",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "First Citizens BancShares",
+        "title": "AI Innovation Intern",
+        "source": "vanshb03",
+        "id": "6fbd5a5d-a08d-4892-b854-663668f8142d",
+        "date_posted": 1793377320,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793433977,
+        "url": "https://go.vansh.nyc/12a",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "Enterprise Platform Technical Marketing Engineer Intern",
+        "source": "vanshb03",
+        "id": "1f51e682-b653-4090-bfb0-e7b828b0d229",
+        "date_posted": 1793426777,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793434033,
+        "url": "https://go.vansh.nyc/12b",
+        "locations": [
+            "Fairfax, VA",
+            "Irvine, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tevora",
+        "title": "Cybersecurity Intern, Federal",
+        "source": "vanshb03",
+        "id": "88f1e2cd-05ea-442f-b659-4014ecb15ed6",
+        "date_posted": 1793413064,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793434033,
+        "url": "https://go.vansh.nyc/12c",
+        "locations": [
+            "Irvine, CA",
+            "Fairfax, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tevora",
+        "title": "Cybersecurity Intern, Healthcare",
+        "source": "vanshb03",
+        "id": "ea9894f4-0078-40ee-9d7c-75e7d981b812",
+        "date_posted": 1793413114,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793434033,
+        "url": "https://go.vansh.nyc/12d",
+        "locations": [
+            "Fairfax, VA",
+            "Irvine, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tevora",
+        "title": "Cybersecurity Intern, Payments",
+        "source": "vanshb03",
+        "id": "10d76254-f589-4948-92c7-9f21b073f3dd",
+        "date_posted": 1793413290,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793434033,
+        "url": "https://go.vansh.nyc/12e",
+        "locations": [
+            "Irvine, CA",
+            "Fairfax, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tevora",
+        "title": "Cybersecurity Intern, Solutions",
+        "source": "vanshb03",
+        "id": "69d438f7-ceea-49c8-889f-e79872b15b8c",
+        "date_posted": 1793413558,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793434033,
+        "url": "https://go.vansh.nyc/12f",
+        "locations": [
+            "Irvine, CA",
+            "Fairfax, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tevora",
+        "title": "Cybersecurity Intern, Threat",
+        "source": "vanshb03",
+        "id": "13044f49-617f-4dc0-8e31-741b3b8b62a6",
+        "date_posted": 1793413612,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
