@@ -8322,13 +8322,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1792261427,
+        "date_updated": 1793506239,
         "url": "https://go.vansh.nyc/7Z",
         "locations": [
             "Malvern, PA"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Johnson & Johnson",
         "title": "TDS Lab Automation Co-op",
         "source": "vanshb03",
@@ -11651,13 +11651,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792442297,
+        "date_updated": 1793506239,
         "url": "https://go.vansh.nyc/b8",
         "locations": [
             "Cincinnati, OH"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Johnson & Johnson",
         "title": "Quality Data Science Co-op",
         "source": "vanshb03",
@@ -40093,6 +40093,40 @@
         "source": "vanshb03",
         "id": "52b2d283-b4ed-4fd2-a555-1eddb57a37b1",
         "date_posted": 1793404800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1793505966,
+        "url": "https://go.vansh.nyc/13V",
+        "locations": [
+            "West Des Moines, IA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Farmers Mutual Hail",
+        "title": "QA Automation Engineer Intern",
+        "source": "vanshb03",
+        "id": "26ab8b91-ad35-4f64-9058-3e3291621b42",
+        "date_posted": 1789504897,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793505966,
+        "url": "https://go.vansh.nyc/13W",
+        "locations": [
+            "Fairport, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Keenfinity",
+        "title": "Software Test Automation Co-op",
+        "source": "vanshb03",
+        "id": "4582f8b7-a87e-41b5-8e8f-d2ebfc7e13cc",
+        "date_posted": 1790172621,
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
