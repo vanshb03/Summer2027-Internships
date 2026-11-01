@@ -42609,5 +42609,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793554900,
+        "url": "https://lifeattiktok.com/search/7624284785283746053",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "Software Engineer Project Intern, Model Infrastructure",
+        "source": "vanshb03",
+        "id": "41b012a3-1216-4d8f-b95b-2d45d3894daf",
+        "date_posted": 1793525855,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
