@@ -42294,5 +42294,194 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793538336,
+        "url": "https://go.vansh.nyc/18I",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "AeroVect",
+        "title": "Autonomy Intern",
+        "source": "vanshb03",
+        "id": "8602d599-a1c6-4f53-b545-ca3b320fe53b",
+        "date_posted": 1793491200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793538336,
+        "url": "https://go.vansh.nyc/18J",
+        "locations": [
+            "Houston, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "C&S Wholesale Grocers",
+        "title": "IS Intern, Web Applications",
+        "source": "vanshb03",
+        "id": "2b90c8da-e9d0-4d8e-a5e8-044fdc4910d9",
+        "date_posted": 1793491200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793538336,
+        "url": "https://go.vansh.nyc/18K",
+        "locations": [
+            "Corona, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Cencora",
+        "title": "Data Analytics Intern",
+        "source": "vanshb03",
+        "id": "594e87c2-96d1-4dfd-b92c-c5ec4d285101",
+        "date_posted": 1793491200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793538336,
+        "url": "https://go.vansh.nyc/18L",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "DivcoWest",
+        "title": "AI Intern",
+        "source": "vanshb03",
+        "id": "c7db5406-7e73-49b7-bfe7-22afef9eae53",
+        "date_posted": 1793491200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793538336,
+        "url": "https://go.vansh.nyc/18M",
+        "locations": [
+            "Warren, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Everest",
+        "title": "Technology Intern",
+        "source": "vanshb03",
+        "id": "8fd93d28-a9fe-43c3-85c2-90d9da2dd843",
+        "date_posted": 1793491200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793538336,
+        "url": "https://go.vansh.nyc/18N",
+        "locations": [
+            "West Des Moines, IA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Farmers Mutual Hail",
+        "title": "Application Administrator Intern",
+        "source": "vanshb03",
+        "id": "c4d45dea-3988-4154-8a41-60c70d51fd5e",
+        "date_posted": 1793491200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793538336,
+        "url": "https://go.vansh.nyc/18O",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "HPS Investment Partners",
+        "title": "Technology Intern, App Dev",
+        "source": "vanshb03",
+        "id": "d726660d-c725-4b9f-abc9-c4c6ef3aeda0",
+        "date_posted": 1793491200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793538336,
+        "url": "https://go.vansh.nyc/18P",
+        "locations": [
+            "Burbank, CA",
+            "Remote",
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Insomniac Games",
+        "title": "Undergraduate Gameplay Programming Intern",
+        "source": "vanshb03",
+        "id": "31a1907c-f4fa-41b9-ada3-c77ec406789e",
+        "date_posted": 1793491200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793538336,
+        "url": "https://go.vansh.nyc/18Q",
+        "locations": [
+            "Burbank, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Insomniac Games",
+        "title": "Undergraduate Tech Art Intern",
+        "source": "vanshb03",
+        "id": "d8aacca3-344d-4756-b8e0-2de9b0bdf8b0",
+        "date_posted": 1793491200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793538336,
+        "url": "https://go.vansh.nyc/18R",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Mach9",
+        "title": "Perception Intern",
+        "source": "vanshb03",
+        "id": "81bda59a-1c1f-4a82-9979-f4753aa468bf",
+        "date_posted": 1793491200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793538336,
+        "url": "https://go.vansh.nyc/18S",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Sycamore",
+        "title": "Member of Technical Staff Intern",
+        "source": "vanshb03",
+        "id": "04d85d96-fd50-4d54-b914-0e05daa94c5b",
+        "date_posted": 1793491200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
