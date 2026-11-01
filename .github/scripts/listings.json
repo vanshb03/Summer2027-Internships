@@ -42537,7 +42537,7 @@
     },
     {
         "date_updated": 1793554900,
-        "url": "https://www.google.com/about/careers/applications/jobs/results/104405499448828614",
+        "url": "https://go.vansh.nyc/18W",
         "locations": [
             "Montreal, Canada"
         ],
@@ -42554,7 +42554,7 @@
     },
     {
         "date_updated": 1793554900,
-        "url": "https://www.google.com/about/careers/applications/jobs/results/131518356678156998",
+        "url": "https://go.vansh.nyc/18X",
         "locations": [
             "Mountain View, CA",
             "Ann Arbor, MI",
@@ -42595,7 +42595,7 @@
     },
     {
         "date_updated": 1793554900,
-        "url": "https://joinbytedance.com/search/7623544831999346997",
+        "url": "https://go.vansh.nyc/18Y",
         "locations": [
             "San Jose, CA"
         ],
@@ -42612,7 +42612,7 @@
     },
     {
         "date_updated": 1793554900,
-        "url": "https://lifeattiktok.com/search/7624284785283746053",
+        "url": "https://go.vansh.nyc/18Z",
         "locations": [
             "San Jose, CA"
         ],
@@ -42629,7 +42629,7 @@
     },
     {
         "date_updated": 1793554900,
-        "url": "https://lifeattiktok.com/search/7530513185797359880",
+        "url": "https://go.vansh.nyc/190",
         "locations": [
             "San Jose, CA"
         ],
@@ -42643,5 +42643,56 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1793567142,
+        "url": "https://go.vansh.nyc/191",
+        "locations": [
+            "Clearwater, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "KnowBe4",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "0e2a9fdd-5b7e-481b-980c-6d2373b376e3",
+        "date_posted": 1793563542,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793567298,
+        "url": "https://go.vansh.nyc/192",
+        "locations": [
+            "South Bend, IN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "1st Source",
+        "title": "Information Security Intern",
+        "source": "vanshb03",
+        "id": "4283bc17-e3c5-4866-8057-46a9d946fe00",
+        "date_posted": 1793444203,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793567298,
+        "url": "https://go.vansh.nyc/193",
+        "locations": [
+            "Renton, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Seattle Seahawks / First & Goal",
+        "title": "Information Security Intern",
+        "source": "vanshb03",
+        "id": "cdeac721-0fad-4f34-93ed-7644ee2c27b5",
+        "date_posted": 1793445742,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
     }
 ]
