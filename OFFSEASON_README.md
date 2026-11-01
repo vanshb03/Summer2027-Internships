@@ -43,6 +43,11 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| ByteDance | Multi-Cloud CDN Data Platform Engineer Intern, Global Engineering CDN | San Jose, CA | <a href="https://go.vansh.nyc/14b?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
+| ↳ | Software Engineer Intern, CIS Knowledge Bank | San Jose, CA | <a href="https://go.vansh.nyc/14l?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
+| ↳ | Site Reliability Engineer Intern, Data Infra | Seattle, WA | <a href="https://go.vansh.nyc/14p?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
+| ↳ | Network Security Software Engineer Intern, Security Engineering | San Jose, CA | <a href="https://go.vansh.nyc/14v?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
+| ↳ | Site Reliability Engineer Intern, Data Infra | San Jose, CA | <a href="https://go.vansh.nyc/14D?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | NVIDIA | Developer and Performance Technology Intern | Santa Clara, CA | <a href="https://go.vansh.nyc/12i?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 31 |
 | Zus Health | Data Acquisition Software Engineering Co-op | Boston, MA | <a href="https://go.vansh.nyc/13M?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | ↳ | Platform Software Engineering Co-op | Boston, MA | <a href="https://go.vansh.nyc/13N?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
