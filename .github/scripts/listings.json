@@ -40844,5 +40844,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Fall"
+    },
+    {
+        "date_updated": 1793522814,
+        "url": "https://joinbytedance.com/search/7670330161462364421",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "Student Researcher Intern, Seed Model - AI Foundation Models Infrastructure",
+        "source": "vanshb03",
+        "id": "d7e4c0a1-43f7-4347-9839-ecedb1bb542c",
+        "date_posted": 1793519707,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
