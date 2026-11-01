@@ -42626,5 +42626,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1793554900,
+        "url": "https://lifeattiktok.com/search/7530513185797359880",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "Software Engineer Project Intern, Platform Efficiency",
+        "source": "vanshb03",
+        "id": "3aecf07f-7524-4261-a4ab-e44b72f0abfc",
+        "date_posted": 1793525855,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
