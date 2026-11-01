@@ -40895,5 +40895,57 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793525990,
+        "url": "https://go.vansh.nyc/15H",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Security Assurance Intern",
+        "source": "vanshb03",
+        "id": "bb03222b-12bf-41ae-a706-bcb12e0cf062",
+        "date_posted": 1789152122,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793525990,
+        "url": "https://go.vansh.nyc/15I",
+        "locations": [
+            "Waterloo, Canada",
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Google",
+        "title": "Student Researcher Intern",
+        "source": "vanshb03",
+        "id": "81f2a5f0-ce3e-414a-9a7a-3cf1441462ce",
+        "date_posted": 1789391905,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1793525990,
+        "url": "https://go.vansh.nyc/15J",
+        "locations": [
+            "Bristol, PA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "L3Harris Technologies",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "f1341403-7602-4e2e-8c8f-158574b49a87",
+        "date_posted": 1793329555,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
