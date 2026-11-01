@@ -46,7 +46,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
-| ByteDance | Student Researcher Intern, Seed Model - AI Foundation Model Infrastructure | San Jose, CA | <a href="https://go.vansh.nyc/140?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
+| ByteDance | Multi-Cloud CDN Scheduling Platform Engineer Intern, CDN Platform | San Jose, CA | <a href="https://go.vansh.nyc/15G?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
+| ↳ | Student Researcher Intern, Seed Model - AI Foundation Model Infrastructure | San Jose, CA | <a href="https://go.vansh.nyc/140?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | ↳ | Student Researcher Intern, Seed Model - Speech 🛂 | San Jose, CA | <a href="https://go.vansh.nyc/141?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | ↳ | Student Researcher Intern, Seed Model - LLM 🛂 | San Jose, CA | <a href="https://go.vansh.nyc/142?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | ↳ | Software Engineer Intern, Global Traffic Architecture | San Jose, CA | <a href="https://go.vansh.nyc/143?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |

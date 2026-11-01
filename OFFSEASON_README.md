@@ -43,8 +43,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
-| ByteDance | Student Researcher Intern, Seed Model - AI Foundation Models Infrastructure | Seattle, WA | <a href="https://joinbytedance.com/search/7670330161462364421"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
-| ↳ | Security Engineering Project Intern, Watermark | San Jose, CA | <a href="https://joinbytedance.com/search/7625759034518128901"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
+| ByteDance | Student Researcher Intern, Seed Model - AI Foundation Models Infrastructure | Seattle, WA | <a href="https://go.vansh.nyc/15E?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
+| ↳ | Security Engineering Project Intern, Watermark | San Jose, CA | <a href="https://go.vansh.nyc/15F?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | ↳ | Multi-Cloud CDN Data Platform Engineer Intern, Global Engineering CDN | San Jose, CA | <a href="https://go.vansh.nyc/14b?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | ↳ | Software Engineer Intern, CIS Knowledge Bank | San Jose, CA | <a href="https://go.vansh.nyc/14l?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | ↳ | Site Reliability Engineer Intern, Data Infra | Seattle, WA | <a href="https://go.vansh.nyc/14p?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
