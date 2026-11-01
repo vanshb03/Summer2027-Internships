@@ -40847,7 +40847,7 @@
     },
     {
         "date_updated": 1793522814,
-        "url": "https://joinbytedance.com/search/7670330161462364421",
+        "url": "https://go.vansh.nyc/15E",
         "locations": [
             "Seattle, WA"
         ],
@@ -40864,7 +40864,7 @@
     },
     {
         "date_updated": 1793522814,
-        "url": "https://joinbytedance.com/search/7625759034518128901",
+        "url": "https://go.vansh.nyc/15F",
         "locations": [
             "San Jose, CA"
         ],
@@ -40878,5 +40878,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1793523992,
+        "url": "https://go.vansh.nyc/15G",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "Multi-Cloud CDN Scheduling Platform Engineer Intern, CDN Platform",
+        "source": "vanshb03",
+        "id": "6edab991-6834-49bb-8bb7-6a4f2d767d17",
+        "date_posted": 1793519707,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
