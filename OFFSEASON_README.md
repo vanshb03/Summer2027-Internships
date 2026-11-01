@@ -243,7 +243,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Software Engineer Co-op | Toronto, Canada | <a href="https://go.vansh.nyc/GO?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |
 | ↳ | Software Engineering Co-op | Toronto, Canada | <a href="https://go.vansh.nyc/GP?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |
 | TransMarket Group | Junior Data Center/Desktop Engineer Intern | Chicago, IL | <a href="https://go.vansh.nyc/81?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 10 |
-| Johnson & Johnson | TDS Lab Automation Co-op 🛂 | Malvern, PA | <a href="https://go.vansh.nyc/7Z?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 10 |
 | Advanced Space | Technical Growth and Capture Intern | Westminster, CO | <a href="https://go.vansh.nyc/7Y?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 10 |
 | Tenet3 | Software Developer Intern, Full Stack | Dayton, OH | <a href="https://go.vansh.nyc/GC?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
 | Magnet Forensics | Software Developer Co-op | Waterloo, Canada</br>Ottawa, Canada | <a href="https://go.vansh.nyc/GD?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
@@ -301,6 +300,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | iRhythm Technologies | Embedded SDET Co-op | San Francisco, CA | <a href="https://go.vansh.nyc/K0?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 24 |
 | Greenheck Group | Application Developer Co-op | Schofield, WI | <a href="https://go.vansh.nyc/Jy?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 24 |
 | Radiance Technologies | Software Engineer Intern | Dayton, OH | <a href="https://go.vansh.nyc/Ju?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 23 |
+| Keenfinity | Software Test Automation Co-op | Fairport, NY | <a href="https://go.vansh.nyc/13W?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 23 |
 | Astranis | FPGA Intern | San Francisco, CA | <a href="https://go.vansh.nyc/Jv?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 23 |
 | Astranis | Flight Software Intern | San Francisco, CA | <a href="https://go.vansh.nyc/Jn?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 22 |
 | Rivian | Software Engineer Co-op, Design Automation | Palo Alto, CA | <a href="https://go.vansh.nyc/Ja?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 21 |
@@ -472,7 +472,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Disney | Disney & Pixar Games Production Intern | Glendale, CA | 🔒 | Oct 13 |
 | 1Password | Data Intern, Product Analytics | Remote (United States | Canada) | 🔒 | Oct 12 |
 | Truist | TD&O Program Enablement Specialist Intern 🛂 | Charlotte, NC | 🔒 | Oct 10 |
-| Johnson & Johnson | TDS CGT-Digital Automation Co-op 🛂 | Malvern, PA | 🔒 | Oct 10 |
+| Johnson & Johnson | TDS Lab Automation Co-op 🛂 | Malvern, PA | 🔒 | Oct 10 |
+| ↳ | TDS CGT-Digital Automation Co-op 🛂 | Malvern, PA | 🔒 | Oct 10 |
 | Clēnera | Data Engineer Intern | Boise, ID | 🔒 | Oct 06 |
 | NVIDIA | PCIe Design Verification Intern | Santa Clara, CA | 🔒 | Oct 05 |
 | Moment Energy | Firmware Engineering Co-op | Surrey, Canada | 🔒 | Oct 05 |
