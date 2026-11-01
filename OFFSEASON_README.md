@@ -44,18 +44,31 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | NVIDIA | Developer and Performance Technology Intern | Santa Clara, CA | <a href="https://go.vansh.nyc/12i?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 31 |
+| Zus Health | Data Acquisition Software Engineering Co-op | Boston, MA | <a href="https://go.vansh.nyc/13M?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
+| ↳ | Platform Software Engineering Co-op | Boston, MA | <a href="https://go.vansh.nyc/13N?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
+| TribalScale | Agile Software Engineer Co-op | Toronto, Canada | <a href="https://go.vansh.nyc/13L?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | TikTok | Product Manager Project Intern, Global Monetization Product and Technology | San Jose, CA | <a href="https://go.vansh.nyc/11x?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | ↳ | Product Manager Intern, Global Monetization Product and Technology | Seattle, WA | <a href="https://go.vansh.nyc/11y?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
+| Solink | Software Engineer Co-op, Agents | Remote</br>Canada | <a href="https://go.vansh.nyc/13K?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
+| New York ISO | Software Engineering Co-op, IT | Rensselaer, NY | <a href="https://go.vansh.nyc/13J?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | MDA | FPGA Designer Intern | Montreal, Canada | <a href="https://go.vansh.nyc/126?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | ↳ | FPGA Verification Intern | Montreal, Canada | <a href="https://go.vansh.nyc/127?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | Keysight Technologies | FPGA Design Intern | Calabasas, CA | <a href="https://go.vansh.nyc/11u?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | Hendler Family Brewing Co. | Software Engineering and IT Co-op | United States | <a href="https://go.vansh.nyc/12v?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
+| GITAI | Field-Deployed Software Engineering Intern 🇺🇸 | Los Angeles, CA | <a href="https://go.vansh.nyc/13I?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
+| General Magic | AI Engineer Co-op | Toronto, Canada | <a href="https://go.vansh.nyc/13G?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
+| ↳ | Backend Engineer Co-op | Toronto, Canada | <a href="https://go.vansh.nyc/13H?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | Fussball Club Cincinnati LLC (“FC Cincinnati”) | Data Analyst Intern | Cincinnati, OH | <a href="https://go.vansh.nyc/10v?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
+| Fresenius Medical Care | Software Engineering Co-op | Lawrence, MA | <a href="https://go.vansh.nyc/13F?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
+| Foresters Financial | Software Engineer Co-op, AI | Toronto, Canada | <a href="https://go.vansh.nyc/13D?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
+| ↳ | Software Engineer Co-op | Toronto, Canada | <a href="https://go.vansh.nyc/13E?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | Ensco | Information Security Intern 🇺🇸 | Melbourne, FL | <a href="https://go.vansh.nyc/10M?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
+| Ema | AI Resident Intern | San Francisco, CA | <a href="https://go.vansh.nyc/13C?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | Elucid | Software Engineer Intern | Boston, MA | <a href="https://go.vansh.nyc/11w?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | Carnegie Mellon University | Full-Stack Software Development Intern 🛂 | Pittsburgh, PA | <a href="https://go.vansh.nyc/10A?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | ↳ | Cyber Range Development Intern 🛂 | Pittsburgh, PA | <a href="https://go.vansh.nyc/10C?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | ↳ | Agentic Development Intern 🛂 | Pittsburgh, PA | <a href="https://go.vansh.nyc/10D?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
+| BC Pensions | Junior Security Analyst Co-op | Victoria, Canada | <a href="https://go.vansh.nyc/13B?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | Waterworth | Computer Science Co-op | Victoria, Canada | <a href="https://go.vansh.nyc/10a?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
 | OLG | Front End Developer Intern | Toronto, Canada</br>Sault Ste. Marie, Canada | <a href="https://go.vansh.nyc/11s?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
 | Nokia | Software Engineer Co-op | United States | <a href="https://go.vansh.nyc/112?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
