@@ -42592,5 +42592,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1793554900,
+        "url": "https://joinbytedance.com/search/7623544831999346997",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "Student Researcher Intern, Seed Model - Vision",
+        "source": "vanshb03",
+        "id": "96038bf6-f11e-405f-9eb3-f15ae5bcc585",
+        "date_posted": 1793519707,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
