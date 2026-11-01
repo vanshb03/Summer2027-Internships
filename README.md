@@ -97,7 +97,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Software Engineer Project Intern, Lead Ads | San Jose, CA | <a href="https://go.vansh.nyc/18H?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | Siemens Digital Industries Software | Strategic Student Program Digital Enterprise Software Applications Intern | Charlotte, MI | <a href="https://go.vansh.nyc/18U?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | ↳ | Strategic Student Program Digital Enterprise Software Applications Intern | Chicago, IL | <a href="https://go.vansh.nyc/18V?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
-| ByteDance | Student Researcher Intern, Seed Model - Vision 🛂 | San Jose, CA | <a href="https://joinbytedance.com/search/7623544831999346997"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
+| KnowBe4 | Software Engineer Intern | Clearwater, FL | <a href="https://go.vansh.nyc/191?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
+| ByteDance | Student Researcher Intern, Seed Model - Vision 🛂 | San Jose, CA | <a href="https://go.vansh.nyc/18Y?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | ↳ | Student Researcher Intern, Seed Model: Multimodal Interaction & World Model 🛂 | San Jose, CA | <a href="https://go.vansh.nyc/17J?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | ↳ | Machine Learning Engineer Intern, AML-Engine-Orchestration | Seattle, WA | <a href="https://go.vansh.nyc/17K?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | ↳ | Backend Development Engineer Intern, Infrastructure Platform Delivery | San Jose, CA | <a href="https://go.vansh.nyc/17L?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
@@ -152,6 +153,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Cencora | Data Analytics Intern 🛂 | Corona, CA | <a href="https://go.vansh.nyc/18K?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 31 |
 | C&S Wholesale Grocers | IS Intern, Web Applications | Houston, TX | <a href="https://go.vansh.nyc/18J?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 31 |
 | AeroVect | Autonomy Intern | San Francisco, CA | <a href="https://go.vansh.nyc/18I?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 31 |
+| 1st Source | Information Security Intern | South Bend, IN | <a href="https://go.vansh.nyc/192?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 31 |
 | ZipRecruiter | Software Engineer Intern | Santa Monica, CA | <a href="https://go.vansh.nyc/13A?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | Wurl | Data Science Intern | Remote</br>United States | <a href="https://go.vansh.nyc/13z?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | Wex | Software Engineer Intern | Remote</br>United States | <a href="https://go.vansh.nyc/10z?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
