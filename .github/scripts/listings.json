@@ -6820,13 +6820,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1786024258,
+        "date_updated": 1793519969,
         "url": "https://go.vansh.nyc/6A",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "ByteDance",
         "title": "AI Network Automation Engineer Intern, Global Physical Network Infra",
         "source": "vanshb03",
@@ -7195,13 +7195,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1787326653,
+        "date_updated": 1793519969,
         "url": "https://go.vansh.nyc/6W",
         "locations": [
             "Phoenix, AZ"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "American Express",
         "title": "Cybersecurity Intern",
         "source": "vanshb03",
@@ -7229,13 +7229,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1787326660,
+        "date_updated": 1793519969,
         "url": "https://go.vansh.nyc/6Y",
         "locations": [
             "Phoenix, AZ"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "American Express",
         "title": "Software Engineer Intern, Enterprise Technology Services",
         "source": "vanshb03",
@@ -7246,13 +7246,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1787326669,
+        "date_updated": 1793519969,
         "url": "https://go.vansh.nyc/6Z",
         "locations": [
             "Charlotte, NC"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "American Express",
         "title": "Software Engineer Intern, Enterprise Technology Services",
         "source": "vanshb03",
@@ -7263,13 +7263,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1787326673,
+        "date_updated": 1793519969,
         "url": "https://go.vansh.nyc/70",
         "locations": [
             "Sunrise, FL"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "American Express",
         "title": "Software Engineer Intern, Enterprise Technology Services",
         "source": "vanshb03",
@@ -7280,13 +7280,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1787326677,
+        "date_updated": 1793519969,
         "url": "https://go.vansh.nyc/71",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "American Express",
         "title": "Software Engineer Intern, Enterprise Technology Services",
         "source": "vanshb03",
@@ -7348,13 +7348,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1787326688,
+        "date_updated": 1793519969,
         "url": "https://go.vansh.nyc/75",
         "locations": [
             "Phoenix, AZ"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "American Express",
         "title": "AI Engineer Intern, Enterprise Technology Services",
         "source": "vanshb03",
@@ -7365,13 +7365,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1787326691,
+        "date_updated": 1793519969,
         "url": "https://go.vansh.nyc/76",
         "locations": [
             "Atlanta, GA"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "American Express",
         "title": "AI Engineer Intern, Enterprise Technology Services",
         "source": "vanshb03",
@@ -9359,13 +9359,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1792261427,
+        "date_updated": 1793519969,
         "url": "https://go.vansh.nyc/8Y",
         "locations": [
             "Kansas City, MO"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "American Century Investments",
         "title": "Enterprise Data Intern",
         "source": "vanshb03",
@@ -29503,13 +29503,13 @@
         "season": "Spring"
     },
     {
-        "date_updated": 1793027048,
+        "date_updated": 1793519969,
         "url": "https://go.vansh.nyc/Q7",
         "locations": [
             "Augusta, GA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Textron",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -32630,13 +32630,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793091935,
+        "date_updated": 1793519969,
         "url": "https://go.vansh.nyc/UY",
         "locations": [
             "Greenville, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "L3Harris Technologies",
         "title": "Associate Software Engineering Intern",
         "source": "vanshb03",
@@ -32647,13 +32647,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793091935,
+        "date_updated": 1793519969,
         "url": "https://go.vansh.nyc/UZ",
         "locations": [
             "Rochester, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "L3Harris Technologies",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -40130,5 +40130,719 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1793519689,
+        "url": "https://go.vansh.nyc/13Y",
+        "locations": [
+            "McLean, VA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "MITRE",
+        "title": "AI Solutions Architect Intern",
+        "source": "vanshb03",
+        "id": "6ad376fd-0f18-4263-89ee-b52c603d4f99",
+        "date_posted": 1793260489,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793519782,
+        "url": "https://go.vansh.nyc/13Z",
+        "locations": [
+            "Memphis, TN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "FedEx",
+        "title": "Data Science Intern",
+        "source": "vanshb03",
+        "id": "b7ec3ee9-ceaf-4c6a-8ba9-405057ba8904",
+        "date_posted": 1793387004,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793519782,
+        "url": "https://go.vansh.nyc/140",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "Student Researcher Intern, Seed Model - AI Foundation Model Infrastructure",
+        "source": "vanshb03",
+        "id": "a641a3ca-6f39-47ac-aaad-0033639c663b",
+        "date_posted": 1793519707,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793519782,
+        "url": "https://go.vansh.nyc/141",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "Student Researcher Intern, Seed Model - Speech",
+        "source": "vanshb03",
+        "id": "cc086216-addf-42ba-8204-34633054c5e7",
+        "date_posted": 1793519707,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793519782,
+        "url": "https://go.vansh.nyc/142",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "Student Researcher Intern, Seed Model - LLM",
+        "source": "vanshb03",
+        "id": "18498b53-3088-429c-a1d0-62c7b5016c9a",
+        "date_posted": 1793519707,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793519782,
+        "url": "https://go.vansh.nyc/143",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "Software Engineer Intern, Global Traffic Architecture",
+        "source": "vanshb03",
+        "id": "c29e21f9-9130-476f-9a69-08a80c72c82e",
+        "date_posted": 1793519707,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793519782,
+        "url": "https://go.vansh.nyc/144",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "Machine Learning Engineer Intern, AML-Engine-Orchestration",
+        "source": "vanshb03",
+        "id": "b276cdc5-171f-4720-88d0-1edd9a46e164",
+        "date_posted": 1793519707,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793519782,
+        "url": "https://go.vansh.nyc/145",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "Site Reliability Engineer Intern, Data Infra",
+        "source": "vanshb03",
+        "id": "51ee281f-0898-4986-9017-6c8aab5ba53f",
+        "date_posted": 1793519707,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793519782,
+        "url": "https://go.vansh.nyc/146",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "Software Engineer Intern, Traffic Infrastructure",
+        "source": "vanshb03",
+        "id": "e9d59096-5343-432d-b1a7-dda008785d92",
+        "date_posted": 1793519707,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793519782,
+        "url": "https://go.vansh.nyc/147",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "Visual Generation & Multimodal Evaluation Machine Learning Engineer Intern, AML-Ark-US",
+        "source": "vanshb03",
+        "id": "d604b8ba-5a04-4635-8adb-6d26cb65c23b",
+        "date_posted": 1793519707,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793519782,
+        "url": "https://go.vansh.nyc/148",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "Student Researcher Intern, Seed Model - Infra - Compiler",
+        "source": "vanshb03",
+        "id": "e0ce5722-41f6-40fc-99e2-905613b6c120",
+        "date_posted": 1793519707,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793519782,
+        "url": "https://go.vansh.nyc/149",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "Agent Evaluation & Evolution Machine Learning Engineer Intern, AML-Ark-US",
+        "source": "vanshb03",
+        "id": "cbdb2ada-24f0-4f0d-aef7-1d657569553a",
+        "date_posted": 1793519707,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793519782,
+        "url": "https://go.vansh.nyc/14a",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "Software Engineer Project Intern, Developer Infrastructure",
+        "source": "vanshb03",
+        "id": "87742006-a6d1-45f2-b904-7a3d2d221d5e",
+        "date_posted": 1793519707,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793519782,
+        "url": "https://go.vansh.nyc/14b",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "Multi-Cloud CDN Data Platform Engineer Intern, Global Engineering CDN",
+        "source": "vanshb03",
+        "id": "bbb95dd8-96d7-4c80-92d5-085115d6a607",
+        "date_posted": 1793519707,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1793519782,
+        "url": "https://go.vansh.nyc/14c",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "Data Lake Infrastructure & Data Analytics Research Engineer Intern, AML-Ark-US",
+        "source": "vanshb03",
+        "id": "d06d81e6-26db-49c5-a2d4-3e1dd3d7e7b5",
+        "date_posted": 1793519707,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793519782,
+        "url": "https://go.vansh.nyc/14d",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "Software Engineer Intern, Relational Database",
+        "source": "vanshb03",
+        "id": "8bef4b8f-d12d-4b1f-9eeb-12df777a2d81",
+        "date_posted": 1793519707,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793519782,
+        "url": "https://go.vansh.nyc/14e",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "Production System Engineer Project Intern, Server DevOps",
+        "source": "vanshb03",
+        "id": "abc3d2e8-beae-44a2-85bc-404d7bfe54b9",
+        "date_posted": 1793519707,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793519782,
+        "url": "https://go.vansh.nyc/14f",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "Agent Evaluation & Evolution Machine Learning Engineer Intern, AML-Ark-US",
+        "source": "vanshb03",
+        "id": "900a8436-fcc5-4813-83a3-1e4425c344b0",
+        "date_posted": 1793519707,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793519782,
+        "url": "https://go.vansh.nyc/14g",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "Software Engineer Intern, AML-Engine-Orchestration",
+        "source": "vanshb03",
+        "id": "a32f24df-0e88-46e8-bfb5-5ea79964ba49",
+        "date_posted": 1793519707,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793519782,
+        "url": "https://go.vansh.nyc/14h",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "Data Lake Infrastructure & Data Analytics Research Engineer Intern, AML-Ark-US",
+        "source": "vanshb03",
+        "id": "dd7eaf5e-a726-477f-b614-ddb6fb5d126b",
+        "date_posted": 1793519707,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793519782,
+        "url": "https://go.vansh.nyc/14i",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "Software Engineer Intern, AML-Engine-Orchestration",
+        "source": "vanshb03",
+        "id": "2ba860c0-0191-49a5-ba9c-ac511a7081ff",
+        "date_posted": 1793519707,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793519782,
+        "url": "https://go.vansh.nyc/14j",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "Production System Engineer Project Intern, Server DevOps",
+        "source": "vanshb03",
+        "id": "bbf32155-d92b-496e-bfcc-01429fb8a895",
+        "date_posted": 1793519707,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793519782,
+        "url": "https://go.vansh.nyc/14k",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "Software Engineer Intern, Global Payment - Risk & Compliance",
+        "source": "vanshb03",
+        "id": "b399a2c9-75df-4a08-9792-35d6caba40ee",
+        "date_posted": 1793519707,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793519782,
+        "url": "https://go.vansh.nyc/14l",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "Software Engineer Intern, CIS Knowledge Bank",
+        "source": "vanshb03",
+        "id": "d8f8b13d-cae9-42d3-9afb-363f4bf686fe",
+        "date_posted": 1793519707,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1793519782,
+        "url": "https://go.vansh.nyc/14m",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "Visual Generation & Multimodal Evaluation Machine Learning Engineer Intern, AML-Ark-US",
+        "source": "vanshb03",
+        "id": "f3c22616-f851-483c-a26b-8c838adb39de",
+        "date_posted": 1793519707,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793519782,
+        "url": "https://go.vansh.nyc/14n",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "Software Engineer Intern, Global Payment",
+        "source": "vanshb03",
+        "id": "414e8017-6930-4502-9f49-68760076ea02",
+        "date_posted": 1793519707,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793519782,
+        "url": "https://go.vansh.nyc/14o",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "AI Infrastructure Engineer Intern, Compute Efficiency & Scheduling",
+        "source": "vanshb03",
+        "id": "d7be171c-d4b9-4086-a3a5-e2bc13f5cc81",
+        "date_posted": 1793519707,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793519782,
+        "url": "https://go.vansh.nyc/14p",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "Site Reliability Engineer Intern, Data Infra",
+        "source": "vanshb03",
+        "id": "8782765b-9a71-4b07-902d-ce537071b235",
+        "date_posted": 1793519707,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1793519782,
+        "url": "https://go.vansh.nyc/14q",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "Multi-Cloud CDN Scheduling Platform Engineer Intern, CDN Platform",
+        "source": "vanshb03",
+        "id": "50df2ff8-993c-43fb-b435-523ad5409b9a",
+        "date_posted": 1793519707,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793519782,
+        "url": "https://go.vansh.nyc/14r",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "AI Infrastructure Engineer Intern, Compute Efficiency & Scheduling",
+        "source": "vanshb03",
+        "id": "ab59bf24-63d2-427c-97de-cd6ca1bce1d1",
+        "date_posted": 1793519707,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793519782,
+        "url": "https://go.vansh.nyc/14s",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "Student Researcher Intern, Seed Model - AI Foundation Model Infrastructure",
+        "source": "vanshb03",
+        "id": "82762d3a-0932-49be-87ba-52df68f29ed5",
+        "date_posted": 1793519707,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793519782,
+        "url": "https://go.vansh.nyc/14t",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "Site Reliability Engineer Intern, Data Infra",
+        "source": "vanshb03",
+        "id": "7366f340-ed47-4c67-9860-66e11e8e957a",
+        "date_posted": 1793519707,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793519782,
+        "url": "https://go.vansh.nyc/14u",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "ASIC Design Engineer Intern, Video Silicon IP",
+        "source": "vanshb03",
+        "id": "94c780df-931b-4ae8-8c96-911459918401",
+        "date_posted": 1793519707,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793519782,
+        "url": "https://go.vansh.nyc/14v",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "Network Security Software Engineer Intern, Security Engineering",
+        "source": "vanshb03",
+        "id": "8d482aa2-eb06-42e8-9422-10dd0e96245a",
+        "date_posted": 1793519707,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1793519782,
+        "url": "https://go.vansh.nyc/14w",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "Self-Built Engineer Intern, CDN Platform",
+        "source": "vanshb03",
+        "id": "0caf336d-8cb0-4e1f-bf6c-4569c7faf9f1",
+        "date_posted": 1793519707,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793519782,
+        "url": "https://go.vansh.nyc/14x",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "Network Software Development Engineer Intern, Network Observation",
+        "source": "vanshb03",
+        "id": "8cb421ed-18d3-4dd2-8f75-933849389c04",
+        "date_posted": 1793519707,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793519782,
+        "url": "https://go.vansh.nyc/14y",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "Network Software Development Engineer Intern, Network Switch",
+        "source": "vanshb03",
+        "id": "9f38f5c8-c1c7-4179-847c-f7f1bffac88c",
+        "date_posted": 1793519707,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793519782,
+        "url": "https://go.vansh.nyc/14z",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "Software Engineer Intern, Global Payment Infra and SRE",
+        "source": "vanshb03",
+        "id": "e97df200-7e97-4b4b-9613-95ab602f3df1",
+        "date_posted": 1793519707,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793519782,
+        "url": "https://go.vansh.nyc/14A",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "Machine Learning Engineer Project Intern, Security-Data",
+        "source": "vanshb03",
+        "id": "01772d2f-7791-4f3a-b93a-c8cf4c84dbef",
+        "date_posted": 1793519707,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793519782,
+        "url": "https://go.vansh.nyc/14B",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "Security Software Engineer Project Intern, Network Security",
+        "source": "vanshb03",
+        "id": "da4b62c2-0201-492b-af09-45a89f71e3a1",
+        "date_posted": 1793519707,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793519782,
+        "url": "https://go.vansh.nyc/14C",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "Software Engineer Project Intern, Security-Data",
+        "source": "vanshb03",
+        "id": "f4ed21f1-aaf3-4817-82c8-8470624be98a",
+        "date_posted": 1793519707,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793519782,
+        "url": "https://go.vansh.nyc/14D",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "Site Reliability Engineer Intern, Data Infra",
+        "source": "vanshb03",
+        "id": "fdfb7a57-75ee-44f6-9eb5-e4388ed3733c",
+        "date_posted": 1793519707,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
     }
 ]
