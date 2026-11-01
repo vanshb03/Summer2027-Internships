@@ -325,6 +325,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Rivian | Engineering Co-op, Software Test 🛂 | Torrance, CA | <a href="https://go.vansh.nyc/JS?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
 | Vanguard | Co-op, Multiple Teams | Dallas, TX | <a href="https://go.vansh.nyc/IB?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 16 |
 | Insulet Corporation | Embedded Software Test Engineering Co-op 🛂 | Acton, MA | <a href="https://go.vansh.nyc/Ne?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 15 |
+| Google | Student Researcher Intern | Waterloo, Canada</br>Toronto, Canada | <a href="https://go.vansh.nyc/15I?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 14 |
 | Geotab | Embedded Developer Intern, Engine Data Reliability | Oakville, Canada | <a href="https://go.vansh.nyc/MF?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 10 |
 | Insulet Corporation | Embedded Software Engineering Co-op | Acton, MA | <a href="https://go.vansh.nyc/MC?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 09 |
 | Domino Data Lab | Forward Deployed Engineer Intern | New York, NY | <a href="https://go.vansh.nyc/Qk?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 09 |
