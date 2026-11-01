@@ -40861,5 +40861,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1793522814,
+        "url": "https://joinbytedance.com/search/7625759034518128901",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "Security Engineering Project Intern, Watermark",
+        "source": "vanshb03",
+        "id": "e5652882-aec5-42d2-8f07-03fd3b22499e",
+        "date_posted": 1793519707,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
