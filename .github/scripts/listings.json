@@ -42483,5 +42483,56 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793552864,
+        "url": "https://go.vansh.nyc/18T",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Sycamore",
+        "title": "Member of Technical Staff Intern, Infrastructure",
+        "source": "vanshb03",
+        "id": "aa399b12-0937-4b45-a85d-1b84792293ad",
+        "date_posted": 1792547577,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793552864,
+        "url": "https://go.vansh.nyc/18U",
+        "locations": [
+            "Charlotte, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Siemens Digital Industries Software",
+        "title": "Strategic Student Program Digital Enterprise Software Applications Intern",
+        "source": "vanshb03",
+        "id": "d14bf5ce-7282-42ad-9da4-cd9353a43d5e",
+        "date_posted": 1793552751,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793552864,
+        "url": "https://go.vansh.nyc/18V",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Siemens Digital Industries Software",
+        "title": "Strategic Student Program Digital Enterprise Software Applications Intern",
+        "source": "vanshb03",
+        "id": "43845ad7-0e3a-4fc4-bd83-41d4d02f9f2c",
+        "date_posted": 1793552751,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
