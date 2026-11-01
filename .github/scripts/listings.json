@@ -42534,5 +42534,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793554900,
+        "url": "https://www.google.com/about/careers/applications/jobs/results/104405499448828614",
+        "locations": [
+            "Montreal, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Google",
+        "title": "Student Researcher Intern",
+        "source": "vanshb03",
+        "id": "4487c792-abf4-49aa-a99c-1f5912d3e3be",
+        "date_posted": 1789389598,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
