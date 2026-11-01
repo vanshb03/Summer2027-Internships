@@ -112,7 +112,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Hewlett Packard Enterprise | Software Engineering Intern | Sunnyvale, CA | <a href="https://go.vansh.nyc/111?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | GTI Energy | Data Science Intern | Des Plaines, IL | <a href="https://go.vansh.nyc/12t?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | Genesis Molecular AI | Software Engineer Intern | San Mateo, CA | <a href="https://go.vansh.nyc/12U?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
-| General Intuition &amp; Medal | Technical Intern | New York, NY | <a href="https://go.vansh.nyc/12T?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
+| General Intuition & Medal | Technical Intern | New York, NY | <a href="https://go.vansh.nyc/12T?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | General Dynamics Mission Systems | DevOps Engineer Intern 🇺🇸 | Pittsburgh, PA | <a href="https://go.vansh.nyc/12S?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | GCM Grosvenor | Cybersecurity Intern | Chicago, IL | <a href="https://go.vansh.nyc/10U?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | GardaWorld | Infrastructure Engineer Intern | Wayzata, MN | <a href="https://go.vansh.nyc/10Z?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
