@@ -43858,5 +43858,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1793660574,
+        "url": "https://www.tesla.com/careers/search/job/284275",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Residential Energy Device Software Engineer Intern, Energy Engineering",
+        "source": "vanshb03",
+        "id": "c450d8f4-e995-4625-8c8a-5a952a6c5df3",
+        "date_posted": 1793660574,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
