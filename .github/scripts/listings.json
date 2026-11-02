@@ -42762,5 +42762,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793624929,
+        "url": "https://go.vansh.nyc/19b",
+        "locations": [
+            "Montreal, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tecsys",
+        "title": "Developer Intern",
+        "source": "vanshb03",
+        "id": "28ca0c29-c9cc-40b0-aca8-860c40d245d8",
+        "date_posted": 1793624787,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
