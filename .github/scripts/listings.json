@@ -44623,5 +44623,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1793661261,
+        "url": "https://www.tesla.com/careers/search/job/281473",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Software Engineer Intern, Information Security",
+        "source": "vanshb03",
+        "id": "d27ecc7f-76bc-40a3-9028-c525f8ff16cf",
+        "date_posted": 1793661261,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
