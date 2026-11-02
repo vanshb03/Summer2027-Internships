@@ -33441,14 +33441,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793119022,
+        "date_updated": 1793632193,
         "url": "https://go.vansh.nyc/VU",
         "locations": [
             "Remote",
             "United States"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "GuidePoint Security",
         "title": "Cybersecurity Intern",
         "source": "vanshb03",
@@ -42828,6 +42828,57 @@
         "source": "vanshb03",
         "id": "4431d7a0-b59f-483d-b7f9-3e4cd03a27d5",
         "date_posted": 1793577600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793631974,
+        "url": "https://go.vansh.nyc/19i",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "The Federal Reserve System",
+        "title": "Supervision & Regulation Intern, Cybersecurity",
+        "source": "vanshb03",
+        "id": "d0e5f76e-a4a0-4811-9772-18ac628602ab",
+        "date_posted": 1793631494,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793631974,
+        "url": "https://go.vansh.nyc/19j",
+        "locations": [
+            "Deerfield Beach, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "JM Family Enterprises",
+        "title": "AI Intern",
+        "source": "vanshb03",
+        "id": "f12d6e10-6735-48ec-9229-2bce85bd2a24",
+        "date_posted": 1793630534,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793631974,
+        "url": "https://go.vansh.nyc/19k",
+        "locations": [
+            "Shakopee, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Entrust",
+        "title": "AI Developer Intern",
+        "source": "vanshb03",
+        "id": "1769c5fa-41d7-4be5-b68b-3c3018e3ced9",
+        "date_posted": 1793630534,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
