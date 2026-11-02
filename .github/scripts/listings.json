@@ -43977,5 +43977,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1793660574,
+        "url": "https://www.tesla.com/careers/search/job/283274",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Software Engineer Intern, Camera & Robotics",
+        "source": "vanshb03",
+        "id": "2d306709-5135-46b8-876d-6b66331430a8",
+        "date_posted": 1793660574,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
