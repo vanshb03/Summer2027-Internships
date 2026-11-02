@@ -10074,13 +10074,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792261427,
+        "date_updated": 1793655571,
         "url": "https://go.vansh.nyc/9E",
         "locations": [
             "Morris Plains, NJ"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Cigna",
         "title": "Healthcare Analytics Intern",
         "source": "vanshb03",
@@ -21180,14 +21180,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793015500,
+        "date_updated": 1793655571,
         "url": "https://go.vansh.nyc/Eb",
         "locations": [
             "Morris Plains, NJ",
             "St. Louis, MO"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Cigna",
         "title": "Product Analytics Intern",
         "source": "vanshb03",
@@ -43311,6 +43311,57 @@
         "source": "vanshb03",
         "id": "eed3d58e-b287-4517-95ef-18eeacc3d02a",
         "date_posted": 1793652178,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1793655488,
+        "url": "https://go.vansh.nyc/19T",
+        "locations": [
+            "Durham, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Toshiba Commerce Solutions",
+        "title": "Agentic Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "53afdf62-2466-48fd-853a-fbf71468c02c",
+        "date_posted": 1793640371,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1793655488,
+        "url": "https://go.vansh.nyc/19U",
+        "locations": [
+            "Durham, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Toshiba Commerce Solutions",
+        "title": "AI Data Science & Business Analytics Intern",
+        "source": "vanshb03",
+        "id": "166320fa-a5ee-40c6-afeb-cb2cbb292446",
+        "date_posted": 1793640515,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1793655488,
+        "url": "https://go.vansh.nyc/19V",
+        "locations": [
+            "Frisco, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Toshiba Commerce Solutions",
+        "title": "Agentic Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "126149c3-3e29-42f6-9e56-6e17c2aef568",
+        "date_posted": 1793644101,
         "company_url": "",
         "is_visible": true,
         "season": "Spring"
