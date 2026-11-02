@@ -28342,13 +28342,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793024036,
+        "date_updated": 1793634085,
         "url": "https://go.vansh.nyc/N5",
         "locations": [
             "Omaha, NE"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Gallup",
         "title": "DevOps Engineer Intern",
         "source": "vanshb03",
@@ -32392,13 +32392,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793055913,
+        "date_updated": 1793634085,
         "url": "https://go.vansh.nyc/Tg",
         "locations": [
             "Inver Grove Heights, MN"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "CHS",
         "title": "Data Engineer Intern",
         "source": "vanshb03",
@@ -35040,13 +35040,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793221929,
+        "date_updated": 1793634085,
         "url": "https://go.vansh.nyc/Y1",
         "locations": [
             "Seattle, WA"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Sonos",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
@@ -37561,13 +37561,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793388957,
+        "date_updated": 1793634085,
         "url": "https://go.vansh.nyc/10Y",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "The New York Times",
         "title": "Backend Engineering Intern, Wirecutter",
         "source": "vanshb03",
@@ -42313,13 +42313,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793538336,
+        "date_updated": 1793634085,
         "url": "https://go.vansh.nyc/18J",
         "locations": [
             "Houston, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "C&S Wholesale Grocers",
         "title": "IS Intern, Web Applications",
         "source": "vanshb03",
@@ -42882,5 +42882,40 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793633723,
+        "url": "https://go.vansh.nyc/19l",
+        "locations": [
+            "Remote",
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "GE Aerospace",
+        "title": "Artificial Intelligence Intern",
+        "source": "vanshb03",
+        "id": "40b2be74-768f-4e16-8a3a-a3c7c3e340b2",
+        "date_posted": 1793577600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1793633723,
+        "url": "https://go.vansh.nyc/19m",
+        "locations": [
+            "Neenah, WI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Plexus",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "03c7b737-0949-4734-bfb7-765e6a674f05",
+        "date_posted": 1793577600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
     }
 ]
