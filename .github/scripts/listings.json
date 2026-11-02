@@ -19358,13 +19358,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1793009169,
+        "date_updated": 1793639360,
         "url": "https://go.vansh.nyc/BR",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "DocuSign",
         "title": "AI Platform Engineer Intern",
         "source": "vanshb03",
@@ -19375,13 +19375,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793009169,
+        "date_updated": 1793639360,
         "url": "https://go.vansh.nyc/BS",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "DocuSign",
         "title": "Agentic AI Engineer Intern",
         "source": "vanshb03",
@@ -19409,13 +19409,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793009169,
+        "date_updated": 1793639360,
         "url": "https://go.vansh.nyc/BU",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "DocuSign",
         "title": "Software Developer Intern",
         "source": "vanshb03",
@@ -21972,13 +21972,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1793015500,
+        "date_updated": 1793639360,
         "url": "https://go.vansh.nyc/EU",
         "locations": [
             "Atlanta, GA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Alston & Bird Law Firm",
         "title": "Developer Intern",
         "source": "vanshb03",
@@ -42931,6 +42931,23 @@
         "source": "vanshb03",
         "id": "cb0fab96-f9fb-4139-a833-be75bb3b164b",
         "date_posted": 1793627760,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793639154,
+        "url": "https://go.vansh.nyc/19p",
+        "locations": [
+            "Holtsville, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zebra Technologies",
+        "title": "Software/AI Engineer Intern, Handheld Mobile Computers",
+        "source": "vanshb03",
+        "id": "bee8fd96-6c30-4868-a1e2-fe903502a36d",
+        "date_posted": 1793638254,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
