@@ -43569,5 +43569,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1793660574,
+        "url": "https://www.tesla.com/careers/search/job/287024",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "SoC Firmware Engineer Intern, SI Hardware Infrastructure",
+        "source": "vanshb03",
+        "id": "e8667c6e-f218-4d9a-bb11-68c8eee8b537",
+        "date_posted": 1793660574,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
