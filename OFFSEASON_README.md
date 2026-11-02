@@ -147,7 +147,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Symbotic | Machine Learning Ops Co-op | Wilmington, MA | <a href="https://go.vansh.nyc/f4?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | Stand Together | Data Analyst Intern, Open the Books | United States | <a href="https://go.vansh.nyc/ft?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | KION Group | Software Analytics Co-op | Grand Rapids, MI | <a href="https://go.vansh.nyc/f3?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
-| GuidePoint Security | Cybersecurity Intern | Remote</br>United States | <a href="https://go.vansh.nyc/VU?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | Formlabs | Manufacturing Test Software Intern | Somerville, MA | <a href="https://go.vansh.nyc/f2?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | Ciena | Software Developer Intern | Ottawa, Canada | <a href="https://go.vansh.nyc/f1?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | Amazon.com Services LLC | System Development Engineer Co-op, Robotics | North Reading, MA | <a href="https://go.vansh.nyc/i1?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
@@ -458,6 +457,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Nutanix | Software Developer Co-op | Vancouver, BC, Canada | 🔒 | Oct 22 |
 | Marvell | Design Verification Intern | Toronto, Canada | 🔒 | Oct 22 |
 | Ivalua | Marketing Web Developer Intern | New York, NY | 🔒 | Oct 22 |
+| GuidePoint Security | Cybersecurity Intern | Remote</br>United States | 🔒 | Oct 22 |
 | Amazon | Hardware Development Engineer Intern | Bellevue, WA | 🔒 | Oct 22 |
 | ↳ | Embedded Firmware Co-op | North Reading, MA</br>Westborough, MA | 🔒 | Oct 22 |
 | ↳ | Systems Development Engineer Intern | Bellevue, WA | 🔒 | Oct 22 |
