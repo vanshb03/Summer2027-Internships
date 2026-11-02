@@ -51,8 +51,14 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Tecsys | Developer Intern | Montreal, Canada | <a href="https://go.vansh.nyc/19b?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | T-Mobile | Software Engineering Intern | Philadelphia, PA | <a href="https://go.vansh.nyc/19q?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | ↳ | Software Engineering Intern | New York, NY | <a href="https://go.vansh.nyc/19r?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
-| Microsoft | Software Engineer Intern, CoreAI | Redmond, WA | <a href="https://go.vansh.nyc/19t?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
-| JM Family Enterprises | AI Intern | Deerfield Beach, FL | <a href="https://go.vansh.nyc/19j?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
+| Sierra Nevada Corporation | DevOps Engineer Intern 🇺🇸 | Southern Pines, NC | <a href="https://go.vansh.nyc/19u?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
+| ↳ | Software Engineer Intern 🇺🇸 | Southern Pines, NC | <a href="https://go.vansh.nyc/19v?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
+| Northrop Grumman | Engineering Software and Analysis Intern 🇺🇸 | Sunnyvale, CA | <a href="https://go.vansh.nyc/19x?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
+| Microsoft | Software Engineer Intern | Aliso Viejo, CA | <a href="https://go.vansh.nyc/19z?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
+| ↳ | Software Engineer Intern, CoreAI | Redmond, WA | <a href="https://go.vansh.nyc/19t?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
+| JM Family Enterprises | Offensive Security Intern | Deerfield Beach, FL | <a href="https://go.vansh.nyc/19y?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
+| ↳ | AI Intern | Deerfield Beach, FL | <a href="https://go.vansh.nyc/19j?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
+| Intuitive | Data Science Intern | Sunnyvale, CA | <a href="https://go.vansh.nyc/19w?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | First Citizens BancShares | Data Analyst Intern, Enterprise Data Products | Raleigh, NC | <a href="https://go.vansh.nyc/19n?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | Entrust | AI Developer Intern | Shakopee, MN | <a href="https://go.vansh.nyc/19k?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | CoStar Group | Data Science Intern | Richmond, VA | <a href="https://go.vansh.nyc/19c?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
