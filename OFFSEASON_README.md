@@ -376,7 +376,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | SpaceX | Software Engineer Intern, Fleet Health Instrumentation 🇺🇸 | Remote | <a href="https://go.vansh.nyc/6J?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 06 |
 | Yotta Labs | Research Engineer Intern | Remote | <a href="https://go.vansh.nyc/5V?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 04 |
 | Bot Auto | Deep Learning Engineer Intern | Houston, TX | <a href="https://go.vansh.nyc/5P?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 04 |
-| Tesla | Software Compiler Engineer Intern, AI Inference | Palo Alto, CA | <a href="https://go.vansh.nyc/5E?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 03 |
 | Touchdown Labs | Member of Technical Staff Intern | San Francisco, CA | <a href="https://go.vansh.nyc/5c?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 28 |
 | Rendezvous Robotics | Software Engineering Intern, Spring 2027 🇺🇸 | Golden, CO | <a href="https://go.vansh.nyc/5h?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 28 |
 | Mathtech | Web Application Developer Intern 🇺🇸 | Falls Church, VA | <a href="https://go.vansh.nyc/53?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
@@ -385,7 +384,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Anthelion Capital | Quant Developer / Quant Research Intern 🇺🇸 | New York City, NY | <a href="https://go.vansh.nyc/4L?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 26 |
 | TransMarket Group | DevOps/SRE Intern | Chicago, IL | <a href="https://go.vansh.nyc/4B?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | ↳ | Quantitative Trader Intern | Chicago, IL | <a href="https://go.vansh.nyc/4A?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
-| Tesla | Localization Specialist Intern | Fremont, CA | <a href="https://go.vansh.nyc/3w?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | ShyftLabs | AI Engineer Intern | Toronto, Canada | <a href="https://go.vansh.nyc/3I?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | Phonely | Software Engineer Intern | San Francisco, CA | <a href="https://go.vansh.nyc/3O?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | Palantir Technologies | Software Engineer Intern, Production Infrastructure | New York, NY | <a href="https://go.vansh.nyc/4s?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
@@ -401,40 +399,13 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Software Engineer Intern | San Francisco, CA | <a href="https://go.vansh.nyc/3x?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | Fullscript | Software Developer Co-op | Ottawa, Canada | <a href="https://go.vansh.nyc/GV?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 22 |
 | GeoComply | Browser Security Engineer Intern | Vancouver, Canada | <a href="https://go.vansh.nyc/QA?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 09 |
-| Tesla | Software Engineer Intern, Service Engineering | Palo Alto, CA | <a href="https://go.vansh.nyc/2v?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 11 |
-| Tesla | Software Engineer Intern, Update Systems | Palo Alto, CA | <a href="https://go.vansh.nyc/2o?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 09 |
-| ↳ | Software Engineer Intern, Maps & Navigation Validation | Palo Alto, CA | <a href="https://go.vansh.nyc/2n?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 09 |
-| ↳ | Embedded Software Engineer Intern, Keys & Authentication | Palo Alto, CA | <a href="https://go.vansh.nyc/2m?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 09 |
-| ↳ | Software Engineer Intern, Vehicle UI Development | Palo Alto, CA | <a href="https://go.vansh.nyc/2l?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 09 |
-| ↳ | Software Developer Intern, Integration Platforms | Palo Alto, CA | <a href="https://go.vansh.nyc/2k?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 09 |
-| Tesla | Software Engineer Intern, Vehicle Engineering | Palo Alto, CA</br>Fremont, CA | <a href="https://go.vansh.nyc/1E?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 20 |
 | Pinterest | Machine Learning Intern, PhD | <details><summary>**4 locations**</summary>San Francisco, CA</br>Palo Alto, CA</br>Seattle, WA</br>New York, NY</details> | <a href="https://go.vansh.nyc/1C?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 20 |
 | ↳ | Software Engineer Intern | Toronto, Canada | <a href="https://go.vansh.nyc/1s?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 20 |
 | PathAI | Machine Learning Intern, AI Product and ML Core | Boston, MA</br>New York, NY</br>Remote | <a href="https://go.vansh.nyc/1A?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 20 |
 | Mesh Optical Technologies | Associate Software Engineer Co-op | Gardena, CA | <a href="https://go.vansh.nyc/BQ?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 16 |
-| Tesla | Software Engineer Intern, Information Security | Bellevue, WA | <a href="https://go.vansh.nyc/14?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
-| ↳ | Software Engineer Intern, Service Engineering | Palo Alto, CA | <a href="https://go.vansh.nyc/13?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | Pinterest | Software Engineer Intern | Toronto, Canada | <a href="https://go.vansh.nyc/Y?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 24 |
-| Tesla | Fullstack C++ Engineer Intern, Vehicle User Interface | Palo Alto, CA | <a href="https://go.vansh.nyc/X?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 23 |
 | Colgate-Palmolive | Software Development Intern | Piscataway, NJ | <a href="https://go.vansh.nyc/U?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
-| Tesla | Software Integration Engineer Intern, Energy Engineering | Palo Alto, CA | <a href="https://go.vansh.nyc/T?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 11 |
-| Tesla | Software Engineer Intern, Factory Software | Fremont, CA | <a href="https://go.vansh.nyc/S?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 30 |
-| Tesla | Software Machine Learning Engineer Intern, Reliability Energy Engineering | Palo Alto, CA | <a href="https://go.vansh.nyc/N?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 21 |
-| ↳ | Commercial UI Software Engineer Intern, Energy Engineering | Palo Alto, CA | <a href="https://go.vansh.nyc/M?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 21 |
 | Shopify | Engineering and Data Intern | Remote</br>Canada | <a href="https://go.vansh.nyc/G?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 19 |
-| Tesla | Software Engineer Intern, Linux Update Systems | Palo Alto, CA | <a href="https://go.vansh.nyc/D?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 15 |
-| ↳ | Software Engineer Intern, Update Systems | Palo Alto, CA | <a href="https://go.vansh.nyc/C?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 15 |
-| ↳ | System Software Engineer Intern, System Software | Palo Alto, CA | <a href="https://go.vansh.nyc/B?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 15 |
-| Tesla | Software Engineer Intern, Maps & Self-Driving Navigation | Palo Alto, CA | <a href="https://go.vansh.nyc/A?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 13 |
-| ↳ | Backend Software Engineer Intern, Diagnostics | Palo Alto, CA</br>Austin, TX | <a href="https://go.vansh.nyc/z?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 13 |
-| Tesla | Charging Distributed Systems Software Engineer Intern, Energy Engineering | Palo Alto, CA | <a href="https://go.vansh.nyc/y?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 09 |
-| Tesla | Chassis Integration Engineer Intern, Vehicle Firmware | Palo Alto, CA | <a href="https://go.vansh.nyc/u?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 08 |
-| ↳ | Software Integration Engineer Intern, AI Platforms | Palo Alto, CA | <a href="https://go.vansh.nyc/t?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 08 |
-| ↳ | Software Compiler Engineer Intern, AI Inference | Palo Alto, CA | <a href="https://go.vansh.nyc/s?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 08 |
-| ↳ | C++ Software Engineer Intern, Systems, AI | Palo Alto, CA | <a href="https://go.vansh.nyc/r?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 08 |
-| ↳ | Chassis Validation Engineer Intern, Vehicle Firmware | Palo Alto, CA | <a href="https://go.vansh.nyc/q?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 08 |
-| Tesla | Machine Learning Engineer Intern, Noise Vibration Harshness Engineering | Fremont, CA | <a href="https://go.vansh.nyc/p?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 02 |
-| ↳ | Automation Development & Tooling Engineer Intern | Brooklyn Park, MN</br>Elgin, IL</br>Grand Rapids, MI | <a href="https://go.vansh.nyc/o?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 02 |
 | General Magic | AI Engineer Co-op | Toronto, Canada | 🔒 | Oct 30 |
 | ↳ | Backend Engineer Co-op | Toronto, Canada | 🔒 | Oct 30 |
 | Fresenius Medical Care | Software Engineering Co-op | Lawrence, MA | 🔒 | Oct 30 |
@@ -548,6 +519,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | NVIDIA | Software Engineering Intern, Dynamo | Santa Clara, CA | 🔒 | Aug 06 |
 | Canva | PhD Research Scientist Intern | San Francisco, CA | 🔒 | Aug 06 |
 | Canadian Tire Corporation, Limited | AI Automation Student | Calgary, AB | 🔒 | Aug 06 |
+| Tesla | Software Compiler Engineer Intern, AI Inference | Palo Alto, CA | 🔒 | Aug 03 |
 | Postman | AI Engineer Intern | Berkeley, CA | 🔒 | Aug 03 |
 | Astera | Software Engineering Intern, Neuro & AGI 🛂 | Emeryville, CA | 🔒 | Aug 03 |
 | SK Hynix Memory Solution | Software Engineer Intern | San Jose, CA | 🔒 | Jul 31 |
@@ -571,6 +543,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Sentara Health | Data & AI Finance Strategy Intern | Virginia Beach, VA | 🔒 | Jul 26 |
 | Pony.ai | Software Engineer Intern | Fremont, CA | 🔒 | Jul 26 |
 | Moog | Software Engineer Intern | Buffalo, NY | 🔒 | Jul 26 |
+| Tesla | Localization Specialist Intern | Fremont, CA | 🔒 | Jul 24 |
 | SPREEAI | Software Engineer Intern, AI Infrastructure / Training / Inference | San Francisco, CA | 🔒 | Jul 24 |
 | ↳ | Mobile Software Engineer Intern | San Francisco, CA | 🔒 | Jul 24 |
 | Palantir Technologies | Forward Deployed Software Engineer Intern | Washington, D.C. | 🔒 | Jul 24 |
@@ -602,7 +575,13 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | NVIDIA | Systems Software Engineer Intern, Metropolis | Santa Clara, CA | 🔒 | May 14 |
 | GoodRx | AI Agent Developer Intern | New York City, NY | 🔒 | May 12 |
 | BMO | Machine Learning Intern | Chicago, IL | 🔒 | May 12 |
+| Tesla | Software Engineer Intern, Service Engineering | Palo Alto, CA | 🔒 | May 11 |
 | Uber | Software Engineering Intern | San Francisco, CA | 🔒 | May 09 |
+| Tesla | Software Developer Intern, Integration Platforms | Palo Alto, CA | 🔒 | May 09 |
+| ↳ | Software Engineer Intern, Vehicle UI Development | Palo Alto, CA | 🔒 | May 09 |
+| ↳ | Embedded Software Engineer Intern, Keys & Authentication | Palo Alto, CA | 🔒 | May 09 |
+| ↳ | Software Engineer Intern, Maps & Navigation Validation | Palo Alto, CA | 🔒 | May 09 |
+| ↳ | Software Engineer Intern, Update Systems | Palo Alto, CA | 🔒 | May 09 |
 | Snowflake | Software Engineer Intern, Database Engineering | Menlo Park, CA | 🔒 | May 09 |
 | ↳ | Software Engineer Intern, Infrastructure Automation | Menlo Park, CA</br>Bellevue, WA | 🔒 | May 09 |
 | ↳ | Software Engineer Intern (Core Engineering) | Menlo Park, CA</br>Bellevue, WA | 🔒 | May 09 |
@@ -620,6 +599,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Atomic Semi | Software Engineering Intern, Fab | Austin, TX</br>San Francisco, CA | 🔒 | Apr 22 |
 | ↳ | Infrastructure Software Engineering Intern | San Francisco, CA</br>Austin, TX | 🔒 | Apr 22 |
 | TikTok | Software Engineer Intern, Recommendation Infrastructure | Seattle, WA | 🔒 | Apr 20 |
+| Tesla | Software Engineer Intern, Vehicle Engineering | Palo Alto, CA</br>Fremont, CA | 🔒 | Apr 20 |
 | SpaceX | Engineering Intern 🇺🇸 | <details><summary>**8 locations**</summary>Bastrop, TX</br>Cape Canaveral, FL</br>Hawthorne, CA</br>Irvine, CA</br>McGregor, TX</br>Redmond, WA</br>Starbase, TX</br>Vandenberg, CA</details> | 🔒 | Apr 20 |
 | ↳ | Software Engineering Intern 🇺🇸 | <details><summary>**8 locations**</summary>Bastrop, TX</br>Cape Canaveral, FL</br>Hawthorne, CA</br>Irvine, CA</br>McGregor, TX</br>Redmond, WA</br>Starbase, TX</br>Sunnyvale, CA</details> | 🔒 | Apr 20 |
 | NBCUniversal | Software Engineering Intern 🛂 | Universal City, CA | 🔒 | Apr 20 |
@@ -635,27 +615,47 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Ciena | WaveLogic Software Intern | Atlanta | 🔒 | Nov 17 |
 | Rivian and Volkswagen Group Technologies | Software Engineer Intern, 3D | Palo Alto, CA | 🔒 | Nov 01 |
 | ↳ | Engineering Intern, Embedded Hardware, Vehicle Networking & Audio | Palo Alto, CA | 🔒 | Nov 01 |
+| Tesla | Software Engineer Intern, Service Engineering | Palo Alto, CA | 🔒 | Oct 30 |
+| ↳ | Software Engineer Intern, Information Security | Bellevue, WA | 🔒 | Oct 30 |
 | Rivian and Volkswagen Group Technologies | Software Engineering Intern, OTA Integration | Palo Alto, CA | 🔒 | Oct 30 |
 | Scale AI | Technical Advisor Intern, GenAI | San Francisco, CA | 🔒 | Oct 22 |
 | Figure | Helix AI Intern, Speech | San Jose, CA | 🔒 | Oct 22 |
 | Herdora | Member Of Technical Staff Intern | San Francisco, CA | 🔒 | Oct 13 |
 | Amazon | Software Development Engineer Intern | <details><summary>**46 locations**</summary>Phoenix, AZ</br>Tempe, AZ</br>Berkeley, CA</br>Culver City, CA</br>Cupertino, CA</br>East Palo Alto, CA</br>Irvine, CA</br>Los Angeles, CA</br>Manhattan Beach, CA</br>Palo Alto, CA</br>San Diego, CA</br>San Francisco, CA</br>San Jose, CA</br>San Luis Obispo, CA</br>Santa Barbara, CA</br>Santa Clara, CA</br>Santa Cruz, CA</br>Santa Monica, CA</br>Sunnyvale, CA</br>Boulder, CO</br>Denver, CO</br>Atlanta, GA</br>Kennesaw, GA</br>Chicago, IL</br>Boston, MA</br>Cambridge, MA</br>Hudson, MA</br>North Reading, MA</br>Westborough, MA</br>Baltimore, MD</br>Detroit, MI</br>Minneapolis, MN</br>Jersey City, NJ</br>New York, NY</br>Portland, OR</br>Philadelphia, PA</br>Pittsburgh, PA</br>Nashville, TN</br>Austin, TX</br>Dallas, TX</br>Arlington, VA</br>Herndon, VA</br>Madison, WI</br>Bellevue, WA</br>Seattle, WA</br>Redmond, WA</details> | 🔒 | Oct 04 |
+| Tesla | Fullstack C++ Engineer Intern, Vehicle User Interface | Palo Alto, CA | 🔒 | Sep 23 |
 | Figure | Firmware Engineer Intern | San Jose, CA | 🔒 | Sep 15 |
 | ETHGlobal | Software Engineering Intern | Remote | 🔒 | Sep 15 |
+| Tesla | Software Integration Engineer Intern, Energy Engineering | Palo Alto, CA | 🔒 | Sep 11 |
+| Tesla | Software Engineer Intern, Factory Software | Fremont, CA | 🔒 | Aug 30 |
 | Amazon | Business Intelligence Engineer Co-Op | Seattle, WA | 🔒 | Aug 27 |
 | NVIDIA | Embedded Systems Software Intern, Linux and Jetson | Santa Clara, CA | 🔒 | Aug 24 |
 | BitGo | Software Engineering Intern, Wallet Core | Waterloo, Canada | 🔒 | Aug 23 |
 | ↳ | Software Engineering Intern, HSM | Waterloo, Canada | 🔒 | Aug 23 |
+| Tesla | Commercial UI Software Engineer Intern, Energy Engineering | Palo Alto, CA | 🔒 | Aug 21 |
+| ↳ | Software Machine Learning Engineer Intern, Reliability Energy Engineering | Palo Alto, CA | 🔒 | Aug 21 |
 | Capital One | Mobile Software Engineer Intern, Capital One Travel | Toronto, Canada | 🔒 | Aug 20 |
 | ↳ | Full Stack Software Engineer Intern, Integrated Storefront | Toronto, Canada | 🔒 | Aug 20 |
 | ↳ | Backend Software Engineer Intern, Team Planet Express | Toronto, Canada | 🔒 | Aug 20 |
 | ↳ | Backend Software Engineer Intern, Customer Acquisitions | Toronto, Canada | 🔒 | Aug 20 |
 | ↳ | Full Stack Software Engineer Intern, Team Sprout | Toronto, Canada | 🔒 | Aug 20 |
 | Datadog | Software Engineering Intern | Boston, MA</br>New York, NY | 🔒 | Aug 18 |
+| Tesla | System Software Engineer Intern, System Software | Palo Alto, CA | 🔒 | Aug 15 |
+| ↳ | Software Engineer Intern, Update Systems | Palo Alto, CA | 🔒 | Aug 15 |
+| ↳ | Software Engineer Intern, Linux Update Systems | Palo Alto, CA | 🔒 | Aug 15 |
 | Atomic Semi | Embedded Software Engineering Intern | San Francisco, CA | 🔒 | Aug 15 |
+| Tesla | Backend Software Engineer Intern, Diagnostics | Palo Alto, CA</br>Austin, TX | 🔒 | Aug 13 |
+| ↳ | Software Engineer Intern, Maps & Self-Driving Navigation | Palo Alto, CA | 🔒 | Aug 13 |
+| Tesla | Charging Distributed Systems Software Engineer Intern, Energy Engineering | Palo Alto, CA | 🔒 | Aug 09 |
 | Notion | Software Engineer Intern | San Francisco, CA</br>New York, NY | 🔒 | Aug 09 |
 | ↳ | Software Engineer Intern, Mobile | San Francisco, CA</br>New York, NY | 🔒 | Aug 09 |
+| Tesla | Chassis Validation Engineer Intern, Vehicle Firmware | Palo Alto, CA | 🔒 | Aug 08 |
+| ↳ | C++ Software Engineer Intern, Systems, AI | Palo Alto, CA | 🔒 | Aug 08 |
+| ↳ | Software Compiler Engineer Intern, AI Inference | Palo Alto, CA | 🔒 | Aug 08 |
+| ↳ | Software Integration Engineer Intern, AI Platforms | Palo Alto, CA | 🔒 | Aug 08 |
+| ↳ | Chassis Integration Engineer Intern, Vehicle Firmware | Palo Alto, CA | 🔒 | Aug 08 |
 | Notion | Software Engineer, AI Intern | San Francisco, CA</br>New York, NY | 🔒 | Aug 08 |
+| Tesla | Automation Development & Tooling Engineer Intern | Brooklyn Park, MN</br>Elgin, IL</br>Grand Rapids, MI | 🔒 | Aug 02 |
+| ↳ | Machine Learning Engineer Intern, Noise Vibration Harshness Engineering | Fremont, CA | 🔒 | Aug 02 |
 | Five Rings | Software Developer Intern | New York, NY | 🔒 | Jul 16 |
 | Belvedere Trading | Quantitative Trading Intern 🛂 | Chicago, IL | 🔒 | Jul 14 |
 | Rippling | Frontend Software Engineer Intern | New York, NY</br>San Francisco, CA | 🔒 | Jun 06 |
