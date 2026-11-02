@@ -22108,13 +22108,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793015500,
+        "date_updated": 1793596361,
         "url": "https://go.vansh.nyc/F2",
         "locations": [
             "Cary, NC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "ABB",
         "title": "ERP Intern, AI Engineering",
         "source": "vanshb03",
@@ -22142,13 +22142,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1793015500,
+        "date_updated": 1793596361,
         "url": "https://go.vansh.nyc/F4",
         "locations": [
             "Cary, NC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "ABB",
         "title": "AI Engineering Intern, Business Systems",
         "source": "vanshb03",
@@ -28628,13 +28628,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793025667,
+        "date_updated": 1793596361,
         "url": "https://go.vansh.nyc/On",
         "locations": [
             "Hartford, CT"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "The Hartford",
         "title": "Software Engineer Intern, Tech & Data Program",
         "source": "vanshb03",
@@ -28645,13 +28645,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793025667,
+        "date_updated": 1793596361,
         "url": "https://go.vansh.nyc/Oo",
         "locations": [
             "Hartford, CT"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "The Hartford",
         "title": "Data Engineer Intern, Technology, Data, AI, and Operations",
         "source": "vanshb03",
@@ -39944,13 +39944,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1793491587,
+        "date_updated": 1793596361,
         "url": "https://go.vansh.nyc/13F",
         "locations": [
             "Lawrence, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Fresenius Medical Care",
         "title": "Software Engineering Co-op",
         "source": "vanshb03",
@@ -42645,13 +42645,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1793567142,
+        "date_updated": 1793596361,
         "url": "https://go.vansh.nyc/191",
         "locations": [
             "Clearwater, FL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "KnowBe4",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -42742,6 +42742,23 @@
         "source": "vanshb03",
         "id": "55e3ad48-8d83-4e3a-956a-1102208121e8",
         "date_posted": 1793491200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793596167,
+        "url": "https://go.vansh.nyc/199",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "First-Year Explore Program Engineering Intern",
+        "source": "vanshb03",
+        "id": "b06edbdc-b26a-48eb-9f2e-9e7a57956664",
+        "date_posted": 1793592567,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
