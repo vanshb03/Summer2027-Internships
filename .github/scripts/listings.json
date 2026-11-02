@@ -24308,13 +24308,13 @@
         "season": "Spring"
     },
     {
-        "date_updated": 1793016276,
+        "date_updated": 1793661023,
         "url": "https://go.vansh.nyc/H5",
         "locations": [
             "Las Vegas, NV"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TensorWave",
         "title": "Security Engineer Intern",
         "source": "vanshb03",
@@ -39687,13 +39687,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793491587,
+        "date_updated": 1793661023,
         "url": "https://go.vansh.nyc/13q",
         "locations": [
             "Las Vegas, NV"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TensorWave",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
