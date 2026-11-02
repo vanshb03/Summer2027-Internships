@@ -38933,13 +38933,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793491587,
+        "date_updated": 1793628562,
         "url": "https://go.vansh.nyc/12I",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Cohen & Steers",
         "title": "Associate Intern, Information Security",
         "source": "vanshb03",
@@ -41137,13 +41137,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1793526799,
+        "date_updated": 1793628562,
         "url": "https://go.vansh.nyc/17C",
         "locations": [
             "West Des Moines, IA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Farmers Mutual Hail",
         "title": "Data Architect Intern",
         "source": "vanshb03",
@@ -42776,6 +42776,58 @@
         "source": "vanshb03",
         "id": "28ca0c29-c9cc-40b0-aca8-860c40d245d8",
         "date_posted": 1793624787,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793628356,
+        "url": "https://go.vansh.nyc/19c",
+        "locations": [
+            "Richmond, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CoStar Group",
+        "title": "Data Science Intern",
+        "source": "vanshb03",
+        "id": "4cad3971-1fae-431d-b4b3-efca9dcf4b78",
+        "date_posted": 1793625896,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793628356,
+        "url": "https://go.vansh.nyc/19d",
+        "locations": [
+            "Cambridge, MA",
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lila Sciences",
+        "title": "Agentic and Generative Protein Design Co-op",
+        "source": "vanshb03",
+        "id": "fc6804c5-7d8c-457d-902b-16413a63096d",
+        "date_posted": 1793626736,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1793628505,
+        "url": "https://go.vansh.nyc/19e",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "ParetoHealth",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "4431d7a0-b59f-483d-b7f9-3e4cd03a27d5",
+        "date_posted": 1793577600,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
