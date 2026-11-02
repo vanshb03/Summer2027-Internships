@@ -31649,13 +31649,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793033120,
+        "date_updated": 1793657365,
         "url": "https://go.vansh.nyc/St",
         "locations": [
             "Fremont, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Seagate Technology",
         "title": "Recording Media R&D Intern, AI & Data Science",
         "source": "vanshb03",
@@ -43365,5 +43365,39 @@
         "company_url": "",
         "is_visible": true,
         "season": "Spring"
+    },
+    {
+        "date_updated": 1793657150,
+        "url": "https://go.vansh.nyc/19W",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Aerospace Corporation",
+        "title": "Software Engineering Undergrad Intern",
+        "source": "vanshb03",
+        "id": "b42b684a-7a90-4884-837f-37547a0cde62",
+        "date_posted": 1793656370,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793657150,
+        "url": "https://go.vansh.nyc/19X",
+        "locations": [
+            "Folsom, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Samsung Semiconductor",
+        "title": "AI Application Engineer Intern",
+        "source": "vanshb03",
+        "id": "4bbfb27d-5bef-43d0-a8af-0b8eaeca2380",
+        "date_posted": 1793654810,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
