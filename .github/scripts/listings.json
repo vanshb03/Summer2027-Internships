@@ -87,7 +87,7 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1754199929,
+        "date_updated": 1793660003,
         "url": "https://go.vansh.nyc/o",
         "locations": [
             "Brooklyn Park, MN",
@@ -95,7 +95,7 @@
             "Grand Rapids, MI"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "Automation Development & Tooling Engineer Intern",
         "source": "vanshb03",
@@ -106,13 +106,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1754199933,
+        "date_updated": 1793660003,
         "url": "https://go.vansh.nyc/p",
         "locations": [
             "Fremont, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "Machine Learning Engineer Intern, Noise Vibration Harshness Engineering",
         "source": "vanshb03",
@@ -123,13 +123,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1754666209,
+        "date_updated": 1793660003,
         "url": "https://go.vansh.nyc/q",
         "locations": [
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "Chassis Validation Engineer Intern, Vehicle Firmware",
         "source": "vanshb03",
@@ -140,13 +140,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1754666224,
+        "date_updated": 1793660003,
         "url": "https://go.vansh.nyc/r",
         "locations": [
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "C++ Software Engineer Intern, Systems, AI",
         "source": "vanshb03",
@@ -157,13 +157,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1754666230,
+        "date_updated": 1793660003,
         "url": "https://go.vansh.nyc/s",
         "locations": [
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "Software Compiler Engineer Intern, AI Inference",
         "source": "vanshb03",
@@ -174,13 +174,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1754666235,
+        "date_updated": 1793660003,
         "url": "https://go.vansh.nyc/t",
         "locations": [
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "Software Integration Engineer Intern, AI Platforms",
         "source": "vanshb03",
@@ -191,13 +191,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1754666243,
+        "date_updated": 1793660003,
         "url": "https://go.vansh.nyc/u",
         "locations": [
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "Chassis Integration Engineer Intern, Vehicle Firmware",
         "source": "vanshb03",
@@ -262,13 +262,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1754805657,
+        "date_updated": 1793660003,
         "url": "https://go.vansh.nyc/y",
         "locations": [
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "Charging Distributed Systems Software Engineer Intern, Energy Engineering",
         "source": "vanshb03",
@@ -279,14 +279,14 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1755091306,
+        "date_updated": 1793660003,
         "url": "https://go.vansh.nyc/z",
         "locations": [
             "Palo Alto, CA",
             "Austin, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "Backend Software Engineer Intern, Diagnostics",
         "source": "vanshb03",
@@ -297,13 +297,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1755091317,
+        "date_updated": 1793660003,
         "url": "https://go.vansh.nyc/A",
         "locations": [
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "Software Engineer Intern, Maps & Self-Driving Navigation",
         "source": "vanshb03",
@@ -314,13 +314,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1755262283,
+        "date_updated": 1793660003,
         "url": "https://go.vansh.nyc/B",
         "locations": [
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "System Software Engineer Intern, System Software",
         "source": "vanshb03",
@@ -331,13 +331,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1755262291,
+        "date_updated": 1793660003,
         "url": "https://go.vansh.nyc/C",
         "locations": [
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "Software Engineer Intern, Update Systems",
         "source": "vanshb03",
@@ -348,13 +348,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1755262300,
+        "date_updated": 1793660003,
         "url": "https://go.vansh.nyc/D",
         "locations": [
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "Software Engineer Intern, Linux Update Systems",
         "source": "vanshb03",
@@ -503,13 +503,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1755809606,
+        "date_updated": 1793660003,
         "url": "https://go.vansh.nyc/M",
         "locations": [
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "Commercial UI Software Engineer Intern, Energy Engineering",
         "source": "vanshb03",
@@ -520,13 +520,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1755809613,
+        "date_updated": 1793660003,
         "url": "https://go.vansh.nyc/N",
         "locations": [
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "Software Machine Learning Engineer Intern, Reliability Energy Engineering",
         "source": "vanshb03",
@@ -605,13 +605,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1756538056,
+        "date_updated": 1793660003,
         "url": "https://go.vansh.nyc/S",
         "locations": [
             "Fremont, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "Software Engineer Intern, Factory Software",
         "source": "vanshb03",
@@ -622,13 +622,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1757658863,
+        "date_updated": 1793660003,
         "url": "https://go.vansh.nyc/T",
         "locations": [
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "Software Integration Engineer Intern, Energy Engineering",
         "source": "vanshb03",
@@ -690,13 +690,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1758679362,
+        "date_updated": 1793660003,
         "url": "https://go.vansh.nyc/X",
         "locations": [
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "Fullstack C++ Engineer Intern, Vehicle User Interface",
         "source": "vanshb03",
@@ -837,13 +837,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1761828905,
+        "date_updated": 1793660003,
         "url": "https://go.vansh.nyc/13",
         "locations": [
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "Software Engineer Intern, Service Engineering",
         "source": "vanshb03",
@@ -854,13 +854,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1761828908,
+        "date_updated": 1793660003,
         "url": "https://go.vansh.nyc/14",
         "locations": [
             "Bellevue, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "Software Engineer Intern, Information Security",
         "source": "vanshb03",
@@ -1490,14 +1490,14 @@
         "season": "Fall"
     },
     {
-        "date_updated": 1776727865,
+        "date_updated": 1793660003,
         "url": "https://go.vansh.nyc/1E",
         "locations": [
             "Palo Alto, CA",
             "Fremont, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "Software Engineer Intern, Vehicle Engineering",
         "source": "vanshb03",
@@ -2226,13 +2226,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1778312578,
+        "date_updated": 1793660003,
         "url": "https://go.vansh.nyc/2k",
         "locations": [
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "Software Developer Intern, Integration Platforms",
         "source": "vanshb03",
@@ -2243,13 +2243,13 @@
         "season": "Fall"
     },
     {
-        "date_updated": 1778313296,
+        "date_updated": 1793660003,
         "url": "https://go.vansh.nyc/2l",
         "locations": [
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "Software Engineer Intern, Vehicle UI Development",
         "source": "vanshb03",
@@ -2260,13 +2260,13 @@
         "season": "Fall"
     },
     {
-        "date_updated": 1778313299,
+        "date_updated": 1793660003,
         "url": "https://go.vansh.nyc/2m",
         "locations": [
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "Embedded Software Engineer Intern, Keys & Authentication",
         "source": "vanshb03",
@@ -2277,13 +2277,13 @@
         "season": "Fall"
     },
     {
-        "date_updated": 1778313304,
+        "date_updated": 1793660003,
         "url": "https://go.vansh.nyc/2n",
         "locations": [
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "Software Engineer Intern, Maps & Navigation Validation",
         "source": "vanshb03",
@@ -2294,13 +2294,13 @@
         "season": "Fall"
     },
     {
-        "date_updated": 1778313307,
+        "date_updated": 1793660003,
         "url": "https://go.vansh.nyc/2o",
         "locations": [
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "Software Engineer Intern, Update Systems",
         "source": "vanshb03",
@@ -2413,13 +2413,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1778526048,
+        "date_updated": 1793660003,
         "url": "https://go.vansh.nyc/2v",
         "locations": [
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "Software Engineer Intern, Service Engineering",
         "source": "vanshb03",
@@ -3527,13 +3527,13 @@
         "season": "Fall"
     },
     {
-        "date_updated": 1784878893,
+        "date_updated": 1793660003,
         "url": "https://go.vansh.nyc/3w",
         "locations": [
             "Fremont, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "Localization Specialist Intern",
         "source": "vanshb03",
@@ -5800,13 +5800,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1785742591,
+        "date_updated": 1793660003,
         "url": "https://go.vansh.nyc/5E",
         "locations": [
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tesla",
         "title": "Software Compiler Engineer Intern, AI Inference",
         "source": "vanshb03",
