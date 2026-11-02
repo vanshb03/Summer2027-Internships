@@ -15342,13 +15342,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1792697714,
+        "date_updated": 1793626779,
         "url": "https://go.vansh.nyc/eA",
         "locations": [
             "Remote in USA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "1Password",
         "title": "Developer Intern, Front-End Platform",
         "source": "vanshb03",
@@ -15376,13 +15376,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792697714,
+        "date_updated": 1793626779,
         "url": "https://go.vansh.nyc/eC",
         "locations": [
             "Remote in USA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "1Password",
         "title": "Developer Intern, Extension Excellence",
         "source": "vanshb03",
@@ -15465,13 +15465,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792697714,
+        "date_updated": 1793626779,
         "url": "https://go.vansh.nyc/eH",
         "locations": [
             "Remote in USA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "1Password",
         "title": "Developer Intern, Provisioning",
         "source": "vanshb03",
@@ -15755,7 +15755,7 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792717232,
+        "date_updated": 1793626779,
         "url": "https://go.vansh.nyc/eY",
         "locations": [
             "Remote",
@@ -15763,7 +15763,7 @@
             "Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "1Password",
         "title": "Developer Intern, Data Security",
         "source": "vanshb03",
@@ -15774,7 +15774,7 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1792717232,
+        "date_updated": 1793626779,
         "url": "https://go.vansh.nyc/eZ",
         "locations": [
             "Remote",
@@ -15782,7 +15782,7 @@
             "Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "1Password",
         "title": "Developer Intern, Machine Identity",
         "source": "vanshb03",
@@ -15793,7 +15793,7 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1792717232,
+        "date_updated": 1793626779,
         "url": "https://go.vansh.nyc/f0",
         "locations": [
             "Remote",
@@ -15801,7 +15801,7 @@
             "Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "1Password",
         "title": "Developer Intern, Vault Team",
         "source": "vanshb03",
@@ -17808,7 +17808,7 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1792775105,
+        "date_updated": 1793626779,
         "url": "https://go.vansh.nyc/gS",
         "locations": [
             "Remote",
@@ -17816,7 +17816,7 @@
             "Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "1Password",
         "title": "Developer Intern, Developer Interfaces",
         "source": "vanshb03",
@@ -17827,7 +17827,7 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1792775105,
+        "date_updated": 1793626779,
         "url": "https://go.vansh.nyc/gT",
         "locations": [
             "Remote",
@@ -17835,7 +17835,7 @@
             "Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "1Password",
         "title": "Developer Intern, Credential Brokering",
         "source": "vanshb03",
@@ -36602,13 +36602,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1793315116,
+        "date_updated": 1793626779,
         "url": "https://go.vansh.nyc/ZT",
         "locations": [
             "Annapolis Junction, MD"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Leidos",
         "title": "Software Developer Intern",
         "source": "vanshb03",
