@@ -44,6 +44,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Lila Sciences | Agentic and Generative Protein Design Co-op | Cambridge, MA</br>San Francisco, CA | <a href="https://go.vansh.nyc/19d?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
+| LabCorp | Full-Stack Life Sciences Engineer Co-op | Durham, NC | <a href="https://go.vansh.nyc/19C?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | TikTok | Software Engineer Project Intern, Model Infrastructure | San Jose, CA | <a href="https://go.vansh.nyc/18Z?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | ↳ | Software Engineer Project Intern, Platform Efficiency | San Jose, CA | <a href="https://go.vansh.nyc/190?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | ↳ | Software Engineer Intern, Global E-commerce-Search | Seattle, WA | <a href="https://go.vansh.nyc/188?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
