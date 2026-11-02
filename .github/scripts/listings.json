@@ -43019,5 +43019,107 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793642755,
+        "url": "https://go.vansh.nyc/19u",
+        "locations": [
+            "Southern Pines, NC"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Sierra Nevada Corporation",
+        "title": "DevOps Engineer Intern",
+        "source": "vanshb03",
+        "id": "8c2bf2f3-bc46-4207-98d8-5d2e1b343743",
+        "date_posted": 1793642215,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793642755,
+        "url": "https://go.vansh.nyc/19v",
+        "locations": [
+            "Southern Pines, NC"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Sierra Nevada Corporation",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "71bf1329-1ed8-4bc0-a0fd-b78caa5de719",
+        "date_posted": 1793642215,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793642755,
+        "url": "https://go.vansh.nyc/19w",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Intuitive",
+        "title": "Data Science Intern",
+        "source": "vanshb03",
+        "id": "3c39fbb6-3353-4578-9db8-fce9f1f2691a",
+        "date_posted": 1793641495,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793642755,
+        "url": "https://go.vansh.nyc/19x",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Northrop Grumman",
+        "title": "Engineering Software and Analysis Intern",
+        "source": "vanshb03",
+        "id": "f1a438b9-e734-4810-9245-6536db93dd76",
+        "date_posted": 1793642215,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793642755,
+        "url": "https://go.vansh.nyc/19y",
+        "locations": [
+            "Deerfield Beach, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "JM Family Enterprises",
+        "title": "Offensive Security Intern",
+        "source": "vanshb03",
+        "id": "ab269d41-d44c-4427-98c4-1872af6c3fcd",
+        "date_posted": 1793640415,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793642924,
+        "url": "https://go.vansh.nyc/19z",
+        "locations": [
+            "Aliso Viejo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "71eb36cf-6990-4b6b-84ee-a4b494cc672b",
+        "date_posted": 1793640795,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
