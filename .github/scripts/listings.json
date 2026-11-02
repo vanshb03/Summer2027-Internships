@@ -43240,5 +43240,28 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793651751,
+        "url": "https://go.vansh.nyc/19M",
+        "locations": [
+            "Remote",
+            "United States",
+            "Chicago, IL",
+            "Ashburn, VA",
+            "Plantation, FL",
+            "Schaumburg, IL",
+            "Salt Lake City, UT"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Motorola Solutions",
+        "title": "Software Engineer Intern, Cybersecurity Services",
+        "source": "vanshb03",
+        "id": "f5ba0f2f-e67e-4438-8033-4253ce32ebff",
+        "date_posted": 1793650911,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
