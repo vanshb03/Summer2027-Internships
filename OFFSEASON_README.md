@@ -143,8 +143,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Figure AI | Developer Productivity Intern | San Jose, CA | <a href="https://go.vansh.nyc/hT?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
 | Cisco | Software Engineer Full Stack / Backend I Co-op | San Jose, CA</br>Carlsbad, CA | <a href="https://go.vansh.nyc/gP?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
 | 1Password | Product Management Intern, End User Experience | Remote</br>United States</br>Canada | <a href="https://go.vansh.nyc/gR?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
-| ↳ | Developer Intern, Developer Interfaces | Remote</br>United States</br>Canada | <a href="https://go.vansh.nyc/gS?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
-| ↳ | Developer Intern, Credential Brokering | Remote</br>United States</br>Canada | <a href="https://go.vansh.nyc/gT?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
 | Twitch | Undergrad Software Engineering Intern | San Francisco, CA | <a href="https://go.vansh.nyc/f5?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | Symbotic | Machine Learning Ops Co-op | Wilmington, MA | <a href="https://go.vansh.nyc/f4?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | Stand Together | Data Analyst Intern, Open the Books | United States | <a href="https://go.vansh.nyc/ft?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
@@ -154,13 +152,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Ciena | Software Developer Intern | Ottawa, Canada | <a href="https://go.vansh.nyc/f1?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | Amazon.com Services LLC | System Development Engineer Co-op, Robotics | North Reading, MA | <a href="https://go.vansh.nyc/i1?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | Amazon | Junior Software Development Engineer Intern | Detroit, MI | <a href="https://go.vansh.nyc/gC?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
-| 1Password | Developer Intern, Data Security | Remote</br>United States</br>Canada | <a href="https://go.vansh.nyc/eY?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
-| ↳ | Developer Intern, Machine Identity | Remote</br>United States</br>Canada | <a href="https://go.vansh.nyc/eZ?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
-| ↳ | Developer Intern, Vault Team | Remote</br>United States</br>Canada | <a href="https://go.vansh.nyc/f0?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
-| ↳ | Developer Intern, Front-End Platform | Remote in USA | <a href="https://go.vansh.nyc/eA?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
-| ↳ | Developer Intern, Extension Excellence | Remote in USA | <a href="https://go.vansh.nyc/eC?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
-| ↳ | Developer Intern, Provisioning | Remote in USA | <a href="https://go.vansh.nyc/eH?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
-| ↳ | Security Intern, Threat Operations | Remote in USA | <a href="https://go.vansh.nyc/eI?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
+| 1Password | Security Intern, Threat Operations | Remote in USA | <a href="https://go.vansh.nyc/eI?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | TPG | Research Assistant Intern, Data Analytics and Reporting | Remote</br>United States | <a href="https://go.vansh.nyc/RV?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 21 |
 | Themis Intelligence | Software Engineer Co-op, Data | Mississauga, Canada | <a href="https://go.vansh.nyc/Da?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 21 |
 | ↳ | AI Engineer Co-op | Mississauga, Canada | <a href="https://go.vansh.nyc/Db?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 21 |
@@ -459,6 +451,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Coretek Services | AI & Data Automation Developer Co-op | Remote</br>United States | 🔒 | Oct 23 |
 | ↳ | Data Consultant Co-op | Remote</br>United States | 🔒 | Oct 23 |
 | Cisco | Software Engineer Embedded Systems I Co-op | San Jose, CA</br>Milpitas, CA</br>Research Triangle Park, NC | 🔒 | Oct 23 |
+| 1Password | Developer Intern, Developer Interfaces | Remote</br>United States</br>Canada | 🔒 | Oct 23 |
+| ↳ | Developer Intern, Credential Brokering | Remote</br>United States</br>Canada | 🔒 | Oct 23 |
 | RTX | Software Engineer Co-op 🇺🇸 | Remote in USA | 🔒 | Oct 22 |
 | Nutanix | Software Developer Co-op | Vancouver, BC, Canada | 🔒 | Oct 22 |
 | Marvell | Design Verification Intern | Toronto, Canada | 🔒 | Oct 22 |
@@ -466,6 +460,12 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Amazon | Hardware Development Engineer Intern | Bellevue, WA | 🔒 | Oct 22 |
 | ↳ | Embedded Firmware Co-op | North Reading, MA</br>Westborough, MA | 🔒 | Oct 22 |
 | ↳ | Systems Development Engineer Intern | Bellevue, WA | 🔒 | Oct 22 |
+| 1Password | Developer Intern, Front-End Platform | Remote in USA | 🔒 | Oct 22 |
+| ↳ | Developer Intern, Extension Excellence | Remote in USA | 🔒 | Oct 22 |
+| ↳ | Developer Intern, Provisioning | Remote in USA | 🔒 | Oct 22 |
+| ↳ | Developer Intern, Data Security | Remote</br>United States</br>Canada | 🔒 | Oct 22 |
+| ↳ | Developer Intern, Machine Identity | Remote</br>United States</br>Canada | 🔒 | Oct 22 |
+| ↳ | Developer Intern, Vault Team | Remote</br>United States</br>Canada | 🔒 | Oct 22 |
 | Intel | Information Security Engineer Intern | Folsom, CA | 🔒 | Oct 21 |
 | The Federal Reserve System | Technology Risk Intern | Dallas, TX | 🔒 | Oct 20 |
 | Skydio | Embedded Software Engineer Intern | San Mateo, CA | 🔒 | Oct 20 |
