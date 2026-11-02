@@ -33940,13 +33940,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793138717,
+        "date_updated": 1793641183,
         "url": "https://go.vansh.nyc/Ww",
         "locations": [
             "Cedar Rapids, IA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "RTX",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
@@ -42948,6 +42948,74 @@
         "source": "vanshb03",
         "id": "bee8fd96-6c30-4868-a1e2-fe903502a36d",
         "date_posted": 1793638254,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793640967,
+        "url": "https://go.vansh.nyc/19q",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "T-Mobile",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "819f96e2-7f99-4df7-8450-f112bb017b74",
+        "date_posted": 1793640067,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793640967,
+        "url": "https://go.vansh.nyc/19r",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "T-Mobile",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "1b79cc6c-467a-4f54-bf44-40045bf07e7d",
+        "date_posted": 1793640067,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793640967,
+        "url": "https://go.vansh.nyc/19s",
+        "locations": [
+            "Detroit, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Booz Allen Hamilton",
+        "title": "Data Scientist Intern",
+        "source": "vanshb03",
+        "id": "149ab0df-9941-4710-b8e0-254688aa9804",
+        "date_posted": 1793639347,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793641115,
+        "url": "https://go.vansh.nyc/19t",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Software Engineer Intern, CoreAI",
+        "source": "vanshb03",
+        "id": "9c065c4f-d079-4529-b897-0f3c9b3718ba",
+        "date_posted": 1793639359,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
