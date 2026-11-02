@@ -116,7 +116,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Geotab | Software Developer Intern, MyAdmin | Oakville, Canada</br>Waterloo, Canada | <a href="https://go.vansh.nyc/17E?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
 | ↳ | Software Developer Intern, Geotab Vitality | Oakville, Canada</br>Toronto, Canada</br>Waterloo, Canada | <a href="https://go.vansh.nyc/17F?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
 | ASML | Data Engineer Co-op | San Diego, CA | <a href="https://go.vansh.nyc/Yt?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
-| The Walt Disney Company | Content Research Insights & Analytics Intern | Burbank, CA | <a href="https://go.vansh.nyc/Xi?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
 | Texas Instruments | Web Marketing Intern, Front-end Developer | Dallas, TX | <a href="https://go.vansh.nyc/Wf?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
 | Sun Life | Quality Engineering Analyst Intern | Waterloo, Canada | <a href="https://go.vansh.nyc/Xj?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
 | SOTI | Performance Test Engineer Intern | Mississauga, Canada | <a href="https://go.vansh.nyc/SG?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
@@ -450,6 +449,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Motorola | Localization and QA Automation Developer Co-op | Vancouver, Canada | 🔒 | Oct 27 |
 | Johnson Controls | Software Engineering Co-op | Burlington, MA | 🔒 | Oct 27 |
 | Blackberry | Software Testing Development Intern, QNX | Ottawa, Canada | 🔒 | Oct 27 |
+| The Walt Disney Company | Content Research Insights & Analytics Intern | Burbank, CA | 🔒 | Oct 26 |
 | RTX | Software Platform Engineer Co-op 🇺🇸 | Aurora, CO</br>Remote</br>United States | 🔒 | Oct 26 |
 | AtriCure, Inc. | IT Security Analyst Co-op | Mason, OH | 🔒 | Oct 26 |
 | Danaher Corporation | Supply Chain AI Co-op | United States | 🔒 | Oct 25 |
