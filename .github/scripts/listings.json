@@ -44538,5 +44538,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1793660574,
+        "url": "https://www.tesla.com/careers/search/job/285076",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Software Engineer Intern, SI Hardware Infrastructure",
+        "source": "vanshb03",
+        "id": "57d95069-ab51-4db1-bbc2-ccc08a95d729",
+        "date_posted": 1793660574,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
