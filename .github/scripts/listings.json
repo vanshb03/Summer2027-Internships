@@ -8951,13 +8951,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792261427,
+        "date_updated": 1793637529,
         "url": "https://go.vansh.nyc/8A",
         "locations": [
             "Richmond, VA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "CoStar Group",
         "title": "Product Intern",
         "source": "vanshb03",
