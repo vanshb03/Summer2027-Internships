@@ -18152,13 +18152,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792812208,
+        "date_updated": 1793650207,
         "url": "https://go.vansh.nyc/hc",
         "locations": [
             "United States"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "FedEx Freight",
         "title": "Media & Web Development Intern, Marketing",
         "source": "vanshb03",
@@ -43169,6 +43169,74 @@
         "source": "vanshb03",
         "id": "68463fce-f650-45e2-9c40-62da5b7f63a6",
         "date_posted": 1793647209,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793649960,
+        "url": "https://go.vansh.nyc/19I",
+        "locations": [
+            "Woburn, MA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "RTX",
+        "title": "Systems Security Engineer Intern, Raytheon",
+        "source": "vanshb03",
+        "id": "c04c0f98-97c0-4544-9433-ebbd1c5825b1",
+        "date_posted": 1793649540,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793649960,
+        "url": "https://go.vansh.nyc/19J",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Flagship Pioneering",
+        "title": "ML Intern",
+        "source": "vanshb03",
+        "id": "1e57fe2e-98f7-4191-8391-d0397a77c428",
+        "date_posted": 1793649420,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793649960,
+        "url": "https://go.vansh.nyc/19K",
+        "locations": [
+            "Chandler, AZ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NXP",
+        "title": "HW/SW System and Application Engineer Intern",
+        "source": "vanshb03",
+        "id": "57b03bd1-8257-4774-a8ec-cb0ccd2c5a1d",
+        "date_posted": 1793649540,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793650132,
+        "url": "https://go.vansh.nyc/19L",
+        "locations": [
+            "Totowa, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "KLA",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "2f662d73-596b-41ad-a0ab-7f4018c784e8",
+        "date_posted": 1793577600,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
