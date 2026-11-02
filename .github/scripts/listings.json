@@ -43807,5 +43807,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1793660574,
+        "url": "https://www.tesla.com/careers/search/job/284821",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "SI Hardware Silicon Validation Engineer Intern, SI Hardware",
+        "source": "vanshb03",
+        "id": "2fe9c70d-d975-4f96-a3a0-6c1c81bc3e37",
+        "date_posted": 1793660574,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
