@@ -12477,13 +12477,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792511227,
+        "date_updated": 1793644824,
         "url": "https://go.vansh.nyc/bU",
         "locations": [
             "Wauwatosa, WI"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Cognex",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -13227,13 +13227,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792535294,
+        "date_updated": 1793644824,
         "url": "https://go.vansh.nyc/cC",
         "locations": [
             "Pittsburgh, PA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "General Dynamics Mission Systems",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -42398,13 +42398,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793538336,
+        "date_updated": 1793644824,
         "url": "https://go.vansh.nyc/18O",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "HPS Investment Partners",
         "title": "Technology Intern, App Dev",
         "source": "vanshb03",
