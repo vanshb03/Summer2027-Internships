@@ -43,6 +43,9 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Toshiba Commerce Solutions | Agentic Software Engineering Intern | Durham, NC | <a href="https://go.vansh.nyc/19T?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
+| ↳ | AI Data Science & Business Analytics Intern | Durham, NC | <a href="https://go.vansh.nyc/19U?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
+| ↳ | Agentic Software Engineering Intern | Frisco, TX | <a href="https://go.vansh.nyc/19V?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | Lila Sciences | Agentic and Generative Protein Design Co-op | Cambridge, MA</br>San Francisco, CA | <a href="https://go.vansh.nyc/19d?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | LabCorp | Agentic AI Developer Co-op | Durham, NC | <a href="https://go.vansh.nyc/19P?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | ↳ | Full-Stack Life Sciences Engineer Co-op | Durham, NC | <a href="https://go.vansh.nyc/19C?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
