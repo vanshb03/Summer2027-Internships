@@ -43501,5 +43501,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1793660574,
+        "url": "https://www.tesla.com/careers/search/job/275494",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "RL Engineer Intern, Tesla SI",
+        "source": "vanshb03",
+        "id": "afef6a76-3774-460b-a478-ad7edc6f4243",
+        "date_posted": 1793660574,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
     }
 ]
