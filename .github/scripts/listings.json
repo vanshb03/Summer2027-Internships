@@ -43416,5 +43416,39 @@
         "company_url": "",
         "is_visible": true,
         "season": "Spring"
+    },
+    {
+        "date_updated": 1793659532,
+        "url": "https://go.vansh.nyc/19Z",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Apple",
+        "title": "Machine Learning and Artificial Intelligence Undergrad Intern",
+        "source": "vanshb03",
+        "id": "27bb3e57-53f7-46af-9940-b395478b629b",
+        "date_posted": 1779396848,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793659532,
+        "url": "https://go.vansh.nyc/1a0",
+        "locations": [
+            "Markham, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Qualcomm",
+        "title": "SoC Engineering Intern",
+        "source": "vanshb03",
+        "id": "2d3f96d5-61a6-4ce5-b30c-c247cce3fbc6",
+        "date_posted": 1793659406,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
