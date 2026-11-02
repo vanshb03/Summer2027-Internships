@@ -20422,13 +20422,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793013650,
+        "date_updated": 1793646552,
         "url": "https://go.vansh.nyc/CT",
         "locations": [
             "Columbus, OH"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Express",
         "title": "Information Security Intern",
         "source": "vanshb03",
@@ -21552,13 +21552,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793015500,
+        "date_updated": 1793646552,
         "url": "https://go.vansh.nyc/Ew",
         "locations": [
             "Chippewa Falls, WI"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Hewlett Packard Enterprise",
         "title": "VLSI Design Verification Intern",
         "source": "vanshb03",
@@ -43121,5 +43121,39 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793646357,
+        "url": "https://go.vansh.nyc/19B",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Intuitive",
+        "title": "AI/ML Engineer Intern",
+        "source": "vanshb03",
+        "id": "f7da67ac-70f8-445b-8259-ba899432eee1",
+        "date_posted": 1793644437,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793646357,
+        "url": "https://go.vansh.nyc/19C",
+        "locations": [
+            "Durham, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "LabCorp",
+        "title": "Full-Stack Life Sciences Engineer Co-op",
+        "source": "vanshb03",
+        "id": "6db1dc62-42e1-42d9-b570-a9a8145f7499",
+        "date_posted": 1793645757,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
     }
 ]
