@@ -44283,5 +44283,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1793660574,
+        "url": "https://www.tesla.com/careers/search/job/282258",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Integration Engineer Intern, Access Control Systems",
+        "source": "vanshb03",
+        "id": "9396676f-4a56-4a4f-a0fa-d02cf123ffd8",
+        "date_posted": 1793660574,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
