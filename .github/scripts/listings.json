@@ -42694,5 +42694,56 @@
         "company_url": "",
         "is_visible": true,
         "season": "Fall"
+    },
+    {
+        "date_updated": 1793581524,
+        "url": "https://go.vansh.nyc/196",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "FHLBank Chicago",
+        "title": "Application Development Intern",
+        "source": "vanshb03",
+        "id": "ee628347-8c73-4410-adef-c168b2a90a03",
+        "date_posted": 1793491200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793581524,
+        "url": "https://go.vansh.nyc/197",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "IAT Insurance Group",
+        "title": "Cyber Security Intern",
+        "source": "vanshb03",
+        "id": "7adc5864-3766-4b01-ab7f-2de824a0b4ed",
+        "date_posted": 1793491200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793581524,
+        "url": "https://go.vansh.nyc/198",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Standard Aero",
+        "title": "IT Analyst Intern",
+        "source": "vanshb03",
+        "id": "55e3ad48-8d83-4e3a-956a-1102208121e8",
+        "date_posted": 1793491200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
