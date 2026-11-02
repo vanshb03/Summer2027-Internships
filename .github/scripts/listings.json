@@ -44045,5 +44045,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1793660574,
+        "url": "https://www.tesla.com/careers/search/job/283220",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Content Integration Engineer Intern, Vehicle Firmware",
+        "source": "vanshb03",
+        "id": "12620ab2-97d4-473f-90ae-1dd1975d423d",
+        "date_posted": 1793660574,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
