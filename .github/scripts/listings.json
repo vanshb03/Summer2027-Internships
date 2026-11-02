@@ -23259,13 +23259,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793015500,
+        "date_updated": 1793635979,
         "url": "https://go.vansh.nyc/G6",
         "locations": [
             "Richardson, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "HCSC",
         "title": "Security Data Classification Intern",
         "source": "vanshb03",
@@ -42917,5 +42917,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Fall"
+    },
+    {
+        "date_updated": 1793635514,
+        "url": "https://go.vansh.nyc/19n",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "First Citizens BancShares",
+        "title": "Data Analyst Intern, Enterprise Data Products",
+        "source": "vanshb03",
+        "id": "cb0fab96-f9fb-4139-a833-be75bb3b164b",
+        "date_posted": 1793627760,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
