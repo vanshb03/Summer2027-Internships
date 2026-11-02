@@ -44419,5 +44419,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1793660574,
+        "url": "https://www.tesla.com/careers/search/job/281233",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "SI Hardware Physical Design Engineer Intern, SI Hardware",
+        "source": "vanshb03",
+        "id": "ebcd0dd5-9d1a-4857-b0e8-d8124c4f4af9",
+        "date_posted": 1793660574,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
