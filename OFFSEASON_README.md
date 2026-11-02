@@ -78,7 +78,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | General Magic | AI Engineer Co-op | Toronto, Canada | <a href="https://go.vansh.nyc/13G?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | ↳ | Backend Engineer Co-op | Toronto, Canada | <a href="https://go.vansh.nyc/13H?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | Fussball Club Cincinnati LLC (“FC Cincinnati”) | Data Analyst Intern | Cincinnati, OH | <a href="https://go.vansh.nyc/10v?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
-| Fresenius Medical Care | Software Engineering Co-op | Lawrence, MA | <a href="https://go.vansh.nyc/13F?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | Foresters Financial | Software Engineer Co-op, AI | Toronto, Canada | <a href="https://go.vansh.nyc/13D?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | ↳ | Software Engineer Co-op | Toronto, Canada | <a href="https://go.vansh.nyc/13E?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | Ensco | Information Security Intern 🇺🇸 | Melbourne, FL | <a href="https://go.vansh.nyc/10M?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
@@ -440,6 +439,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Chassis Validation Engineer Intern, Vehicle Firmware | Palo Alto, CA | <a href="https://go.vansh.nyc/q?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 08 |
 | Tesla | Machine Learning Engineer Intern, Noise Vibration Harshness Engineering | Fremont, CA | <a href="https://go.vansh.nyc/p?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 02 |
 | ↳ | Automation Development & Tooling Engineer Intern | Brooklyn Park, MN</br>Elgin, IL</br>Grand Rapids, MI | <a href="https://go.vansh.nyc/o?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 02 |
+| Fresenius Medical Care | Software Engineering Co-op | Lawrence, MA | 🔒 | Oct 30 |
 | Carnegie Mellon SEI | Full-Stack Software Development Intern 🛂 | Pittsburgh, PA | 🔒 | Oct 30 |
 | ↳ | Cyber Range Development Intern 🛂 | Pittsburgh, PA | 🔒 | Oct 30 |
 | ↳ | Agentic Development Intern 🛂 | Pittsburgh, PA | 🔒 | Oct 30 |
