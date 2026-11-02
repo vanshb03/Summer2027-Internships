@@ -24703,13 +24703,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793021626,
+        "date_updated": 1793648362,
         "url": "https://go.vansh.nyc/Is",
         "locations": [
             "Colorado Springs, CO"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Keysight Technologies",
         "title": "ASIC Design-for-Test Engineer Intern, DFT",
         "source": "vanshb03",
@@ -43155,5 +43155,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Spring"
+    },
+    {
+        "date_updated": 1793648169,
+        "url": "https://go.vansh.nyc/19G",
+        "locations": [
+            "Fullerton, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "RTX",
+        "title": "Systems Security Engineering Intern",
+        "source": "vanshb03",
+        "id": "68463fce-f650-45e2-9c40-62da5b7f63a6",
+        "date_posted": 1793647209,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
