@@ -34505,13 +34505,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793178335,
+        "date_updated": 1793606966,
         "url": "https://go.vansh.nyc/Xi",
         "locations": [
             "Burbank, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "The Walt Disney Company",
         "title": "Content Research Insights & Analytics Intern",
         "source": "vanshb03",
