@@ -44589,5 +44589,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1793661261,
+        "url": "https://www.tesla.com/careers/search/job/282242",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Software Engineer Intern, Vehicle UI Development",
+        "source": "vanshb03",
+        "id": "cd011298-299a-4fe0-84f3-e64579787554",
+        "date_posted": 1793661261,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
