@@ -44572,5 +44572,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1793661261,
+        "url": "https://www.tesla.com/careers/search/job/285202",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Commercial UI Software Engineer Intern, Energy Engineering",
+        "source": "vanshb03",
+        "id": "696378aa-b6e5-4833-b281-50caa856b744",
+        "date_posted": 1793661261,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
