@@ -43671,5 +43671,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1793660574,
+        "url": "https://www.tesla.com/careers/search/job/285291",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Data Engineer Intern, Data Engineering & Business Intelligence",
+        "source": "vanshb03",
+        "id": "5c613e89-25cc-4acf-9d4d-b59e1a5fa4bb",
+        "date_posted": 1793660574,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
