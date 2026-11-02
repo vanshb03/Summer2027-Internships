@@ -36087,13 +36087,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793297173,
+        "date_updated": 1793653846,
         "url": "https://go.vansh.nyc/Zg",
         "locations": [
             "Research Triangle Park, NC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Cisco",
         "title": "Security Consulting Engineer I Intern",
         "source": "vanshb03",
@@ -37664,13 +37664,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793399709,
+        "date_updated": 1793653846,
         "url": "https://go.vansh.nyc/114",
         "locations": [
             "Chicago, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Morningstar",
         "title": "Tech Intern",
         "source": "vanshb03",
@@ -43263,5 +43263,56 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793653558,
+        "url": "https://go.vansh.nyc/19N",
+        "locations": [
+            "Chandler, AZ"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Northrop Grumman",
+        "title": "Engineering Intern, Software, Mission Assurance, Quality",
+        "source": "vanshb03",
+        "id": "f2e658fb-96be-4e18-9854-aa2648214dfb",
+        "date_posted": 1793653138,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793653558,
+        "url": "https://go.vansh.nyc/19O",
+        "locations": [
+            "Lincolnshire, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zebra Technologies",
+        "title": "AI Intern",
+        "source": "vanshb03",
+        "id": "593da753-215b-425d-9dda-c7b7615d8970",
+        "date_posted": 1793653138,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793653558,
+        "url": "https://go.vansh.nyc/19P",
+        "locations": [
+            "Durham, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "LabCorp",
+        "title": "Agentic AI Developer Co-op",
+        "source": "vanshb03",
+        "id": "eed3d58e-b287-4517-95ef-18eeacc3d02a",
+        "date_posted": 1793652178,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
     }
 ]
