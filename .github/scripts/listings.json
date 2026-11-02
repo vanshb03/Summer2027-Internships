@@ -39961,13 +39961,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1793491587,
+        "date_updated": 1793659145,
         "url": "https://go.vansh.nyc/13G",
         "locations": [
             "Toronto, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "General Magic",
         "title": "AI Engineer Co-op",
         "source": "vanshb03",
@@ -39978,13 +39978,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1793491587,
+        "date_updated": 1793659145,
         "url": "https://go.vansh.nyc/13H",
         "locations": [
             "Toronto, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "General Magic",
         "title": "Backend Engineer Co-op",
         "source": "vanshb03",
@@ -43399,5 +43399,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793659088,
+        "url": "https://go.vansh.nyc/19Y",
+        "locations": [
+            "Durham, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Toshiba Commerce Solutions",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "4b065cd5-9738-42be-9388-f109c6f68e84",
+        "date_posted": 1793648428,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
     }
 ]
