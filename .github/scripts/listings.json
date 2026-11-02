@@ -36583,7 +36583,7 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793315116,
+        "date_updated": 1793630364,
         "url": "https://go.vansh.nyc/ZS",
         "locations": [
             "Burnaby, Canada",
@@ -36591,7 +36591,7 @@
             "Toronto, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Geotab",
         "title": "Data Analyst Intern",
         "source": "vanshb03",
