@@ -44606,5 +44606,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1793661261,
+        "url": "https://www.tesla.com/careers/search/job/281271",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Software Engineer Intern, Maps & Navigation Validation",
+        "source": "vanshb03",
+        "id": "88c92c01-67c2-4557-ab13-bfbaffd8926a",
+        "date_posted": 1793661261,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
