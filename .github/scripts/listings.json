@@ -46864,5 +46864,107 @@
         "company_url": "",
         "is_visible": true,
         "season": "Spring"
+    },
+    {
+        "date_updated": 1793689722,
+        "url": "https://go.vansh.nyc/1dl",
+        "locations": [
+            "Libertyville, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Flextronics International",
+        "title": "Manufacturing Data & Analytics Co-op",
+        "source": "vanshb03",
+        "id": "565105ea-ed3f-4bef-9812-d91ddfbe7c65",
+        "date_posted": 1793689544,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1793689722,
+        "url": "https://go.vansh.nyc/1dm",
+        "locations": [
+            "Ann Arbor, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "KLA",
+        "title": "PLM BI & Analytics Intern",
+        "source": "vanshb03",
+        "id": "51dc6bf1-6c90-4c04-b2f0-7f82ff1eeccd",
+        "date_posted": 1793689544,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793689722,
+        "url": "https://go.vansh.nyc/1dn",
+        "locations": [
+            "Westchester, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ingredion",
+        "title": "AI & Data Scientist Intern",
+        "source": "vanshb03",
+        "id": "24a438a2-801b-4e57-9472-cd8eb3e524da",
+        "date_posted": 1793689544,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793689722,
+        "url": "https://go.vansh.nyc/1do",
+        "locations": [
+            "Westchester, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ingredion",
+        "title": "Global Supply Chain Data Science Intern",
+        "source": "vanshb03",
+        "id": "a7be45c6-3e0a-4a0b-a445-86f4c9919ba4",
+        "date_posted": 1793689544,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793689722,
+        "url": "https://go.vansh.nyc/1dp",
+        "locations": [
+            "Acton, MA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Insulet Corporation",
+        "title": "Embedded Software Test Engineering Co-op",
+        "source": "vanshb03",
+        "id": "04f5db0d-1e12-4065-9be9-d37b10c5e155",
+        "date_posted": 1793689544,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1793689722,
+        "url": "https://go.vansh.nyc/1dq",
+        "locations": [
+            "Rensselaer, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Regeneron Pharmaceuticals",
+        "title": "Data Analytics & Digital Tools Co-op (IOPS)",
+        "source": "vanshb03",
+        "id": "01531be9-3a85-4943-a5ff-12771a4fee70",
+        "date_posted": 1793689544,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
