@@ -45274,5 +45274,316 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793678750,
+        "url": "https://go.vansh.nyc/1bR",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "AI Compiler and Kernel Intern",
+        "source": "vanshb03",
+        "id": "9e7a4dfc-854c-4bb1-90c6-5ad1cd631d5e",
+        "date_posted": 1793678150,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793678915,
+        "url": "https://go.vansh.nyc/1bS",
+        "locations": [
+            "Pewaukee, WI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ATC",
+        "title": "Cyber Security Intern",
+        "source": "vanshb03",
+        "id": "4f4d3165-af29-4c7c-9543-0749688bebb2",
+        "date_posted": 1793678766,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793678915,
+        "url": "https://go.vansh.nyc/1bT",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Axos Bank",
+        "title": "Software Development Intern",
+        "source": "vanshb03",
+        "id": "353a64fc-e36a-484b-aed1-25115028bc45",
+        "date_posted": 1793678766,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793678915,
+        "url": "https://go.vansh.nyc/1bU",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Axos Bank",
+        "title": "AI Engineer Intern",
+        "source": "vanshb03",
+        "id": "c956c1d1-d9d8-41bc-873c-313c84aa6631",
+        "date_posted": 1793678766,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793678915,
+        "url": "https://go.vansh.nyc/1bV",
+        "locations": [
+            "Colorado Springs, CO"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Booz Allen Hamilton",
+        "title": "Cyber Security Intern",
+        "source": "vanshb03",
+        "id": "5adc8b64-495b-43e7-9749-f70a1388be9a",
+        "date_posted": 1793678766,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793678915,
+        "url": "https://go.vansh.nyc/1bW",
+        "locations": [
+            "Colorado Springs, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Booz Allen Hamilton",
+        "title": "Data Scientist Intern",
+        "source": "vanshb03",
+        "id": "6ba111fb-7f70-4964-a251-8748a34ac055",
+        "date_posted": 1793678766,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793678915,
+        "url": "https://go.vansh.nyc/1bX",
+        "locations": [
+            "Eden Prairie, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bracco",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "4ec648c3-d09a-401f-8150-4960a1b68de9",
+        "date_posted": 1793678766,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793678915,
+        "url": "https://go.vansh.nyc/1bY",
+        "locations": [
+            "Nashville, TN"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "AllianceBernstein",
+        "title": "Software Development Intern",
+        "source": "vanshb03",
+        "id": "672329a0-cbf4-4967-8544-2c9f60fa6b92",
+        "date_posted": 1793678766,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793678915,
+        "url": "https://go.vansh.nyc/1bZ",
+        "locations": [
+            "Fort Worth, TX",
+            "Lake Forest, CA",
+            "Johns Creek, GA",
+            "Houston, TX",
+            "Goleta, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Alcon",
+        "title": "Software, Data & AI Engineering Intern",
+        "source": "vanshb03",
+        "id": "7d1cbae3-9773-42f1-a270-43f7115810fe",
+        "date_posted": 1793678766,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793678915,
+        "url": "https://go.vansh.nyc/1c0",
+        "locations": [
+            "Carmel, IN",
+            "Golden, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Allegion",
+        "title": "Software Engineering Intern, DevOps",
+        "source": "vanshb03",
+        "id": "4f56d6f3-bd89-4b0e-8542-d2cbbd1422a2",
+        "date_posted": 1793678766,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793678915,
+        "url": "https://go.vansh.nyc/1c1",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Allegion",
+        "title": "Firmware Engineer Intern, Advanced Development",
+        "source": "vanshb03",
+        "id": "a5259f69-dfae-4717-a461-dbc38b024119",
+        "date_posted": 1793678766,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793678915,
+        "url": "https://go.vansh.nyc/1c2",
+        "locations": [
+            "Colorado Springs, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Allegion",
+        "title": "Digital Manufacturing Intern",
+        "source": "vanshb03",
+        "id": "6dada143-22eb-4718-a94e-f0553ba447eb",
+        "date_posted": 1793678766,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793678915,
+        "url": "https://go.vansh.nyc/1c3",
+        "locations": [
+            "Golden, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Allegion",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "b712022e-d5c8-4ef1-82c1-eb007d1a8460",
+        "date_posted": 1793678766,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793678915,
+        "url": "https://go.vansh.nyc/1c4",
+        "locations": [
+            "Lansing, MI"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Auto-Owners Insurance",
+        "title": "Analytics Web Systems Developer Intern",
+        "source": "vanshb03",
+        "id": "7c16a112-1e44-4443-8c23-375351ba44b5",
+        "date_posted": 1793678766,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793678915,
+        "url": "https://go.vansh.nyc/1c5",
+        "locations": [
+            "Lansing, MI"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Auto-Owners Insurance",
+        "title": "Intelligent Automation Developer Intern",
+        "source": "vanshb03",
+        "id": "f49e5374-9819-49a7-b1c4-d8d4acb7c1b5",
+        "date_posted": 1793678766,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793678915,
+        "url": "https://go.vansh.nyc/1c6",
+        "locations": [
+            "Lansing, MI"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Auto-Owners Insurance",
+        "title": "IT Security Engineer Intern",
+        "source": "vanshb03",
+        "id": "322c0525-293a-4a67-bb6d-21d3401f9781",
+        "date_posted": 1793678766,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793678915,
+        "url": "https://go.vansh.nyc/1c7",
+        "locations": [
+            "Medina, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "AspenTech",
+        "title": "Software Development Intern, Digital Grid Management",
+        "source": "vanshb03",
+        "id": "c77ad553-abf1-43b0-9bb8-430f2f3c5bc7",
+        "date_posted": 1793678766,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793678915,
+        "url": "https://go.vansh.nyc/1c8",
+        "locations": [
+            "Germantown, MD"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Viavi Solutions",
+        "title": "Software Engineering Co-op",
+        "source": "vanshb03",
+        "id": "b2ab631a-4815-408e-9682-b4a9a2fcbbde",
+        "date_posted": 1793678766,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
