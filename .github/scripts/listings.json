@@ -48528,5 +48528,233 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793745378,
+        "url": "https://go.vansh.nyc/1fa",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Moderna",
+        "title": "mRNA Design Engineering Co-op",
+        "source": "vanshb03",
+        "id": "6721e807-15e5-4a06-b68f-d40e2071d487",
+        "date_posted": 1793743878,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1793745535,
+        "url": "https://go.vansh.nyc/1fb",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Arconic",
+        "title": "Cybersecurity Intern",
+        "source": "vanshb03",
+        "id": "76b4f1eb-159d-4f00-81d0-813400231c21",
+        "date_posted": 1788393600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793745535,
+        "url": "https://go.vansh.nyc/1fc",
+        "locations": [
+            "Davenport, IA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Arconic",
+        "title": "Software Developer Intern",
+        "source": "vanshb03",
+        "id": "9ac8d679-ecd8-4eaa-9e06-f0f0608b9cf8",
+        "date_posted": 1790208000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793745535,
+        "url": "https://go.vansh.nyc/1fd",
+        "locations": [
+            "Houston, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ketjen",
+        "title": "Data Science Intern",
+        "source": "vanshb03",
+        "id": "b772c303-f410-4560-972a-90ebfe4e218f",
+        "date_posted": 1793745398,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793745535,
+        "url": "https://go.vansh.nyc/1fe",
+        "locations": [
+            "Ottawa, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Blackberry",
+        "title": "Software Developer Intern",
+        "source": "vanshb03",
+        "id": "1a107374-7ed3-4b21-9b72-cfe1b2e9bbb8",
+        "date_posted": 1793745398,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793745535,
+        "url": "https://go.vansh.nyc/1ff",
+        "locations": [
+            "Ottawa, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Blackberry",
+        "title": "Software Development Intern",
+        "source": "vanshb03",
+        "id": "1eb25b3e-ddf1-4971-b0fa-95ad88a9c943",
+        "date_posted": 1793745398,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793745535,
+        "url": "https://go.vansh.nyc/1fg",
+        "locations": [
+            "Quebec, Canada",
+            "Remote",
+            "Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ciena",
+        "title": "Software Developer Co-op",
+        "source": "vanshb03",
+        "id": "619169fe-919e-4754-94e6-eaa664d7d8c9",
+        "date_posted": 1793745398,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1793745535,
+        "url": "https://go.vansh.nyc/1fh",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Dimensional Fund Advisors",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "bbf7be7d-e11c-44db-9f31-bd626348e257",
+        "date_posted": 1793745398,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793745535,
+        "url": "https://go.vansh.nyc/1fi",
+        "locations": [
+            "Cedar Rapids, IA",
+            "Des Moines, IA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "GreatAmerica Financial Services",
+        "title": "Quality Assurance Analyst Intern",
+        "source": "vanshb03",
+        "id": "0d6a1049-6c0f-4c3b-9a86-974ea0dd80e6",
+        "date_posted": 1793745398,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793745535,
+        "url": "https://go.vansh.nyc/1fj",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "GreatAmerica Financial Services",
+        "title": "Platform Engineering Intern",
+        "source": "vanshb03",
+        "id": "7d1bd72f-6c0b-4558-9350-5db1ac93b742",
+        "date_posted": 1793745398,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793745535,
+        "url": "https://go.vansh.nyc/1fk",
+        "locations": [
+            "Omaha, NE"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "BlueCross BlueShield of Nebraska",
+        "title": "Data Intern, Healthcare",
+        "source": "vanshb03",
+        "id": "d7dc9e74-f800-4c79-be67-40583738b2f1",
+        "date_posted": 1793745398,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793745535,
+        "url": "https://go.vansh.nyc/1fl",
+        "locations": [
+            "Milwaukee, WI",
+            "Wellesley Hills, MA",
+            "Hartford, CT",
+            "Portland, ME",
+            "Kansas City, MO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Sun Life",
+        "title": "Business Operations Software Engineer Co-op",
+        "source": "vanshb03",
+        "id": "98f7a0f6-ebb7-47cc-8403-4124e043a137",
+        "date_posted": 1793745398,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1793745535,
+        "url": "https://go.vansh.nyc/1fm",
+        "locations": [
+            "Madison, WI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TruStage",
+        "title": "IT Intern, Innovation & AI Technology",
+        "source": "vanshb03",
+        "id": "ea7a73f2-d22f-4d89-af68-819ee819a6ed",
+        "date_posted": 1793745398,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
