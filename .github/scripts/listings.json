@@ -22826,7 +22826,7 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1793015500,
+        "date_updated": 1793736646,
         "url": "https://go.vansh.nyc/FI",
         "locations": [
             "Pittsburgh, PA",
@@ -22834,7 +22834,7 @@
             "Irving, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "McKesson",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -47475,6 +47475,109 @@
         "source": "vanshb03",
         "id": "2a45d941-9aec-40c7-bf89-b2dbde1dacd2",
         "date_posted": 1793734602,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793736389,
+        "url": "https://go.vansh.nyc/1e4",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hewlett Packard (HP)",
+        "title": "Software Engineering Intern, Product & Developer Productivity",
+        "source": "vanshb03",
+        "id": "be90619c-9d78-4fa0-8e68-c076883bb73b",
+        "date_posted": 1793735729,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793736389,
+        "url": "https://go.vansh.nyc/1e5",
+        "locations": [
+            "Redondo Beach, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Northrop Grumman",
+        "title": "Ground Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "0c9514de-36e1-457f-a3ff-175576714aae",
+        "date_posted": 1793734769,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793736389,
+        "url": "https://go.vansh.nyc/1e6",
+        "locations": [
+            "West Valley City, UT"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "RTX",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "92a80325-0afd-4f33-9c06-b87732f97b84",
+        "date_posted": 1793734769,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793736389,
+        "url": "https://go.vansh.nyc/1e7",
+        "locations": [
+            "Devens, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CFS Energy",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "603a22c9-fd37-4db6-9d47-5e03c8ccb449",
+        "date_posted": 1793732789,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793736537,
+        "url": "https://go.vansh.nyc/1e8",
+        "locations": [
+            "Frisco, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Toshiba Commerce Solutions",
+        "title": "AI Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "5e261228-840f-42f5-84b9-ae1ebc3b1bae",
+        "date_posted": 1793664000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1793736537,
+        "url": "https://go.vansh.nyc/1e9",
+        "locations": [
+            "Remote",
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Highmark Health",
+        "title": "Vulnerability Management Analyst Undergraduate Intern",
+        "source": "vanshb03",
+        "id": "72da53db-5760-476b-8ac7-5ccc41ac2796",
+        "date_posted": 1793736413,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
