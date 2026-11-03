@@ -48756,5 +48756,107 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793747321,
+        "url": "https://go.vansh.nyc/1fo",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "GreatAmerica Financial Services",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "0d6d7cd2-bf1f-41c3-a9bf-5b6007cdbbb4",
+        "date_posted": 1793747182,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793747321,
+        "url": "https://go.vansh.nyc/1fp",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "McKesson",
+        "title": "CMM Technology Intern",
+        "source": "vanshb03",
+        "id": "f24d1510-033e-4d0b-8f85-4b82357b3c03",
+        "date_posted": 1793747182,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793747321,
+        "url": "https://go.vansh.nyc/1fq",
+        "locations": [
+            "Carmel, IN"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Republic Airways",
+        "title": "Data Analytics Intern",
+        "source": "vanshb03",
+        "id": "c501b08d-74db-464c-aa46-5296e2f7e15e",
+        "date_posted": 1793747182,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793747321,
+        "url": "https://go.vansh.nyc/1fr",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Simon Property Group",
+        "title": "Project Delivery Intern",
+        "source": "vanshb03",
+        "id": "fbcd5a52-5445-4246-b367-469e6ca00974",
+        "date_posted": 1793747182,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793747321,
+        "url": "https://go.vansh.nyc/1fs",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Simon Property Group",
+        "title": "Front End Developer Intern",
+        "source": "vanshb03",
+        "id": "b0119b5d-4280-48e5-a56b-b8afdd884b73",
+        "date_posted": 1793747182,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793747321,
+        "url": "https://go.vansh.nyc/1ft",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Simon Property Group",
+        "title": "Data Engineering Intern",
+        "source": "vanshb03",
+        "id": "480453f3-8f12-4764-8d44-ca6ca2040535",
+        "date_posted": 1793747182,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
