@@ -13346,13 +13346,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792535294,
+        "date_updated": 1793715075,
         "url": "https://go.vansh.nyc/cJ",
         "locations": [
             "Mississauga, ON"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "SOTI",
         "title": "Software Developer Intern",
         "source": "vanshb03",
@@ -45395,13 +45395,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793678915,
+        "date_updated": 1793715075,
         "url": "https://go.vansh.nyc/1bY",
         "locations": [
             "Nashville, TN"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "AllianceBernstein",
         "title": "Software Development Intern",
         "source": "vanshb03",
@@ -47014,6 +47014,108 @@
         "source": "vanshb03",
         "id": "cc43ba88-39df-479f-90b3-fad2bebbf612",
         "date_posted": 1793700652,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793714725,
+        "url": "https://go.vansh.nyc/1dw",
+        "locations": [
+            "Ann Arbor, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "KLA",
+        "title": "Digital Twin Eng Apps Intern",
+        "source": "vanshb03",
+        "id": "9a69a016-f716-4c0b-9c1e-09650caeee07",
+        "date_posted": 1793664000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793714725,
+        "url": "https://go.vansh.nyc/1dx",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Maricopa Association of Governments",
+        "title": "Socioeconomic Data Intern",
+        "source": "vanshb03",
+        "id": "a7b74d38-26e7-4a27-a449-96e8d69c6442",
+        "date_posted": 1793664000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793714725,
+        "url": "https://go.vansh.nyc/1dy",
+        "locations": [
+            "Chandler, AZ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Marvell",
+        "title": "Security Verification/Validation Engineer Intern",
+        "source": "vanshb03",
+        "id": "fa17d9f6-465a-4727-ab5c-d35b24df04f8",
+        "date_posted": 1793664000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793714725,
+        "url": "https://go.vansh.nyc/1dz",
+        "locations": [
+            "Southern Pines, NC"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Sierra Nevada Corporation",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "935ac142-add8-4f81-bd43-d86d4f6e9291",
+        "date_posted": 1793664000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793714725,
+        "url": "https://go.vansh.nyc/1dA",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Manulife Financial",
+        "title": "AI Co-op",
+        "source": "vanshb03",
+        "id": "dc19bd7f-1316-488f-a95a-7890e611ff7b",
+        "date_posted": 1793664000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1793714989,
+        "url": "https://go.vansh.nyc/1dB",
+        "locations": [
+            "Tampa, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "The Mosaic Company",
+        "title": "Artificial Intelligence Co-op",
+        "source": "vanshb03",
+        "id": "759df1bd-2277-4e58-aaa8-aa5294c21839",
+        "date_posted": 1793714838,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
