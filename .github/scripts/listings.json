@@ -45137,5 +45137,39 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793668081,
+        "url": "https://go.vansh.nyc/1bG",
+        "locations": [
+            "Vancouver, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "GeoComply",
+        "title": "Forward Deployed Engineer Intern (FDE)",
+        "source": "vanshb03",
+        "id": "92b9c63c-4d6e-40ad-b0d0-f879225f6b31",
+        "date_posted": 1792602016,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1793668081,
+        "url": "https://go.vansh.nyc/1bH",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "American Express",
+        "title": "Undergraduate Program AI Engineer Intern, Enterprise Technology Services",
+        "source": "vanshb03",
+        "id": "9ce0fa58-b0c9-4e1c-9f78-eefa8d013a24",
+        "date_posted": 1793577600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
