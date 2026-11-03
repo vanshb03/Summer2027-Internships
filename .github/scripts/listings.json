@@ -38865,13 +38865,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793491587,
+        "date_updated": 1793734834,
         "url": "https://go.vansh.nyc/12E",
         "locations": [
             "Edison, NJ"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "C&S Wholesale Grocers",
         "title": "IS Intern, Data Analytics & Data Science",
         "source": "vanshb03",
@@ -47458,6 +47458,23 @@
         "source": "vanshb03",
         "id": "7df7dbb1-1688-48b6-a9d6-c6dcab5d2fe8",
         "date_posted": 1793733110,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793734737,
+        "url": "https://go.vansh.nyc/1e0",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hewlett Packard (HP)",
+        "title": "Software Engineering Intern, AIML Platform",
+        "source": "vanshb03",
+        "id": "2a45d941-9aec-40c7-bf89-b2dbde1dacd2",
+        "date_posted": 1793734602,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
