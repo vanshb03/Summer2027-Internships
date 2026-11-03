@@ -45,7 +45,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Zimmer Biomet Holdings | Software Developer Co-op | Montreal, Canada | <a href="https://go.vansh.nyc/1bk?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | Viavi Solutions | Software Engineering Co-op | Germantown, MD | <a href="https://go.vansh.nyc/1c8?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
-| Transamerica | Data Analytics Intern | Cedar Rapids, IA | <a href="https://go.vansh.nyc/1dk?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | Toshiba Global Commerce Solutions | AI Automation & Revenue Ops Intern | Durham, NC | <a href="https://go.vansh.nyc/1bn?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | Toshiba Commerce Solutions | Software Engineering Intern | Durham, NC | <a href="https://go.vansh.nyc/19Y?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | ↳ | Agentic Software Engineering Intern | Durham, NC | <a href="https://go.vansh.nyc/19T?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
@@ -485,6 +484,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Pinterest | Software Engineer Intern | Toronto, Canada | <a href="https://go.vansh.nyc/Y?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 24 |
 | Colgate-Palmolive | Software Development Intern | Piscataway, NJ | <a href="https://go.vansh.nyc/U?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
 | Shopify | Engineering and Data Intern | Remote</br>Canada | <a href="https://go.vansh.nyc/G?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 19 |
+| Transamerica | Data Analytics Intern | Cedar Rapids, IA | 🔒 | Nov 02 |
 | General Magic | AI Engineer Co-op | Toronto, Canada | 🔒 | Oct 30 |
 | ↳ | Backend Engineer Co-op | Toronto, Canada | 🔒 | Oct 30 |
 | Fresenius Medical Care | Software Engineering Co-op | Lawrence, MA | 🔒 | Oct 30 |
