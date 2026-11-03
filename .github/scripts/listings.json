@@ -11880,13 +11880,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792442374,
+        "date_updated": 1793716829,
         "url": "https://go.vansh.nyc/bl",
         "locations": [
             "Remote in USA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Leidos",
         "title": "Cloud Engineering Intern",
         "source": "vanshb03",
@@ -37391,13 +37391,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793383627,
+        "date_updated": 1793716829,
         "url": "https://go.vansh.nyc/10M",
         "locations": [
             "Melbourne, FL"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Ensco",
         "title": "Information Security Intern",
         "source": "vanshb03",
@@ -47116,6 +47116,40 @@
         "source": "vanshb03",
         "id": "759df1bd-2277-4e58-aaa8-aa5294c21839",
         "date_posted": 1793714838,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793716528,
+        "url": "https://go.vansh.nyc/1dC",
+        "locations": [
+            "Lancaster, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Eurofins",
+        "title": "Business Intelligence Intern",
+        "source": "vanshb03",
+        "id": "b8909250-da05-4287-b0e0-bd86f6e12bef",
+        "date_posted": 1793664000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793716731,
+        "url": "https://go.vansh.nyc/1dD",
+        "locations": [
+            "Roy, UT"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Northrop Grumman",
+        "title": "Cyber Systems Engineer Intern",
+        "source": "vanshb03",
+        "id": "6197c3fd-130c-4bb5-8ce4-9f51e2b8c04d",
+        "date_posted": 1793716605,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
