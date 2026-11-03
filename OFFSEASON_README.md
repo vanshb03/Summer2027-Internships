@@ -340,7 +340,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Tenet3 | Software Developer Intern, Full Stack | Dayton, OH | <a href="https://go.vansh.nyc/GC?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
 | Magnet Forensics | Software Developer Co-op | Waterloo, Canada</br>Ottawa, Canada | <a href="https://go.vansh.nyc/GD?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
 | Workday | Software Development Engineer Intern | Vancouver, Canada | <a href="https://go.vansh.nyc/Gq?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 08 |
-| ↳ | Machine Learning Engineer Intern | Toronto, Canada</br>Vancouver, Canada | <a href="https://go.vansh.nyc/Gr?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 08 |
 | Rugged Robotics | Robotics Software Co-op | Houston, TX | <a href="https://go.vansh.nyc/Ga?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 08 |
 | Parsons | Software Engineer Co-op | Centreville, VA | <a href="https://go.vansh.nyc/Gi?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 08 |
 | PSP Investments | GenAI and Digital Workplace Intern | Montreal, Canada | <a href="https://go.vansh.nyc/G1?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 07 |
@@ -565,6 +564,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Truist | TD&O Program Enablement Specialist Intern 🛂 | Charlotte, NC | 🔒 | Oct 10 |
 | Johnson & Johnson | TDS Lab Automation Co-op 🛂 | Malvern, PA | 🔒 | Oct 10 |
 | ↳ | TDS CGT-Digital Automation Co-op 🛂 | Malvern, PA | 🔒 | Oct 10 |
+| Workday | Machine Learning Engineer Intern | Toronto, Canada</br>Vancouver, Canada | 🔒 | Oct 08 |
 | Clēnera | Data Engineer Intern | Boise, ID | 🔒 | Oct 06 |
 | NVIDIA | PCIe Design Verification Intern | Santa Clara, CA | 🔒 | Oct 05 |
 | Moment Energy | Firmware Engineering Co-op | Surrey, Canada | 🔒 | Oct 05 |
