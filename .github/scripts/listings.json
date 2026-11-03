@@ -25344,13 +25344,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793021626,
+        "date_updated": 1793727589,
         "url": "https://go.vansh.nyc/J3",
         "locations": [
             "Lubbock, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tyler Technologies",
         "title": "Software Development Intern",
         "source": "vanshb03",
@@ -34008,13 +34008,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1793140523,
+        "date_updated": 1793727589,
         "url": "https://go.vansh.nyc/WD",
         "locations": [
             "United States"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Salesforce",
         "title": "Forward Deployed Engineer Intern, Global Public Sector",
         "source": "vanshb03",
@@ -36807,14 +36807,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793315160,
+        "date_updated": 1793727589,
         "url": "https://go.vansh.nyc/105",
         "locations": [
             "Remote",
             "United States"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "CareSource",
         "title": "AI Intern",
         "source": "vanshb03",
@@ -45986,13 +45986,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793686189,
+        "date_updated": 1793727589,
         "url": "https://go.vansh.nyc/1cw",
         "locations": [
             "Atlanta, GA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Gordon Food Service",
         "title": "Data Engineering Intern",
         "source": "vanshb03",
@@ -46677,13 +46677,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793686189,
+        "date_updated": 1793727589,
         "url": "https://go.vansh.nyc/1da",
         "locations": [
             "Trenton, NJ"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "NJM Insurance Group",
         "title": "IT Data Science Intern",
         "source": "vanshb03",
@@ -47252,6 +47252,58 @@
         "source": "vanshb03",
         "id": "6e9409ff-6281-43ea-97eb-f2b953ec8fbb",
         "date_posted": 1793725618,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793727357,
+        "url": "https://go.vansh.nyc/1dM",
+        "locations": [
+            "Westminster, CO",
+            "Dayton, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Trimble",
+        "title": "AI Developer Intern",
+        "source": "vanshb03",
+        "id": "f025242b-ce86-4118-8c47-246731d0949b",
+        "date_posted": 1793726397,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793727498,
+        "url": "https://go.vansh.nyc/1dN",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Dell Technologies",
+        "title": "Software Engineering Undergraduate Intern, CSG",
+        "source": "vanshb03",
+        "id": "d0150e72-84f1-48a6-9bb0-510c59682678",
+        "date_posted": 1793664000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793727498,
+        "url": "https://go.vansh.nyc/1dO",
+        "locations": [
+            "Baltimore, MD"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Northrop Grumman",
+        "title": "Engineering Software Tool Development Intern, Field Engineering",
+        "source": "vanshb03",
+        "id": "21dc4906-880a-46ec-8070-230f31191929",
+        "date_posted": 1793727369,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
