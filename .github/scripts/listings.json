@@ -9053,13 +9053,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792261427,
+        "date_updated": 1793731386,
         "url": "https://go.vansh.nyc/8G",
         "locations": [
             "Ann Arbor, MI"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "KLA",
         "title": "Software Engineer Intern, AI",
         "source": "vanshb03",
@@ -30705,13 +30705,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793031368,
+        "date_updated": 1793731386,
         "url": "https://go.vansh.nyc/Rf",
         "locations": [
             "Santa Rosa, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Keysight Technologies",
         "title": "Enterprise Software Development Intern, EDA Tools",
         "source": "vanshb03",
@@ -32477,13 +32477,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793065616,
+        "date_updated": 1793731386,
         "url": "https://go.vansh.nyc/Uy",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Niantic Spatial",
         "title": "Software Engineer Intern, Native SDK & Mobile Platforms",
         "source": "vanshb03",
@@ -47339,6 +47339,40 @@
         "source": "vanshb03",
         "id": "a804defd-dd4a-412e-b016-a12150317c69",
         "date_posted": 1793729230,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793731118,
+        "url": "https://go.vansh.nyc/1dR",
+        "locations": [
+            "Montreal, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Botpress Technologies",
+        "title": "Software Developer Intern",
+        "source": "vanshb03",
+        "id": "5f4f8fec-be51-493d-81e3-d03d27ad766a",
+        "date_posted": 1793730988,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1793731315,
+        "url": "https://go.vansh.nyc/1dS",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "American Express",
+        "title": "Undergraduate Program Cybersecurity AI Engineer Intern, Enterprise Technology Services",
+        "source": "vanshb03",
+        "id": "8b2ae827-15bc-47f0-82c4-15d5b208d3cd",
+        "date_posted": 1793664000,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
