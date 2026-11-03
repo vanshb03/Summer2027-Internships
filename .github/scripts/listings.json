@@ -46966,5 +46966,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1793693134,
+        "url": "https://go.vansh.nyc/1dr",
+        "locations": [
+            "Denton, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Paccar",
+        "title": "Software Developer Intern",
+        "source": "vanshb03",
+        "id": "55dcae9c-08f6-47cd-81a9-3575cf0af49d",
+        "date_posted": 1793692077,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
