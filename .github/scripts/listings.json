@@ -47000,5 +47000,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793700781,
+        "url": "https://go.vansh.nyc/1du",
+        "locations": [
+            "Windsor Locks, CT"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "RTX",
+        "title": "Secure System Engineering Intern",
+        "source": "vanshb03",
+        "id": "cc43ba88-39df-479f-90b3-fad2bebbf612",
+        "date_posted": 1793700652,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
