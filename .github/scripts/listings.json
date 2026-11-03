@@ -34746,13 +34746,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793194941,
+        "date_updated": 1793733341,
         "url": "https://go.vansh.nyc/Xx",
         "locations": [
             "Oak Brook, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Ace Hardware Corporation",
         "title": "IT Associate Software Engineer Intern",
         "source": "vanshb03",
@@ -46883,13 +46883,13 @@
         "season": "Spring"
     },
     {
-        "date_updated": 1793689722,
+        "date_updated": 1793733341,
         "url": "https://go.vansh.nyc/1dm",
         "locations": [
             "Ann Arbor, MI"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "KLA",
         "title": "PLM BI & Analytics Intern",
         "source": "vanshb03",
@@ -47019,13 +47019,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793714725,
+        "date_updated": 1793733341,
         "url": "https://go.vansh.nyc/1dw",
         "locations": [
             "Ann Arbor, MI"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "KLA",
         "title": "Digital Twin Eng Apps Intern",
         "source": "vanshb03",
@@ -47373,6 +47373,91 @@
         "source": "vanshb03",
         "id": "8b2ae827-15bc-47f0-82c4-15d5b208d3cd",
         "date_posted": 1793664000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793733078,
+        "url": "https://go.vansh.nyc/1dV",
+        "locations": [
+            "Manhattan Beach, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Northrop Grumman",
+        "title": "Flight Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "ded5db26-d978-4651-b419-864dfd189e62",
+        "date_posted": 1793732118,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793733078,
+        "url": "https://go.vansh.nyc/1dW",
+        "locations": [
+            "Framingham, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bose",
+        "title": "Electrical Engineering Co-op, FPGA and Audio Research Platforms",
+        "source": "vanshb03",
+        "id": "721195bc-b97a-409c-b840-72da79ae062c",
+        "date_posted": 1793732178,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1793733242,
+        "url": "https://go.vansh.nyc/1dX",
+        "locations": [
+            "Rockland, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Rockland Trust",
+        "title": "Business Intelligence (BI) Intern",
+        "source": "vanshb03",
+        "id": "434e789f-235a-4962-9d36-8096cfccba8e",
+        "date_posted": 1793613600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793733242,
+        "url": "https://go.vansh.nyc/1dY",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Software Engineer Intern, Teamwork Experiences",
+        "source": "vanshb03",
+        "id": "aecc2da7-51c6-40b6-8c3d-2dbab1338249",
+        "date_posted": 1793732873,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793733242,
+        "url": "https://go.vansh.nyc/1dZ",
+        "locations": [
+            "Deerfield Beach, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "JM Family Enterprises",
+        "title": "AI & Decision Science Intern",
+        "source": "vanshb03",
+        "id": "7df7dbb1-1688-48b6-a9d6-c6dcab5d2fe8",
+        "date_posted": 1793733110,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
