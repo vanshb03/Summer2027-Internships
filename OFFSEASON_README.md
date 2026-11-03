@@ -264,7 +264,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Ciena | Software Engineer Intern, Security | Atlanta, GA | <a href="https://go.vansh.nyc/cp?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
 | CIBC | Advanced Analytics and AI Co-op | Toronto, ON | <a href="https://go.vansh.nyc/bH?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
 | Amazon.com Services LLC | Hardware Development Engineer Intern | Bellevue, WA | <a href="https://go.vansh.nyc/cT?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
-| ABB | Integrated Motor Drive Software Co-op | Greenville, SC | <a href="https://go.vansh.nyc/bF?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
 | TMX Group | DevOps Intern | Montreal, Canada | <a href="https://go.vansh.nyc/QS?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
 | Rivian | Software Engineering Co-op, Product Development Portal | Palo Alto, CA | <a href="https://go.vansh.nyc/RD?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
 | ↳ | Software Engineering Co-op, Product Lifecycle Management | Palo Alto, CA | <a href="https://go.vansh.nyc/RE?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
@@ -535,6 +534,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Software Engineer Co-op 🇺🇸 | Richardson, TX | 🔒 | Oct 20 |
 | OpenAI | Backend Software Engineer Intern, Cooperative AI (Evals) | San Francisco, CA | 🔒 | Oct 20 |
 | BMO | Data & AI Analyst Co-op | Toronto, ON, Canada | 🔒 | Oct 20 |
+| ABB | Integrated Motor Drive Software Co-op | Greenville, SC | 🔒 | Oct 19 |
 | Manulife Financial | AI Co-op | Toronto, ON, Canada | 🔒 | Oct 18 |
 | Johns Hopkins Applied Physics Laboratory | Cybersecurity Intern, Mission Engineering | Laurel, MD | 🔒 | Oct 18 |
 | CIBC | Application Developer Co-op - Enterprise Technology & Business Management | Toronto, ON, Canada | 🔒 | Oct 18 |
