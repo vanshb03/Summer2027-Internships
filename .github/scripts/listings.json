@@ -45171,5 +45171,39 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793671566,
+        "url": "https://go.vansh.nyc/1bI",
+        "locations": [
+            "Boise, ID"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Micron Technology",
+        "title": "System Engineer Intern, HBM",
+        "source": "vanshb03",
+        "id": "590e594f-fa28-4d71-914f-56ea1baee389",
+        "date_posted": 1793670846,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793671761,
+        "url": "https://go.vansh.nyc/1bJ",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Shield",
+        "title": "Embedded Firmware Intern",
+        "source": "vanshb03",
+        "id": "772dc419-5aa3-4f9a-b99f-a299db50b452",
+        "date_posted": 1793660996,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
