@@ -46983,5 +46983,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793696909,
+        "url": "https://go.vansh.nyc/1dt",
+        "locations": [
+            "Colorado Springs, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Keysight Technologies",
+        "title": "DevSecOps Intern",
+        "source": "vanshb03",
+        "id": "56dd67db-8962-4d5a-ad5d-90a9cda229f3",
+        "date_posted": 1793696763,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
