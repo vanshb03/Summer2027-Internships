@@ -9938,13 +9938,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1792261427,
+        "date_updated": 1793682710,
         "url": "https://go.vansh.nyc/9w",
         "locations": [
             "West Chester, PA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Johnson & Johnson",
         "title": "Technical Operations Co-op",
         "source": "vanshb03",
@@ -10467,13 +10467,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1792261427,
+        "date_updated": 1793682710,
         "url": "https://go.vansh.nyc/a1",
         "locations": [
             "Somerset, NJ"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Johnson & Johnson",
         "title": "Data Operations & Analytics Co-op",
         "source": "vanshb03",
@@ -10484,13 +10484,13 @@
         "season": "Spring"
     },
     {
-        "date_updated": 1792261427,
+        "date_updated": 1793682710,
         "url": "https://go.vansh.nyc/a2",
         "locations": [
             "Spring House, PA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Johnson & Johnson",
         "title": "Emerging Technologies Co-op",
         "source": "vanshb03",
@@ -12239,13 +12239,13 @@
         "season": "Spring"
     },
     {
-        "date_updated": 1792511186,
+        "date_updated": 1793682710,
         "url": "https://go.vansh.nyc/bG",
         "locations": [
             "Toronto, ON"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "BMO Financial Group",
         "title": "Junior Cloud Engineer Co-op",
         "source": "vanshb03",
@@ -34556,13 +34556,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793178477,
+        "date_updated": 1793682710,
         "url": "https://go.vansh.nyc/Xl",
         "locations": [
             "Murrysville, PA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Philips",
         "title": "Embedded Test Engineer Co-op",
         "source": "vanshb03",
@@ -34695,13 +34695,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793190907,
+        "date_updated": 1793682710,
         "url": "https://go.vansh.nyc/Xu",
         "locations": [
             "Marlborough, MA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "RTX",
         "title": "Software Engineer Co-op",
         "source": "vanshb03",
@@ -36429,13 +36429,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1793313325,
+        "date_updated": 1793682710,
         "url": "https://go.vansh.nyc/ZE",
         "locations": [
             "Sterling, VA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "RTX",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -45585,5 +45585,300 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1793682523,
+        "url": "https://go.vansh.nyc/1c9",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "CNA Insurance",
+        "title": "Software Engineering Intern, Technology",
+        "source": "vanshb03",
+        "id": "434aec6f-0649-4880-8b07-c1bc24c29d87",
+        "date_posted": 1793682372,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793682523,
+        "url": "https://go.vansh.nyc/1ca",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "CNA Insurance",
+        "title": "AI Engineering Intern, Technology",
+        "source": "vanshb03",
+        "id": "77157c0b-8334-4f34-a540-044bc5a3acf7",
+        "date_posted": 1793682372,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793682523,
+        "url": "https://go.vansh.nyc/1cb",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "CNA Insurance",
+        "title": "Data Engineering Intern, Technology",
+        "source": "vanshb03",
+        "id": "1becdf41-0023-4a8e-b7ef-c055d2dbec26",
+        "date_posted": 1793682372,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793682523,
+        "url": "https://go.vansh.nyc/1cc",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "CNA Insurance",
+        "title": "Cybersecurity Intern, Technology",
+        "source": "vanshb03",
+        "id": "0c8a4f00-e772-4cb6-b311-5c3f23416b8d",
+        "date_posted": 1793682372,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793682523,
+        "url": "https://go.vansh.nyc/1cd",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CAI",
+        "title": "Cybersecurity Analyst Intern",
+        "source": "vanshb03",
+        "id": "c35c7911-15c1-434e-ac60-7f772b2b577f",
+        "date_posted": 1793682372,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793682523,
+        "url": "https://go.vansh.nyc/1ce",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CAI",
+        "title": "GIS Software Developer Intern",
+        "source": "vanshb03",
+        "id": "5524b483-094d-4472-b5dd-b81a090f13ef",
+        "date_posted": 1793682372,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793682523,
+        "url": "https://go.vansh.nyc/1cf",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Charter Manufacturing",
+        "title": "Automation & Analytics Intern",
+        "source": "vanshb03",
+        "id": "bd7ebeb7-8bb9-4bea-be14-a5135cfda9d9",
+        "date_posted": 1793682372,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1793682523,
+        "url": "https://go.vansh.nyc/1cg",
+        "locations": [
+            "Eden Prairie, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "C.H. Robinson",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "3851aa66-4e04-412a-9d50-363c7cc5401f",
+        "date_posted": 1793682372,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793682523,
+        "url": "https://go.vansh.nyc/1ch",
+        "locations": [
+            "Fairfield, IA",
+            "West Des Moines, IA",
+            "Phoenix, AZ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cambridge Investment Research",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "c3d67b0c-d093-40bc-a7c8-3a1fd5d45a67",
+        "date_posted": 1793682372,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793682523,
+        "url": "https://go.vansh.nyc/1ci",
+        "locations": [
+            "Phoenix, AZ",
+            "Fairfield, IA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cambridge Investment Research",
+        "title": "Salesforce Developer Intern",
+        "source": "vanshb03",
+        "id": "7555316e-8056-4614-a6d6-a4d9d7bc448b",
+        "date_posted": 1793682372,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793682523,
+        "url": "https://go.vansh.nyc/1cj",
+        "locations": [
+            "Phoenix, AZ",
+            "Fairfield, IA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cambridge Investment Research",
+        "title": "Data Engineering Intern",
+        "source": "vanshb03",
+        "id": "f3047f5c-2d4e-434e-8e28-723656c52bbf",
+        "date_posted": 1793682372,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793682523,
+        "url": "https://go.vansh.nyc/1ck",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Clarios",
+        "title": "Forward Deployed Engineering Intern",
+        "source": "vanshb03",
+        "id": "e816c0ac-9611-47d9-863a-fa29396a59de",
+        "date_posted": 1793682372,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793682523,
+        "url": "https://go.vansh.nyc/1cl",
+        "locations": [
+            "Boise, ID"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CWAN",
+        "title": "Software Development Intern",
+        "source": "vanshb03",
+        "id": "7d6fd8f6-0a9d-4da3-8e6c-c3b62bb7ed3c",
+        "date_posted": 1793682372,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793682523,
+        "url": "https://go.vansh.nyc/1cm",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CWAN",
+        "title": "Software Development Intern",
+        "source": "vanshb03",
+        "id": "995a3460-b7cf-4923-bbb1-b0a28a7317e7",
+        "date_posted": 1793682372,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793682523,
+        "url": "https://go.vansh.nyc/1cn",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CWAN",
+        "title": "Gen AI Intern",
+        "source": "vanshb03",
+        "id": "66bccd29-314e-4f8b-b1f0-6d0a3a90ad30",
+        "date_posted": 1793682372,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793682523,
+        "url": "https://go.vansh.nyc/1co",
+        "locations": [
+            "Toronto, Canada",
+            "Vancouver, Canada",
+            "Calgary, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Clio",
+        "title": "Software Developer Co-op",
+        "source": "vanshb03",
+        "id": "e6bf5302-bfee-42ed-b1c9-9921d37e74f1",
+        "date_posted": 1793682372,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1793682666,
+        "url": "https://go.vansh.nyc/1cp",
+        "locations": [
+            "South San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "onepot",
+        "title": "Research Intern, Machine Learning",
+        "source": "vanshb03",
+        "id": "b4d1137a-1e7c-4620-b019-d5fb341c332b",
+        "date_posted": 1793676078,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
