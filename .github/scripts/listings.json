@@ -35559,13 +35559,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793228719,
+        "date_updated": 1793664592,
         "url": "https://go.vansh.nyc/Yx",
         "locations": [
             "Beaverton, OR"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Apple",
         "title": "Design Verification Engineer Intern",
         "source": "vanshb03",
@@ -44898,5 +44898,227 @@
         "company_url": "",
         "is_visible": true,
         "season": "Spring"
+    },
+    {
+        "date_updated": 1793664318,
+        "url": "https://go.vansh.nyc/1br",
+        "locations": [
+            "Valley, NE"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Valmont",
+        "title": "Embedded Systems Engineer Intern",
+        "source": "vanshb03",
+        "id": "b7bab53b-5ed5-40c0-ae36-923988156655",
+        "date_posted": 1793577600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793664318,
+        "url": "https://go.vansh.nyc/1bs",
+        "locations": [
+            "Rochester, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Constellation Brands",
+        "title": "Full Stack Engineer Intern",
+        "source": "vanshb03",
+        "id": "ba7cd1a0-edb2-4b18-9463-7e1b6a8aa54a",
+        "date_posted": 1793577600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793664318,
+        "url": "https://go.vansh.nyc/1bt",
+        "locations": [
+            "Deerfield Beach, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "JM Family Enterprises",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "a9a90a37-bbdd-48a4-a934-7fd728ae1056",
+        "date_posted": 1793577600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793664318,
+        "url": "https://go.vansh.nyc/1bu",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Qualcomm",
+        "title": "Verification Engineer Intern",
+        "source": "vanshb03",
+        "id": "f3fc4dbc-55db-4ad5-837a-a70a8bc94a52",
+        "date_posted": 1793662055,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793664318,
+        "url": "https://go.vansh.nyc/1bv",
+        "locations": [
+            "Melville, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Resideo",
+        "title": "Embedded Firmware Engineer Intern",
+        "source": "vanshb03",
+        "id": "4f0771da-875b-460d-8792-68b348aa72e3",
+        "date_posted": 1793662104,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793664318,
+        "url": "https://go.vansh.nyc/1bw",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Resideo",
+        "title": "Mobile Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "52c808d5-be5b-445c-9f53-7d2d92126fa1",
+        "date_posted": 1793662105,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793664318,
+        "url": "https://go.vansh.nyc/1bx",
+        "locations": [
+            "Aurora, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Resideo",
+        "title": "Firmware Engineer Intern",
+        "source": "vanshb03",
+        "id": "a25ff19d-d196-4592-9ae9-30ab49ae55ea",
+        "date_posted": 1793662105,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793664318,
+        "url": "https://go.vansh.nyc/1by",
+        "locations": [
+            "Austin, TX",
+            "Golden Valley, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Resideo",
+        "title": "Data Science Intern",
+        "source": "vanshb03",
+        "id": "09855603-2826-4d0b-a1a9-ba4e42ae9019",
+        "date_posted": 1793662105,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793664318,
+        "url": "https://go.vansh.nyc/1bz",
+        "locations": [
+            "Golden Valley, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Resideo",
+        "title": "Firmware Engineer Intern",
+        "source": "vanshb03",
+        "id": "12aa1824-fd3d-4dff-84f7-d7455ccab0bf",
+        "date_posted": 1793662105,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793664318,
+        "url": "https://go.vansh.nyc/1bA",
+        "locations": [
+            "Issaquah, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Costco",
+        "title": "Digital Services Intern, Infosec AI/ML",
+        "source": "vanshb03",
+        "id": "1537658d-7fab-4b77-9417-403805b1cc11",
+        "date_posted": 1793662816,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793664318,
+        "url": "https://go.vansh.nyc/1bB",
+        "locations": [
+            "Issaquah, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Costco",
+        "title": "Software Engineer Intern, IT Retail Media",
+        "source": "vanshb03",
+        "id": "ecf78546-abdd-422e-bf4e-b48df8ee5c33",
+        "date_posted": 1793662816,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793664318,
+        "url": "https://go.vansh.nyc/1bC",
+        "locations": [
+            "Issaquah, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Costco",
+        "title": "Software Engineer Intern, International Depot",
+        "source": "vanshb03",
+        "id": "50405830-0daf-42a9-b426-25e2eb7d85a2",
+        "date_posted": 1793662816,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793664318,
+        "url": "https://go.vansh.nyc/1bD",
+        "locations": [
+            "Issaquah, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Costco",
+        "title": "Innovation Intern",
+        "source": "vanshb03",
+        "id": "ad08f435-cd5d-4d19-a99c-fcfe208148b6",
+        "date_posted": 1793662817,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
