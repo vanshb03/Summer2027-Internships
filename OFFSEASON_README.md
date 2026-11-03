@@ -123,6 +123,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Rockwell Automation | Embedded Software Engineer Co-op 🛂 | Milwaukee, WI</br>Mayfield Heights, OH | <a href="https://go.vansh.nyc/1di?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | ↳ | Robotics Research Co-op, Data Engineering 🛂 | Waterloo, Canada | <a href="https://go.vansh.nyc/1dj?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | Regeneron Pharmaceuticals | Data Analytics & Digital Tools Co-op (IOPS) | Rensselaer, NY | <a href="https://go.vansh.nyc/1dq?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
+| Manulife Financial | AI Co-op | Toronto, Canada | <a href="https://go.vansh.nyc/1dA?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | Lila Sciences | Agentic and Generative Protein Design Co-op | Cambridge, MA</br>San Francisco, CA | <a href="https://go.vansh.nyc/19d?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | LabCorp | Agentic AI Developer Co-op | Durham, NC | <a href="https://go.vansh.nyc/19P?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | ↳ | Full-Stack Life Sciences Engineer Co-op | Durham, NC | <a href="https://go.vansh.nyc/19C?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
