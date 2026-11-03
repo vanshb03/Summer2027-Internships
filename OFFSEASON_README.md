@@ -46,7 +46,9 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Sun Life | Business Operations Software Engineer Co-op | <details><summary>**5 locations**</summary>Milwaukee, WI</br>Wellesley Hills, MA</br>Hartford, CT</br>Portland, ME</br>Kansas City, MO</details> | <a href="https://go.vansh.nyc/1fl?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | Samsung Research America Internship | Agentic AI Solutions Intern | Mountain View, CA | <a href="https://go.vansh.nyc/1dP?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | Moderna | mRNA Design Engineering Co-op 🛂 | Cambridge, MA | <a href="https://go.vansh.nyc/1fa?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
-| Global Relay | Java Developer Co-op | Vancouver, Canada | <a href="https://go.vansh.nyc/1ej?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
+| Hearst | Editorial AI Development Intern | San Francisco, CA | <a href="https://go.vansh.nyc/1fC?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
+| Global Relay | Java Developer Co-op | Halifax, Canada | <a href="https://go.vansh.nyc/1fE?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
+| ↳ | Java Developer Co-op | Vancouver, Canada | <a href="https://go.vansh.nyc/1ej?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | DuCharme, McMillen & Associates | IT Quality Assurance Intern | Lisle, IL | <a href="https://go.vansh.nyc/1f2?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | Ciena | Software Developer Co-op | Quebec, Canada</br>Remote</br>Canada | <a href="https://go.vansh.nyc/1fg?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | Botpress Technologies | Software Developer Intern | Montreal, Canada | <a href="https://go.vansh.nyc/1dR?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
@@ -142,8 +144,13 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Heart Recovery Software R&D Co-op | Halethorpe, MD | <a href="https://go.vansh.nyc/1cE?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | Insulet Corporation | Embedded Software Test Engineering Co-op 🛂 | Acton, MA | <a href="https://go.vansh.nyc/1dp?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | Flextronics International | Manufacturing Data & Analytics Co-op | Libertyville, IL | <a href="https://go.vansh.nyc/1dl?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
+| Engramme | Back-End Software Engineer Co-op | San Francisco, CA | <a href="https://go.vansh.nyc/1fx?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
+| ↳ | Full-Stack Software Engineer Co-op | San Francisco, CA | <a href="https://go.vansh.nyc/1fy?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
+| ↳ | Machine Learning Engineer Co-op | San Francisco, CA | <a href="https://go.vansh.nyc/1fz?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | Clio | Software Developer Co-op | Toronto, Canada</br>Vancouver, Canada</br>Calgary, Canada | <a href="https://go.vansh.nyc/1co?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | Charter Manufacturing | Automation & Analytics Intern | Milwaukee, WI | <a href="https://go.vansh.nyc/1cf?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
+| Arlo Technologies | Firmware Developer Co-op | Richmond, Canada | <a href="https://go.vansh.nyc/1fB?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
+| Apache Industrial | AI Implementation Intern | Houston, TX | <a href="https://go.vansh.nyc/1fA?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | TikTok | Software Engineer Project Intern, Model Infrastructure | San Jose, CA | <a href="https://go.vansh.nyc/18Z?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | ↳ | Software Engineer Project Intern, Platform Efficiency | San Jose, CA | <a href="https://go.vansh.nyc/190?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | ↳ | Software Engineer Intern, Global E-commerce-Search | Seattle, WA | <a href="https://go.vansh.nyc/188?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
