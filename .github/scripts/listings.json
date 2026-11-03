@@ -45205,5 +45205,74 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793675113,
+        "url": "https://go.vansh.nyc/1bK",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "GenMD",
+        "title": "Member of Technical Staff Intern, Applied AI",
+        "source": "vanshb03",
+        "id": "4060ada5-75a3-4572-a19f-10fe559d22ff",
+        "date_posted": 1793664000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793675308,
+        "url": "https://go.vansh.nyc/1bL",
+        "locations": [
+            "San Mateo, CA",
+            "Dallas, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Shield",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "adecc079-65d4-440d-ae6c-d50d75310bad",
+        "date_posted": 1790195201,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793675308,
+        "url": "https://go.vansh.nyc/1bM",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ID.me",
+        "title": "Product Security Engineering Intern",
+        "source": "vanshb03",
+        "id": "3bd2442b-eea9-4df1-9539-258fea4ced0a",
+        "date_posted": 1793640450,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793675308,
+        "url": "https://go.vansh.nyc/1bN",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Shield",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "3d8f1170-1f6c-4cd0-84ed-af7caba82377",
+        "date_posted": 1793660426,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
