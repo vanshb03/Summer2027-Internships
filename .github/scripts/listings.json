@@ -24925,13 +24925,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1793021626,
+        "date_updated": 1793749318,
         "url": "https://go.vansh.nyc/IF",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Waymo",
         "title": "Software Engineering Intern, Maneuvering Tech",
         "source": "vanshb03",
@@ -48855,6 +48855,178 @@
         "source": "vanshb03",
         "id": "480453f3-8f12-4764-8d44-ca6ca2040535",
         "date_posted": 1793747182,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793748911,
+        "url": "https://go.vansh.nyc/1fw",
+        "locations": [
+            "Framingham, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Staples",
+        "title": "Software Engineer Intern, SDS e-Commerce Team",
+        "source": "vanshb03",
+        "id": "d6214466-f1cf-4a2f-99e7-a247388ac98c",
+        "date_posted": 1793664000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793748911,
+        "url": "https://go.vansh.nyc/1fx",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Engramme",
+        "title": "Back-End Software Engineer Co-op",
+        "source": "vanshb03",
+        "id": "f83b646e-7917-4566-8982-911e1c7ce327",
+        "date_posted": 1793664000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1793748911,
+        "url": "https://go.vansh.nyc/1fy",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Engramme",
+        "title": "Full-Stack Software Engineer Co-op",
+        "source": "vanshb03",
+        "id": "4c4f3a27-4dbf-4f45-8fca-e3382578b2a6",
+        "date_posted": 1793664000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1793748911,
+        "url": "https://go.vansh.nyc/1fz",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Engramme",
+        "title": "Machine Learning Engineer Co-op",
+        "source": "vanshb03",
+        "id": "8cdaf39d-595a-4b69-88bf-b1d3b7ceda61",
+        "date_posted": 1793664000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1793748955,
+        "url": "https://go.vansh.nyc/1fA",
+        "locations": [
+            "Houston, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Apache Industrial",
+        "title": "AI Implementation Intern",
+        "source": "vanshb03",
+        "id": "6e8b78ce-c7cc-4a44-8188-1e4311ef556e",
+        "date_posted": 1793664000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1793748955,
+        "url": "https://go.vansh.nyc/1fB",
+        "locations": [
+            "Richmond, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Arlo Technologies",
+        "title": "Firmware Developer Co-op",
+        "source": "vanshb03",
+        "id": "6af62d47-33b6-4c1f-8aa3-5856c9c37be2",
+        "date_posted": 1793664000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1793748955,
+        "url": "https://go.vansh.nyc/1fC",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hearst",
+        "title": "Editorial AI Development Intern",
+        "source": "vanshb03",
+        "id": "8bde9b6b-5fdf-48ee-ae02-a362ce80d5d0",
+        "date_posted": 1793721890,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1793748955,
+        "url": "https://go.vansh.nyc/1fD",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "First Citizens BancShares",
+        "title": "Applied AI Intern",
+        "source": "vanshb03",
+        "id": "1b8154fe-8c96-414c-b882-43236f0f7cda",
+        "date_posted": 1793725320,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793748955,
+        "url": "https://go.vansh.nyc/1fE",
+        "locations": [
+            "Halifax, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Global Relay",
+        "title": "Java Developer Co-op",
+        "source": "vanshb03",
+        "id": "fc9e618b-23d6-4dfd-9eae-0e67d253ed2b",
+        "date_posted": 1793740313,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1793749156,
+        "url": "https://go.vansh.nyc/1fF",
+        "locations": [
+            "Saint Paul, MN",
+            "Eagan, MN",
+            "Naperville, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ecolab",
+        "title": "Digital & AI Technology Intern",
+        "source": "vanshb03",
+        "id": "a153951e-8508-4404-a798-0951b1e33a25",
+        "date_posted": 1793749027,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
