@@ -44781,13 +44781,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793662521,
+        "date_updated": 1793742050,
         "url": "https://go.vansh.nyc/1bh",
         "locations": [
             "Orlando, FL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Marriott Vacations Worldwide",
         "title": "Corporate Information Technology Intern",
         "source": "vanshb03",
@@ -47700,5 +47700,127 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1793741936,
+        "url": "https://go.vansh.nyc/1ek",
+        "locations": [
+            "Remote",
+            "United States",
+            "Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Colonist",
+        "title": "Product Developer Intern",
+        "source": "vanshb03",
+        "id": "4117ff51-0bcf-4b21-b81d-07e0cfd0fbf3",
+        "date_posted": 1769103526,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793741936,
+        "url": "https://go.vansh.nyc/1el",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Hadrian",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "febdf0a8-5f8b-42b8-b813-37ac69d5d8d6",
+        "date_posted": 1788385618,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1793741936,
+        "url": "https://go.vansh.nyc/1em",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Hadrian",
+        "title": "Robotics Engineer Intern",
+        "source": "vanshb03",
+        "id": "5f6b7790-13c1-4bf5-8cbb-5de22d942fd3",
+        "date_posted": 1788385632,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793741936,
+        "url": "https://go.vansh.nyc/1en",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Hadrian",
+        "title": "Data Science/Data Engineer Intern",
+        "source": "vanshb03",
+        "id": "d98d06e0-fc6a-45d1-a3ba-c3dd32b8c306",
+        "date_posted": 1788385649,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1793741936,
+        "url": "https://go.vansh.nyc/1eo",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ENFOS",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "e7066622-269e-44fe-bfc1-ce043cca85f7",
+        "date_posted": 1793741809,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793741936,
+        "url": "https://go.vansh.nyc/1ep",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Direct Supply",
+        "title": "AI Engineer Intern",
+        "source": "vanshb03",
+        "id": "8cf69e01-5912-4db9-a1f3-f2ad8cbfbcc7",
+        "date_posted": 1793741809,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793741936,
+        "url": "https://go.vansh.nyc/1eq",
+        "locations": [
+            "Milwaukee, WI",
+            "Durham, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Direct Supply",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "7dd8605b-8af7-4d44-bba2-d5881d50d0c8",
+        "date_posted": 1793741809,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
