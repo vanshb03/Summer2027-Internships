@@ -13774,13 +13774,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792554309,
+        "date_updated": 1793740408,
         "url": "https://go.vansh.nyc/d8",
         "locations": [
             "Burbank, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Insomniac Games",
         "title": "Engine and Tools Programming Intern",
         "source": "vanshb03",
@@ -32681,13 +32681,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793095565,
+        "date_updated": 1793740408,
         "url": "https://go.vansh.nyc/V1",
         "locations": [
             "Austin, TX"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Oceaneering",
         "title": "ROV Software Intern",
         "source": "vanshb03",
@@ -37629,13 +37629,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793396179,
+        "date_updated": 1793740408,
         "url": "https://go.vansh.nyc/112",
         "locations": [
             "United States"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Nokia",
         "title": "Software Engineer Co-op",
         "source": "vanshb03",
@@ -45139,13 +45139,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793668081,
+        "date_updated": 1793740408,
         "url": "https://go.vansh.nyc/1bG",
         "locations": [
             "Vancouver, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "GeoComply",
         "title": "Forward Deployed Engineer Intern (FDE)",
         "source": "vanshb03",
@@ -47581,5 +47581,124 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793739986,
+        "url": "https://go.vansh.nyc/1ed",
+        "locations": [
+            "Westford, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hewlett Packard Enterprise",
+        "title": "Hardware Engineering Intern",
+        "source": "vanshb03",
+        "id": "c1ad0fb3-8e39-46e2-a8d2-bbbb6427cec7",
+        "date_posted": 1793738246,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793740130,
+        "url": "https://go.vansh.nyc/1ee",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "EQ Bank",
+        "title": "Retail Lending AI Engineer Intern",
+        "source": "vanshb03",
+        "id": "6f6bc61f-5639-4878-927f-208af9ae0c0c",
+        "date_posted": 1789407647,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1793740130,
+        "url": "https://go.vansh.nyc/1ef",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "EQ Bank",
+        "title": "Commercial Lending AI Engineer Intern",
+        "source": "vanshb03",
+        "id": "9130eae6-4533-4d96-ba35-fe9d599a4ef1",
+        "date_posted": 1789408156,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1793740130,
+        "url": "https://go.vansh.nyc/1eg",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "EQ Bank",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "3dbb423e-7a45-40ec-9efa-fe7c096cb380",
+        "date_posted": 1791472812,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1793740130,
+        "url": "https://go.vansh.nyc/1eh",
+        "locations": [
+            "Brecksville, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Sherwin-Williams",
+        "title": "R&D Data Visualization Intern",
+        "source": "vanshb03",
+        "id": "93b90d3e-dcbf-4e6d-a918-378c7ea50b85",
+        "date_posted": 1793664000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793740130,
+        "url": "https://go.vansh.nyc/1ei",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "EMC Insurance",
+        "title": "Cybersecurity Intern",
+        "source": "vanshb03",
+        "id": "794f1502-df50-4436-97e3-d2e14e1f04e6",
+        "date_posted": 1793740005,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793740337,
+        "url": "https://go.vansh.nyc/1ej",
+        "locations": [
+            "Vancouver, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Global Relay",
+        "title": "Java Developer Co-op",
+        "source": "vanshb03",
+        "id": "4402b7a9-aef4-4059-b00e-0381ecb1c445",
+        "date_posted": 1793739681,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
