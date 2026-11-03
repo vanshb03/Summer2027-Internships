@@ -44,6 +44,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Samsung Research America Internship | Agentic AI Solutions Intern | Mountain View, CA | <a href="https://go.vansh.nyc/1dP?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
+| Botpress Technologies | Software Developer Intern | Montreal, Canada | <a href="https://go.vansh.nyc/1dR?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | Zimmer Biomet Holdings | Software Developer Co-op | Montreal, Canada | <a href="https://go.vansh.nyc/1bk?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | Viavi Solutions | Software Engineering Co-op | Germantown, MD | <a href="https://go.vansh.nyc/1c8?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | Toshiba Global Commerce Solutions | AI Automation & Revenue Ops Intern | Durham, NC | <a href="https://go.vansh.nyc/1bn?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
