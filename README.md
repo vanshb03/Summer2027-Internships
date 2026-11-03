@@ -58,6 +58,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Sierra Nevada Corporation | DevOps Engineer Intern 🇺🇸 | Southern Pines, NC | <a href="https://go.vansh.nyc/19u?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | ↳ | Software Engineer Intern 🇺🇸 | Southern Pines, NC | <a href="https://go.vansh.nyc/19v?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | Shield AI | Embedded Firmware Intern | Dallas, TX | <a href="https://go.vansh.nyc/1bm?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
+| Shield | Embedded Firmware Intern | Dallas, TX | <a href="https://go.vansh.nyc/1bJ?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | Samsung Semiconductor | AI Application Engineer Intern | Folsom, CA | <a href="https://go.vansh.nyc/19X?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | RTX | Systems Security Engineer Intern, Raytheon 🇺🇸 | Woburn, MA | <a href="https://go.vansh.nyc/19I?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | ↳ | Systems Security Engineering Intern 🇺🇸 | Fullerton, CA | <a href="https://go.vansh.nyc/19G?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
@@ -76,6 +77,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Motorola Solutions | Software Engineer Intern, Cybersecurity Services 🇺🇸 | <details><summary>**7 locations**</summary>Remote</br>United States</br>Chicago, IL</br>Ashburn, VA</br>Plantation, FL</br>Schaumburg, IL</br>Salt Lake City, UT</details> | <a href="https://go.vansh.nyc/19M?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | Microsoft | Software Engineer Intern | Aliso Viejo, CA | <a href="https://go.vansh.nyc/19z?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | ↳ | Software Engineer Intern, CoreAI | Redmond, WA | <a href="https://go.vansh.nyc/19t?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
+| Micron Technology | System Engineer Intern, HBM | Boise, ID | <a href="https://go.vansh.nyc/1bI?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | JM Family Enterprises | Offensive Security Intern | Deerfield Beach, FL | <a href="https://go.vansh.nyc/19y?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | ↳ | AI Intern | Deerfield Beach, FL | <a href="https://go.vansh.nyc/19j?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | Intuitive | AI/ML Engineer Intern | Sunnyvale, CA | <a href="https://go.vansh.nyc/19B?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
