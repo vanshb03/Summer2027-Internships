@@ -8611,13 +8611,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792261427,
+        "date_updated": 1793729444,
         "url": "https://go.vansh.nyc/8g",
         "locations": [
             "Ann Arbor, MI"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "KLA",
         "title": "AI/ML Software Engineer Intern",
         "source": "vanshb03",
@@ -13073,13 +13073,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1792511227,
+        "date_updated": 1793729444,
         "url": "https://go.vansh.nyc/ct",
         "locations": [
             "Toronto, ON, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Steel",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -14869,13 +14869,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792629862,
+        "date_updated": 1793729444,
         "url": "https://go.vansh.nyc/e9",
         "locations": [
             "Aguadilla, PR"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "RTX",
         "title": "Data Science Engineering Co-op",
         "source": "vanshb03",
@@ -19854,13 +19854,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793013503,
+        "date_updated": 1793729444,
         "url": "https://go.vansh.nyc/Cm",
         "locations": [
             "Bartlesville, OK"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Phillips 66",
         "title": "ERI Analytical Solutions Intern",
         "source": "vanshb03",
@@ -27822,13 +27822,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793023513,
+        "date_updated": 1793729444,
         "url": "https://go.vansh.nyc/MB",
         "locations": [
             "Chicago, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Publicis Groupe",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -45952,13 +45952,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793686189,
+        "date_updated": 1793729444,
         "url": "https://go.vansh.nyc/1cu",
         "locations": [
             "Atlanta, GA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Gordon Food Service",
         "title": "Data Science Engineer Intern",
         "source": "vanshb03",
@@ -47304,6 +47304,41 @@
         "source": "vanshb03",
         "id": "21dc4906-880a-46ec-8070-230f31191929",
         "date_posted": 1793727369,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793729211,
+        "url": "https://go.vansh.nyc/1dP",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Samsung Research America Internship",
+        "title": "Agentic AI Solutions Intern",
+        "source": "vanshb03",
+        "id": "7cbf1cd9-0af2-4803-8e65-e5fe56fdf52f",
+        "date_posted": 1793727471,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1793729366,
+        "url": "https://go.vansh.nyc/1dQ",
+        "locations": [
+            "Remote",
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CareSource",
+        "title": "Data Science Intern",
+        "source": "vanshb03",
+        "id": "a804defd-dd4a-412e-b016-a12150317c69",
+        "date_posted": 1793729230,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
