@@ -45120,5 +45120,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793666152,
+        "url": "https://go.vansh.nyc/1bE",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "Math Libraries Intern, cuEST",
+        "source": "vanshb03",
+        "id": "14251645-f47d-453e-8caf-b0e60fe137c5",
+        "date_posted": 1793665372,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
