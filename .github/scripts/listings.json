@@ -19179,14 +19179,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1792917843,
+        "date_updated": 1793720438,
         "url": "https://go.vansh.nyc/BE",
         "locations": [
             "San Francisco, CA",
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Notion",
         "title": "Software Engineer Intern",
         "season": "Winter",
@@ -27479,13 +27479,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793023513,
+        "date_updated": 1793720438,
         "url": "https://go.vansh.nyc/Mh",
         "locations": [
             "Cranberry Township, PA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Westinghouse Electric Company",
         "title": "Application Development Intern",
         "source": "vanshb03",
@@ -47167,6 +47167,23 @@
         "source": "vanshb03",
         "id": "32bd9912-45c4-4d48-8045-6f121cbef238",
         "date_posted": 1793718403,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793720358,
+        "url": "https://go.vansh.nyc/1dF",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Cox",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "77b0f990-092c-4278-9de7-f37be59779dd",
+        "date_posted": 1793720215,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
