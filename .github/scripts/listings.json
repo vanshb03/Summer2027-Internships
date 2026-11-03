@@ -12222,13 +12222,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792511186,
+        "date_updated": 1793707780,
         "url": "https://go.vansh.nyc/bF",
         "locations": [
             "Greenville, SC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "ABB",
         "title": "Integrated Motor Drive Software Co-op",
         "source": "vanshb03",
