@@ -23619,14 +23619,14 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1793015500,
+        "date_updated": 1793722370,
         "url": "https://go.vansh.nyc/Gr",
         "locations": [
             "Toronto, Canada",
             "Vancouver, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Workday",
         "title": "Machine Learning Engineer Intern",
         "source": "vanshb03",
@@ -47172,18 +47172,52 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793720358,
+        "date_updated": 1793722370,
         "url": "https://go.vansh.nyc/1dF",
         "locations": [
             "Austin, TX"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Cox",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
         "id": "77b0f990-092c-4278-9de7-f37be59779dd",
         "date_posted": 1793720215,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793721944,
+        "url": "https://go.vansh.nyc/1dH",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "American Express",
+        "title": "Undergraduate Program Software Engineer Intern, Enterprise Technology Services",
+        "source": "vanshb03",
+        "id": "7cc3221f-7db3-4ab6-8897-e0b946c27a7e",
+        "date_posted": 1793721064,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793722308,
+        "url": "https://go.vansh.nyc/1dI",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Two Six Technologies",
+        "title": "Security Operations Intern",
+        "source": "vanshb03",
+        "id": "412f151a-5b3d-4771-a6d8-fdbebee5f929",
+        "date_posted": 1793720306,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
