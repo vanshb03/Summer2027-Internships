@@ -11914,13 +11914,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792442374,
+        "date_updated": 1793738376,
         "url": "https://go.vansh.nyc/bn",
         "locations": [
             "Pittsburgh, PA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Highmark Health",
         "title": "Data Analyst Intern",
         "source": "vanshb03",
@@ -27287,13 +27287,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793023513,
+        "date_updated": 1793738376,
         "url": "https://go.vansh.nyc/M7",
         "locations": [
             "Ottawa, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Nokia",
         "title": "DSP Firmware Engineer Co-op",
         "source": "vanshb03",
@@ -27924,13 +27924,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793023513,
+        "date_updated": 1793738376,
         "url": "https://go.vansh.nyc/MH",
         "locations": [
             "Carmel, IN"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "The MJ Companies",
         "title": "Enterprise Data Intern",
         "source": "vanshb03",
