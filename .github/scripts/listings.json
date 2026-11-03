@@ -46849,13 +46849,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1793686189,
+        "date_updated": 1793718637,
         "url": "https://go.vansh.nyc/1dk",
         "locations": [
             "Cedar Rapids, IA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Transamerica",
         "title": "Data Analytics Intern",
         "source": "vanshb03",
@@ -47150,6 +47150,23 @@
         "source": "vanshb03",
         "id": "6197c3fd-130c-4bb5-8ce4-9f51e2b8c04d",
         "date_posted": 1793716605,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793718553,
+        "url": "https://go.vansh.nyc/1dE",
+        "locations": [
+            "Farmington, CT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Arch Capital Group",
+        "title": "Data and Analytics Intern",
+        "source": "vanshb03",
+        "id": "32bd9912-45c4-4d48-8045-6f121cbef238",
+        "date_posted": 1793718403,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
