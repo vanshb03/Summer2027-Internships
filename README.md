@@ -46,6 +46,9 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Northrop Grumman | Software Test Engineering Intern 🇺🇸 | Roy, UT | <a href="https://go.vansh.nyc/1gj?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
+| ↳ | DevOps Software Engineering Intern 🇺🇸 | Roy, UT | <a href="https://go.vansh.nyc/1gk?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
+| ↳ | Cybersecurity Software Engineering Intern 🇺🇸 | Clearfield, UT | <a href="https://go.vansh.nyc/1gl?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
 | United Parcel Service (UPS) | Information Security Intern 🇺🇸 | United States | <a href="https://go.vansh.nyc/1g5?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | Two Six Technologies | Security Operations Intern | Arlington, VA | <a href="https://go.vansh.nyc/1dI?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | TWG Global | AI Engineering Intern | Santa Monica, CA | <a href="https://go.vansh.nyc/1eY?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
@@ -460,6 +463,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Altera | FPGA Development Tools Intern | Toronto, Canada | <a href="https://go.vansh.nyc/10V?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | ↳ | Hardware Design Engineer Intern | Toronto, Canada | <a href="https://go.vansh.nyc/10W?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | ADT | Technology & Engineering Intern 🛂 | Boca Raton, FL | <a href="https://go.vansh.nyc/12y?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
+| Workshop | Software Engineer Intern | Omaha, NE | <a href="https://go.vansh.nyc/1gm?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
 | Waggoner Financial | Software Engineer Intern | Lansing, MI | <a href="https://go.vansh.nyc/109?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
 | Virginia Tech Applied Research Corporation | Research Intern, Applied AI & Software Development | Arlington, VA | <a href="https://go.vansh.nyc/12r?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
 | University of Miami | Data Science & AI Intern | Miami, FL | <a href="https://go.vansh.nyc/11t?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
