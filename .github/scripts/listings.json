@@ -49338,5 +49338,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793775957,
+        "url": "https://go.vansh.nyc/1g8",
+        "locations": [
+            "Jupiter, FL"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "RTX",
+        "title": "Control/Diagnostic Software Intern",
+        "source": "vanshb03",
+        "id": "84c52bbc-400b-46d5-896c-75a4ff112933",
+        "date_posted": 1793775177,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
