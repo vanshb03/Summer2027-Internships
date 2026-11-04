@@ -38950,13 +38950,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793491587,
+        "date_updated": 1793765334,
         "url": "https://go.vansh.nyc/12J",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Context",
         "title": "Intern",
         "source": "vanshb03",
