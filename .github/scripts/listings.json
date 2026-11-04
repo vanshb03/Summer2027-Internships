@@ -49510,13 +49510,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793801347,
+        "date_updated": 1793821250,
         "url": "https://go.vansh.nyc/1gp",
         "locations": [
             "Toronto, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Plusgrade",
         "title": "UI/UX Design and Frontend Engineer Intern",
         "source": "vanshb03",
@@ -49967,6 +49967,57 @@
         "source": "vanshb03",
         "id": "876608b6-09eb-48b8-b1ae-375b272fee4d",
         "date_posted": 1793819219,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793821139,
+        "url": "https://go.vansh.nyc/1gX",
+        "locations": [
+            "Wa, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Costco",
+        "title": "CDS Intern, OT/IoT Security Engineering",
+        "source": "vanshb03",
+        "id": "9d9d4e6c-e1d9-408f-9b2b-c6221009ff7c",
+        "date_posted": 1793232000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793821139,
+        "url": "https://go.vansh.nyc/1gY",
+        "locations": [
+            "Berkeley, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Terranova",
+        "title": "AI Intern",
+        "source": "vanshb03",
+        "id": "87d92350-02ba-4a8c-bb54-77349b1d6e85",
+        "date_posted": 1793688792,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793821139,
+        "url": "https://go.vansh.nyc/1gZ",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "American Cancer Society Cancer Action Network",
+        "title": "Research Intern, Cancer Risk Prediction",
+        "source": "vanshb03",
+        "id": "e94e645c-9075-4398-bcf7-ae9625954f61",
+        "date_posted": 1793724044,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
