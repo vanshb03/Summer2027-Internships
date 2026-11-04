@@ -37646,14 +37646,14 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1793396179,
+        "date_updated": 1793814024,
         "url": "https://go.vansh.nyc/113",
         "locations": [
             "Remote",
             "United States"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "VSP Vision",
         "title": "Agentic & Machine Learning Development Intern, AI",
         "source": "vanshb03",
