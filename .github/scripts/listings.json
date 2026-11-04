@@ -49355,5 +49355,56 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793790501,
+        "url": "https://go.vansh.nyc/1gf",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Quantiq",
+        "title": "Software Developer Intern",
+        "source": "vanshb03",
+        "id": "96b173ed-413a-48a6-903b-a2000e0740b5",
+        "date_posted": 1784145553,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793790501,
+        "url": "https://go.vansh.nyc/1gg",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SESCO",
+        "title": "Quantitative Research and Trading Intern",
+        "source": "vanshb03",
+        "id": "5a0bf194-9554-4a17-9567-64587b944bdc",
+        "date_posted": 1789218404,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793790501,
+        "url": "https://go.vansh.nyc/1gh",
+        "locations": [
+            "Torrance, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Castelion",
+        "title": "Embedded Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "347c9fa1-37de-4dca-8b4f-f3839e91aecb",
+        "date_posted": 1793401104,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
     }
 ]
