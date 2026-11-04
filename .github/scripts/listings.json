@@ -11897,13 +11897,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792442374,
+        "date_updated": 1793826772,
         "url": "https://go.vansh.nyc/bm",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Together AI",
         "title": "Hardware Security Engineer Intern",
         "source": "vanshb03",
@@ -42485,13 +42485,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793552864,
+        "date_updated": 1793826772,
         "url": "https://go.vansh.nyc/18T",
         "locations": [
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Sycamore",
         "title": "Member of Technical Staff Intern, Infrastructure",
         "source": "vanshb03",
@@ -46293,13 +46293,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793686189,
+        "date_updated": 1793826772,
         "url": "https://go.vansh.nyc/1cO",
         "locations": [
             "Cedar Rapids, IA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "RTX",
         "title": "Software Engineer Co-op",
         "source": "vanshb03",
@@ -50038,5 +50038,39 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793826387,
+        "url": "https://go.vansh.nyc/1h3",
+        "locations": [
+            "Boise, ID"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Micron Technology",
+        "title": "DRAM Design Engineer Intern",
+        "source": "vanshb03",
+        "id": "f3ceaf85-3497-4c7a-ba92-99aec48a264c",
+        "date_posted": 1793754387,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1793826556,
+        "url": "https://go.vansh.nyc/1h4",
+        "locations": [
+            "Mississauga, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Survalent",
+        "title": "SmartVu Developer Co-op, Quality and Infrastructure",
+        "source": "vanshb03",
+        "id": "bc01b2a0-7465-4e33-97f8-479ad11dbe74",
+        "date_posted": 1793727523,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
