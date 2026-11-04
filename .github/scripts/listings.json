@@ -49542,5 +49542,73 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793802929,
+        "url": "https://go.vansh.nyc/1gr",
+        "locations": [
+            "Denver, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Prologis",
+        "title": "AI and Automation Intern, IT",
+        "source": "vanshb03",
+        "id": "0c6da7d5-9ac9-429b-8f43-5e86be0afe69",
+        "date_posted": 1793750400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793802929,
+        "url": "https://go.vansh.nyc/1gs",
+        "locations": [
+            "Denver, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Prologis",
+        "title": "IT Customer Experience Technologies Intern",
+        "source": "vanshb03",
+        "id": "3deb163f-c8d7-4e74-953b-e79932c836b0",
+        "date_posted": 1793750400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793802929,
+        "url": "https://go.vansh.nyc/1gt",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TMX Group",
+        "title": "Jr. Security Analyst Student Intern",
+        "source": "vanshb03",
+        "id": "4281a8c9-d55b-4559-9901-6129f6b645a1",
+        "date_posted": 1793750400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1793803195,
+        "url": "https://go.vansh.nyc/1gu",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Plusgrade",
+        "title": "Applied AI Test Engineer Intern",
+        "source": "vanshb03",
+        "id": "89b230cc-8b66-479c-a38e-66b3cd83d8ac",
+        "date_posted": 1793803056,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
