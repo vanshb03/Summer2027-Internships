@@ -49098,5 +49098,39 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793761568,
+        "url": "https://go.vansh.nyc/1fR",
+        "locations": [
+            "Livermore, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "LLNL",
+        "title": "Cybersecurity Undergraduate Intern, Cyber and Critical Infrastructure",
+        "source": "vanshb03",
+        "id": "b755e60e-cee9-4ea2-aeea-8528f129fe79",
+        "date_posted": 1793760248,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793761568,
+        "url": "https://go.vansh.nyc/1fS",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Etched",
+        "title": "IA Research Engineer Intern, Kernels",
+        "source": "vanshb03",
+        "id": "75884364-ef47-417e-9213-db39cd22a5ba",
+        "date_posted": 1793760428,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
     }
 ]
