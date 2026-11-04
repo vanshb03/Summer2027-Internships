@@ -443,7 +443,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Creatify Lab | Software Engineer Intern | Mountain View, CA | <a href="https://go.vansh.nyc/12M?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | Cowboy Space | Software Engineering Intern 🇺🇸 | San Carlos, CA | <a href="https://go.vansh.nyc/12L?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | Corgan | Software Development Intern | Dallas, TX | <a href="https://go.vansh.nyc/12K?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
-| Context | Intern | San Francisco, CA | <a href="https://go.vansh.nyc/12J?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | Clay | Software Engineering Intern | New York, NY | <a href="https://go.vansh.nyc/12H?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | Chubb | Technology Intern | Philadelphia, PA | <a href="https://go.vansh.nyc/12G?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | Carnegie Mellon University | Enabling Mission Capability at Scale Intern 🛂 | Pittsburgh, PA | <a href="https://go.vansh.nyc/110?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
@@ -1702,6 +1701,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Trane Technologies | AI & Analytics Intern | Davidson, NC</br>Minneapolis, MN | 🔒 | Oct 30 |
 | The New York Times | Backend Engineering Intern, Wirecutter | New York, NY | 🔒 | Oct 30 |
 | TensorWave | Software Engineering Intern | Las Vegas, NV | 🔒 | Oct 30 |
+| Context | Intern | San Francisco, CA | 🔒 | Oct 30 |
 | Cohen & Steers | Associate Intern, Information Security | New York, NY | 🔒 | Oct 30 |
 | C&S Wholesale Grocers | IS Intern, Data Analytics & Data Science | Edison, NJ | 🔒 | Oct 30 |
 | Toyota Research Institute | Human Interactive Driving Research Intern, Learning-Based Control for Safe Autonomous Driving | Los Altos, CA | 🔒 | Oct 29 |
