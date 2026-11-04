@@ -49406,5 +49406,73 @@
         "company_url": "",
         "is_visible": true,
         "season": "Spring"
+    },
+    {
+        "date_updated": 1793793953,
+        "url": "https://go.vansh.nyc/1gj",
+        "locations": [
+            "Roy, UT"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Northrop Grumman",
+        "title": "Software Test Engineering Intern",
+        "source": "vanshb03",
+        "id": "0095140f-cd1a-485a-a669-a151abf666b9",
+        "date_posted": 1793793413,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793793953,
+        "url": "https://go.vansh.nyc/1gk",
+        "locations": [
+            "Roy, UT"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Northrop Grumman",
+        "title": "DevOps Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "cf77144b-ecb7-4759-9b25-3e456f726e10",
+        "date_posted": 1793793413,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793793953,
+        "url": "https://go.vansh.nyc/1gl",
+        "locations": [
+            "Clearfield, UT"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Northrop Grumman",
+        "title": "Cybersecurity Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "a0910ed7-6677-4130-9e9d-fa2c16691578",
+        "date_posted": 1793793413,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793794110,
+        "url": "https://go.vansh.nyc/1gm",
+        "locations": [
+            "Omaha, NE"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Workshop",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "c003586b-36ba-4531-bab5-c551fceb9824",
+        "date_posted": 1793305256,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
