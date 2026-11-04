@@ -42919,13 +42919,13 @@
         "season": "Fall"
     },
     {
-        "date_updated": 1793635514,
+        "date_updated": 1793824809,
         "url": "https://go.vansh.nyc/19n",
         "locations": [
             "Raleigh, NC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "First Citizens BancShares",
         "title": "Data Analyst Intern, Enterprise Data Products",
         "source": "vanshb03",
@@ -50018,6 +50018,23 @@
         "source": "vanshb03",
         "id": "e94e645c-9075-4398-bcf7-ae9625954f61",
         "date_posted": 1793724044,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793824722,
+        "url": "https://go.vansh.nyc/1h2",
+        "locations": [
+            "Rochester, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Constellation Brands",
+        "title": "AI & Automation Engineering Intern",
+        "source": "vanshb03",
+        "id": "2371e632-b395-40d1-9cee-618ad458384c",
+        "date_posted": 1793824588,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
