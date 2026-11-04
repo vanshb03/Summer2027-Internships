@@ -37168,14 +37168,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793376376,
+        "date_updated": 1793806937,
         "url": "https://go.vansh.nyc/10z",
         "locations": [
             "Remote",
             "United States"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Wex",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -49675,6 +49675,40 @@
         "source": "vanshb03",
         "id": "0ef344a4-a1dd-4716-8469-febb9bc9dcfe",
         "date_posted": 1793804959,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793806530,
+        "url": "https://go.vansh.nyc/1gA",
+        "locations": [
+            "Nashville, TN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "L3Harris Technologies",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "2d524a58-3c4d-4945-b2d0-57b6a462e53e",
+        "date_posted": 1793804867,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793806530,
+        "url": "https://go.vansh.nyc/1gB",
+        "locations": [
+            "Denton, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Paccar",
+        "title": "Data Engineer Intern",
+        "source": "vanshb03",
+        "id": "33ede01b-f9c4-4074-b7d4-2fb4315ad0fa",
+        "date_posted": 1793805304,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
