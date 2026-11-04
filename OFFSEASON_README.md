@@ -154,7 +154,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Clio | Software Developer Co-op | Toronto, Canada</br>Vancouver, Canada</br>Calgary, Canada | <a href="https://go.vansh.nyc/1co?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | Charter Manufacturing | Automation & Analytics Intern | Milwaukee, WI | <a href="https://go.vansh.nyc/1cf?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | Arlo Technologies | Firmware Developer Co-op | Richmond, Canada | <a href="https://go.vansh.nyc/1fB?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
-| Apache Industrial | AI Implementation Intern | Houston, TX | <a href="https://go.vansh.nyc/1fA?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | TikTok | Software Engineer Project Intern, Model Infrastructure | San Jose, CA | <a href="https://go.vansh.nyc/18Z?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | ↳ | Software Engineer Project Intern, Platform Efficiency | San Jose, CA | <a href="https://go.vansh.nyc/190?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | ↳ | Software Engineer Intern, Global E-commerce-Search | Seattle, WA | <a href="https://go.vansh.nyc/188?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
@@ -512,6 +511,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Colgate-Palmolive | Software Development Intern | Piscataway, NJ | <a href="https://go.vansh.nyc/U?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
 | Shopify | Engineering and Data Intern | Remote</br>Canada | <a href="https://go.vansh.nyc/G?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 19 |
 | Transamerica | Data Analytics Intern | Cedar Rapids, IA | 🔒 | Nov 02 |
+| Apache Industrial | AI Implementation Intern | Houston, TX | 🔒 | Nov 02 |
 | General Magic | AI Engineer Co-op | Toronto, Canada | 🔒 | Oct 30 |
 | ↳ | Backend Engineer Co-op | Toronto, Canada | 🔒 | Oct 30 |
 | Fresenius Medical Care | Software Engineering Co-op | Lawrence, MA | 🔒 | Oct 30 |
