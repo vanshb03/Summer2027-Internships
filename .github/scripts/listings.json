@@ -38366,13 +38366,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793433914,
+        "date_updated": 1793801438,
         "url": "https://go.vansh.nyc/129",
         "locations": [
             "Raleigh, NC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "First Citizens BancShares",
         "title": "AI Innovation Intern",
         "source": "vanshb03",
@@ -49505,6 +49505,40 @@
         "source": "vanshb03",
         "id": "b6b4f5bf-b455-4c44-9207-cd39ecc132ac",
         "date_posted": 1793796962,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793801347,
+        "url": "https://go.vansh.nyc/1gp",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Plusgrade",
+        "title": "UI/UX Design and Frontend Engineer Intern",
+        "source": "vanshb03",
+        "id": "aa67a7f0-13dd-4261-9b9d-3af73d7eb158",
+        "date_posted": 1793801180,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793801347,
+        "url": "https://go.vansh.nyc/1gq",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Plusgrade",
+        "title": "Applied AI Engineer Intern",
+        "source": "vanshb03",
+        "id": "3a887abb-da12-4d1b-a34d-0acb9237d7c0",
+        "date_posted": 1793801180,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
