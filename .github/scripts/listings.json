@@ -45969,13 +45969,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793686189,
+        "date_updated": 1793828407,
         "url": "https://go.vansh.nyc/1cv",
         "locations": [
             "Atlanta, GA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Gordon Food Service",
         "title": "Cloud DevOps Intern",
         "source": "vanshb03",
@@ -50072,5 +50072,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1793828187,
+        "url": "https://go.vansh.nyc/1h5",
+        "locations": [
+            "McClellan, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Northrop Grumman",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "80ee08df-8347-4645-a8a3-1f93baed839b",
+        "date_posted": 1793827827,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
     }
 ]
