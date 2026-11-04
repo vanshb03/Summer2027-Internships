@@ -32066,13 +32066,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793039964,
+        "date_updated": 1793835789,
         "url": "https://go.vansh.nyc/SU",
         "locations": [
             "Toronto, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Altera",
         "title": "Undergrad Technical Intern",
         "source": "vanshb03",
@@ -47309,13 +47309,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793729211,
+        "date_updated": 1793835789,
         "url": "https://go.vansh.nyc/1dP",
         "locations": [
             "Mountain View, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Samsung Research America Internship",
         "title": "Agentic AI Solutions Intern",
         "source": "vanshb03",
@@ -50108,14 +50108,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793830142,
+        "date_updated": 1793835789,
         "url": "https://go.vansh.nyc/1h8",
         "locations": [
             "Bloomfield, CT",
             "St. Louis, MO"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Cigna",
         "title": "Cybersecurity Intern, Technology Development Program",
         "source": "vanshb03",
@@ -50160,18 +50160,35 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1793833707,
+        "date_updated": 1793835789,
         "url": "https://go.vansh.nyc/1hb",
         "locations": [
             "Cedar Rapids, IA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "RTX",
         "title": "FPGA Design Intern",
         "source": "vanshb03",
         "id": "18c24104-ea8f-4a9d-9c1f-4f8a61310325",
         "date_posted": 1793833567,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793835375,
+        "url": "https://go.vansh.nyc/1hc",
+        "locations": [
+            "Irving, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "GM Financial",
+        "title": "Cloud Engineer Intern",
+        "source": "vanshb03",
+        "id": "e69209d7-6498-4b2e-a5bc-bf81f2247d7e",
+        "date_posted": 1793752575,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
