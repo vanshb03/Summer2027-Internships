@@ -220,7 +220,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Cybersecurity Intern, Digital & Technology | New York, NY</br>Bethlehem, PA</br>Holmdel, NJ | <a href="https://go.vansh.nyc/1cZ?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | Graco | AI Intern | Dayton, MN | <a href="https://go.vansh.nyc/1cx?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | ↳ | Cybersecurity Intern | Dayton, MN | <a href="https://go.vansh.nyc/1cy?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
-| Gordon Food Service | Cloud DevOps Intern | Atlanta, GA | <a href="https://go.vansh.nyc/1cv?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | GenMD | Member of Technical Staff Intern, Applied AI | Palo Alto, CA | <a href="https://go.vansh.nyc/1bK?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | Flagship Pioneering | ML Intern | Cambridge, MA | <a href="https://go.vansh.nyc/19J?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | FHLBank Chicago | Cybersecurity Intern | Chicago, IL | <a href="https://go.vansh.nyc/1cN?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
@@ -1708,7 +1707,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | NJM Insurance Group | IT Data Science Intern | Trenton, NJ | 🔒 | Nov 02 |
 | KLA | PLM BI & Analytics Intern | Ann Arbor, MI | 🔒 | Nov 02 |
 | ↳ | Digital Twin Eng Apps Intern | Ann Arbor, MI | 🔒 | Nov 02 |
-| Gordon Food Service | Data Science Engineer Intern | Atlanta, GA | 🔒 | Nov 02 |
+| Gordon Food Service | Cloud DevOps Intern | Atlanta, GA | 🔒 | Nov 02 |
+| ↳ | Data Science Engineer Intern | Atlanta, GA | 🔒 | Nov 02 |
 | ↳ | Data Engineering Intern | Atlanta, GA | 🔒 | Nov 02 |
 | First Citizens BancShares | Data Analyst Intern, Enterprise Data Products | Raleigh, NC | 🔒 | Nov 02 |
 | CNA Insurance | Data Engineering Intern, Technology 🛂 | Chicago, IL | 🔒 | Nov 02 |
