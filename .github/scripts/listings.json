@@ -21146,13 +21146,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793015500,
+        "date_updated": 1793819498,
         "url": "https://go.vansh.nyc/E9",
         "locations": [
             "Sunnyvale, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "CoStar Group",
         "title": "Technology Intern",
         "source": "vanshb03",
@@ -21233,13 +21233,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793015500,
+        "date_updated": 1793819498,
         "url": "https://go.vansh.nyc/Ee",
         "locations": [
             "Sunnyvale, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "CoStar Group",
         "title": "Associate Embedded Software Engineer Intern",
         "source": "vanshb03",
@@ -39841,14 +39841,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793491587,
+        "date_updated": 1793819498,
         "url": "https://go.vansh.nyc/13z",
         "locations": [
             "Remote",
             "United States"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Wurl",
         "title": "Data Science Intern",
         "source": "vanshb03",
@@ -49933,6 +49933,40 @@
         "source": "vanshb03",
         "id": "b8a218ef-78a9-4b3b-b7e0-9ecb2c34d551",
         "date_posted": 1793817707,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793819366,
+        "url": "https://go.vansh.nyc/1gV",
+        "locations": [
+            "East Syracuse, NY"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Saab",
+        "title": "Information Security Co-op",
+        "source": "vanshb03",
+        "id": "9f8aaec2-bce5-4c89-b5ff-90fae69b03f9",
+        "date_posted": 1793819219,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1793819366,
+        "url": "https://go.vansh.nyc/1gW",
+        "locations": [
+            "Calgary, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TC Energy",
+        "title": "Enterprise Security Intern, Detection & Response",
+        "source": "vanshb03",
+        "id": "876608b6-09eb-48b8-b1ae-375b272fee4d",
+        "date_posted": 1793819219,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
