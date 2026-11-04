@@ -49030,5 +49030,73 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793750746,
+        "url": "https://go.vansh.nyc/1fK",
+        "locations": [
+            "Deerfield Beach, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "JM Family Enterprises",
+        "title": "AI Center of Excellence Delivery Team Intern",
+        "source": "vanshb03",
+        "id": "56c77e92-921d-4168-8759-782fd802c364",
+        "date_posted": 1793664000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793750746,
+        "url": "https://go.vansh.nyc/1fL",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nex",
+        "title": "Software Engineer Intern, Sports & Fitness Game Development",
+        "source": "vanshb03",
+        "id": "792d00e7-fb85-4608-927a-695eb8ecfa2e",
+        "date_posted": 1793728513,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793750746,
+        "url": "https://go.vansh.nyc/1fM",
+        "locations": [
+            "Waltham, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Wabtec",
+        "title": "Firmware Engineering Co-op",
+        "source": "vanshb03",
+        "id": "2a9ea57b-02c7-4ee0-87ca-5ad91c8ce032",
+        "date_posted": 1793742014,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1793750746,
+        "url": "https://go.vansh.nyc/1fN",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Electronic Arts",
+        "title": "Anticheat Engineer Intern",
+        "source": "vanshb03",
+        "id": "ef9873b9-96dc-4b62-b1e5-d6683916cd49",
+        "date_posted": 1793748580,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
