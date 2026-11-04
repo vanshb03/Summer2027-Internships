@@ -395,7 +395,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Pangram Labs | AI Research Intern | Brooklyn, NY | <a href="https://go.vansh.nyc/1eR?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 04 |
 | Lumentum | Embedded Software Developer Co-op, Optical Circuit Switch | Ottawa, Canada | <a href="https://go.vansh.nyc/EB?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 04 |
 | First Solar (US) | Software Engineer Intern | Perrysburg, OH | <a href="https://go.vansh.nyc/Vk?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 04 |
-| Regeneron Pharmaceuticals | Data Science & Computational Biology Co-op, Research | Tarrytown, NY | <a href="https://go.vansh.nyc/H4?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 02 |
 | Mindex | Software Engineer Co-op | Rochester, NY | <a href="https://go.vansh.nyc/Es?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 02 |
 | Regeneron Pharmaceuticals | Data Science & Digital Innovation Co-op, Preclinical Manufacturing & Research IT | Tarrytown, NY | <a href="https://go.vansh.nyc/Ek?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 01 |
 | Marvell | Firmware Engineer Intern | Ottawa, Canada | <a href="https://go.vansh.nyc/Ej?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 01 |
@@ -605,6 +604,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | NVIDIA | PCIe Design Verification Intern | Santa Clara, CA | 🔒 | Oct 05 |
 | Moment Energy | Firmware Engineering Co-op | Surrey, Canada | 🔒 | Oct 05 |
 | Revvity | Software Integration Co-op | Akron, OH | 🔒 | Oct 02 |
+| Regeneron Pharmaceuticals | Data Science & Computational Biology Co-op, Research | Tarrytown, NY | 🔒 | Oct 02 |
 | Cisco | Software Engineer II Co-op | Maynard, MA | 🔒 | Sep 30 |
 | ↳ | Software Engineer I Co-op | Maynard, MA | 🔒 | Sep 30 |
 | Cisco | Physical Design Engineer I Co-op | Maynard, MA | 🔒 | Sep 29 |
