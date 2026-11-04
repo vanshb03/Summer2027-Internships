@@ -52,6 +52,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Smith+Nephew | Data Science Intern, AI Center of Excellence | Pittsburgh, PA | <a href="https://go.vansh.nyc/1gN?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
 | ↳ | Robotics Software Engineering Intern | Pittsburgh, PA | <a href="https://go.vansh.nyc/1gO?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
 | ↳ | AI Engineer Intern, R&D | Andover, MA | <a href="https://go.vansh.nyc/1gP?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
+| RTX | FPGA Design Intern 🇺🇸 | Cedar Rapids, IA | <a href="https://go.vansh.nyc/1hb?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
 | Plusgrade | Data Science Intern | Toronto, Canada | <a href="https://go.vansh.nyc/1gR?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
 | ↳ | Applied AI Test Engineer Intern | Toronto, Canada | <a href="https://go.vansh.nyc/1gu?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
 | ↳ | Applied AI Engineer Intern | Toronto, Canada | <a href="https://go.vansh.nyc/1gq?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
@@ -395,8 +396,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | 1st Source | Information Security Intern | South Bend, IN | <a href="https://go.vansh.nyc/192?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 31 |
 | ZipRecruiter | Software Engineer Intern | Santa Monica, CA | <a href="https://go.vansh.nyc/13A?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | Western Magnetics | Software Engineer Intern | South San Francisco, CA | <a href="https://go.vansh.nyc/13y?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
-| West Bend Insurance | Data Scientist Intern | West Bend, WI | <a href="https://go.vansh.nyc/13w?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
-| ↳ | IT Software Engineer Intern | West Bend, WI | <a href="https://go.vansh.nyc/13x?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
+| West Bend Insurance | IT Software Engineer Intern | West Bend, WI | <a href="https://go.vansh.nyc/13x?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | WebFX | Web Developer Intern | Harrisburg, PA | <a href="https://go.vansh.nyc/13v?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | Wabtec | LEAD Information Technology Intern | Pittsburgh, PA | <a href="https://go.vansh.nyc/13u?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | Vantor | AI Engineer Intern | Remote</br>United States | <a href="https://go.vansh.nyc/13t?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
@@ -1724,6 +1724,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | C&S Wholesale Grocers | IS Intern, Web Applications | Houston, TX | 🔒 | Oct 31 |
 | Wurl | Data Science Intern | Remote</br>United States | 🔒 | Oct 30 |
 | Wex | Software Engineer Intern | Remote</br>United States | 🔒 | Oct 30 |
+| West Bend Insurance | Data Scientist Intern | West Bend, WI | 🔒 | Oct 30 |
 | VSP Vision | Agentic & Machine Learning Development Intern, AI | Remote</br>United States | 🔒 | Oct 30 |
 | Trane Technologies | AI & Analytics Intern | Davidson, NC</br>Minneapolis, MN | 🔒 | Oct 30 |
 | The New York Times | Backend Engineering Intern, Wirecutter | New York, NY | 🔒 | Oct 30 |
