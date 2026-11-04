@@ -45621,13 +45621,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793682523,
+        "date_updated": 1793823052,
         "url": "https://go.vansh.nyc/1cb",
         "locations": [
             "Chicago, IL"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "CNA Insurance",
         "title": "Data Engineering Intern, Technology",
         "source": "vanshb03",
@@ -46225,13 +46225,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793686189,
+        "date_updated": 1793823052,
         "url": "https://go.vansh.nyc/1cK",
         "locations": [
             "San Antonio, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "SWBC",
         "title": "Application Security Intern",
         "source": "vanshb03",
