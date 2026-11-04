@@ -50124,5 +50124,39 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793831940,
+        "url": "https://go.vansh.nyc/1h9",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ASML",
+        "title": "Machine Learning and Image-Based EUV System Setup Intern",
+        "source": "vanshb03",
+        "id": "7d8d2809-41cc-4adf-b839-d84b5113c82e",
+        "date_posted": 1793831808,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793831940,
+        "url": "https://go.vansh.nyc/1ha",
+        "locations": [
+            "Waterloo, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Teledyne Technologies Incorporated",
+        "title": "Software Engineering Co-op",
+        "source": "vanshb03",
+        "id": "20c87e41-63a9-4f43-8fd7-a621aabb1e19",
+        "date_posted": 1793831808,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
