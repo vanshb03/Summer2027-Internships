@@ -18346,13 +18346,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792812208,
+        "date_updated": 1793810462,
         "url": "https://go.vansh.nyc/hn",
         "locations": [
             "Madison, WI"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "American Family Insurance Group",
         "title": "AI Platform Engineering Intern",
         "source": "vanshb03",
@@ -33614,7 +33614,7 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793122585,
+        "date_updated": 1793810462,
         "url": "https://go.vansh.nyc/W5",
         "locations": [
             "Arlington, VA",
@@ -33622,7 +33622,7 @@
             "Camp Springs, MD"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Kudu Dynamics",
         "title": "Cybersecurity Intern",
         "source": "vanshb03",
@@ -49746,5 +49746,39 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1793810325,
+        "url": "https://go.vansh.nyc/1gH",
+        "locations": [
+            "Auburn Hills, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "BorgWarner",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "675ead37-1389-4a41-a9cc-c37f141e6c57",
+        "date_posted": 1793810172,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793810325,
+        "url": "https://go.vansh.nyc/1gI",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Parsons",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "0b85a986-a0b6-493e-9082-b57e56e9f121",
+        "date_posted": 1793810172,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
