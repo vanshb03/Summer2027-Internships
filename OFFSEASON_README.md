@@ -47,6 +47,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Sun Life | Business Operations Software Engineer Co-op | <details><summary>**5 locations**</summary>Milwaukee, WI</br>Wellesley Hills, MA</br>Hartford, CT</br>Portland, ME</br>Kansas City, MO</details> | <a href="https://go.vansh.nyc/1fl?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | Samsung Research America Internship | Agentic AI Solutions Intern | Mountain View, CA | <a href="https://go.vansh.nyc/1dP?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | Moderna | mRNA Design Engineering Co-op 🛂 | Cambridge, MA | <a href="https://go.vansh.nyc/1fa?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
+| MDA | Student Cyber Security Analyst Intern | Brampton, Canada | <a href="https://go.vansh.nyc/1fU?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | Hearst | Editorial AI Development Intern | San Francisco, CA | <a href="https://go.vansh.nyc/1fC?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | Global Relay | Java Developer Co-op | Halifax, Canada | <a href="https://go.vansh.nyc/1fE?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | ↳ | Java Developer Co-op | Vancouver, Canada | <a href="https://go.vansh.nyc/1ej?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
@@ -203,7 +204,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | CACI | Software Engineering Co-op | Rochester, NY | <a href="https://go.vansh.nyc/YV?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
 | Vestmark Internship Program | Cloud Engineer Co-op | Wakefield, MA | <a href="https://go.vansh.nyc/100?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | The Nuclear Company | Security Engineer Intern 🛂 | Washington, DC | <a href="https://go.vansh.nyc/XL?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
-| Sun Life | Data Analyst Co-op | Toronto, Canada | <a href="https://go.vansh.nyc/ZB?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | Philips | Data Engineer Co-op, Biocompatibility | Murrysville, PA | <a href="https://go.vansh.nyc/ZZ?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | Lila Sciences | Structuring Scientific Data for Discovery Co-op | Cambridge, MA</br>San Francisco, CA | <a href="https://go.vansh.nyc/XH?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | Leidos | Cybersecurity Engineer Co-op | Bethesda, MD | <a href="https://go.vansh.nyc/XZ?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
@@ -519,6 +519,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Path Robotics | Machine Learning & Robotics Intern | Columbus, OH | 🔒 | Oct 29 |
 | Nokia | Software Engineer Co-op | United States | 🔒 | Oct 29 |
 | Elucid | Software Engineering Intern | Boston, MA | 🔒 | Oct 29 |
+| Sun Life | Data Analyst Co-op | Toronto, Canada | 🔒 | Oct 28 |
 | Geotab | Data Analyst Intern | Burnaby, Canada</br>Oakville, Canada</br>Toronto, Canada | 🔒 | Oct 28 |
 | RTX | Software Engineer Co-op 🇺🇸 | Marlborough, MA | 🔒 | Oct 27 |
 | Philips | Embedded Test Engineer Co-op | Murrysville, PA | 🔒 | Oct 27 |
