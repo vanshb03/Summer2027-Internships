@@ -50089,5 +50089,40 @@
         "company_url": "",
         "is_visible": true,
         "season": "Spring"
+    },
+    {
+        "date_updated": 1793830142,
+        "url": "https://go.vansh.nyc/1h7",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Howmet Aerospace",
+        "title": "Cybersecurity Intern",
+        "source": "vanshb03",
+        "id": "4e3efe16-dee9-41f9-9929-36cea024f817",
+        "date_posted": 1793750400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793830142,
+        "url": "https://go.vansh.nyc/1h8",
+        "locations": [
+            "Bloomfield, CT",
+            "St. Louis, MO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cigna",
+        "title": "Cybersecurity Intern, Technology Development Program",
+        "source": "vanshb03",
+        "id": "9b0ac754-c80a-4209-8e59-6cc757215229",
+        "date_posted": 1793830015,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
