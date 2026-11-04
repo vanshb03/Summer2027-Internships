@@ -21357,13 +21357,13 @@
         "season": "Spring"
     },
     {
-        "date_updated": 1793015500,
+        "date_updated": 1793815802,
         "url": "https://go.vansh.nyc/El",
         "locations": [
             "Armonk, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Regeneron Pharmaceuticals",
         "title": "Precision Medicine Operations Co-op",
         "source": "vanshb03",
@@ -24291,13 +24291,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793016276,
+        "date_updated": 1793815802,
         "url": "https://go.vansh.nyc/H4",
         "locations": [
             "Tarrytown, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Regeneron Pharmaceuticals",
         "title": "Data Science & Computational Biology Co-op, Research",
         "source": "vanshb03",
@@ -44747,13 +44747,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793662521,
+        "date_updated": 1793815802,
         "url": "https://go.vansh.nyc/1bf",
         "locations": [
             "Arlington, VA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Leidos",
         "title": "Data Science Intern",
         "source": "vanshb03",
@@ -48775,13 +48775,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793747321,
+        "date_updated": 1793815802,
         "url": "https://go.vansh.nyc/1fp",
         "locations": [
             "Columbus, OH"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "McKesson",
         "title": "CMM Technology Intern",
         "source": "vanshb03",
@@ -49851,5 +49851,56 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1793815720,
+        "url": "https://go.vansh.nyc/1gN",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Smith+Nephew",
+        "title": "Data Science Intern, AI Center of Excellence",
+        "source": "vanshb03",
+        "id": "ba8cc2ae-ddb9-4102-8efa-11c19c5cd7db",
+        "date_posted": 1793815574,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793815720,
+        "url": "https://go.vansh.nyc/1gO",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Smith+Nephew",
+        "title": "Robotics Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "1700e8a3-dccf-4445-a9ab-42ffe8fad5ce",
+        "date_posted": 1793815574,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793815720,
+        "url": "https://go.vansh.nyc/1gP",
+        "locations": [
+            "Andover, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Smith+Nephew",
+        "title": "AI Engineer Intern, R&D",
+        "source": "vanshb03",
+        "id": "4feb239f-0f4d-422e-8578-79d27a3be76b",
+        "date_posted": 1793815574,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
