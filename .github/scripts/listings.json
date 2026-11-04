@@ -28359,7 +28359,7 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793024036,
+        "date_updated": 1793812244,
         "url": "https://go.vansh.nyc/N6",
         "locations": [
             "Sherman Oaks, CA",
@@ -28367,7 +28367,7 @@
             "Santa Monica, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Activision Blizzard",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
@@ -49780,5 +49780,76 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793811968,
+        "url": "https://go.vansh.nyc/1gJ",
+        "locations": [
+            "Maple Grove, MN"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Boston Scientific",
+        "title": "Software Engineering Co-op, Urology R&D",
+        "source": "vanshb03",
+        "id": "b48d6b7f-3da9-47fb-830b-82011caa82f6",
+        "date_posted": 1793808368,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1793811968,
+        "url": "https://go.vansh.nyc/1gK",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Carnegie Mellon SEI",
+        "title": "Enabling Edge Intelligence (E2I) Intern",
+        "source": "vanshb03",
+        "id": "916689f0-27d8-4adb-810f-b6c4524cf785",
+        "date_posted": 1793810108,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793812147,
+        "url": "https://go.vansh.nyc/1gL",
+        "locations": [
+            "Remote",
+            "United States",
+            "Odenton, MD",
+            "Shiloh, IL"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Kudu Dynamics",
+        "title": "Software Engineering & AI Intern",
+        "source": "vanshb03",
+        "id": "44171876-e162-4732-8456-b4ff7c96accc",
+        "date_posted": 1793812010,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793812147,
+        "url": "https://go.vansh.nyc/1gM",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TMX Group",
+        "title": "Junior Cybersecurity Operations Analyst Intern",
+        "source": "vanshb03",
+        "id": "9655b4ee-72c9-4b81-87d9-886d2fc19b57",
+        "date_posted": 1793812010,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
