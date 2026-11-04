@@ -395,7 +395,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | IT Software Engineer Intern | West Bend, WI | <a href="https://go.vansh.nyc/13x?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | WebFX | Web Developer Intern | Harrisburg, PA | <a href="https://go.vansh.nyc/13v?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | Wabtec | LEAD Information Technology Intern | Pittsburgh, PA | <a href="https://go.vansh.nyc/13u?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
-| VSP Vision | Agentic & Machine Learning Development Intern, AI | Remote</br>United States | <a href="https://go.vansh.nyc/113?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | Vantor | AI Engineer Intern | Remote</br>United States | <a href="https://go.vansh.nyc/13t?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | USAFacts | AI & Software Engineering Intern | Bellevue, WA | <a href="https://go.vansh.nyc/13s?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | TobogganLabs | Data Science Intern | Montreal, Canada | <a href="https://go.vansh.nyc/13r?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
@@ -1719,6 +1718,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | HPS Investment Partners | Technology Intern, App Dev | New York, NY | 🔒 | Oct 31 |
 | C&S Wholesale Grocers | IS Intern, Web Applications | Houston, TX | 🔒 | Oct 31 |
 | Wex | Software Engineer Intern | Remote</br>United States | 🔒 | Oct 30 |
+| VSP Vision | Agentic & Machine Learning Development Intern, AI | Remote</br>United States | 🔒 | Oct 30 |
 | Trane Technologies | AI & Analytics Intern | Davidson, NC</br>Minneapolis, MN | 🔒 | Oct 30 |
 | The New York Times | Backend Engineering Intern, Wirecutter | New York, NY | 🔒 | Oct 30 |
 | TensorWave | Software Engineering Intern | Las Vegas, NV | 🔒 | Oct 30 |
