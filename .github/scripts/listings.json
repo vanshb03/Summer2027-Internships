@@ -35263,13 +35263,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793226961,
+        "date_updated": 1793772636,
         "url": "https://go.vansh.nyc/Ye",
         "locations": [
             "Overland Park, KS"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "T-Mobile",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -49163,6 +49163,178 @@
         "source": "vanshb03",
         "id": "38804db7-e181-4fb8-92bb-5d6936e1f717",
         "date_posted": 1793768768,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793772351,
+        "url": "https://go.vansh.nyc/1fW",
+        "locations": [
+            "Sykesville, MD"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Northrop Grumman",
+        "title": "S/W Embedded Engineering Intern",
+        "source": "vanshb03",
+        "id": "612e3666-1fe7-46c1-be11-0310064a249c",
+        "date_posted": 1793770191,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793772517,
+        "url": "https://go.vansh.nyc/1fX",
+        "locations": [
+            "College Park, MD"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Rackner",
+        "title": "Computer Science Intern",
+        "source": "vanshb03",
+        "id": "d092a27c-8979-4ca7-ba25-dc27cbda9ed1",
+        "date_posted": 1721851710,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793772517,
+        "url": "https://go.vansh.nyc/1fY",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Viam",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "76ce07a3-d8d0-4527-97ce-de305e4d3e85",
+        "date_posted": 1789071572,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793772517,
+        "url": "https://go.vansh.nyc/1fZ",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Baidu USA",
+        "title": "Forward Deployed Engineer Intern",
+        "source": "vanshb03",
+        "id": "929775e3-103a-4366-8928-78d53e69c46f",
+        "date_posted": 1789154331,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793772517,
+        "url": "https://go.vansh.nyc/1g0",
+        "locations": [
+            "Vancouver, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Apera AI",
+        "title": "Machine Learning Applied Scientist Co-op",
+        "source": "vanshb03",
+        "id": "800b27f5-5fd7-451a-bea7-cd62614c85f4",
+        "date_posted": 1789513658,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1793772517,
+        "url": "https://go.vansh.nyc/1g1",
+        "locations": [
+            "Vancouver, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Apera AI",
+        "title": "Software Developer Co-op, Full Stack",
+        "source": "vanshb03",
+        "id": "a816c05f-6a48-48f9-9ab3-f4a8e0ca8308",
+        "date_posted": 1789589125,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1793772517,
+        "url": "https://go.vansh.nyc/1g2",
+        "locations": [
+            "Vancouver, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Apera AI",
+        "title": "Software Developer Co-op, Cloud Infrastructure",
+        "source": "vanshb03",
+        "id": "1992424c-7cba-4459-b6fe-e5f065523c76",
+        "date_posted": 1789589559,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1793772517,
+        "url": "https://go.vansh.nyc/1g3",
+        "locations": [
+            "Durham, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CoVar",
+        "title": "Machine Learning Intern",
+        "source": "vanshb03",
+        "id": "956ca7c7-e867-4d23-8e39-e5003f566f2a",
+        "date_posted": 1789595303,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793772517,
+        "url": "https://go.vansh.nyc/1g4",
+        "locations": [
+            "San Leandro, CA",
+            "Fremont, CA",
+            "Los Lunas, NM"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Pacific Fusion",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "333881f5-ce8c-422b-af61-ac7132f7b76b",
+        "date_posted": 1790884576,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793772517,
+        "url": "https://go.vansh.nyc/1g5",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "United Parcel Service (UPS)",
+        "title": "Information Security Intern",
+        "source": "vanshb03",
+        "id": "2d31afbf-af5b-4948-96de-1aa34ca277f2",
+        "date_posted": 1793772366,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
