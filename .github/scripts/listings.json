@@ -49474,5 +49474,39 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793797562,
+        "url": "https://go.vansh.nyc/1gn",
+        "locations": [
+            "Roy, UT"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Northrop Grumman",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "112f90c2-1f3b-446b-8b52-275a8020f3fc",
+        "date_posted": 1793795822,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793797562,
+        "url": "https://go.vansh.nyc/1go",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "National Interstate Insurance",
+        "title": "Business Intelligence Intern, Power BI",
+        "source": "vanshb03",
+        "id": "b6b4f5bf-b455-4c44-9207-cd39ecc132ac",
+        "date_posted": 1793796962,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
