@@ -15028,13 +15028,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792658440,
+        "date_updated": 1793752760,
         "url": "https://go.vansh.nyc/ei",
         "locations": [
             "Calabasas, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Keysight Technologies",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
