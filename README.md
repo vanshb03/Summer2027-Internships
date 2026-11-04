@@ -829,7 +829,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Mach Industries | Engineering Intern, Software/GNC 🛂 | Huntington Beach, CA</br>San Francisco, CA | <a href="https://go.vansh.nyc/RW?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 21 |
 | Leidos | Network Site Design Intern | Remote in USA | <a href="https://go.vansh.nyc/ea?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 21 |
 | L3Harris Technologies | Software Engineer Intern | Salt Lake City, UT | <a href="https://go.vansh.nyc/dR?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 21 |
-| Keysight Technologies | Software Engineer Intern | Calabasas, CA | <a href="https://go.vansh.nyc/ei?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 21 |
 | John Deere | Software Engineer Student Intern, Product Engineering | Cary, NC | <a href="https://go.vansh.nyc/dW?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 21 |
 | DP World | Network Engineering Intern 🛂 | Charlotte, NC | <a href="https://go.vansh.nyc/eK?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 21 |
 | ↳ | Information Security Intern 🛂 | Charlotte, NC | <a href="https://go.vansh.nyc/ef?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 21 |
@@ -1806,6 +1805,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ManTech | AI Workflow Intern | Remote in USA</br>Stafford, VA | 🔒 | Oct 21 |
 | Light & Wonder | Software Engineering Intern | Las Vegas, NV | 🔒 | Oct 21 |
 | ↳ | Software Engineer Intern | Las Vegas, NV | 🔒 | Oct 21 |
+| Keysight Technologies | Software Engineer Intern | Calabasas, CA | 🔒 | Oct 21 |
 | Genworth | Risk Modeling Intern | Raleigh, NC | 🔒 | Oct 21 |
 | FedEx Freight | Media & Web Development Intern, Marketing | United States | 🔒 | Oct 21 |
 | ↳ | Data Scientist Intern | Memphis, TN | 🔒 | Oct 21 |
