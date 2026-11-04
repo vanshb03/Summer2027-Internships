@@ -193,6 +193,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Software Engineer Co-op | Toronto, Canada | <a href="https://go.vansh.nyc/13E?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | Ema | AI Resident Intern | San Francisco, CA | <a href="https://go.vansh.nyc/13C?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | Elucid | Software Engineer Intern | Boston, MA | <a href="https://go.vansh.nyc/11w?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
+| Castelion | Embedded Software Engineer Intern | Torrance, CA | <a href="https://go.vansh.nyc/1gh?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | Carnegie Mellon University | Full-Stack Software Development Intern 🛂 | Pittsburgh, PA | <a href="https://go.vansh.nyc/10A?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | ↳ | Cyber Range Development Intern 🛂 | Pittsburgh, PA | <a href="https://go.vansh.nyc/10C?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | ↳ | Agentic Development Intern 🛂 | Pittsburgh, PA | <a href="https://go.vansh.nyc/10D?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |

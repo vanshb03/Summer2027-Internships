@@ -1393,6 +1393,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Awardco | Back-End Software Engineer Intern | Lindon, UT | <a href="https://go.vansh.nyc/Ip?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 14 |
 | CACI | Software Engineer Intern | <details><summary>**4 locations**</summary>Remote</br>United States</br>Sterling, VA</br>Denver, CO</details> | <a href="https://go.vansh.nyc/MU?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 13 |
 | Booz Allen | Applied AI Intern | Washington, DC | <a href="https://go.vansh.nyc/MV?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 13 |
+| SESCO | Quantitative Research and Trading Intern | Pittsburgh, PA | <a href="https://go.vansh.nyc/1gg?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
 | Brain Co. | AI Platform Engineer Intern | San Francisco, CA | <a href="https://go.vansh.nyc/10Q?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
 | ↳ | AI Product Engineer Intern | San Francisco, CA | <a href="https://go.vansh.nyc/10R?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
 | ↳ | AI Security Engineer Intern | San Francisco, CA | <a href="https://go.vansh.nyc/10S?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
@@ -1652,6 +1653,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Akuna Capital | Quantitative Research Intern 🇺🇸 | Chicago | <a href="https://go.vansh.nyc/4z?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | ↳ | Quantitative Development & Strategy Intern 🇺🇸 | Chicago | <a href="https://go.vansh.nyc/4y?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | ↳ | Platform Engineer Intern 🇺🇸 | Chicago, IL | <a href="https://go.vansh.nyc/3A?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
+| Quantiq | Software Developer Intern | Austin, TX | <a href="https://go.vansh.nyc/1gf?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 15 |
 | Old Mission | Software Engineer Intern | Chicago, IL | <a href="https://go.vansh.nyc/QB?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 15 |
 | Jump Trading Group | Campus UI Software Engineer Intern | Chicago, IL | <a href="https://go.vansh.nyc/3m?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 09 |
 | Jump Trading | Campus Systems Engineer Intern | Chicago, IL | <a href="https://go.vansh.nyc/3t?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 09 |
