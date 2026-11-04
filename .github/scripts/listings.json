@@ -34420,13 +34420,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793174751,
+        "date_updated": 1793779941,
         "url": "https://go.vansh.nyc/Xd",
         "locations": [
             "Portland, OR"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Daimler Truck",
         "title": "Software Release Management Intern",
         "source": "vanshb03",
@@ -37288,13 +37288,13 @@
         "season": "Fall"
     },
     {
-        "date_updated": 1793379966,
+        "date_updated": 1793779941,
         "url": "https://go.vansh.nyc/10G",
         "locations": [
             "Folsom, CA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Sierra Nevada Corporation",
         "title": "Firmware Engineering Intern",
         "source": "vanshb03",
@@ -38298,13 +38298,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793415953,
+        "date_updated": 1793779941,
         "url": "https://go.vansh.nyc/125",
         "locations": [
             "San Diego, CA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Northrop Grumman",
         "title": "Data Scientist Intern, Product Support",
         "source": "vanshb03",
