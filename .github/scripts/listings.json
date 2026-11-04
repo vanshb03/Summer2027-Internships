@@ -34368,14 +34368,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793171118,
+        "date_updated": 1793808780,
         "url": "https://go.vansh.nyc/X8",
         "locations": [
             "Remote",
             "United States"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "VSP Vision",
         "title": "Software Engineer Intern, Technology Innovation",
         "source": "vanshb03",
@@ -42024,13 +42024,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793526799,
+        "date_updated": 1793808780,
         "url": "https://go.vansh.nyc/18s",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "Software Engineer Intern, Recommendation Infra, Performance Efficiency",
         "source": "vanshb03",
@@ -49712,5 +49712,39 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793808327,
+        "url": "https://go.vansh.nyc/1gF",
+        "locations": [
+            "Centreville, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Parsons",
+        "title": "AI/ML Engineer Intern",
+        "source": "vanshb03",
+        "id": "71f00726-0de7-4fa3-a11e-bb132ad8b43f",
+        "date_posted": 1793750400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793808780,
+        "url": "https://go.vansh.nyc/1gG",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": false,
+        "company_name": "TMX Group",
+        "title": "Security Engineering Intern",
+        "source": "vanshb03",
+        "id": "733118fe-e773-4698-8a66-f3d095c1c772",
+        "date_posted": 1793808415,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
