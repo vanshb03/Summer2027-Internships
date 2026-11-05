@@ -435,8 +435,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | GE Aerospace | Data Science Co-op, Flight Analytics Platform | Austin, TX | <a href="https://go.vansh.nyc/IX?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 20 |
 | Ciena | Client Co-op, ASIC IP | Rochester, NY | <a href="https://go.vansh.nyc/IV?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 20 |
 | Together AI | Research Intern, Model Shaping | San Francisco, CA | <a href="https://go.vansh.nyc/IP?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 18 |
-| OCC | Cyber Operations Intern | Chicago, IL | <a href="https://go.vansh.nyc/JU?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 18 |
-| ↳ | Application Security Intern | Dallas, TX | <a href="https://go.vansh.nyc/JV?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 18 |
+| OCC | Application Security Intern | Dallas, TX | <a href="https://go.vansh.nyc/JV?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 18 |
 | MegazoneCloud | Cloud Operations Co-op | Rochester, NY | <a href="https://go.vansh.nyc/1eN?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 18 |
 | Gemini | Software Engineer Intern | New York, NY | <a href="https://go.vansh.nyc/IO?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 18 |
 | Rivian | Engineering Co-op, Software Test 🛂 | Torrance, CA | <a href="https://go.vansh.nyc/JS?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
@@ -631,6 +630,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | iRhythm Technologies | Firmware Quality Assurance Engineer Co-op | San Francisco, CA | 🔒 | Sep 28 |
 | Cisco | Firmware Engineer II Co-op | Maynard, MA | 🔒 | Sep 28 |
 | First Solar (US) | Data Engineering Intern | Perrysburg, OH | 🔒 | Sep 25 |
+| OCC | Cyber Operations Intern | Chicago, IL | 🔒 | Sep 18 |
 | OCC | Data Intern | Chicago, IL | 🔒 | Sep 16 |
 | Kenvue | Tech & Data Co-op | Summit, NJ | 🔒 | Sep 15 |
 | Definity Financial | Business Intelligence Co-op | Toronto, Canada</br>Waterloo, Canada | 🔒 | Sep 10 |
