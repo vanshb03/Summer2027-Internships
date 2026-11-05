@@ -31530,13 +31530,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793033120,
+        "date_updated": 1793896835,
         "url": "https://go.vansh.nyc/Sm",
         "locations": [
             "Dorval, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Bombardier",
         "title": "Extended Reality Programmer Intern",
         "source": "vanshb03",
@@ -51589,6 +51589,23 @@
         "source": "vanshb03",
         "id": "856f5fea-5c9a-4724-8bb8-7df966acf574",
         "date_posted": 1793894286,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793896576,
+        "url": "https://go.vansh.nyc/1iL",
+        "locations": [
+            "Tewksbury, MA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "RTX",
+        "title": "Systems Security Engineer Intern",
+        "source": "vanshb03",
+        "id": "3ba67c9a-ba35-4cbe-8778-1f8db0f17d9a",
+        "date_posted": 1793896336,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
