@@ -52,6 +52,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Nova-Tech | Software Development Co-op | Willmar, MN | <a href="https://go.vansh.nyc/1i9?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | Nelnet | Platform Engineer Intern | Mississauga, Canada | <a href="https://go.vansh.nyc/1iO?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | Montgomery Investment Technology, Inc. | Computer Programming Intern | Cinnaminson, NJ | <a href="https://go.vansh.nyc/1i3?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
+| Fresenius Medical Care | Embedded Software Co-op | Lawrence, MA | <a href="https://go.vansh.nyc/1jc?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | 4AG Robotics | Robotics Software Co-op | Salmon Arm, Canada | <a href="https://go.vansh.nyc/1ih?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | TMX Group | Junior Cybersecurity Operations Analyst Intern | Toronto, Canada | <a href="https://go.vansh.nyc/1gM?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
 | Saab | Information Security Co-op 🇺🇸 | East Syracuse, NY | <a href="https://go.vansh.nyc/1gV?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
