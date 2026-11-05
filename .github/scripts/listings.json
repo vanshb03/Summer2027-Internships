@@ -38831,13 +38831,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793491587,
+        "date_updated": 1793913296,
         "url": "https://go.vansh.nyc/12C",
         "locations": [
             "Kirkland, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Astronics",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -51009,13 +51009,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793873370,
+        "date_updated": 1793913296,
         "url": "https://go.vansh.nyc/1i9",
         "locations": [
             "Willmar, MN"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Nova-Tech",
         "title": "Software Development Co-op",
         "source": "vanshb03",
@@ -51801,13 +51801,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793907529,
+        "date_updated": 1793913296,
         "url": "https://go.vansh.nyc/1j3",
         "locations": [
             "Minneapolis, MN"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "RR Donnelley",
         "title": "IT Software Integration & Automation Intern",
         "source": "vanshb03",
@@ -51818,13 +51818,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793907529,
+        "date_updated": 1793913296,
         "url": "https://go.vansh.nyc/1j4",
         "locations": [
             "Warrenville, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "RR Donnelley",
         "title": "Software Developer Intern",
         "source": "vanshb03",
@@ -51884,5 +51884,40 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1793912763,
+        "url": "https://go.vansh.nyc/1jd",
+        "locations": [
+            "Deerfield Beach, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "JM Family Enterprises",
+        "title": "Data Engineering Intern",
+        "source": "vanshb03",
+        "id": "9e526c91-3729-4287-826b-adfcc435d751",
+        "date_posted": 1793912403,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793912951,
+        "url": "https://go.vansh.nyc/1je",
+        "locations": [
+            "Remote",
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CareSource",
+        "title": "Cybersecurity Intern",
+        "source": "vanshb03",
+        "id": "811dcd4c-21ad-444b-b65a-edc77e4de17a",
+        "date_posted": 1793912780,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
