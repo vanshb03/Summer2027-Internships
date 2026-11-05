@@ -20126,14 +20126,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793013503,
+        "date_updated": 1793898631,
         "url": "https://go.vansh.nyc/CC",
         "locations": [
             "Remote",
             "United States"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Leidos",
         "title": "Performance Enablement AI/ML Intern",
         "source": "vanshb03",
@@ -32014,14 +32014,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793039764,
+        "date_updated": 1793898631,
         "url": "https://go.vansh.nyc/SR",
         "locations": [
             "Remote",
             "United States"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Highmark Health",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -51606,6 +51606,23 @@
         "source": "vanshb03",
         "id": "3ba67c9a-ba35-4cbe-8778-1f8db0f17d9a",
         "date_posted": 1793896336,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793898525,
+        "url": "https://go.vansh.nyc/1iM",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Element Fleet Management",
+        "title": "Forward Deployed Engineer (FDE) Intern",
+        "source": "vanshb03",
+        "id": "74286338-ba79-46ac-9951-98194e3d9789",
+        "date_posted": 1793898378,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
