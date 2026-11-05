@@ -11829,13 +11829,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792442374,
+        "date_updated": 1793916629,
         "url": "https://go.vansh.nyc/bi",
         "locations": [
             "Oklahoma City, OK"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "American Fidelity",
         "title": "Software Developer Innovation Intern",
         "source": "vanshb03",
@@ -47531,13 +47531,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793736389,
+        "date_updated": 1793916629,
         "url": "https://go.vansh.nyc/1e7",
         "locations": [
             "Devens, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "CFS Energy",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -51968,6 +51968,76 @@
         "source": "vanshb03",
         "id": "5b65fe26-8e0d-43aa-903e-588326b48868",
         "date_posted": 1793914575,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793916521,
+        "url": "https://go.vansh.nyc/1jj",
+        "locations": [
+            "Aurora, CO"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "RTX",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "59f6cfa9-54cc-419a-91fb-54b8d4c15197",
+        "date_posted": 1793916379,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793916521,
+        "url": "https://go.vansh.nyc/1jk",
+        "locations": [
+            "Minneapolis, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nordson",
+        "title": "Software Intern",
+        "source": "vanshb03",
+        "id": "33308784-9a45-44db-95bd-865630a7f67b",
+        "date_posted": 1793916379,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793916521,
+        "url": "https://go.vansh.nyc/1jl",
+        "locations": [
+            "Toronto, Canada",
+            "Mississauga, Canada",
+            "London, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TD Bank",
+        "title": "Software Engineer Co-op",
+        "source": "vanshb03",
+        "id": "a7cec5a1-23be-4214-a5ea-94288512e8e5",
+        "date_posted": 1793916379,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1793916521,
+        "url": "https://go.vansh.nyc/1jm",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Western Alliance Bancorporation",
+        "title": "Platform Engineering Intern",
+        "source": "vanshb03",
+        "id": "ba8a1180-0ea5-40fd-ba93-f17a15c117ca",
+        "date_posted": 1793916379,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
