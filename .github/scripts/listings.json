@@ -32460,13 +32460,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793063402,
+        "date_updated": 1793920170,
         "url": "https://go.vansh.nyc/Tm",
         "locations": [
             "Markham, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "NUVACORE",
         "title": "CPU Software Intern",
         "source": "vanshb03",
@@ -52007,7 +52007,7 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793916521,
+        "date_updated": 1793920170,
         "url": "https://go.vansh.nyc/1jl",
         "locations": [
             "Toronto, Canada",
@@ -52015,7 +52015,7 @@
             "London, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TD Bank",
         "title": "Software Engineer Co-op",
         "source": "vanshb03",
