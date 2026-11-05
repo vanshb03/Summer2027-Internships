@@ -51296,5 +51296,58 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793876953,
+        "url": "https://go.vansh.nyc/1ir",
+        "locations": [
+            "Florham Park, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Concord Advice",
+        "title": "Data Scientist Intern",
+        "source": "vanshb03",
+        "id": "b630af3f-5103-421d-8fd1-0ddb349ebe22",
+        "date_posted": 1793876792,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793876953,
+        "url": "https://go.vansh.nyc/1is",
+        "locations": [
+            "Remote",
+            "United States"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Trilogy Innovations",
+        "title": "Technical Intern",
+        "source": "vanshb03",
+        "id": "0994bb97-c0a4-4694-b8c6-8c679af1ace3",
+        "date_posted": 1793876792,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793876953,
+        "url": "https://go.vansh.nyc/1it",
+        "locations": [
+            "Remote",
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Arango",
+        "title": "Software Engineer Intern, Cookbooks",
+        "source": "vanshb03",
+        "id": "70d4b02d-9805-4789-b5d0-6e134cb4f908",
+        "date_posted": 1793876792,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
