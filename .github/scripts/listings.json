@@ -50765,5 +50765,127 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793869551,
+        "url": "https://go.vansh.nyc/1hU",
+        "locations": [
+            "Germantown, MD"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ViaSat",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "3c9db67c-02de-4acd-b098-04c5ba267506",
+        "date_posted": 1793639940,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793869551,
+        "url": "https://go.vansh.nyc/1hV",
+        "locations": [
+            "Tempe, AZ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ViaSat",
+        "title": "Digital and Programmable Logic Engineer Intern",
+        "source": "vanshb03",
+        "id": "20f2cf2a-89ef-4550-bfe5-4bcc97b458ce",
+        "date_posted": 1793645340,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793869551,
+        "url": "https://go.vansh.nyc/1hW",
+        "locations": [
+            "Middletown, RI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "General Dynamics Mission Systems",
+        "title": "Electrical Engineering Intern, FPGA",
+        "source": "vanshb03",
+        "id": "19f3474a-9a74-443a-96a7-60367b66994a",
+        "date_posted": 1793664000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793869551,
+        "url": "https://go.vansh.nyc/1hX",
+        "locations": [
+            "Port Orchard, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "General Dynamics Mission Systems",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "6a0b8077-cdb7-45ce-b603-8f628b32bf56",
+        "date_posted": 1793750400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793869551,
+        "url": "https://go.vansh.nyc/1hY",
+        "locations": [
+            "Houston, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Constellation Energy",
+        "title": "Renewable Energy Intern",
+        "source": "vanshb03",
+        "id": "678cd43d-8e04-40e6-8759-adc9b461739a",
+        "date_posted": 1793820420,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793869551,
+        "url": "https://go.vansh.nyc/1hZ",
+        "locations": [
+            "West Lafayette, IN",
+            "Basking Ridge, NJ",
+            "Silver Spring, MD",
+            "Bedford, NH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Peraton",
+        "title": "Cyber Research Intern",
+        "source": "vanshb03",
+        "id": "96ee80cd-4ac7-4b3d-aa41-f60e8e681f98",
+        "date_posted": 1793862559,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793869551,
+        "url": "https://go.vansh.nyc/1i0",
+        "locations": [
+            "Manassas, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "General Dynamics Mission Systems",
+        "title": "FPGA Engineer Intern",
+        "source": "vanshb03",
+        "id": "02f4e59a-2b01-4795-b089-f130201b9407",
+        "date_posted": 1793864886,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
