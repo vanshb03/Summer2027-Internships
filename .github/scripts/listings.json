@@ -46122,13 +46122,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1793686189,
+        "date_updated": 1793895385,
         "url": "https://go.vansh.nyc/1cE",
         "locations": [
             "Halethorpe, MD"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Johnson & Johnson",
         "title": "Heart Recovery Software R&D Co-op",
         "source": "vanshb03",
@@ -51538,6 +51538,57 @@
         "source": "vanshb03",
         "id": "b27be56a-db98-49e7-8107-d57775c5ba0c",
         "date_posted": 1793893062,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793894757,
+        "url": "https://go.vansh.nyc/1iH",
+        "locations": [
+            "Deerfield Beach, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "JM Family Enterprises",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "27cb57f7-ddf9-4ee4-89a0-b6e18777839a",
+        "date_posted": 1793836800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793894757,
+        "url": "https://go.vansh.nyc/1iI",
+        "locations": [
+            "Deerfield Beach, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "JM Family Enterprises",
+        "title": "Software Analyst Intern",
+        "source": "vanshb03",
+        "id": "f0474179-c4cc-4f01-b2bb-eb90c303180a",
+        "date_posted": 1793836800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793894826,
+        "url": "https://go.vansh.nyc/1iJ",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "The Federal Reserve System",
+        "title": "Information Security Intern",
+        "source": "vanshb03",
+        "id": "856f5fea-5c9a-4724-8bb8-7df966acf574",
+        "date_posted": 1793894286,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
