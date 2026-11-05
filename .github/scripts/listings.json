@@ -24891,13 +24891,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793021626,
+        "date_updated": 1793902234,
         "url": "https://go.vansh.nyc/ID",
         "locations": [
             "Chicago, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "OCC",
         "title": "Data Intern",
         "source": "vanshb03",
@@ -26254,13 +26254,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793022083,
+        "date_updated": 1793902234,
         "url": "https://go.vansh.nyc/JU",
         "locations": [
             "Chicago, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "OCC",
         "title": "Cyber Operations Intern",
         "source": "vanshb03",
