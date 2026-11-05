@@ -354,7 +354,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Software Engineering Intern | Seattle, WA | <a href="https://go.vansh.nyc/93?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
 | AGCO | AI & Data Science Intern | Champaign, IL | <a href="https://go.vansh.nyc/Ct?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
 | Zoox | AI Validation and Benchmarking Engineer Intern | Foster City, CA | <a href="https://go.vansh.nyc/8X?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 13 |
-| Plexus | Digital Engineer Intern | Neenah, WI | <a href="https://go.vansh.nyc/8W?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 13 |
 | Covestro | Supply Chain Application Developer Co-op | Pittsburgh, PA | <a href="https://go.vansh.nyc/PS?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 13 |
 | Astera Labs | Firmware Engineer Co-op | Vancouver, Canada | <a href="https://go.vansh.nyc/Ck?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 13 |
 | Western Digital | Recording Electronics Data Analytics & Optimization Co-op | Rochester, MN | <a href="https://go.vansh.nyc/8o?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 12 |
@@ -611,6 +610,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Sony Pictures Entertainment | Current Programming Intern, Sony Pictures Television | Culver City, CA | 🔒 | Oct 14 |
 | Johnson & Johnson | Technical Operations Co-op | West Chester, PA | 🔒 | Oct 14 |
 | Ciena | Embedded Software Developer Intern | Ottawa, Canada | 🔒 | Oct 14 |
+| Plexus | Digital Engineer Intern | Neenah, WI | 🔒 | Oct 13 |
 | Disney | Disney & Pixar Games Production Intern | Glendale, CA | 🔒 | Oct 13 |
 | 1Password | Data Intern, Product Analytics | Remote (United States | Canada) | 🔒 | Oct 12 |
 | Truist | TD&O Program Enablement Specialist Intern 🛂 | Charlotte, NC | 🔒 | Oct 10 |
