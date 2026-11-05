@@ -23110,13 +23110,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793015500,
+        "date_updated": 1793909414,
         "url": "https://go.vansh.nyc/FY",
         "locations": [
             "Washington, DC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "State Affairs",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -51833,5 +51833,56 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793909165,
+        "url": "https://go.vansh.nyc/1ja",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CrowdStrike",
+        "title": "Intelligence Intern",
+        "source": "vanshb03",
+        "id": "a7432e62-9005-487b-95d0-d10e20b54072",
+        "date_posted": 1793908685,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793909165,
+        "url": "https://go.vansh.nyc/1jb",
+        "locations": [
+            "Auburn Hills, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "BorgWarner",
+        "title": "Software Test Intern",
+        "source": "vanshb03",
+        "id": "effeb0e8-9318-4eef-89a5-aea4d25ca303",
+        "date_posted": 1793908625,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793909165,
+        "url": "https://go.vansh.nyc/1jc",
+        "locations": [
+            "Lawrence, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Fresenius Medical Care",
+        "title": "Embedded Software Co-op",
+        "source": "vanshb03",
+        "id": "e516d0df-032f-440f-8053-d1f2f3fcc684",
+        "date_posted": 1793907845,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
