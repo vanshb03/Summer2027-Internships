@@ -9325,13 +9325,13 @@
         "season": "Spring"
     },
     {
-        "date_updated": 1792261427,
+        "date_updated": 1793886307,
         "url": "https://go.vansh.nyc/8W",
         "locations": [
             "Neenah, WI"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Plexus",
         "title": "Digital Engineer Intern",
         "source": "vanshb03",
@@ -30395,14 +30395,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793031368,
+        "date_updated": 1793886307,
         "url": "https://go.vansh.nyc/QX",
         "locations": [
             "Remote",
             "United States"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Celestica",
         "title": "AI Engineer Intern",
         "source": "vanshb03",
@@ -45655,13 +45655,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793682523,
+        "date_updated": 1793886307,
         "url": "https://go.vansh.nyc/1cd",
         "locations": [
             "United States"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "CAI",
         "title": "Cybersecurity Analyst Intern",
         "source": "vanshb03",
