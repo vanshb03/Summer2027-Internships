@@ -47963,13 +47963,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793743743,
+        "date_updated": 1793884243,
         "url": "https://go.vansh.nyc/1ez",
         "locations": [
             "Moraine, OH"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Winsupply",
         "title": "Software Developer Intern",
         "source": "vanshb03",
