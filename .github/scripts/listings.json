@@ -27873,13 +27873,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793023513,
+        "date_updated": 1793914804,
         "url": "https://go.vansh.nyc/ME",
         "locations": [
             "Boston, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "PanAgora",
         "title": "Equity Intern",
         "source": "vanshb03",
@@ -43242,7 +43242,7 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793651751,
+        "date_updated": 1793914804,
         "url": "https://go.vansh.nyc/19M",
         "locations": [
             "Remote",
@@ -43254,7 +43254,7 @@
             "Salt Lake City, UT"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Motorola Solutions",
         "title": "Software Engineer Intern, Cybersecurity Services",
         "source": "vanshb03",
@@ -51916,6 +51916,58 @@
         "source": "vanshb03",
         "id": "811dcd4c-21ad-444b-b65a-edc77e4de17a",
         "date_posted": 1793912780,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793914717,
+        "url": "https://go.vansh.nyc/1jf",
+        "locations": [
+            "Kanata, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Aerospace Corporation",
+        "title": "AI Intern",
+        "source": "vanshb03",
+        "id": "20501f32-39b5-4f76-8384-e0084117db48",
+        "date_posted": 1793831725,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1793914717,
+        "url": "https://go.vansh.nyc/1jg",
+        "locations": [
+            "Remote",
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CareSource",
+        "title": "Data Analyst Intern",
+        "source": "vanshb03",
+        "id": "ccaffbcd-1e0f-4367-a741-356b4c874b05",
+        "date_posted": 1793914575,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793914717,
+        "url": "https://go.vansh.nyc/1jh",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Western Alliance Bancorporation",
+        "title": "Platform Engineering Intern",
+        "source": "vanshb03",
+        "id": "5b65fe26-8e0d-43aa-903e-588326b48868",
+        "date_posted": 1793914575,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
