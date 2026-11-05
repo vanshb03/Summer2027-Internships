@@ -57,6 +57,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | 4AG Robotics | Robotics Software Co-op | Salmon Arm, Canada | <a href="https://go.vansh.nyc/1ih?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | TMX Group | Junior Cybersecurity Operations Analyst Intern | Toronto, Canada | <a href="https://go.vansh.nyc/1gM?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
 | Saab | Information Security Co-op 🇺🇸 | East Syracuse, NY | <a href="https://go.vansh.nyc/1gV?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
+| Royal Bank of Canada | Software Developer Co-op, Quantitative Technology Services | Montreal, Canada | <a href="https://go.vansh.nyc/1jt?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
 | Northrop Grumman | Software Engineer Intern 🇺🇸 | McClellan, CA | <a href="https://go.vansh.nyc/1h5?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
 | DataVisor | Software Engineer Intern | Remote</br>Canada | <a href="https://go.vansh.nyc/1hA?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
 | ↳ | Software Engineer Intern | Vancouver, Canada | <a href="https://go.vansh.nyc/1hq?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
