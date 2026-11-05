@@ -27890,13 +27890,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793023513,
+        "date_updated": 1793905868,
         "url": "https://go.vansh.nyc/MF",
         "locations": [
             "Oakville, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Geotab",
         "title": "Embedded Developer Intern, Engine Data Reliability",
         "source": "vanshb03",
@@ -41189,7 +41189,7 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1793526799,
+        "date_updated": 1793905868,
         "url": "https://go.vansh.nyc/17F",
         "locations": [
             "Oakville, Canada",
@@ -41197,7 +41197,7 @@
             "Waterloo, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Geotab",
         "title": "Software Developer Intern, Geotab Vitality",
         "source": "vanshb03",
@@ -46506,14 +46506,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793686189,
+        "date_updated": 1793905868,
         "url": "https://go.vansh.nyc/1d0",
         "locations": [
             "Remote",
             "United States"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "IGS Energy",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -51762,6 +51762,40 @@
         "source": "vanshb03",
         "id": "92a01831-232a-4c0b-880e-b5f181d1115d",
         "date_posted": 1793898163,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793905577,
+        "url": "https://go.vansh.nyc/1j0",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Palantir Technologies",
+        "title": "Software Engineer Intern, Sovereign AI Systems",
+        "source": "vanshb03",
+        "id": "15fa9474-f3bf-465f-9aef-20f746c86a5f",
+        "date_posted": 1793903717,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793905750,
+        "url": "https://go.vansh.nyc/1j1",
+        "locations": [
+            "Eden Prairie, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "STARKEY DE M\u00c9XICO S.A. DE C.V.",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "b874d3e7-6f1f-4e8a-b144-3a2fda8545c7",
+        "date_posted": 1793775458,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
