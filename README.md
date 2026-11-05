@@ -55,6 +55,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Game Research & Development Intern, Engine Research | Bellevue, WA | <a href="https://go.vansh.nyc/1hO?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | ↳ | Hunyuan Multimodal Algorithm Researcher Intern, Omni-Modal | Palo Alto, CA | <a href="https://go.vansh.nyc/1hP?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | ↳ | Site Reliability Engineer (SRE) Intern, AI Infrastructure | Palo Alto, CA | <a href="https://go.vansh.nyc/1hQ?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
+| RTX | Systems Security Engineer Intern 🇺🇸 | Tewksbury, MA | <a href="https://go.vansh.nyc/1iL?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | Prospect Equities | Backend / Frontend Developer Intern | Chicago, IL | <a href="https://go.vansh.nyc/1ia?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | PayPal | Cybersecurity Intern 🛂 | <details><summary>**4 locations**</summary>San Jose, CA</br>Scottsdale, AZ</br>Chicago, IL</br>Austin, TX</details> | <a href="https://go.vansh.nyc/1iu?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | Parsons | Embedded Developer Intern | Columbia, MD | <a href="https://go.vansh.nyc/1iA?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |

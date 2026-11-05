@@ -318,8 +318,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | HeyGen | Software Engineer Intern | <details><summary>**4 locations**</summary>Toronto, ON, Canada</br>SF</br>LA</br>Singapore</details> | <a href="https://go.vansh.nyc/bb?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
 | Foresters Financial | Quality Assurance Engineer Co-op | Toronto, Canada | <a href="https://go.vansh.nyc/QP?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
 | Ciena | Services Business Intelligence & Analytics Intern | Montreal, QC, Canada</br>Ottawa, ON, Canada | <a href="https://go.vansh.nyc/cx?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
-| Bombardier | Extended Reality Programmer Intern | Dorval, Canada | <a href="https://go.vansh.nyc/Sm?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
-| ↳ | Developer Intern | Mississauga, Canada | <a href="https://go.vansh.nyc/Sn?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
+| Bombardier | Developer Intern | Mississauga, Canada | <a href="https://go.vansh.nyc/Sn?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
 | ↳ | Data Science and AI Intern, Connected Aircraft | Dorval, Canada | <a href="https://go.vansh.nyc/So?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
 | ↳ | Software Developer Intern | St-Laurent, Canada | <a href="https://go.vansh.nyc/Sp?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
 | Alstom | Data Engineering Intern | Saint-Bruno, Canada | <a href="https://go.vansh.nyc/QT?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
@@ -589,6 +588,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Johns Hopkins Applied Physics Laboratory | Cybersecurity Intern, Mission Engineering | Laurel, MD | 🔒 | Oct 18 |
 | CIBC | Application Developer Co-op - Enterprise Technology & Business Management | Toronto, ON, Canada | 🔒 | Oct 18 |
 | ↳ | Application/Software Developer Co-op - Capital Markets Technology | Toronto, ON, Canada | 🔒 | Oct 18 |
+| Bombardier | Extended Reality Programmer Intern | Dorval, Canada | 🔒 | Oct 18 |
 | Accenture | MES & Supply Chain Systems Co-op Analyst | Toronto, ON, Canada | 🔒 | Oct 18 |
 | RTX | Development Operations Intern, Engineering Development Program 🇺🇸 | Middletown, CT | 🔒 | Oct 16 |
 | KPMG | AI Builder Co-op | Toronto, ON, Canada | 🔒 | Oct 16 |
