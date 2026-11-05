@@ -23807,13 +23807,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793015500,
+        "date_updated": 1793889780,
         "url": "https://go.vansh.nyc/GC",
         "locations": [
             "Dayton, OH"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tenet3",
         "title": "Software Developer Intern, Full Stack",
         "source": "vanshb03",
@@ -34987,13 +34987,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793217981,
+        "date_updated": 1793889780,
         "url": "https://go.vansh.nyc/XY",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Schonfeld",
         "title": "Enterprise AI Intern",
         "source": "vanshb03",
@@ -45882,14 +45882,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793686189,
+        "date_updated": 1793889780,
         "url": "https://go.vansh.nyc/1cq",
         "locations": [
             "Remote",
             "United States"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Cincinnati Children\u2019s Hospital and Medical Center",
         "title": "Student II Security Analyst Intern",
         "source": "vanshb03",
@@ -51366,6 +51366,109 @@
         "source": "vanshb03",
         "id": "be3b344f-e0ef-42ab-a5b5-3b226644dc37",
         "date_posted": 1793880396,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793889347,
+        "url": "https://go.vansh.nyc/1iv",
+        "locations": [
+            "Detroit, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Little Caesars Enterprises",
+        "title": "Cyber IT Intern",
+        "source": "vanshb03",
+        "id": "f20e4d1c-239d-4217-bdb2-b62afcde36bd",
+        "date_posted": 1793836800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793889492,
+        "url": "https://go.vansh.nyc/1iw",
+        "locations": [
+            "Deerfield Beach, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "JM Family Enterprises",
+        "title": "Analytics Intern",
+        "source": "vanshb03",
+        "id": "de016fa6-185d-4be6-ac96-ee3d33fb22e0",
+        "date_posted": 1793887992,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793889660,
+        "url": "https://go.vansh.nyc/1ix",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tyler Technologies",
+        "title": "Software Development Intern",
+        "source": "vanshb03",
+        "id": "49dcc5fb-640b-4f54-9b92-f36d7748a57e",
+        "date_posted": 1793889506,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793889660,
+        "url": "https://go.vansh.nyc/1iy",
+        "locations": [
+            "Remote",
+            "United States"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Kimball Electronics",
+        "title": "Cybersecurity Intern",
+        "source": "vanshb03",
+        "id": "25fcd3a1-2ca7-4d6f-b638-585f118d1234",
+        "date_posted": 1793889506,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793889660,
+        "url": "https://go.vansh.nyc/1iz",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Omya",
+        "title": "Data Scientist Co-op",
+        "source": "vanshb03",
+        "id": "f1348f4e-224b-4611-acf0-696c8c63f472",
+        "date_posted": 1793889506,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1793889660,
+        "url": "https://go.vansh.nyc/1iA",
+        "locations": [
+            "Columbia, MD"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Parsons",
+        "title": "Embedded Developer Intern",
+        "source": "vanshb03",
+        "id": "76001adb-8d10-4675-9551-26dd7c0338dd",
+        "date_posted": 1793889506,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
