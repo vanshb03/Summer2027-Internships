@@ -16748,13 +16748,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1792731778,
+        "date_updated": 1793839192,
         "url": "https://go.vansh.nyc/fT",
         "locations": [
             "Pleasanton, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Bracco",
         "title": "Firmware Engineering Co-op",
         "source": "vanshb03",
@@ -50241,6 +50241,23 @@
         "source": "vanshb03",
         "id": "17fc2074-2bc3-4ef3-8b58-f50570ed9795",
         "date_posted": 1793750400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793839111,
+        "url": "https://go.vansh.nyc/1hi",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Badger Meter",
+        "title": "Firmware Test Engineer Intern",
+        "source": "vanshb03",
+        "id": "9d86d224-6c97-4146-a5b4-7eca1f192346",
+        "date_posted": 1793836800,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
