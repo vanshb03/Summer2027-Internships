@@ -51349,5 +51349,25 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793880551,
+        "url": "https://go.vansh.nyc/1iu",
+        "locations": [
+            "San Jose, CA",
+            "Scottsdale, AZ",
+            "Chicago, IL",
+            "Austin, TX"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "PayPal",
+        "title": "Cybersecurity Intern",
+        "source": "vanshb03",
+        "id": "be3b344f-e0ef-42ab-a5b5-3b226644dc37",
+        "date_posted": 1793880396,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
