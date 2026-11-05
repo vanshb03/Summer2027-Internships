@@ -20144,13 +20144,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793013503,
+        "date_updated": 1793866639,
         "url": "https://go.vansh.nyc/CD",
         "locations": [
             "Ottawa, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Ciena",
         "title": "Embedded Software Developer Intern",
         "source": "vanshb03",
@@ -43072,13 +43072,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793642755,
+        "date_updated": 1793866639,
         "url": "https://go.vansh.nyc/19x",
         "locations": [
             "Sunnyvale, CA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Northrop Grumman",
         "title": "Engineering Software and Analysis Intern",
         "source": "vanshb03",
@@ -43157,13 +43157,13 @@
         "season": "Spring"
     },
     {
-        "date_updated": 1793648169,
+        "date_updated": 1793866639,
         "url": "https://go.vansh.nyc/19G",
         "locations": [
             "Fullerton, CA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "RTX",
         "title": "Systems Security Engineering Intern",
         "source": "vanshb03",
@@ -50539,6 +50539,229 @@
         "source": "vanshb03",
         "id": "392d065e-cfcd-456b-b438-b265c4a79101",
         "date_posted": 1793846893,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793866378,
+        "url": "https://go.vansh.nyc/1hH",
+        "locations": [
+            "Madison, WI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "American Family Insurance Group",
+        "title": "Enterprise Data Intern",
+        "source": "vanshb03",
+        "id": "a5b864e2-0eb8-42ac-a10a-133e5bbdf68a",
+        "date_posted": 1793866217,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793866378,
+        "url": "https://go.vansh.nyc/1hI",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "DraftKings",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "775b97fa-d695-4a41-a41e-b818ad26be85",
+        "date_posted": 1793866217,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793866378,
+        "url": "https://go.vansh.nyc/1hJ",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Genesys",
+        "title": "Web Software Developer Intern, WFM",
+        "source": "vanshb03",
+        "id": "a9a431f2-ef7a-4cc4-a5ff-7aa27b84143a",
+        "date_posted": 1793866217,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793866378,
+        "url": "https://go.vansh.nyc/1hK",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Genesys",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "1a36aeac-9984-4851-8933-79e76a86757c",
+        "date_posted": 1793866217,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793866378,
+        "url": "https://go.vansh.nyc/1hL",
+        "locations": [
+            "Atlanta, GA",
+            "Frisco, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NCR Atleos",
+        "title": "Technology Intern",
+        "source": "vanshb03",
+        "id": "96ba43e0-7207-4acb-ae89-55a009adf975",
+        "date_posted": 1793866217,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793866378,
+        "url": "https://go.vansh.nyc/1hM",
+        "locations": [
+            "Atlanta, GA",
+            "Frisco, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NCR Atleos",
+        "title": "Data Science Intern",
+        "source": "vanshb03",
+        "id": "2805c17f-f7e7-42b9-8c9d-bf818c81e7cc",
+        "date_posted": 1793866217,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793866378,
+        "url": "https://go.vansh.nyc/1hN",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tencent",
+        "title": "Game Research & Development Intern, Engine Research",
+        "source": "vanshb03",
+        "id": "370b1a50-1093-49b0-8a73-f293e3c602e2",
+        "date_posted": 1793866217,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793866378,
+        "url": "https://go.vansh.nyc/1hO",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tencent",
+        "title": "Game Research & Development Intern, Engine Research",
+        "source": "vanshb03",
+        "id": "a2e1d4d3-b72a-4da5-977a-bd0c0f259efb",
+        "date_posted": 1793866217,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793866378,
+        "url": "https://go.vansh.nyc/1hP",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tencent",
+        "title": "Hunyuan Multimodal Algorithm Researcher Intern, Omni-Modal",
+        "source": "vanshb03",
+        "id": "19f421cc-09ce-4b34-984b-6e83b010979b",
+        "date_posted": 1793866217,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793866378,
+        "url": "https://go.vansh.nyc/1hQ",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tencent",
+        "title": "Site Reliability Engineer (SRE) Intern, AI Infrastructure",
+        "source": "vanshb03",
+        "id": "c15891f3-32c8-4cf4-8871-aaadb3bb406e",
+        "date_posted": 1793866217,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793866378,
+        "url": "https://go.vansh.nyc/1hR",
+        "locations": [
+            "Bossier City, LA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "General Dynamics Information Technology",
+        "title": "Cybersecurity Associate Intern",
+        "source": "vanshb03",
+        "id": "a463c071-ab4d-4324-a3ea-bbaef830d4d8",
+        "date_posted": 1793866217,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793866378,
+        "url": "https://go.vansh.nyc/1hS",
+        "locations": [
+            "Bossier City, LA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "General Dynamics Information Technology",
+        "title": "AI/ML Data Science and Engineering Intern",
+        "source": "vanshb03",
+        "id": "29a99d34-cb79-43d3-b58e-09cbdfee558b",
+        "date_posted": 1793866217,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793866378,
+        "url": "https://go.vansh.nyc/1hT",
+        "locations": [
+            "Bossier City, LA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "General Dynamics Information Technology",
+        "title": "AI/ML Software Development and Engineering Intern",
+        "source": "vanshb03",
+        "id": "aca14827-b16a-4b9a-bd73-e619bfc1fba6",
+        "date_posted": 1793866217,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
