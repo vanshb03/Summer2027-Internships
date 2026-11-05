@@ -9597,13 +9597,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792261427,
+        "date_updated": 1793907621,
         "url": "https://go.vansh.nyc/9c",
         "locations": [
             "Reston, VA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "ICF International",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -51796,6 +51796,40 @@
         "source": "vanshb03",
         "id": "b874d3e7-6f1f-4e8a-b144-3a2fda8545c7",
         "date_posted": 1793775458,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793907529,
+        "url": "https://go.vansh.nyc/1j3",
+        "locations": [
+            "Minneapolis, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "RR Donnelley",
+        "title": "IT Software Integration & Automation Intern",
+        "source": "vanshb03",
+        "id": "b0ed844d-9cbf-41ff-b545-d3076be5152a",
+        "date_posted": 1793889019,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793907529,
+        "url": "https://go.vansh.nyc/1j4",
+        "locations": [
+            "Warrenville, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "RR Donnelley",
+        "title": "Software Developer Intern",
+        "source": "vanshb03",
+        "id": "0dfae2f6-e1ab-4ccc-ba25-163c4c838eee",
+        "date_posted": 1793889074,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
