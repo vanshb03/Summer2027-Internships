@@ -52126,5 +52126,125 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793921725,
+        "url": "https://go.vansh.nyc/1js",
+        "locations": [
+            "Remote",
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CareSource",
+        "title": "Configuration and Automation Intern",
+        "source": "vanshb03",
+        "id": "4be8e74b-87db-437d-b42c-6e918b62b530",
+        "date_posted": 1793836800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793921725,
+        "url": "https://go.vansh.nyc/1jt",
+        "locations": [
+            "Montreal, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Royal Bank of Canada",
+        "title": "Software Developer Co-op, Quantitative Technology Services",
+        "source": "vanshb03",
+        "id": "586e3855-6801-4cda-9c34-4d5ded723460",
+        "date_posted": 1793836800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1793921725,
+        "url": "https://go.vansh.nyc/1ju",
+        "locations": [
+            "Fairborn, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Riverside Research",
+        "title": "Software Applications Intern",
+        "source": "vanshb03",
+        "id": "e6312498-f2b8-419d-bd4a-f1762ba2273f",
+        "date_posted": 1793836800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793921725,
+        "url": "https://go.vansh.nyc/1jv",
+        "locations": [
+            "Westerville, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "DwyerOmega",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "710b5314-4a06-408b-963c-37c7df158240",
+        "date_posted": 1793920540,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793921725,
+        "url": "https://go.vansh.nyc/1jw",
+        "locations": [
+            "Mason, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cintas",
+        "title": "IT Engineer Intern, Customer Channels",
+        "source": "vanshb03",
+        "id": "0348fba3-cb3d-4556-8476-c814e2d9ee94",
+        "date_posted": 1793921173,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793922289,
+        "url": "https://go.vansh.nyc/1jx",
+        "locations": [
+            "Dayton, OH"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Two Six Technologies",
+        "title": "Research Intern",
+        "source": "vanshb03",
+        "id": "1759970a-d3a3-4101-ab08-5b31237d1998",
+        "date_posted": 1793905870,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793922290,
+        "url": "https://go.vansh.nyc/1jy",
+        "locations": [
+            "Bentonville, AR"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Walmart",
+        "title": "Data Science Intern, Last Mile Delivery",
+        "source": "vanshb03",
+        "id": "ca7eaf2d-68bf-4277-af9a-68afc61a829c",
+        "date_posted": 1793922039,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
