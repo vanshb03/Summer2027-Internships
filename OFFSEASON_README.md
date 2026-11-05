@@ -59,6 +59,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | DataVisor | Software Engineer Intern | Remote</br>Canada | <a href="https://go.vansh.nyc/1hA?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
 | ↳ | Software Engineer Intern | Vancouver, Canada | <a href="https://go.vansh.nyc/1hq?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
 | Boston Scientific | Software Engineering Co-op, Urology R&D 🛂 | Maple Grove, MN | <a href="https://go.vansh.nyc/1gJ?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
+| Aerospace Corporation | AI Intern | Kanata, Canada | <a href="https://go.vansh.nyc/1jf?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
 | Wolters Kluwer | Front-End Developer Intern | Sherbrooke, Canada | <a href="https://go.vansh.nyc/1ht?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | TMX Group | Jr. Security Analyst Student Intern | Toronto, Canada | <a href="https://go.vansh.nyc/1gt?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | Survalent | SmartVu Developer Co-op, Quality and Infrastructure | Mississauga, Canada | <a href="https://go.vansh.nyc/1h4?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
