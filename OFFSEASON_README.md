@@ -48,6 +48,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Stellar Science | Scientific Software Developer Co-op | Albuquerque, NM | <a href="https://go.vansh.nyc/1id?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | Rodan Energy Solutions Inc. | Data Operations Engineer AI Co-op | Mississauga, Canada | <a href="https://go.vansh.nyc/1ib?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | ↳ | AI Solutions Specialist Co-op | Mississauga, Canada | <a href="https://go.vansh.nyc/1ic?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
+| Omya | Data Scientist Co-op | Cincinnati, OH | <a href="https://go.vansh.nyc/1iz?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | Nova-Tech | Software Development Co-op | Willmar, MN | <a href="https://go.vansh.nyc/1i9?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | Montgomery Investment Technology, Inc. | Computer Programming Intern | Cinnaminson, NJ | <a href="https://go.vansh.nyc/1i3?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | 4AG Robotics | Robotics Software Co-op | Salmon Arm, Canada | <a href="https://go.vansh.nyc/1ih?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
@@ -367,7 +368,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Software Engineering Co-op | Toronto, Canada | <a href="https://go.vansh.nyc/GP?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |
 | TransMarket Group | Junior Data Center/Desktop Engineer Intern | Chicago, IL | <a href="https://go.vansh.nyc/81?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 10 |
 | Advanced Space | Technical Growth and Capture Intern | Westminster, CO | <a href="https://go.vansh.nyc/7Y?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 10 |
-| Tenet3 | Software Developer Intern, Full Stack | Dayton, OH | <a href="https://go.vansh.nyc/GC?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
 | Magnet Forensics | Software Developer Co-op | Waterloo, Canada</br>Ottawa, Canada | <a href="https://go.vansh.nyc/GD?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
 | Workday | Software Development Engineer Intern | Vancouver, Canada | <a href="https://go.vansh.nyc/Gq?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 08 |
 | Rugged Robotics | Robotics Software Co-op | Houston, TX | <a href="https://go.vansh.nyc/Ga?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 08 |
@@ -616,6 +616,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Truist | TD&O Program Enablement Specialist Intern 🛂 | Charlotte, NC | 🔒 | Oct 10 |
 | Johnson & Johnson | TDS Lab Automation Co-op 🛂 | Malvern, PA | 🔒 | Oct 10 |
 | ↳ | TDS CGT-Digital Automation Co-op 🛂 | Malvern, PA | 🔒 | Oct 10 |
+| Tenet3 | Software Developer Intern, Full Stack | Dayton, OH | 🔒 | Oct 09 |
 | Workday | Machine Learning Engineer Intern | Toronto, Canada</br>Vancouver, Canada | 🔒 | Oct 08 |
 | Clēnera | Data Engineer Intern | Boise, ID | 🔒 | Oct 06 |
 | NVIDIA | PCIe Design Verification Intern | Santa Clara, CA | 🔒 | Oct 05 |
