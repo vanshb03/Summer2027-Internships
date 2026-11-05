@@ -36344,13 +36344,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793313325,
+        "date_updated": 1793858994,
         "url": "https://go.vansh.nyc/Zz",
         "locations": [
             "Overland Park, KS"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "T-Mobile",
         "title": "Associate Product Manager Intern",
         "source": "vanshb03",
