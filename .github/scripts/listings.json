@@ -33148,13 +33148,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793108170,
+        "date_updated": 1793862595,
         "url": "https://go.vansh.nyc/VB",
         "locations": [
             "Denver, CO"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Visa",
         "title": "Sophomore Program Software Engineer Intern",
         "source": "vanshb03",
@@ -34488,13 +34488,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793176575,
+        "date_updated": 1793862595,
         "url": "https://go.vansh.nyc/Xh",
         "locations": [
             "Denver, CO"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Visa",
         "title": "Network and Security Engineering Intern",
         "source": "vanshb03",
