@@ -45,6 +45,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ------- | ---- | -------- | ---------------- | ----------- |
 | TechInsights | Software Development Co-op | Ottawa, Canada | <a href="https://go.vansh.nyc/1ie?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | ↳ | QA Test Automation Co-op | Ottawa, Canada | <a href="https://go.vansh.nyc/1if?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
+| TD Bank | Software Engineer Co-op | Toronto, Canada</br>Mississauga, Canada</br>London, Canada | <a href="https://go.vansh.nyc/1jl?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | Stellar Science | Scientific Software Developer Co-op | Albuquerque, NM | <a href="https://go.vansh.nyc/1id?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | Rodan Energy Solutions Inc. | Data Operations Engineer AI Co-op | Mississauga, Canada | <a href="https://go.vansh.nyc/1ib?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | ↳ | AI Solutions Specialist Co-op | Mississauga, Canada | <a href="https://go.vansh.nyc/1ic?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
