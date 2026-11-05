@@ -48547,13 +48547,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1793745535,
+        "date_updated": 1793900433,
         "url": "https://go.vansh.nyc/1fb",
         "locations": [
             "Pittsburgh, PA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Arconic",
         "title": "Cybersecurity Intern",
         "source": "vanshb03",
@@ -51626,5 +51626,42 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793900186,
+        "url": "https://go.vansh.nyc/1iN",
+        "locations": [
+            "Dallas, TX",
+            "Washington, DC",
+            "Seattle, WA",
+            "San Diego, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Shield AI",
+        "title": "Software Engineer Co-op",
+        "source": "vanshb03",
+        "id": "1346f02d-6ff9-4c77-965d-5e7067f3e79b",
+        "date_posted": 1793898866,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793900351,
+        "url": "https://go.vansh.nyc/1iO",
+        "locations": [
+            "Mississauga, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nelnet",
+        "title": "Platform Engineer Intern",
+        "source": "vanshb03",
+        "id": "404aa6a5-29c0-4a80-85bd-4daead5821f0",
+        "date_posted": 1793900201,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
