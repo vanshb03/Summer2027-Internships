@@ -51489,5 +51489,57 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793892945,
+        "url": "https://go.vansh.nyc/1iD",
+        "locations": [
+            "Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "BiblioCommons",
+        "title": "Junior Full-Stack Engineer Intern",
+        "source": "vanshb03",
+        "id": "075c59ca-923c-41b3-81df-82b1f187d354",
+        "date_posted": 1793836800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793892945,
+        "url": "https://go.vansh.nyc/1iE",
+        "locations": [
+            "Carmel, IN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hearst",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "4e025235-fc85-440c-ac9a-e374d5018d14",
+        "date_posted": 1793886733,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793893214,
+        "url": "https://go.vansh.nyc/1iF",
+        "locations": [
+            "Rochester, NY",
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Constellation Brands",
+        "title": "AI Innovation Intern",
+        "source": "vanshb03",
+        "id": "b27be56a-db98-49e7-8107-d57775c5ba0c",
+        "date_posted": 1793893062,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
