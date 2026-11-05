@@ -46832,13 +46832,13 @@
         "season": "Spring"
     },
     {
-        "date_updated": 1793686189,
+        "date_updated": 1793904409,
         "url": "https://go.vansh.nyc/1dj",
         "locations": [
             "Waterloo, Canada"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Rockwell Automation",
         "title": "Robotics Research Co-op, Data Engineering",
         "source": "vanshb03",
@@ -51663,5 +51663,107 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1793903776,
+        "url": "https://go.vansh.nyc/1iR",
+        "locations": [
+            "Sparks, NV"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Sierra Nevada Corporation",
+        "title": "Firmware Engineer Intern",
+        "source": "vanshb03",
+        "id": "dd3318d9-0f13-45aa-8e03-513e841dd120",
+        "date_posted": 1793902636,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793903984,
+        "url": "https://go.vansh.nyc/1iS",
+        "locations": [
+            "Grand Rapids, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lumbermen's",
+        "title": "Software Developer Intern",
+        "source": "vanshb03",
+        "id": "f2dee55c-3c81-4b42-8975-75d6aa025ff6",
+        "date_posted": 1793836800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793903984,
+        "url": "https://go.vansh.nyc/1iT",
+        "locations": [
+            "Montreal, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Acumatica",
+        "title": "Developer Intern",
+        "source": "vanshb03",
+        "id": "35841e8c-8ca9-4bb2-9f6e-1d71ab411b7a",
+        "date_posted": 1793894362,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793903984,
+        "url": "https://go.vansh.nyc/1iU",
+        "locations": [
+            "McLean, VA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Booz Allen Hamilton",
+        "title": "Cybersecurity Analyst Intern",
+        "source": "vanshb03",
+        "id": "4e842258-f9c7-4571-908c-607a9eae2fb5",
+        "date_posted": 1793903835,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793904344,
+        "url": "https://go.vansh.nyc/1iV",
+        "locations": [
+            "Reno, NV"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Legrand",
+        "title": "Firmware Engineering Intern",
+        "source": "vanshb03",
+        "id": "fee92699-7419-4f7d-acb4-4629559de649",
+        "date_posted": 1793836800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793904344,
+        "url": "https://go.vansh.nyc/1iW",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Shield",
+        "title": "Software Engineer Co-op",
+        "source": "vanshb03",
+        "id": "92a01831-232a-4c0b-880e-b5f181d1115d",
+        "date_posted": 1793898163,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
