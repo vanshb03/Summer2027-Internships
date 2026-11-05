@@ -45378,13 +45378,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793678915,
+        "date_updated": 1793837433,
         "url": "https://go.vansh.nyc/1bX",
         "locations": [
             "Eden Prairie, MN"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Bracco",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
@@ -50189,6 +50189,58 @@
         "source": "vanshb03",
         "id": "e69209d7-6498-4b2e-a5bc-bf81f2247d7e",
         "date_posted": 1793752575,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793837145,
+        "url": "https://go.vansh.nyc/1hf",
+        "locations": [
+            "Remote",
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "IDEMIA",
+        "title": "Information Technology Intern",
+        "source": "vanshb03",
+        "id": "fdeab650-7006-457b-99bb-269f6cf250a6",
+        "date_posted": 1793750400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793837145,
+        "url": "https://go.vansh.nyc/1hg",
+        "locations": [
+            "Princeton, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Logiqal",
+        "title": "Quantum Error Correction and Architecture Intern",
+        "source": "vanshb03",
+        "id": "bd7037da-6254-4ba3-9f02-ec269c0606bc",
+        "date_posted": 1793750400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793837145,
+        "url": "https://go.vansh.nyc/1hh",
+        "locations": [
+            "Coral Gables, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ryder System",
+        "title": "IT Intern",
+        "source": "vanshb03",
+        "id": "17fc2074-2bc3-4ef3-8b58-f50570ed9795",
+        "date_posted": 1793750400,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
