@@ -69,6 +69,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Kimball Electronics | Cybersecurity Intern 🛂 | Remote</br>United States | <a href="https://go.vansh.nyc/1iy?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | JM Family Enterprises | Analytics Intern | Deerfield Beach, FL | <a href="https://go.vansh.nyc/1iw?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | Innovative Systems | Software Engineering Co-op | Pittsburgh, PA | <a href="https://go.vansh.nyc/1i4?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
+| Hearst | Software Engineer Intern | Carmel, IN | <a href="https://go.vansh.nyc/1iE?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | Golden Analytics | Software Engineer Intern | Bellevue, WA | <a href="https://go.vansh.nyc/1im?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | Genesys | Web Software Developer Intern, WFM | Toronto, Canada | <a href="https://go.vansh.nyc/1hJ?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | ↳ | Software Engineering Intern | Indianapolis, IN | <a href="https://go.vansh.nyc/1hK?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
@@ -76,6 +77,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | AI/ML Data Science and Engineering Intern 🇺🇸 | Bossier City, LA | <a href="https://go.vansh.nyc/1hS?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | ↳ | AI/ML Software Development and Engineering Intern 🇺🇸 | Bossier City, LA | <a href="https://go.vansh.nyc/1hT?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | DraftKings | Software Engineer Intern | Boston, MA | <a href="https://go.vansh.nyc/1hI?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
+| Constellation Brands | AI Innovation Intern | Rochester, NY</br>Chicago, IL | <a href="https://go.vansh.nyc/1iF?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | Concord Advice | Data Scientist Intern | Florham Park, NJ | <a href="https://go.vansh.nyc/1ir?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | Arango | Software Engineer Intern, Cookbooks | Remote</br>United States | <a href="https://go.vansh.nyc/1it?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | APEX Analytix | Data Science Intern | Greensboro, NC | <a href="https://go.vansh.nyc/1ii?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
@@ -120,6 +122,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Constellation Brands | AI & Automation Engineering Intern | Rochester, NY | <a href="https://go.vansh.nyc/1h2?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
 | Carnegie Mellon SEI | Enabling Edge Intelligence (E2I) Intern 🛂 | Pittsburgh, PA | <a href="https://go.vansh.nyc/1gK?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
 | BorgWarner | Software Engineering Intern | Auburn Hills, MI | <a href="https://go.vansh.nyc/1gH?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
+| BiblioCommons | Junior Full-Stack Engineer Intern | Canada | <a href="https://go.vansh.nyc/1iD?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
 | Badger Meter | Firmware Test Engineer Intern | Milwaukee, WI | <a href="https://go.vansh.nyc/1hi?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
 | ASML | Machine Learning and Image-Based EUV System Setup Intern | San Diego, CA | <a href="https://go.vansh.nyc/1h9?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
 | AMD | Senior Systems Design Engineer Intern | Markham, Canada | <a href="https://go.vansh.nyc/1hu?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
