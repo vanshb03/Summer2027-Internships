@@ -49,7 +49,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Rodan Energy Solutions Inc. | Data Operations Engineer AI Co-op | Mississauga, Canada | <a href="https://go.vansh.nyc/1ib?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | ↳ | AI Solutions Specialist Co-op | Mississauga, Canada | <a href="https://go.vansh.nyc/1ic?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | Omya | Data Scientist Co-op | Cincinnati, OH | <a href="https://go.vansh.nyc/1iz?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
-| Nova-Tech | Software Development Co-op | Willmar, MN | <a href="https://go.vansh.nyc/1i9?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | Nelnet | Platform Engineer Intern | Mississauga, Canada | <a href="https://go.vansh.nyc/1iO?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | Montgomery Investment Technology, Inc. | Computer Programming Intern | Cinnaminson, NJ | <a href="https://go.vansh.nyc/1i3?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | Fresenius Medical Care | Embedded Software Co-op | Lawrence, MA | <a href="https://go.vansh.nyc/1jc?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
@@ -517,6 +516,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Pinterest | Software Engineer Intern | Toronto, Canada | <a href="https://go.vansh.nyc/Y?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 24 |
 | Colgate-Palmolive | Software Development Intern | Piscataway, NJ | <a href="https://go.vansh.nyc/U?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
 | Shopify | Engineering and Data Intern | Remote</br>Canada | <a href="https://go.vansh.nyc/G?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 19 |
+| Nova-Tech | Software Development Co-op | Willmar, MN | 🔒 | Nov 05 |
 | TMX Group | Security Engineering Intern | Toronto, Canada | 🔒 | Nov 04 |
 | Teledyne Technologies Incorporated | Software Engineering Co-op | Waterloo, Canada | 🔒 | Nov 04 |
 | Wabtec | Firmware Engineering Co-op | Waltham, MA | 🔒 | Nov 03 |
