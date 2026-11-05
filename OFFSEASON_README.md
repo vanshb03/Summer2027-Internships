@@ -47,11 +47,13 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Teledyne Technologies Incorporated | Software Engineering Co-op | Waterloo, Canada | <a href="https://go.vansh.nyc/1ha?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
 | Saab | Information Security Co-op 🇺🇸 | East Syracuse, NY | <a href="https://go.vansh.nyc/1gV?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
 | Northrop Grumman | Software Engineer Intern 🇺🇸 | McClellan, CA | <a href="https://go.vansh.nyc/1h5?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
+| DataVisor | Software Engineer Intern | Vancouver, Canada | <a href="https://go.vansh.nyc/1hq?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
 | Boston Scientific | Software Engineering Co-op, Urology R&D 🛂 | Maple Grove, MN | <a href="https://go.vansh.nyc/1gJ?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
 | Wabtec | Firmware Engineering Co-op | Waltham, MA | <a href="https://go.vansh.nyc/1fM?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | TMX Group | Jr. Security Analyst Student Intern | Toronto, Canada | <a href="https://go.vansh.nyc/1gt?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | Survalent | SmartVu Developer Co-op, Quality and Infrastructure | Mississauga, Canada | <a href="https://go.vansh.nyc/1h4?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | Sun Life | Business Operations Software Engineer Co-op | <details><summary>**5 locations**</summary>Milwaukee, WI</br>Wellesley Hills, MA</br>Hartford, CT</br>Portland, ME</br>Kansas City, MO</details> | <a href="https://go.vansh.nyc/1fl?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
+| PlayStation Waterloo Co-Op | Software Developer Co-op | Waterloo, Canada | <a href="https://go.vansh.nyc/1hk?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | Moderna | mRNA Design Engineering Co-op 🛂 | Cambridge, MA | <a href="https://go.vansh.nyc/1fa?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | Micron Technology | DRAM Design Engineer Intern | Boise, ID | <a href="https://go.vansh.nyc/1h3?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | MDA | Student Cyber Security Analyst Intern | Brampton, Canada | <a href="https://go.vansh.nyc/1fU?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
@@ -64,6 +66,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Botpress Technologies | Software Developer Intern | Montreal, Canada | <a href="https://go.vansh.nyc/1dR?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | Bose | Software/DSP Research Engineer Co-op | Framingham, MA | <a href="https://go.vansh.nyc/1es?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | ↳ | Electrical Engineering Co-op, FPGA and Audio Research Platforms | Framingham, MA | <a href="https://go.vansh.nyc/1dW?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
+| Aerospace Corporation | Intern Bachelors Embedded Eng | Kanata, Canada | <a href="https://go.vansh.nyc/1hl?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | Zimmer Biomet Holdings | Software Developer Co-op | Montreal, Canada | <a href="https://go.vansh.nyc/1bk?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | Viavi Solutions | Software Engineering Co-op | Germantown, MD | <a href="https://go.vansh.nyc/1c8?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | Toshiba Global Commerce Solutions | AI Automation & Revenue Ops Intern | Durham, NC | <a href="https://go.vansh.nyc/1bn?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
