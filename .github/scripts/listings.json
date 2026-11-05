@@ -2704,13 +2704,13 @@
         "season": "Fall"
     },
     {
-        "date_updated": 1779484585,
+        "date_updated": 1793891434,
         "url": "https://go.vansh.nyc/2M",
         "locations": [
             "Bala Cynwyd, PA"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Susquehanna",
         "title": "Trading System Engineering Intern",
         "source": "vanshb03",
@@ -3151,13 +3151,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1783425885,
+        "date_updated": 1793891434,
         "url": "https://go.vansh.nyc/3c",
         "locations": [
             "Bala Cynwyd, PA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Susquehanna Investment Group",
         "title": "Quantitative Strategy Developer Intern",
         "season": "Summer",
@@ -35366,13 +35366,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793227156,
+        "date_updated": 1793891434,
         "url": "https://go.vansh.nyc/Yk",
         "locations": [
             "Beavercreek, OH"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Booz Allen Hamilton",
         "title": "Design and Verification Engineer Intern",
         "source": "vanshb03",
@@ -42781,13 +42781,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793628356,
+        "date_updated": 1793891434,
         "url": "https://go.vansh.nyc/19c",
         "locations": [
             "Richmond, VA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "CoStar Group",
         "title": "Data Science Intern",
         "source": "vanshb03",
@@ -44676,14 +44676,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793662521,
+        "date_updated": 1793891434,
         "url": "https://go.vansh.nyc/1bb",
         "locations": [
             "Remote",
             "United States"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Cincinnati Children\u2019s Hospital and Medical Center",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -51469,6 +51469,23 @@
         "source": "vanshb03",
         "id": "76001adb-8d10-4675-9551-26dd7c0338dd",
         "date_posted": 1793889506,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793891339,
+        "url": "https://go.vansh.nyc/1iC",
+        "locations": [
+            "Detroit, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Little Caesars Enterprises",
+        "title": "Developer IT Intern",
+        "source": "vanshb03",
+        "id": "64e6874c-ff2a-449b-a98f-465ecb865068",
+        "date_posted": 1793891173,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
