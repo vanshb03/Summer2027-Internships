@@ -338,7 +338,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Skydio | Manufacturing Software Engineer Intern | San Mateo, CA | <a href="https://go.vansh.nyc/9y?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
 | Later | Data Science Co-op | Vancouver, BC | <a href="https://go.vansh.nyc/9x?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
 | Hitachi | ITV Automation Specialist Intern | Toronto, ON | <a href="https://go.vansh.nyc/9v?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
-| Ciena | Embedded Software Developer Intern | Ottawa, Canada | <a href="https://go.vansh.nyc/CD?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
 | Brain Co. | AI Product Engineer Co-op | San Francisco, CA | <a href="https://go.vansh.nyc/9r?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
 | ↳ | AI Security Engineer Co-op | San Francisco, CA | <a href="https://go.vansh.nyc/9s?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
 | ↳ | Machine Learning Engineer, Applied AI Co-op | San Francisco, CA | <a href="https://go.vansh.nyc/9t?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
@@ -603,6 +602,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Tessera Labs | Full Stack Software Engineer Intern | <details><summary>**4 locations**</summary>San Jose, CA</br>Remote</br>United States</br>New York, NY</details> | 🔒 | Oct 14 |
 | Sony Pictures Entertainment | Current Programming Intern, Sony Pictures Television | Culver City, CA | 🔒 | Oct 14 |
 | Johnson & Johnson | Technical Operations Co-op | West Chester, PA | 🔒 | Oct 14 |
+| Ciena | Embedded Software Developer Intern | Ottawa, Canada | 🔒 | Oct 14 |
 | Disney | Disney & Pixar Games Production Intern | Glendale, CA | 🔒 | Oct 13 |
 | 1Password | Data Intern, Product Analytics | Remote (United States | Canada) | 🔒 | Oct 12 |
 | Truist | TD&O Program Enablement Specialist Intern 🛂 | Charlotte, NC | 🔒 | Oct 10 |
