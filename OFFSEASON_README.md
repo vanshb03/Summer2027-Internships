@@ -405,7 +405,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Design Verification Co-op, Neural Engine | Palo Alto, CA | <a href="https://go.vansh.nyc/E5?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 30 |
 | ↳ | Engineer Co-op, Design-for-Test | Palo Alto, CA | <a href="https://go.vansh.nyc/Eg?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 30 |
 | Plot Technologies | Applied AI Co-op | New York, NY | <a href="https://go.vansh.nyc/1eP?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 29 |
-| Bracco | Firmware Engineering Co-op | Pleasanton, CA | <a href="https://go.vansh.nyc/fT?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 29 |
 | Risepoint | Analytics Engineering Co-op | Remote</br>United States | <a href="https://go.vansh.nyc/DV?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 28 |
 | Insulet Corporation | Software Development Engineer in Test Co-op 🛂 | Acton, MA | <a href="https://go.vansh.nyc/fS?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 28 |
 | Cloudflare | Software Engineer Intern | Austin, TX | <a href="https://go.vansh.nyc/DW?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 28 |
@@ -613,6 +612,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Cisco | Software Engineer II Co-op | Maynard, MA | 🔒 | Sep 30 |
 | ↳ | Software Engineer I Co-op | Maynard, MA | 🔒 | Sep 30 |
 | Cisco | Physical Design Engineer I Co-op | Maynard, MA | 🔒 | Sep 29 |
+| Bracco | Firmware Engineering Co-op | Pleasanton, CA | 🔒 | Sep 29 |
 | iRhythm Technologies | Firmware Quality Assurance Engineer Co-op | San Francisco, CA | 🔒 | Sep 28 |
 | Cisco | Firmware Engineer II Co-op | Maynard, MA | 🔒 | Sep 28 |
 | First Solar (US) | Data Engineering Intern | Perrysburg, OH | 🔒 | Sep 25 |
