@@ -50194,14 +50194,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793837145,
+        "date_updated": 1793844743,
         "url": "https://go.vansh.nyc/1hf",
         "locations": [
             "Remote",
             "United States"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "IDEMIA",
         "title": "Information Technology Intern",
         "source": "vanshb03",
@@ -50261,5 +50261,124 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793844547,
+        "url": "https://go.vansh.nyc/1hk",
+        "locations": [
+            "Waterloo, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "PlayStation Waterloo Co-Op",
+        "title": "Software Developer Co-op",
+        "source": "vanshb03",
+        "id": "995ba95b-1813-4800-bf2f-a3ea6364beda",
+        "date_posted": 1793727522,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1793844547,
+        "url": "https://go.vansh.nyc/1hl",
+        "locations": [
+            "Kanata, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Aerospace Corporation",
+        "title": "Intern Bachelors Embedded Eng",
+        "source": "vanshb03",
+        "id": "ee598b60-566e-4d0d-ac6a-2f2baed254c5",
+        "date_posted": 1793750400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1793844547,
+        "url": "https://go.vansh.nyc/1hm",
+        "locations": [
+            "Boulder, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "University Corporation for Atmospheric Research",
+        "title": "SIParCS Undergraduate Student Intern",
+        "source": "vanshb03",
+        "id": "e1ed62e1-bb9a-4d86-8fd2-5c17917aee92",
+        "date_posted": 1793753764,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793844547,
+        "url": "https://go.vansh.nyc/1hn",
+        "locations": [
+            "Santa Rosa, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Keysight Technologies",
+        "title": "R&D DSP/FPGA Design Automation Intern",
+        "source": "vanshb03",
+        "id": "6a5ccaa2-c755-4e18-8b7e-b0ea90800a9a",
+        "date_posted": 1793844399,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793844547,
+        "url": "https://go.vansh.nyc/1ho",
+        "locations": [
+            "Markham, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Qualcomm",
+        "title": "Machine Learning Engineering Intern",
+        "source": "vanshb03",
+        "id": "1b01e71f-1711-43ad-a242-e0c3f02a72c3",
+        "date_posted": 1793844399,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793844547,
+        "url": "https://go.vansh.nyc/1hp",
+        "locations": [
+            "Markham, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Qualcomm",
+        "title": "Display IP FPGA Emulation Intern",
+        "source": "vanshb03",
+        "id": "8d502a9b-56e3-4774-a9c4-b8301e1a3dfd",
+        "date_posted": 1793844399,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793844547,
+        "url": "https://go.vansh.nyc/1hq",
+        "locations": [
+            "Vancouver, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "DataVisor",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "1e4cf0a5-da67-4993-bc01-7e79d627f7ab",
+        "date_posted": 1793844399,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
