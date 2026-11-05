@@ -536,7 +536,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Software Engineer Intern | Foster City, CA | <a href="https://go.vansh.nyc/ZY?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | Walmart | Data & Tech Transformation Intern | Bentonville, AR | <a href="https://go.vansh.nyc/ZW?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | Verition Group | AI Associate Intern, Equity Long/Short | <details><summary>**5 locations**</summary>New York, NY</br>Miami, FL</br>Greenwich, CT</br>Norwalk, CT</br>San Francisco, CA</details> | <a href="https://go.vansh.nyc/11S?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
-| T-Mobile | Associate Product Manager Intern | Overland Park, KS | <a href="https://go.vansh.nyc/Zz?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | Systems Planning and Analysis | Data Engineer Intern | Alexandria, VA | <a href="https://go.vansh.nyc/128?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | Syntiant | DevOps Machine Learning Infrastructure Intern | Irvine, CA | <a href="https://go.vansh.nyc/11V?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | SOTI | Software Developer Intern, XSight | Mississauga, Canada | <a href="https://go.vansh.nyc/ZV?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
@@ -1760,6 +1759,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Research Intern, Oncology Biomarker - AI | Foster City, CA | 🔒 | Oct 29 |
 | Cisco | Security Consulting Engineer I Intern | Research Triangle Park, NC | 🔒 | Oct 29 |
 | Axon | Software Engineer Intern | Seattle, WA</br>Arlington, VA | 🔒 | Oct 29 |
+| T-Mobile | Associate Product Manager Intern | Overland Park, KS | 🔒 | Oct 28 |
 | Sonos | Software Engineering Intern 🛂 | Seattle, WA | 🔒 | Oct 28 |
 | Sanofi | Advanced Analytics Intern | Cambridge, MA</br>Morristown, NJ | 🔒 | Oct 28 |
 | RTX | Software Engineer Intern | Sterling, VA | 🔒 | Oct 28 |
