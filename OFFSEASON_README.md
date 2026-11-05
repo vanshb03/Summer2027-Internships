@@ -154,7 +154,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Software Engineer Intern, SI Hardware Infrastructure | Palo Alto, CA | <a href="https://go.vansh.nyc/1b3?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | ↳ | Embedded Software Engineer Intern, Silicon Development | Palo Alto, CA | <a href="https://go.vansh.nyc/1b4?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | Rockwell Automation | Embedded Software Engineer Co-op 🛂 | Milwaukee, WI</br>Mayfield Heights, OH | <a href="https://go.vansh.nyc/1di?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
-| ↳ | Robotics Research Co-op, Data Engineering 🛂 | Waterloo, Canada | <a href="https://go.vansh.nyc/1dj?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | Regeneron Pharmaceuticals | Data Analytics & Digital Tools Co-op (IOPS) | Rensselaer, NY | <a href="https://go.vansh.nyc/1dq?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | Manulife Financial | AI Co-op | Toronto, Canada | <a href="https://go.vansh.nyc/1dA?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | Lila Sciences | Agentic and Generative Protein Design Co-op | Cambridge, MA</br>San Francisco, CA | <a href="https://go.vansh.nyc/19d?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
@@ -525,6 +524,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Samsung Research America Internship | Agentic AI Solutions Intern | Mountain View, CA | 🔒 | Nov 03 |
 | Transamerica | Data Analytics Intern | Cedar Rapids, IA | 🔒 | Nov 02 |
 | RTX | Software Engineer Co-op 🇺🇸 | Cedar Rapids, IA | 🔒 | Nov 02 |
+| Rockwell Automation | Robotics Research Co-op, Data Engineering 🛂 | Waterloo, Canada | 🔒 | Nov 02 |
 | Johnson & Johnson | Heart Recovery Software R&D Co-op | Halethorpe, MD | 🔒 | Nov 02 |
 | Apache Industrial | AI Implementation Intern | Houston, TX | 🔒 | Nov 02 |
 | General Magic | AI Engineer Co-op | Toronto, Canada | 🔒 | Oct 30 |
