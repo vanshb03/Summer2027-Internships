@@ -32443,13 +32443,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1793059651,
+        "date_updated": 1793990762,
         "url": "https://go.vansh.nyc/Tk",
         "locations": [
             "Seattle, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Zillow",
         "title": "Data Science Intern",
         "source": "vanshb03",
@@ -33372,13 +33372,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793117176,
+        "date_updated": 1793990762,
         "url": "https://go.vansh.nyc/VQ",
         "locations": [
             "Sparks, NV"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Sierra Nevada Corporation",
         "title": "Cybersecurity Analyst Intern",
         "source": "vanshb03",
@@ -49270,13 +49270,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1793772517,
+        "date_updated": 1793990762,
         "url": "https://go.vansh.nyc/1g2",
         "locations": [
             "Vancouver, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Apera AI",
         "title": "Software Developer Co-op, Cloud Infrastructure",
         "source": "vanshb03",
@@ -53202,5 +53202,39 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793990323,
+        "url": "https://go.vansh.nyc/1kN",
+        "locations": [
+            "Madera, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Valley Children's Specialty Medical Group",
+        "title": "IT Security Intern",
+        "source": "vanshb03",
+        "id": "da49943e-eaf9-4366-8e78-02992c52ad40",
+        "date_posted": 1793890002,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1793990323,
+        "url": "https://go.vansh.nyc/1kO",
+        "locations": [
+            "Victoria, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "AEM",
+        "title": "QA Tester Intern, Datalogger Products",
+        "source": "vanshb03",
+        "id": "9917836c-27c7-44f7-903d-d0c17e250a06",
+        "date_posted": 1793911313,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
     }
 ]
