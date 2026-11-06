@@ -11079,13 +11079,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792261427,
+        "date_updated": 1793983208,
         "url": "https://go.vansh.nyc/aB",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Together AI",
         "title": "Research Intern, Frontier Speculative Decoding",
         "source": "vanshb03",
@@ -25096,13 +25096,13 @@
         "season": "Spring"
     },
     {
-        "date_updated": 1793021626,
+        "date_updated": 1793983208,
         "url": "https://go.vansh.nyc/IP",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Together AI",
         "title": "Research Intern, Model Shaping",
         "source": "vanshb03",
@@ -53048,5 +53048,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793983123,
+        "url": "https://go.vansh.nyc/1kz",
+        "locations": [
+            "Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Varian",
+        "title": "Embedded Software Developer Co-op",
+        "source": "vanshb03",
+        "id": "e072999b-c23c-41f5-9b50-713875bc48f2",
+        "date_posted": 1793982996,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
