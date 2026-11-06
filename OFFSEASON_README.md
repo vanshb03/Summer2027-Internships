@@ -205,7 +205,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | MDA | FPGA Designer Intern | Montreal, Canada | <a href="https://go.vansh.nyc/126?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | ↳ | FPGA Verification Intern | Montreal, Canada | <a href="https://go.vansh.nyc/127?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | Keysight Technologies | FPGA Design Intern | Calabasas, CA | <a href="https://go.vansh.nyc/11u?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
-| Johns Hopkins APL | Robotics Engineer Intern, Maritime Systems 🇺🇸 | Laurel, MD | <a href="https://go.vansh.nyc/17I?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | Hendler Family Brewing Co. | Software Engineering and IT Co-op | United States | <a href="https://go.vansh.nyc/12v?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | GITAI | Field-Deployed Software Engineering Intern 🇺🇸 | Los Angeles, CA | <a href="https://go.vansh.nyc/13I?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | Fussball Club Cincinnati LLC (“FC Cincinnati”) | Data Analyst Intern | Cincinnati, OH | <a href="https://go.vansh.nyc/10v?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
@@ -532,6 +531,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Software Test Engineering Co-op | Danvers, MA | 🔒 | Nov 02 |
 | ↳ | Heart Recovery Software R&D Co-op | Halethorpe, MD | 🔒 | Nov 02 |
 | Apache Industrial | AI Implementation Intern | Houston, TX | 🔒 | Nov 02 |
+| Johns Hopkins APL | Robotics Engineer Intern, Maritime Systems 🇺🇸 | Laurel, MD | 🔒 | Oct 30 |
 | General Magic | AI Engineer Co-op | Toronto, Canada | 🔒 | Oct 30 |
 | ↳ | Backend Engineer Co-op | Toronto, Canada | 🔒 | Oct 30 |
 | Fresenius Medical Care | Software Engineering Co-op | Lawrence, MA | 🔒 | Oct 30 |
