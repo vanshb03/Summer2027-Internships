@@ -6076,13 +6076,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1785852884,
+        "date_updated": 1793986835,
         "url": "https://go.vansh.nyc/5U",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Samsara",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
@@ -19477,13 +19477,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793013503,
+        "date_updated": 1793986835,
         "url": "https://go.vansh.nyc/C0",
         "locations": [
             "New Providence, NJ"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Nokia",
         "title": "Hardware Development Co-op",
         "source": "vanshb03",
@@ -37527,13 +37527,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793385742,
+        "date_updated": 1793986835,
         "url": "https://go.vansh.nyc/10W",
         "locations": [
             "Toronto, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Altera",
         "title": "Hardware Design Engineer Intern",
         "source": "vanshb03",
@@ -53113,6 +53113,92 @@
         "source": "vanshb03",
         "id": "96cef777-f82a-4fd1-82e2-60a329f575e2",
         "date_posted": 1793984797,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793986571,
+        "url": "https://go.vansh.nyc/1kD",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "T-Mobile",
+        "title": "Software Engineer Intern, HR Data Products",
+        "source": "vanshb03",
+        "id": "26bb3ea6-6483-47e7-98a0-889c19f1e29b",
+        "date_posted": 1793986331,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793986571,
+        "url": "https://go.vansh.nyc/1kE",
+        "locations": [
+            "Frisco, TX",
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "T-Mobile",
+        "title": "Data Engineering Intern",
+        "source": "vanshb03",
+        "id": "a9878219-4d84-4e4c-90f4-948d7c427f18",
+        "date_posted": 1793986331,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793986571,
+        "url": "https://go.vansh.nyc/1kF",
+        "locations": [
+            "Jersey City, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ICD",
+        "title": "AI/ML Engineering Intern",
+        "source": "vanshb03",
+        "id": "395c8341-cbf7-482e-b253-2b607235b024",
+        "date_posted": 1793925371,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793986571,
+        "url": "https://go.vansh.nyc/1kG",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Danaher Corporation",
+        "title": "Firmware Engineer Co-op",
+        "source": "vanshb03",
+        "id": "6bd193ae-e429-4202-8fd0-540aa3f1f7e9",
+        "date_posted": 1793985671,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1793986571,
+        "url": "https://go.vansh.nyc/1kH",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "National Interstate Insurance",
+        "title": "Claims Technical Intern",
+        "source": "vanshb03",
+        "id": "baa74118-d1fe-4323-8a04-3d9d34b0fc5d",
+        "date_posted": 1793986331,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
