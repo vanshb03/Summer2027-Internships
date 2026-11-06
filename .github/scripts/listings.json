@@ -9563,13 +9563,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792261427,
+        "date_updated": 1794004782,
         "url": "https://go.vansh.nyc/9a",
         "locations": [
             "Reston, VA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "ICF International",
         "title": "AI Engineer Intern",
         "source": "vanshb03",
@@ -43316,13 +43316,13 @@
         "season": "Spring"
     },
     {
-        "date_updated": 1793655488,
+        "date_updated": 1794004782,
         "url": "https://go.vansh.nyc/19T",
         "locations": [
             "Durham, NC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Toshiba Commerce Solutions",
         "title": "Agentic Software Engineering Intern",
         "source": "vanshb03",
@@ -43350,13 +43350,13 @@
         "season": "Spring"
     },
     {
-        "date_updated": 1793655488,
+        "date_updated": 1794004782,
         "url": "https://go.vansh.nyc/19V",
         "locations": [
             "Frisco, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Toshiba Commerce Solutions",
         "title": "Agentic Software Engineering Intern",
         "source": "vanshb03",
@@ -43401,13 +43401,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793659088,
+        "date_updated": 1794004782,
         "url": "https://go.vansh.nyc/19Y",
         "locations": [
             "Durham, NC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Toshiba Commerce Solutions",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
@@ -47548,13 +47548,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793736537,
+        "date_updated": 1794004782,
         "url": "https://go.vansh.nyc/1e8",
         "locations": [
             "Frisco, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Toshiba Commerce Solutions",
         "title": "AI Software Engineering Intern",
         "source": "vanshb03",
@@ -53980,6 +53980,23 @@
         "source": "vanshb03",
         "id": "39089d25-8f19-48bd-bd54-d2e778febd74",
         "date_posted": 1794002799,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794004576,
+        "url": "https://go.vansh.nyc/1ly",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Invesco",
+        "title": "Real Estate Intern, Data Science",
+        "source": "vanshb03",
+        "id": "7c837394-a2a7-4edb-acce-79a895234d25",
+        "date_posted": 1794002356,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
