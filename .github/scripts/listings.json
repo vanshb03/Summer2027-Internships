@@ -21448,14 +21448,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793015500,
+        "date_updated": 1793952868,
         "url": "https://go.vansh.nyc/Eq",
         "locations": [
             "Sunnyvale, CA",
             "Warren, MI"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "General Motors",
         "title": "Software Engineer Intern, AV/AI Platform",
         "source": "vanshb03",
@@ -32596,13 +32596,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793088346,
+        "date_updated": 1793952868,
         "url": "https://go.vansh.nyc/UG",
         "locations": [
             "Foster City, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Visa",
         "title": "Data Science Intern, Data and AI Team",
         "source": "vanshb03",
@@ -42330,13 +42330,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793538336,
+        "date_updated": 1793952868,
         "url": "https://go.vansh.nyc/18K",
         "locations": [
             "Corona, CA"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Cencora",
         "title": "Data Analytics Intern",
         "source": "vanshb03",
@@ -47378,13 +47378,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793733078,
+        "date_updated": 1793952868,
         "url": "https://go.vansh.nyc/1dV",
         "locations": [
             "Manhattan Beach, CA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Northrop Grumman",
         "title": "Flight Software Engineer Intern",
         "source": "vanshb03",
@@ -47497,13 +47497,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793736389,
+        "date_updated": 1793952868,
         "url": "https://go.vansh.nyc/1e5",
         "locations": [
             "Redondo Beach, CA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Northrop Grumman",
         "title": "Ground Software Engineer Intern",
         "source": "vanshb03",
