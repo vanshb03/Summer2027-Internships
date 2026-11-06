@@ -32289,14 +32289,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793054205,
+        "date_updated": 1793995834,
         "url": "https://go.vansh.nyc/T8",
         "locations": [
             "Remote",
             "United States"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Highmark Health",
         "title": "Provider Delivery Software Engineer Intern",
         "source": "vanshb03",
@@ -35349,13 +35349,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793226961,
+        "date_updated": 1793995834,
         "url": "https://go.vansh.nyc/Yj",
         "locations": [
             "Deer Park, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Clean Harbors",
         "title": "Software & Field Technology Intern",
         "source": "vanshb03",
@@ -37971,13 +37971,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793408793,
+        "date_updated": 1793995834,
         "url": "https://go.vansh.nyc/11J",
         "locations": [
             "United States"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Molina Healthcare",
         "title": "Data Analytics Internship (Remote) \u2013(Undergraduate)",
         "source": "vanshb03",
@@ -53420,6 +53420,58 @@
         "source": "vanshb03",
         "id": "9f3518eb-be4f-4c97-92d1-db16beebc4d2",
         "date_posted": 1793991646,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1793995586,
+        "url": "https://go.vansh.nyc/1l2",
+        "locations": [
+            "Andover, MA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "RTX",
+        "title": "Digital Technology Intern",
+        "source": "vanshb03",
+        "id": "697708d8-2e25-4f93-b0a3-327136af6c60",
+        "date_posted": 1793995166,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793995741,
+        "url": "https://go.vansh.nyc/1l3",
+        "locations": [
+            "Remote",
+            "United States"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Kudu Dynamics",
+        "title": "AI/Automation Development Intern, Assessment & Authorization",
+        "source": "vanshb03",
+        "id": "84451b31-a715-441b-9694-c6c6091eabbe",
+        "date_posted": 1793995607,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793995741,
+        "url": "https://go.vansh.nyc/1l4",
+        "locations": [
+            "Waterloo, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Sun Life",
+        "title": "Associate DevOps Engineer Intern",
+        "source": "vanshb03",
+        "id": "e1e5ee0e-9368-4de2-af7c-8a57b9d53651",
+        "date_posted": 1793995607,
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
