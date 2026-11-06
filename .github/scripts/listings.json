@@ -49253,13 +49253,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1793772517,
+        "date_updated": 1794001183,
         "url": "https://go.vansh.nyc/1g1",
         "locations": [
             "Vancouver, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Apera AI",
         "title": "Software Developer Co-op, Full Stack",
         "source": "vanshb03",
@@ -50852,7 +50852,7 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793869551,
+        "date_updated": 1794001183,
         "url": "https://go.vansh.nyc/1hZ",
         "locations": [
             "West Lafayette, IN",
@@ -50861,7 +50861,7 @@
             "Bedford, NH"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Peraton",
         "title": "Cyber Research Intern",
         "source": "vanshb03",
@@ -53666,5 +53666,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1794000974,
+        "url": "https://go.vansh.nyc/1lg",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "The New York Times",
+        "title": "Backend Engineering Intern",
+        "source": "vanshb03",
+        "id": "1089f88c-b03e-44ac-8aba-2fabe5383d82",
+        "date_posted": 1793997674,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
