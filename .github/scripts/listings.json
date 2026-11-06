@@ -47155,13 +47155,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793718553,
+        "date_updated": 1793992214,
         "url": "https://go.vansh.nyc/1dE",
         "locations": [
             "Farmington, CT"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Arch Capital Group",
         "title": "Data and Analytics Intern",
         "source": "vanshb03",
@@ -53236,5 +53236,73 @@
         "company_url": "",
         "is_visible": true,
         "season": "Fall"
+    },
+    {
+        "date_updated": 1793991990,
+        "url": "https://go.vansh.nyc/1kP",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Notion",
+        "title": "Software Engineering Intern, Frontend",
+        "source": "vanshb03",
+        "id": "2abe537f-7430-4129-9693-b9dbae53fd75",
+        "date_posted": 1793990730,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793991990,
+        "url": "https://go.vansh.nyc/1kQ",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Notion",
+        "title": "Software Engineering Intern, iOS",
+        "source": "vanshb03",
+        "id": "8032c2c5-6470-46b7-8645-8d54a125dd0e",
+        "date_posted": 1793990670,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793992125,
+        "url": "https://go.vansh.nyc/1kR",
+        "locations": [
+            "Markham, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Qualcomm",
+        "title": "Software Validation Engineering Intern",
+        "source": "vanshb03",
+        "id": "aa60430b-1ffa-4c55-a69f-a6d0aba2feda",
+        "date_posted": 1793992008,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793992125,
+        "url": "https://go.vansh.nyc/1kS",
+        "locations": [
+            "Champaign, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Rivian",
+        "title": "ML AI Motor Controls Algorithm Intern",
+        "source": "vanshb03",
+        "id": "a1d3ff4b-b4fd-4d68-9375-1453e855253a",
+        "date_posted": 1793992008,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
