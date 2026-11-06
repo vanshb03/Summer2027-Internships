@@ -46,6 +46,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Zoox | Software Engineer Intern, Software Platforms & Product | Foster City, CA | <a href="https://go.vansh.nyc/1jV?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
+| ↳ | Software Engineer Intern, Software Systems | Foster City, CA | <a href="https://go.vansh.nyc/1jW?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | Western Alliance Bancorporation | Platform Engineering Intern | Dallas, TX | <a href="https://go.vansh.nyc/1jm?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | ↳ | Platform Engineering Intern | Columbus, OH | <a href="https://go.vansh.nyc/1jh?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | Walmart | Data Science Intern, Last Mile Delivery | Bentonville, AR | <a href="https://go.vansh.nyc/1jy?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
@@ -1435,6 +1437,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Stryker | Data Analytics Intern | Fort Wayne, IN | <a href="https://go.vansh.nyc/J8?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 21 |
 | Propio | Software Engineering Intern | Overland Park, KS | <a href="https://go.vansh.nyc/JY?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 21 |
 | Macy's | Technology Intern | Johns Creek, GA | <a href="https://go.vansh.nyc/J0?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 21 |
+| Idaho National Laboratory | Computer Security Research Intern | Idaho Falls, ID | <a href="https://go.vansh.nyc/1jX?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 21 |
+| ↳ | Cyber Security Research Intern | Idaho Falls, ID | <a href="https://go.vansh.nyc/1jY?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 21 |
 | GuideStone | Software Developer Intern, Software Development | Dallas, TX | <a href="https://go.vansh.nyc/J6?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 21 |
 | EHC | IT Security Intern | Birmingham, AL | <a href="https://go.vansh.nyc/JW?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 21 |
 | Charter Manufacturing | Digital Integration Intern | Mequon, WI | <a href="https://go.vansh.nyc/J7?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 21 |
