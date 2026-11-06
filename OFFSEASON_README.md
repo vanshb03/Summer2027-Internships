@@ -48,6 +48,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Samsara | Software Engineering Intern | San Francisco, CA | <a href="https://go.vansh.nyc/1kA?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | Globus Medical | Software Co-op | Methuen, MA | <a href="https://go.vansh.nyc/1kn?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | Danaher Corporation | Firmware Engineer Co-op | Indianapolis, IN | <a href="https://go.vansh.nyc/1kG?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
+| Valley Children's Specialty Medical Group | IT Security Intern | Madera, CA | <a href="https://go.vansh.nyc/1kN?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | Uhaul | Data Analyst Intern | Phoenix, AZ | <a href="https://go.vansh.nyc/1ks?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | TechInsights | Software Development Co-op | Ottawa, Canada | <a href="https://go.vansh.nyc/1ie?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | ↳ | QA Test Automation Co-op | Ottawa, Canada | <a href="https://go.vansh.nyc/1if?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
@@ -60,6 +61,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Johns Hopkins APL | Maritime Software Development Intern, Ocean Systems and Engineering | Laurel, MD | <a href="https://go.vansh.nyc/1jq?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | Fresenius Medical Care | Embedded Software Co-op | Lawrence, MA | <a href="https://go.vansh.nyc/1jc?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | Apex Technology, Inc. | Ground Software Engineering Intern | Los Angeles, CA | <a href="https://go.vansh.nyc/1jo?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
+| AEM | QA Tester Intern, Datalogger Products | Victoria, Canada | <a href="https://go.vansh.nyc/1kO?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | 4AG Robotics | Robotics Software Co-op | Salmon Arm, Canada | <a href="https://go.vansh.nyc/1ih?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | TMX Group | Junior Cybersecurity Operations Analyst Intern | Toronto, Canada | <a href="https://go.vansh.nyc/1gM?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
 | Saab | Information Security Co-op 🇺🇸 | East Syracuse, NY | <a href="https://go.vansh.nyc/1gV?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
@@ -442,7 +444,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Rivian | Engineering Co-op, Software Test 🛂 | Torrance, CA | <a href="https://go.vansh.nyc/JS?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
 | Vanguard | Co-op, Multiple Teams | Dallas, TX | <a href="https://go.vansh.nyc/IB?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 16 |
 | Apera AI | Software Developer Co-op, Full Stack | Vancouver, Canada | <a href="https://go.vansh.nyc/1g1?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 16 |
-| ↳ | Software Developer Co-op, Cloud Infrastructure | Vancouver, Canada | <a href="https://go.vansh.nyc/1g2?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 16 |
 | Insulet Corporation | Embedded Software Test Engineering Co-op 🛂 | Acton, MA | <a href="https://go.vansh.nyc/Ne?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 15 |
 | Apera AI | Machine Learning Applied Scientist Co-op | Vancouver, Canada | <a href="https://go.vansh.nyc/1g0?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 15 |
 | Google | Student Researcher Intern | Montreal, Canada | <a href="https://go.vansh.nyc/18W?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 14 |
@@ -643,6 +644,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Together AI | Research Intern, Model Shaping | San Francisco, CA | 🔒 | Sep 18 |
 | OCC | Cyber Operations Intern | Chicago, IL | 🔒 | Sep 18 |
 | OCC | Data Intern | Chicago, IL | 🔒 | Sep 16 |
+| Apera AI | Software Developer Co-op, Cloud Infrastructure | Vancouver, Canada | 🔒 | Sep 16 |
 | Kenvue | Tech & Data Co-op | Summit, NJ | 🔒 | Sep 15 |
 | Geotab | Embedded Developer Intern, Engine Data Reliability | Oakville, Canada | 🔒 | Sep 10 |
 | Definity Financial | Business Intelligence Co-op | Toronto, Canada</br>Waterloo, Canada | 🔒 | Sep 10 |
