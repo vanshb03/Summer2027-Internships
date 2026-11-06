@@ -27144,13 +27144,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1793023513,
+        "date_updated": 1793972717,
         "url": "https://go.vansh.nyc/LZ",
         "locations": [
             "Longmont, CO"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "McKesson",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
