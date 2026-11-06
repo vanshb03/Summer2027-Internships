@@ -43265,13 +43265,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793653558,
+        "date_updated": 1793948973,
         "url": "https://go.vansh.nyc/19N",
         "locations": [
             "Chandler, AZ"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Northrop Grumman",
         "title": "Engineering Intern, Software, Mission Assurance, Quality",
         "source": "vanshb03",
@@ -47138,13 +47138,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793716731,
+        "date_updated": 1793948973,
         "url": "https://go.vansh.nyc/1dD",
         "locations": [
             "Roy, UT"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Northrop Grumman",
         "title": "Cyber Systems Engineer Intern",
         "source": "vanshb03",
@@ -47514,13 +47514,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793736389,
+        "date_updated": 1793948973,
         "url": "https://go.vansh.nyc/1e6",
         "locations": [
             "West Valley City, UT"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "RTX",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
