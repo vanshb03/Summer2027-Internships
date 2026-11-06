@@ -43282,13 +43282,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793653558,
+        "date_updated": 1793945386,
         "url": "https://go.vansh.nyc/19O",
         "locations": [
             "Lincolnshire, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Zebra Technologies",
         "title": "AI Intern",
         "source": "vanshb03",
