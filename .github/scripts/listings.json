@@ -22568,13 +22568,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793015500,
+        "date_updated": 1794003040,
         "url": "https://go.vansh.nyc/Ft",
         "locations": [
             "Vancouver, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Astera Labs",
         "title": "Platform Applications Engineer Co-op, Tools & Validation Infrastructure",
         "source": "vanshb03",
@@ -53680,6 +53680,306 @@
         "source": "vanshb03",
         "id": "1089f88c-b03e-44ac-8aba-2fabe5383d82",
         "date_posted": 1793997674,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794002784,
+        "url": "https://go.vansh.nyc/1lh",
+        "locations": [
+            "Dayton, OH",
+            "Westminster, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Trimble",
+        "title": "AI Automation Intern",
+        "source": "vanshb03",
+        "id": "26fb5c65-7cde-4f38-ae22-d44ac342d733",
+        "date_posted": 1794002004,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794002933,
+        "url": "https://go.vansh.nyc/1li",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "AfterQuery",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "be2dc777-ac7d-4946-a5d5-b1bff342975f",
+        "date_posted": 1763406496,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794002933,
+        "url": "https://go.vansh.nyc/1lj",
+        "locations": [
+            "Austin, TX",
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "fab2",
+        "title": "Automation Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "5d73e765-5bb6-4974-9f85-74732e0689be",
+        "date_posted": 1787875657,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1794002933,
+        "url": "https://go.vansh.nyc/1lk",
+        "locations": [
+            "Austin, TX",
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "fab2",
+        "title": "Rust Software Engineering Intern, Chip Design Tools",
+        "source": "vanshb03",
+        "id": "3309ab7b-8c36-41af-92df-e0d053ebfc13",
+        "date_posted": 1787876419,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1794002933,
+        "url": "https://go.vansh.nyc/1ll",
+        "locations": [
+            "Austin, TX",
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "fab2",
+        "title": "Infrastructure Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "affc218b-b347-4ae2-9673-cb60591c594b",
+        "date_posted": 1787877967,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1794002933,
+        "url": "https://go.vansh.nyc/1lm",
+        "locations": [
+            "Austin, TX",
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "fab2",
+        "title": "Fab Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "be6725a3-7f46-4fbd-914a-2758aa697127",
+        "date_posted": 1787881508,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1794002933,
+        "url": "https://go.vansh.nyc/1ln",
+        "locations": [
+            "San Francisco, CA",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Sierra",
+        "title": "Software Engineer Intern, Agent",
+        "source": "vanshb03",
+        "id": "8ff7be57-732f-4962-8806-a0d159aed557",
+        "date_posted": 1788212539,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794002933,
+        "url": "https://go.vansh.nyc/1lo",
+        "locations": [
+            "Austin, TX",
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "fab2",
+        "title": "Rust Software Engineering Intern, Chip Design Tools",
+        "source": "vanshb03",
+        "id": "19577f5a-f9d4-4c8f-bffe-17c86e3f9383",
+        "date_posted": 1788627125,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794002933,
+        "url": "https://go.vansh.nyc/1lp",
+        "locations": [
+            "Austin, TX",
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "fab2",
+        "title": "Infrastructure Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "6c07f023-ab15-4651-b11d-25645b7164b3",
+        "date_posted": 1788627279,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794002933,
+        "url": "https://go.vansh.nyc/1lq",
+        "locations": [
+            "Austin, TX",
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "fab2",
+        "title": "Fab Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "6c5dd6f9-ceb4-421f-b159-49b0762675ff",
+        "date_posted": 1788627305,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794002933,
+        "url": "https://go.vansh.nyc/1lr",
+        "locations": [
+            "Austin, TX",
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "fab2",
+        "title": "Embedded Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "2a0ce6d8-86a6-4cbc-b321-08184d9fafea",
+        "date_posted": 1788627333,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794002933,
+        "url": "https://go.vansh.nyc/1ls",
+        "locations": [
+            "Austin, TX",
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "fab2",
+        "title": "Automation Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "c23fc628-656b-4dbd-809f-e0c015c79ec6",
+        "date_posted": 1788627360,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794002933,
+        "url": "https://go.vansh.nyc/1lt",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "AfterQuery",
+        "title": "AI/ML Research Intern",
+        "source": "vanshb03",
+        "id": "e6b51f48-42c1-4dce-87a6-b9c5a978ff01",
+        "date_posted": 1789188772,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794002933,
+        "url": "https://go.vansh.nyc/1lu",
+        "locations": [
+            "Berkeley, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Terranova",
+        "title": "Embedded Systems Intern",
+        "source": "vanshb03",
+        "id": "2fbff429-5503-4e5a-9f3d-e2a79e44fc3e",
+        "date_posted": 1790391185,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1794002933,
+        "url": "https://go.vansh.nyc/1lv",
+        "locations": [
+            "Berkeley, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Terranova",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "0bfdd550-59c5-48c2-820f-9540611f867c",
+        "date_posted": 1790391196,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1794002933,
+        "url": "https://go.vansh.nyc/1lw",
+        "locations": [
+            "Freeport, ME"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Llbean",
+        "title": "Software Developer Intern",
+        "source": "vanshb03",
+        "id": "d01605e5-ffa2-437c-a134-507bb90dc514",
+        "date_posted": 1793923200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794002933,
+        "url": "https://go.vansh.nyc/1lx",
+        "locations": [
+            "Niles, IL"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Shure",
+        "title": "Cloud Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "39089d25-8f19-48bd-bd54-d2e778febd74",
+        "date_posted": 1794002799,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
