@@ -32341,13 +32341,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793054205,
+        "date_updated": 1793985002,
         "url": "https://go.vansh.nyc/Tb",
         "locations": [
             "Rockwall, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "L3Harris Technologies",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -53065,5 +53065,56 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1793984781,
+        "url": "https://go.vansh.nyc/1kA",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Samsara",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "dbc91bff-2339-4964-82cb-a6c7e86695fd",
+        "date_posted": 1793982801,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1793984917,
+        "url": "https://go.vansh.nyc/1kB",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "T-Mobile",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "7f55bd2b-4377-4916-ad3e-72353142eb10",
+        "date_posted": 1793984797,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793984917,
+        "url": "https://go.vansh.nyc/1kC",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "T-Mobile",
+        "title": "AI Engineering Intern",
+        "source": "vanshb03",
+        "id": "96cef777-f82a-4fd1-82e2-60a329f575e2",
+        "date_posted": 1793984797,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
