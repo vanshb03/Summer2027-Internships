@@ -97,11 +97,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Zimmer Biomet Holdings | Software Developer Co-op | Montreal, Canada | <a href="https://go.vansh.nyc/1bk?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | Viavi Solutions | Software Engineering Co-op | Germantown, MD | <a href="https://go.vansh.nyc/1c8?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | Toshiba Global Commerce Solutions | AI Automation & Revenue Ops Intern | Durham, NC | <a href="https://go.vansh.nyc/1bn?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
-| Toshiba Commerce Solutions | AI Software Engineering Intern | Frisco, TX | <a href="https://go.vansh.nyc/1e8?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
-| ↳ | Software Engineering Intern | Durham, NC | <a href="https://go.vansh.nyc/19Y?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
-| ↳ | Agentic Software Engineering Intern | Durham, NC | <a href="https://go.vansh.nyc/19T?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
-| ↳ | AI Data Science & Business Analytics Intern | Durham, NC | <a href="https://go.vansh.nyc/19U?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
-| ↳ | Agentic Software Engineering Intern | Frisco, TX | <a href="https://go.vansh.nyc/19V?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
+| Toshiba Commerce Solutions | AI Data Science & Business Analytics Intern | Durham, NC | <a href="https://go.vansh.nyc/19U?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | Tesla | Commercial UI Software Engineer Intern, Energy Engineering | Palo Alto, CA | <a href="https://go.vansh.nyc/1b5?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | ↳ | Software Engineer Intern, Vehicle UI Development | Palo Alto, CA | <a href="https://go.vansh.nyc/1b6?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | ↳ | Software Engineer Intern, Maps & Navigation Validation | Palo Alto, CA | <a href="https://go.vansh.nyc/1b7?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
@@ -537,6 +533,10 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Wabtec | Firmware Engineering Co-op | Waltham, MA | 🔒 | Nov 03 |
 | Samsung Research America Internship | Agentic AI Solutions Intern | Mountain View, CA | 🔒 | Nov 03 |
 | Transamerica | Data Analytics Intern | Cedar Rapids, IA | 🔒 | Nov 02 |
+| Toshiba Commerce Solutions | Agentic Software Engineering Intern | Durham, NC | 🔒 | Nov 02 |
+| ↳ | Agentic Software Engineering Intern | Frisco, TX | 🔒 | Nov 02 |
+| ↳ | Software Engineering Intern | Durham, NC | 🔒 | Nov 02 |
+| ↳ | AI Software Engineering Intern | Frisco, TX | 🔒 | Nov 02 |
 | RTX | Software Engineer Co-op 🇺🇸 | Cedar Rapids, IA | 🔒 | Nov 02 |
 | Rockwell Automation | Robotics Research Co-op, Data Engineering 🛂 | Waterloo, Canada | 🔒 | Nov 02 |
 | Johnson & Johnson | Software Engineering Co-op | Danvers, MA | 🔒 | Nov 02 |
