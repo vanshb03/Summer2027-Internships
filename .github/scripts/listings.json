@@ -27993,13 +27993,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793023513,
+        "date_updated": 1793981757,
         "url": "https://go.vansh.nyc/ML",
         "locations": [
             "Parsippany-Troy Hills, NJ"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Avis Budget Group",
         "title": "Transformation Engineer Intern, Accelerate",
         "source": "vanshb03",
@@ -34797,13 +34797,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793203968,
+        "date_updated": 1793981757,
         "url": "https://go.vansh.nyc/XB",
         "locations": [
             "Boston, MA"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Sonos",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
@@ -37783,13 +37783,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793399756,
+        "date_updated": 1793981757,
         "url": "https://go.vansh.nyc/11b",
         "locations": [
             "Indianapolis, IN"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Cadillac Formula 1 Team",
         "title": "Aerodynamics AI Industrial Placement Intern",
         "source": "vanshb03",
@@ -48792,13 +48792,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793747321,
+        "date_updated": 1793981757,
         "url": "https://go.vansh.nyc/1fq",
         "locations": [
             "Carmel, IN"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Republic Airways",
         "title": "Data Analytics Intern",
         "source": "vanshb03",
@@ -52948,18 +52948,103 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793977773,
+        "date_updated": 1793981757,
         "url": "https://go.vansh.nyc/1kr",
         "locations": [
             "Dallas, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Hitachi",
         "title": "Full Stack Developer Intern",
         "source": "vanshb03",
         "id": "6e6dd63f-091d-4472-b7b7-33a6893eff1d",
         "date_posted": 1793977623,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793981140,
+        "url": "https://go.vansh.nyc/1ks",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Uhaul",
+        "title": "Data Analyst Intern",
+        "source": "vanshb03",
+        "id": "28399bf0-20dc-434e-b33a-7278fa9bc085",
+        "date_posted": 1793923200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1793981140,
+        "url": "https://go.vansh.nyc/1kt",
+        "locations": [
+            "Overland Park, KS"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "T-Mobile",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "18a967f2-94c8-4063-87aa-045e08d8b4fd",
+        "date_posted": 1793923200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793981344,
+        "url": "https://go.vansh.nyc/1ku",
+        "locations": [
+            "Greenwood Village, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Invitation-charter",
+        "title": "Data Science Intern",
+        "source": "vanshb03",
+        "id": "bd893b38-c527-495c-ac09-6fdb51a1ca5c",
+        "date_posted": 1793981214,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793981344,
+        "url": "https://go.vansh.nyc/1kv",
+        "locations": [
+            "Englewood, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Invitation-charter",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "fe6fdf54-5e01-45d7-8b73-750989d7ca11",
+        "date_posted": 1793981214,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793981344,
+        "url": "https://go.vansh.nyc/1kw",
+        "locations": [
+            "Greenwood Village, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Invitation-charter",
+        "title": "Data Developer Intern",
+        "source": "vanshb03",
+        "id": "819b9269-f94f-4bc5-b357-0317aec4f925",
+        "date_posted": 1793981214,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
