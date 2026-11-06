@@ -54017,5 +54017,158 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1794008153,
+        "url": "https://go.vansh.nyc/1lC",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Intercontinental Exchange",
+        "title": "Trading System Development Intern",
+        "source": "vanshb03",
+        "id": "3bb65925-f8c3-4eba-9358-a20bc7d45567",
+        "date_posted": 1793923200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794008153,
+        "url": "https://go.vansh.nyc/1lD",
+        "locations": [
+            "Jacksonville, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Intercontinental Exchange",
+        "title": "Release Engineering Intern",
+        "source": "vanshb03",
+        "id": "62439929-5ab4-483b-8f53-96ad8c92ee9d",
+        "date_posted": 1793923200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794008153,
+        "url": "https://go.vansh.nyc/1lE",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Intercontinental Exchange",
+        "title": "Infrastructure Development & Automation Intern",
+        "source": "vanshb03",
+        "id": "d7540701-2684-4ba1-b8b0-edce8dea8ed8",
+        "date_posted": 1793923200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794008153,
+        "url": "https://go.vansh.nyc/1lF",
+        "locations": [
+            "Freeport, ME"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "L.L.Bean",
+        "title": "Quality Assurance Analyst Intern",
+        "source": "vanshb03",
+        "id": "908bbbf4-9375-48fa-aec7-d755c638a5da",
+        "date_posted": 1793923200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794008153,
+        "url": "https://go.vansh.nyc/1lG",
+        "locations": [
+            "Plano, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Samsung",
+        "title": "Business Intelligence & Data Analytics Intern",
+        "source": "vanshb03",
+        "id": "5de6d216-e41d-4f9c-8682-bff888810880",
+        "date_posted": 1793923200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794008304,
+        "url": "https://go.vansh.nyc/1lH",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "L3Harris Technologies",
+        "title": "Data Architect Intern",
+        "source": "vanshb03",
+        "id": "bae8aa1e-48a9-4392-bece-24f602a55058",
+        "date_posted": 1794006629,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794008304,
+        "url": "https://go.vansh.nyc/1lI",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Qualcomm",
+        "title": "Digital Design Engineer Intern, Interim Engineering Systems",
+        "source": "vanshb03",
+        "id": "e1b67f87-4105-4ed9-8b14-5028a1912ac2",
+        "date_posted": 1794006790,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794008387,
+        "url": "https://go.vansh.nyc/1lJ",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Parspec",
+        "title": "Applied AI Engineer Intern",
+        "source": "vanshb03",
+        "id": "34dfb75e-bb3a-4dde-b264-dfa20e0a56db",
+        "date_posted": 1794005807,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794008824,
+        "url": "https://go.vansh.nyc/1lK",
+        "locations": [
+            "Calgary, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "PETRONAS Canada",
+        "title": "Student Intern, Infrastructure Automation and Innovation",
+        "source": "vanshb03",
+        "id": "79b0255b-5237-4c43-ac2a-da61eb71f707",
+        "date_posted": 1794008627,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
