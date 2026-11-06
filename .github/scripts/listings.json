@@ -52553,5 +52553,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793963181,
+        "url": "https://go.vansh.nyc/1k2",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "POI Content Product Manager Intern",
+        "source": "vanshb03",
+        "id": "4acc32c5-09d8-489f-ba8d-c38f0015972b",
+        "date_posted": 1793961294,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
