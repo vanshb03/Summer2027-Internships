@@ -239,7 +239,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Data and Analytics Intern | Farmington, CT | <a href="https://go.vansh.nyc/1dE?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | American Express | Undergraduate Program Software Engineer Intern, Enterprise Technology Services | Sunnyvale, CA | <a href="https://go.vansh.nyc/1dH?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | American Cancer Society Cancer Action Network | Research Intern, Cancer Risk Prediction | Atlanta, GA | <a href="https://go.vansh.nyc/1gZ?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
-| Zebra Technologies | AI Intern | Lincolnshire, IL | <a href="https://go.vansh.nyc/19O?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | Wellmark | Software Engineer Intern, AI Platform Team | Des Moines, IA | <a href="https://go.vansh.nyc/1bl?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | ViaSat | Software Engineer Intern | Germantown, MD | <a href="https://go.vansh.nyc/1hU?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | ↳ | Digital and Programmable Logic Engineer Intern | Tempe, AZ | <a href="https://go.vansh.nyc/1hV?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
@@ -1785,7 +1784,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | IDEMIA | Information Technology Intern | Remote</br>United States | 🔒 | Nov 03 |
 | Cox | Software Engineering Intern 🛂 | Austin, TX | 🔒 | Nov 03 |
 | CFS Energy | Software Engineer Intern | Devens, MA | 🔒 | Nov 03 |
-| Zebra Technologies | Software/AI Engineer Intern, Handheld Mobile Computers | Holtsville, NY | 🔒 | Nov 02 |
+| Zebra Technologies | AI Intern | Lincolnshire, IL | 🔒 | Nov 02 |
+| ↳ | Software/AI Engineer Intern, Handheld Mobile Computers | Holtsville, NY | 🔒 | Nov 02 |
 | SWBC | Application Security Intern | San Antonio, TX | 🔒 | Nov 02 |
 | RTX | Systems Security Engineering Intern 🇺🇸 | Fullerton, CA | 🔒 | Nov 02 |
 | ↳ | Systems Security Engineer Intern, Raytheon 🇺🇸 | Woburn, MA | 🔒 | Nov 02 |
