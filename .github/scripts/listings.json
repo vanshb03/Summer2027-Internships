@@ -52400,5 +52400,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793927301,
+        "url": "https://go.vansh.nyc/1jR",
+        "locations": [
+            "Reno, NV"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Light & Wonder",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "9903862f-8590-413d-abb6-f842d803d1c9",
+        "date_posted": 1793927151,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
