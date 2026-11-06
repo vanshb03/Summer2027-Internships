@@ -44711,14 +44711,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793662521,
+        "date_updated": 1793997600,
         "url": "https://go.vansh.nyc/1bd",
         "locations": [
             "Remote",
             "United States"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Cincinnati Children\u2019s Hospital and Medical Center",
         "title": "Data Management Engineer Intern",
         "source": "vanshb03",
@@ -52334,13 +52334,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793923928,
+        "date_updated": 1793997600,
         "url": "https://go.vansh.nyc/1jH",
         "locations": [
             "Indianapolis, IN"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "V2X",
         "title": "AI Engineering Intern",
         "source": "vanshb03",
@@ -53475,5 +53475,90 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1793997386,
+        "url": "https://go.vansh.nyc/1l5",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "The New York Times",
+        "title": "Frontend Engineering Intern",
+        "source": "vanshb03",
+        "id": "1a095c91-e8c7-4659-9182-1ba0158aae9d",
+        "date_posted": 1793996546,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793997386,
+        "url": "https://go.vansh.nyc/1l6",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "The New York Times",
+        "title": "Android Engineering Intern",
+        "source": "vanshb03",
+        "id": "ffebb72a-ab4c-4605-9a69-98afc8dfce31",
+        "date_posted": 1793996546,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793997386,
+        "url": "https://go.vansh.nyc/1l7",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "The New York Times",
+        "title": "Full-Stack Engineering Intern",
+        "source": "vanshb03",
+        "id": "a89b3148-453b-4e52-b8e3-ce93796a344a",
+        "date_posted": 1793996546,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793997386,
+        "url": "https://go.vansh.nyc/1l8",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "The New York Times",
+        "title": "iOS Engineering Intern",
+        "source": "vanshb03",
+        "id": "29d1edd2-e624-4f98-af6e-1325352d78bc",
+        "date_posted": 1793996546,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793997386,
+        "url": "https://go.vansh.nyc/1l9",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "T-Mobile",
+        "title": "AI Strategist Intern",
+        "source": "vanshb03",
+        "id": "ea38a420-4ef1-46c3-bf55-dd63407bbfc5",
+        "date_posted": 1793996666,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
