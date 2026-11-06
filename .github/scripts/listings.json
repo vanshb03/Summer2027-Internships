@@ -19752,13 +19752,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793013503,
+        "date_updated": 1793974211,
         "url": "https://go.vansh.nyc/Cg",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Jain Global",
         "title": "Compliance Technology Intern",
         "source": "vanshb03",
