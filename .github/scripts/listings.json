@@ -52417,5 +52417,56 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793930931,
+        "url": "https://go.vansh.nyc/1jS",
+        "locations": [
+            "McLean, VA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Raft Company Website",
+        "title": "Full Stack Engineering Intern",
+        "source": "vanshb03",
+        "id": "c2bf4080-dcb0-4762-852e-58da25da038d",
+        "date_posted": 1793923200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793930931,
+        "url": "https://go.vansh.nyc/1jT",
+        "locations": [
+            "McLean, VA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Raft Company Website",
+        "title": "DevOps Engineering Intern",
+        "source": "vanshb03",
+        "id": "fa8865c6-c7fd-4d87-a8dc-748a037e4c38",
+        "date_posted": 1793923200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793931290,
+        "url": "https://go.vansh.nyc/1jU",
+        "locations": [
+            "McLean, VA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Raft Company Website",
+        "title": "Data Engineering Intern",
+        "source": "vanshb03",
+        "id": "81ebb74c-452e-472c-b0ee-b7908d4af95e",
+        "date_posted": 1793925842,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
