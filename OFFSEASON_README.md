@@ -340,7 +340,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Inter Miami CF | Business Intelligence Intern, Software Development | Miami, FL | <a href="https://go.vansh.nyc/gl?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
 | Definity Financial | Cloud Engineer Co-op | Waterloo, ON | <a href="https://go.vansh.nyc/9Y?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
 | CACI | Software Test Engineer Intern | Remote</br>United States | <a href="https://go.vansh.nyc/CX?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
-| BC Pensions | Application Developer Co-op | Victoria, BC, Canada | <a href="https://go.vansh.nyc/aP?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
 | Anduril | Research Engineer Co-op | Santa Ana, CA | <a href="https://go.vansh.nyc/9W?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
 | Susquehanna International Group | Technology Co-op | Remote (US) | <a href="https://go.vansh.nyc/9A?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
 | Skydio | Manufacturing Software Engineer Intern | San Mateo, CA | <a href="https://go.vansh.nyc/9y?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
@@ -610,6 +609,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Technology IM R&D Co-op | Raritan, NJ | 🔒 | Oct 15 |
 | Commonwealth Fusion Systems | AI & Infrastructure Engineer Intern | Devens, MA | 🔒 | Oct 15 |
 | CIBC | Information Security Analyst Co-op | Toronto, ON | 🔒 | Oct 15 |
+| BC Pensions | Application Developer Co-op | Victoria, BC, Canada | 🔒 | Oct 15 |
 | Abridge | Member of Technical Staff Intern | SF | 🔒 | Oct 15 |
 | Tessera Labs | Full Stack Software Engineer Intern | <details><summary>**4 locations**</summary>San Jose, CA</br>Remote</br>United States</br>New York, NY</details> | 🔒 | Oct 14 |
 | Sony Pictures Entertainment | Current Programming Intern, Sony Pictures Television | Culver City, CA | 🔒 | Oct 14 |
