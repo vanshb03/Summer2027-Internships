@@ -43,6 +43,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Western & Southern Financial Group | Artificial Intelligence Developer Intern | Cincinnati, OH | <a href="https://go.vansh.nyc/1k8?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | TechInsights | Software Development Co-op | Ottawa, Canada | <a href="https://go.vansh.nyc/1ie?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | ↳ | QA Test Automation Co-op | Ottawa, Canada | <a href="https://go.vansh.nyc/1if?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | Stellar Science | Scientific Software Developer Co-op | Albuquerque, NM | <a href="https://go.vansh.nyc/1id?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
