@@ -37988,13 +37988,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793408793,
+        "date_updated": 1793994153,
         "url": "https://go.vansh.nyc/11K",
         "locations": [
             "United States"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Molina Healthcare",
         "title": "Cybersecurity Internship (Remote) \u2013(Undergraduate)",
         "source": "vanshb03",
@@ -53153,13 +53153,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793986571,
+        "date_updated": 1793994153,
         "url": "https://go.vansh.nyc/1kF",
         "locations": [
             "Jersey City, NJ"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "ICD",
         "title": "AI/ML Engineering Intern",
         "source": "vanshb03",
@@ -53304,5 +53304,124 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793993919,
+        "url": "https://go.vansh.nyc/1kU",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Serval",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "00cc0eb1-236a-4b7b-adc1-549c0b75fa1f",
+        "date_posted": 1783962155,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793993919,
+        "url": "https://go.vansh.nyc/1kV",
+        "locations": [
+            "Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nuclear Promise X",
+        "title": "Software Developer Intern",
+        "source": "vanshb03",
+        "id": "844db455-c4fa-4065-b8fc-780699af6f7c",
+        "date_posted": 1789667867,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1793993919,
+        "url": "https://go.vansh.nyc/1kW",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Talos",
+        "title": "Software Engineer Intern, RFQ",
+        "source": "vanshb03",
+        "id": "06a29dd4-95c0-4c35-be8f-e69495933d50",
+        "date_posted": 1793286501,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793993919,
+        "url": "https://go.vansh.nyc/1kX",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Talos",
+        "title": "Software Engineer Intern, Dealer",
+        "source": "vanshb03",
+        "id": "944f02eb-05f0-406f-9d52-73757fdbcfba",
+        "date_posted": 1793286648,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793993919,
+        "url": "https://go.vansh.nyc/1kY",
+        "locations": [
+            "Michigan City, IN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "DwyerOmega",
+        "title": "Cyber Resilience & Product Security Intern",
+        "source": "vanshb03",
+        "id": "8ce514df-a3e7-4c81-93cc-e685245c54b5",
+        "date_posted": 1793896473,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793993919,
+        "url": "https://go.vansh.nyc/1kZ",
+        "locations": [
+            "Arlington, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "GM Financial",
+        "title": "Software Development Engineer Intern",
+        "source": "vanshb03",
+        "id": "610b31aa-ed7e-4707-b4df-7bf4b27f83f5",
+        "date_posted": 1793923200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793993919,
+        "url": "https://go.vansh.nyc/1l0",
+        "locations": [
+            "Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hootsuite",
+        "title": "DevOps Co-op",
+        "source": "vanshb03",
+        "id": "9f3518eb-be4f-4c97-92d1-db16beebc4d2",
+        "date_posted": 1793991646,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
