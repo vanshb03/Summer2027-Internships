@@ -52468,5 +52468,73 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793934322,
+        "url": "https://go.vansh.nyc/1jV",
+        "locations": [
+            "Foster City, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zoox",
+        "title": "Software Engineer Intern, Software Platforms & Product",
+        "source": "vanshb03",
+        "id": "fe252f01-13cf-4442-a65c-d32b8fe94a3e",
+        "date_posted": 1793932595,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793934322,
+        "url": "https://go.vansh.nyc/1jW",
+        "locations": [
+            "Foster City, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zoox",
+        "title": "Software Engineer Intern, Software Systems",
+        "source": "vanshb03",
+        "id": "50cfd082-a01c-412b-9307-ccb67e4c5f8a",
+        "date_posted": 1793932597,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793934544,
+        "url": "https://go.vansh.nyc/1jX",
+        "locations": [
+            "Idaho Falls, ID"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Idaho National Laboratory",
+        "title": "Computer Security Research Intern",
+        "source": "vanshb03",
+        "id": "e140dac6-50b1-42f6-bff0-0278de5010bf",
+        "date_posted": 1790035200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793934544,
+        "url": "https://go.vansh.nyc/1jY",
+        "locations": [
+            "Idaho Falls, ID"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Idaho National Laboratory",
+        "title": "Cyber Security Research Intern",
+        "source": "vanshb03",
+        "id": "e81e4371-6bda-42fb-83b6-55e2db7194e1",
+        "date_posted": 1790035200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
