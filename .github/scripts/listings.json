@@ -39773,13 +39773,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793491587,
+        "date_updated": 1793999738,
         "url": "https://go.vansh.nyc/13v",
         "locations": [
             "Harrisburg, PA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "WebFX",
         "title": "Web Developer Intern",
         "source": "vanshb03",
@@ -53560,5 +53560,111 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1793999164,
+        "url": "https://go.vansh.nyc/1la",
+        "locations": [
+            "Miami, FL",
+            "Needham, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SharkNinja",
+        "title": "Applied AI & Analytics Co-op, AI",
+        "source": "vanshb03",
+        "id": "41537d8d-4ebe-40f4-832c-453b58b7d664",
+        "date_posted": 1793997064,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1793999327,
+        "url": "https://go.vansh.nyc/1lb",
+        "locations": [
+            "Milwaukee, WI",
+            "Madison, WI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Baird",
+        "title": "IT Data & Analytics Intern",
+        "source": "vanshb03",
+        "id": "9fabb0d1-51bc-4aba-a004-4080b15014e8",
+        "date_posted": 1793999186,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793999327,
+        "url": "https://go.vansh.nyc/1lc",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CrowdStrike",
+        "title": "Professional Services Pathfinder Intern, Red Team",
+        "source": "vanshb03",
+        "id": "b8eb377d-a9fc-4491-afbf-ca350e8fbfd5",
+        "date_posted": 1793999186,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793999327,
+        "url": "https://go.vansh.nyc/1ld",
+        "locations": [
+            "Toronto, Canada",
+            "Sault Ste. Marie, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "OLG",
+        "title": "Analytics Engineering & Measurement Intern",
+        "source": "vanshb03",
+        "id": "f45125fe-2055-4dbc-886d-8a217273ec19",
+        "date_posted": 1793999186,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1793999327,
+        "url": "https://go.vansh.nyc/1le",
+        "locations": [
+            "Plano, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Samsung",
+        "title": "Care AI Data Analytic Intern",
+        "source": "vanshb03",
+        "id": "a0440b41-c5fe-460c-90fa-f47411a5497b",
+        "date_posted": 1793999186,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793999680,
+        "url": "https://go.vansh.nyc/1lf",
+        "locations": [
+            "Vancouver, Canada",
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hootsuite",
+        "title": "Software Development Co-op",
+        "source": "vanshb03",
+        "id": "28116d33-a609-4059-b45c-16f8734dc18a",
+        "date_posted": 1793996800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
