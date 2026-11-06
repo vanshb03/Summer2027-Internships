@@ -54000,5 +54000,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1794006374,
+        "url": "https://go.vansh.nyc/1lz",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Astranis",
+        "title": "Embedded Software Developer Intern, Network/Payload",
+        "source": "vanshb03",
+        "id": "350d28f8-5462-4813-9d81-b07550f1c3bd",
+        "date_posted": 1794004814,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
