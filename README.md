@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| TikTok | POI Content Product Manager Intern | San Jose, CA | <a href="https://go.vansh.nyc/1k2?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | Zoox | Software Engineer Intern, Software Platforms & Product | Foster City, CA | <a href="https://go.vansh.nyc/1jV?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | ↳ | Software Engineer Intern, Software Systems | Foster City, CA | <a href="https://go.vansh.nyc/1jW?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | Western Alliance Bancorporation | Platform Engineering Intern | Dallas, TX | <a href="https://go.vansh.nyc/1jm?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
