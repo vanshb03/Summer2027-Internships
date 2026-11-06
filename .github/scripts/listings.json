@@ -50399,13 +50399,13 @@
         "season": "Spring"
     },
     {
-        "date_updated": 1793847950,
+        "date_updated": 1793924229,
         "url": "https://go.vansh.nyc/1hu",
         "locations": [
             "Markham, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "AMD",
         "title": "Senior Systems Design Engineer Intern",
         "source": "vanshb03",
@@ -52243,6 +52243,160 @@
         "source": "vanshb03",
         "id": "ca7eaf2d-68bf-4277-af9a-68afc61a829c",
         "date_posted": 1793922039,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793923529,
+        "url": "https://go.vansh.nyc/1jC",
+        "locations": [
+            "Detroit, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Little Caesars Enterprises",
+        "title": "QA IT Intern",
+        "source": "vanshb03",
+        "id": "8b40e48b-6e67-4a32-a732-86fee8dbfc3e",
+        "date_posted": 1793836800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793923529,
+        "url": "https://go.vansh.nyc/1jD",
+        "locations": [
+            "Remote",
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Molina Healthcare",
+        "title": "Undergraduate Electronic Data Interchange Intern",
+        "source": "vanshb03",
+        "id": "91289751-fc2c-4c46-af18-27fb803b48fa",
+        "date_posted": 1793836800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793923529,
+        "url": "https://go.vansh.nyc/1jE",
+        "locations": [
+            "North Hollywood, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Versant",
+        "title": "Technology, Product, Design & Engineering Intern, GolfNow, Full Swing, Rotten Tomatoes, Fandango",
+        "source": "vanshb03",
+        "id": "f26b9754-3d7f-4f06-92ad-5c939da22768",
+        "date_posted": 1793836800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793923529,
+        "url": "https://go.vansh.nyc/1jF",
+        "locations": [
+            "Carlsbad, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Versant",
+        "title": "Technology, Product, Design & Engineering Intern, GolfNow, Full Swing, Rotten Tomatoes, Fandango",
+        "source": "vanshb03",
+        "id": "260cc510-3c1d-4124-8cb5-56e761326c0b",
+        "date_posted": 1793836800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793923529,
+        "url": "https://go.vansh.nyc/1jG",
+        "locations": [
+            "Orlando, FL"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Versant",
+        "title": "Technology, Product, Design & Engineering Intern, GolfNow, Full Swing, Rotten Tomatoes, Fandango",
+        "source": "vanshb03",
+        "id": "2ad2c39d-eaac-474e-8c9e-b9f11ac66096",
+        "date_posted": 1793836800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793923928,
+        "url": "https://go.vansh.nyc/1jH",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "V2X",
+        "title": "AI Engineering Intern",
+        "source": "vanshb03",
+        "id": "80b42cef-6e74-4654-8100-ba4dcf22d31e",
+        "date_posted": 1793916120,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793923928,
+        "url": "https://go.vansh.nyc/1jI",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "V2X",
+        "title": "AI Engineer Intern",
+        "source": "vanshb03",
+        "id": "dd731380-621a-4122-8497-1d0e593c42dc",
+        "date_posted": 1793916480,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793924129,
+        "url": "https://go.vansh.nyc/1jJ",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Trajectory",
+        "title": "Member of Technical Staff Intern, Research",
+        "source": "vanshb03",
+        "id": "ba358376-6611-407a-b299-9e7fd0ac8dfb",
+        "date_posted": 1793906069,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793924129,
+        "url": "https://go.vansh.nyc/1jK",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Trajectory",
+        "title": "Member of Technical Staff Intern",
+        "source": "vanshb03",
+        "id": "a7c5f639-9b1c-43b8-8951-eaa3afbd09c3",
+        "date_posted": 1793907449,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
