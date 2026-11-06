@@ -27805,13 +27805,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793023513,
+        "date_updated": 1793976104,
         "url": "https://go.vansh.nyc/MA",
         "locations": [
             "Knoxville, TN"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Pilot Company",
         "title": "Application Development Intern",
         "source": "vanshb03",
@@ -52567,6 +52567,244 @@
         "source": "vanshb03",
         "id": "4acc32c5-09d8-489f-ba8d-c38f0015972b",
         "date_posted": 1793961294,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793975933,
+        "url": "https://go.vansh.nyc/1k3",
+        "locations": [
+            "Bloomington, IN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cook Group",
+        "title": "Applied AI & Full Stack Development Intern",
+        "source": "vanshb03",
+        "id": "f4173d9a-4862-4a72-886e-d649dd14fded",
+        "date_posted": 1793975779,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793975933,
+        "url": "https://go.vansh.nyc/1k4",
+        "locations": [
+            "Urbandale, IA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "W.R. Berkley",
+        "title": "Software Developer Intern, .NET",
+        "source": "vanshb03",
+        "id": "0eee3a13-c547-4369-8f22-de1b6fbb9106",
+        "date_posted": 1793975779,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793975933,
+        "url": "https://go.vansh.nyc/1k5",
+        "locations": [
+            "Jacksonville, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Intercontinental Exchange, Inc.",
+        "title": "Infrastructure Observability Intern",
+        "source": "vanshb03",
+        "id": "ca6cd2c5-9bc6-4612-b6e0-a93764df678f",
+        "date_posted": 1793975779,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793975933,
+        "url": "https://go.vansh.nyc/1k6",
+        "locations": [
+            "Jacksonville, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Intercontinental Exchange, Inc.",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "d5841ef8-8f7f-4e21-a7eb-0878a4c6f370",
+        "date_posted": 1793975779,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793975933,
+        "url": "https://go.vansh.nyc/1k7",
+        "locations": [
+            "Jacksonville, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Intercontinental Exchange, Inc.",
+        "title": "Application Security Intern",
+        "source": "vanshb03",
+        "id": "7fb6c881-4cb0-410d-9038-deb78398009a",
+        "date_posted": 1793975779,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793975933,
+        "url": "https://go.vansh.nyc/1k8",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Western & Southern Financial Group",
+        "title": "Artificial Intelligence Developer Intern",
+        "source": "vanshb03",
+        "id": "5927a62b-a2ed-4fa3-b41d-1150e3b219e0",
+        "date_posted": 1793975779,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1793975933,
+        "url": "https://go.vansh.nyc/1k9",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Western & Southern Financial Group",
+        "title": "Software Developer Intern, Agency Systems",
+        "source": "vanshb03",
+        "id": "9918924b-7a6c-421f-94ab-c6511e8b369d",
+        "date_posted": 1793975779,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793975933,
+        "url": "https://go.vansh.nyc/1ka",
+        "locations": [
+            "Niles, IL"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Shure",
+        "title": "Embedded Software Intern",
+        "source": "vanshb03",
+        "id": "a899c918-7ddb-450e-a44b-b5766f24ec12",
+        "date_posted": 1793975779,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793975933,
+        "url": "https://go.vansh.nyc/1kb",
+        "locations": [
+            "Niles, IL"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Shure",
+        "title": "Application Software Development Intern",
+        "source": "vanshb03",
+        "id": "409ece96-9f6c-43fa-8592-2c2948b98297",
+        "date_posted": 1793975779,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793975933,
+        "url": "https://go.vansh.nyc/1kc",
+        "locations": [
+            "SeaTac, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Alaska Airlines",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "5fe7398f-98bf-495d-9061-92bb0aa8210f",
+        "date_posted": 1793975779,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793975933,
+        "url": "https://go.vansh.nyc/1kd",
+        "locations": [
+            "SeaTac, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Alaska Airlines",
+        "title": "Cybersecurity Threat Defense Intern",
+        "source": "vanshb03",
+        "id": "82d4de93-6397-4755-8d48-e6fccd22465a",
+        "date_posted": 1793975779,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793975933,
+        "url": "https://go.vansh.nyc/1ke",
+        "locations": [
+            "SeaTac, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Alaska Airlines",
+        "title": "Software Delivery Platform Intern",
+        "source": "vanshb03",
+        "id": "8c956b1a-1800-457d-9215-fb3dae06a210",
+        "date_posted": 1793975779,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793975933,
+        "url": "https://go.vansh.nyc/1kf",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "DocuSign",
+        "title": "Software Engineering Intern, Self-Service Directory Diagnostics",
+        "source": "vanshb03",
+        "id": "ff1c269c-f387-49d7-a46d-ff4caebc037d",
+        "date_posted": 1793975779,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793975933,
+        "url": "https://go.vansh.nyc/1kg",
+        "locations": [
+            "Morrisville, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Envista Forensics",
+        "title": "Digital Forensics Intern",
+        "source": "vanshb03",
+        "id": "089d0b00-b777-48a8-ac04-b4a153278533",
+        "date_posted": 1793975779,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
