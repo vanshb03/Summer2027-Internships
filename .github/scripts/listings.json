@@ -7922,13 +7922,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1787327116,
+        "date_updated": 1793942126,
         "url": "https://go.vansh.nyc/7C",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "JPMorgan Chase",
         "title": "Quantitative Research, Markets, Summer Internship - Analyst",
         "source": "vanshb03",
@@ -7939,13 +7939,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1787327122,
+        "date_updated": 1793942126,
         "url": "https://go.vansh.nyc/7D",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "JPMorgan Chase",
         "title": "Quantitative Research, Asset Management Summer Analyst",
         "source": "vanshb03",
@@ -42936,13 +42936,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793639154,
+        "date_updated": 1793942126,
         "url": "https://go.vansh.nyc/19p",
         "locations": [
             "Holtsville, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Zebra Technologies",
         "title": "Software/AI Engineer Intern, Handheld Mobile Computers",
         "source": "vanshb03",
@@ -46088,13 +46088,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793686189,
+        "date_updated": 1793942126,
         "url": "https://go.vansh.nyc/1cC",
         "locations": [
             "Danvers, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Johnson & Johnson",
         "title": "Software Engineering Co-op",
         "source": "vanshb03",
@@ -46105,13 +46105,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1793686189,
+        "date_updated": 1793942126,
         "url": "https://go.vansh.nyc/1cD",
         "locations": [
             "Danvers, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Johnson & Johnson",
         "title": "Software Test Engineering Co-op",
         "source": "vanshb03",
@@ -46643,13 +46643,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793686189,
+        "date_updated": 1793942126,
         "url": "https://go.vansh.nyc/1d8",
         "locations": [
             "Linthicum, MD"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Northrop Grumman",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -47292,13 +47292,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793727498,
+        "date_updated": 1793942126,
         "url": "https://go.vansh.nyc/1dO",
         "locations": [
             "Baltimore, MD"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Northrop Grumman",
         "title": "Engineering Software Tool Development Intern, Field Engineering",
         "source": "vanshb03",
@@ -52533,6 +52533,23 @@
         "source": "vanshb03",
         "id": "e81e4371-6bda-42fb-83b6-55e2db7194e1",
         "date_posted": 1790035200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1793941561,
+        "url": "https://go.vansh.nyc/1jZ",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ASM",
+        "title": "Product Intelligence Engineering Intern, AI/ML",
+        "source": "vanshb03",
+        "id": "f93a69ff-74fd-44a9-a0be-295c0034a192",
+        "date_posted": 1793938921,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
