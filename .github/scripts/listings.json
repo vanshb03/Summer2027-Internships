@@ -35491,13 +35491,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793228719,
+        "date_updated": 1794042923,
         "url": "https://go.vansh.nyc/Yt",
         "locations": [
             "San Diego, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "ASML",
         "title": "Data Engineer Co-op",
         "source": "vanshb03",
@@ -49408,13 +49408,13 @@
         "season": "Spring"
     },
     {
-        "date_updated": 1793793953,
+        "date_updated": 1794042923,
         "url": "https://go.vansh.nyc/1gj",
         "locations": [
             "Roy, UT"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Northrop Grumman",
         "title": "Software Test Engineering Intern",
         "source": "vanshb03",
@@ -49425,13 +49425,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793793953,
+        "date_updated": 1794042923,
         "url": "https://go.vansh.nyc/1gk",
         "locations": [
             "Roy, UT"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Northrop Grumman",
         "title": "DevOps Software Engineering Intern",
         "source": "vanshb03",
@@ -49442,13 +49442,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793793953,
+        "date_updated": 1794042923,
         "url": "https://go.vansh.nyc/1gl",
         "locations": [
             "Clearfield, UT"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Northrop Grumman",
         "title": "Cybersecurity Software Engineering Intern",
         "source": "vanshb03",
@@ -49476,13 +49476,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793797562,
+        "date_updated": 1794042923,
         "url": "https://go.vansh.nyc/1gn",
         "locations": [
             "Roy, UT"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Northrop Grumman",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
@@ -50074,13 +50074,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1793828187,
+        "date_updated": 1794042923,
         "url": "https://go.vansh.nyc/1h5",
         "locations": [
             "McClellan, CA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Northrop Grumman",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
