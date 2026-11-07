@@ -28269,14 +28269,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793024036,
+        "date_updated": 1794028474,
         "url": "https://go.vansh.nyc/N1",
         "locations": [
             "Indianapolis, IN",
             "Atlanta, GA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Elevance Health",
         "title": "Information Security Co-op",
         "source": "vanshb03",
@@ -33389,13 +33389,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793118984,
+        "date_updated": 1794028474,
         "url": "https://go.vansh.nyc/VR",
         "locations": [
             "Deerfield Beach, FL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "JM Family Enterprises",
         "title": "Data Engineer Intern",
         "source": "vanshb03",
@@ -35814,14 +35814,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793280967,
+        "date_updated": 1794028474,
         "url": "https://go.vansh.nyc/YU",
         "locations": [
             "Deerfield Beach, FL",
             "Jacksonville, FL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "JM Family Enterprises",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -47002,13 +47002,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793700781,
+        "date_updated": 1794028474,
         "url": "https://go.vansh.nyc/1du",
         "locations": [
             "Windsor Locks, CT"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "RTX",
         "title": "Secure System Engineering Intern",
         "source": "vanshb03",
@@ -49168,13 +49168,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793772351,
+        "date_updated": 1794028474,
         "url": "https://go.vansh.nyc/1fW",
         "locations": [
             "Sykesville, MD"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Northrop Grumman",
         "title": "S/W Embedded Engineering Intern",
         "source": "vanshb03",
@@ -49612,13 +49612,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793804934,
+        "date_updated": 1794028474,
         "url": "https://go.vansh.nyc/1gw",
         "locations": [
             "Germantown, MD"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Zebra Technologies",
         "title": "Systems Engineer Intern",
         "source": "vanshb03",
@@ -49629,13 +49629,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793804934,
+        "date_updated": 1794028474,
         "url": "https://go.vansh.nyc/1gx",
         "locations": [
             "Kennesaw, GA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Zebra Technologies",
         "title": "Software Engineer Intern, AI Features & Product Convergence",
         "source": "vanshb03",
@@ -54287,6 +54287,23 @@
         "source": "vanshb03",
         "id": "5dfde291-bdbd-4577-9b25-822abb852e39",
         "date_posted": 1793934463,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794028094,
+        "url": "https://go.vansh.nyc/1lY",
+        "locations": [
+            "Corning, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Corning",
+        "title": "HPC DevOps Engineer Intern, Science & Technology",
+        "source": "vanshb03",
+        "id": "69932227-fd26-49ad-8720-32e649a495e3",
+        "date_posted": 1794028004,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
