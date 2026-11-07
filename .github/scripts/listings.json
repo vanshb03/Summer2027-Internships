@@ -40149,13 +40149,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793519782,
+        "date_updated": 1794010226,
         "url": "https://go.vansh.nyc/13Z",
         "locations": [
             "Memphis, TN"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "FedEx",
         "title": "Data Science Intern",
         "source": "vanshb03",
@@ -54167,6 +54167,92 @@
         "source": "vanshb03",
         "id": "79b0255b-5237-4c43-ac2a-da61eb71f707",
         "date_posted": 1794008627,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794009948,
+        "url": "https://go.vansh.nyc/1lN",
+        "locations": [
+            "Tulsa, OK"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Enovation Controls",
+        "title": "Embedded Machine Learning Engineer Intern",
+        "source": "vanshb03",
+        "id": "dbeb091d-12f5-48a1-bb44-d9ee08b5f7a7",
+        "date_posted": 1794008744,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794009948,
+        "url": "https://go.vansh.nyc/1lO",
+        "locations": [
+            "Tulsa, OK"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Enovation Controls",
+        "title": "Manufacturing Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "2b34f8b1-7a9e-41a1-bfb0-99685b838f44",
+        "date_posted": 1794008744,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794010016,
+        "url": "https://go.vansh.nyc/1lP",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Varda Space Industries",
+        "title": "Site Reliability Intern",
+        "source": "vanshb03",
+        "id": "74323cbe-ff4d-4647-9f84-c946b6fc1b71",
+        "date_posted": 1794007676,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794010016,
+        "url": "https://go.vansh.nyc/1lQ",
+        "locations": [
+            "Foster City, CA",
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zoox",
+        "title": "Data Science Intern",
+        "source": "vanshb03",
+        "id": "95c4f647-570a-4079-a3fd-ebf4fb20a3be",
+        "date_posted": 1794007076,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794010016,
+        "url": "https://go.vansh.nyc/1lR",
+        "locations": [
+            "McLean, VA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "MITRE",
+        "title": "Data Science Intern",
+        "source": "vanshb03",
+        "id": "b3b4c6c1-358d-4ee0-beab-c00693e63fb0",
+        "date_posted": 1793923616,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
