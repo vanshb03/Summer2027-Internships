@@ -462,7 +462,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Booz Allen Hamilton | Electronic Warfare FPGA Engineer Intern | Beavercreek, OH | <a href="https://go.vansh.nyc/M1?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 02 |
 | OnLogic | Firmware Engineer Co-op | South Burlington, VT</br>Cary, NC | <a href="https://go.vansh.nyc/LY?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 01 |
 | Lawrence Livermore National Laboratory (LLNL) | Computing Intern | Livermore, CA | <a href="https://go.vansh.nyc/Q6?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 01 |
-| Elevance Health | Information Security Co-op | Indianapolis, IN</br>Atlanta, GA | <a href="https://go.vansh.nyc/N1?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 01 |
 | AMD | Machine Learning/Artificial Intelligence Co-op | Markham, Canada | <a href="https://go.vansh.nyc/LF?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 01 |
 | ↳ | Graphics Software Engineer Co-op | Markham, Canada | <a href="https://go.vansh.nyc/LH?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 01 |
 | ↳ | Software Engineer Co-op | Vancouver, Canada | <a href="https://go.vansh.nyc/LK?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 01 |
@@ -663,6 +662,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Definity Financial | Business Intelligence Co-op | Toronto, Canada</br>Waterloo, Canada | 🔒 | Sep 10 |
 | Royal Bank of Canada | Developer & IT Specialist Co-op, Global Asset Management | Toronto, Canada</br>Vancouver, Canada | 🔒 | Sep 03 |
 | Nokia | DSP Firmware Engineer Co-op | Ottawa, Canada | 🔒 | Sep 02 |
+| Elevance Health | Information Security Co-op | Indianapolis, IN</br>Atlanta, GA | 🔒 | Sep 01 |
 | Kodiak Robotics | Planning Intern, Mission Planning | Mountain View, CA | 🔒 | Aug 24 |
 | Philips | Software Systems Engineering Co-op, Image Guided Therapy Devices - IVUS Clinical Imaging Software Application | Plymouth, MN | 🔒 | Aug 23 |
 | Varda Space Industries | Applications Engineer Intern | El Segundo, CA | 🔒 | Aug 21 |
