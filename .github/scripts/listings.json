@@ -11510,13 +11510,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1792370268,
+        "date_updated": 1794057321,
         "url": "https://go.vansh.nyc/b0",
         "locations": [
             "Remote in USA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "CenturyLink",
         "title": "Data Intern, Analytics & Decision Science",
         "source": "vanshb03",
@@ -54304,6 +54304,109 @@
         "source": "vanshb03",
         "id": "69932227-fd26-49ad-8720-32e649a495e3",
         "date_posted": 1794028004,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794056734,
+        "url": "https://go.vansh.nyc/1lZ",
+        "locations": [
+            "Houston, TX"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Barrios",
+        "title": "Data and Computer Eng/Sci Intern",
+        "source": "vanshb03",
+        "id": "5de18172-6b29-45f5-852b-df0dd7d2aa10",
+        "date_posted": 1794009600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794056734,
+        "url": "https://go.vansh.nyc/1m0",
+        "locations": [
+            "Irving, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Highgate",
+        "title": "Data Services Intern",
+        "source": "vanshb03",
+        "id": "64213cce-5242-4dc0-87b9-cd2f627841b3",
+        "date_posted": 1794009600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794056734,
+        "url": "https://go.vansh.nyc/1m1",
+        "locations": [
+            "Brentwood, TN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "IDEMIA",
+        "title": "Service Platform Engineering Intern",
+        "source": "vanshb03",
+        "id": "45e00c75-26c7-4bd1-9d26-27af2fd8e1f4",
+        "date_posted": 1794009600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794056958,
+        "url": "https://go.vansh.nyc/1m2",
+        "locations": [
+            "Overland Park, KS"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Aechelon Technology",
+        "title": "Junior Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "0e484cfb-1c06-4b49-aac5-c917f96ff4cb",
+        "date_posted": 1786652134,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794056958,
+        "url": "https://go.vansh.nyc/1m3",
+        "locations": [
+            "Farmer's Branch, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Aechelon Technology",
+        "title": "Junior Software Engineer Intern, RTK",
+        "source": "vanshb03",
+        "id": "7c7f1bb6-c0a0-4187-acf8-32ac98907ddb",
+        "date_posted": 1786652313,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794056958,
+        "url": "https://go.vansh.nyc/1m4",
+        "locations": [
+            "Remote",
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Upstart",
+        "title": "Applied Scientist Intern",
+        "source": "vanshb03",
+        "id": "1f375b9c-e312-4d12-913c-98f6fc57fcec",
+        "date_posted": 1791397917,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
