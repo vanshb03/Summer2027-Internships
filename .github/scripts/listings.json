@@ -29877,13 +29877,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793030742,
+        "date_updated": 1794071624,
         "url": "https://go.vansh.nyc/Qt",
         "locations": [
             "Atlanta, GA"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "The Federal Reserve System",
         "title": "Innovation Intern",
         "source": "vanshb03",
@@ -54407,6 +54407,228 @@
         "source": "vanshb03",
         "id": "1f375b9c-e312-4d12-913c-98f6fc57fcec",
         "date_posted": 1791397917,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794071313,
+        "url": "https://go.vansh.nyc/1m5",
+        "locations": [
+            "Kent, WA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Stoke Space",
+        "title": "Software Intern",
+        "source": "vanshb03",
+        "id": "d35a892f-84c6-4e9f-b900-8ba66f454ef3",
+        "date_posted": 1793811305,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794071313,
+        "url": "https://go.vansh.nyc/1m6",
+        "locations": [
+            "Lynchburg, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Framatome",
+        "title": "AI and Software Innovation Intern",
+        "source": "vanshb03",
+        "id": "1743b62d-a765-4498-811a-0941b94cb792",
+        "date_posted": 1794071215,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794071313,
+        "url": "https://go.vansh.nyc/1m7",
+        "locations": [
+            "Coppell, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Blackhawk Network",
+        "title": "Technology Intern",
+        "source": "vanshb03",
+        "id": "731e348e-ca48-43d2-a1ac-cb69961db395",
+        "date_posted": 1794071215,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794071313,
+        "url": "https://go.vansh.nyc/1m8",
+        "locations": [
+            "Pleasanton, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Blackhawk Network",
+        "title": "Technology Intern",
+        "source": "vanshb03",
+        "id": "fe76d255-ab2a-4855-96db-52e7a888105f",
+        "date_posted": 1794071215,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794071313,
+        "url": "https://go.vansh.nyc/1m9",
+        "locations": [
+            "Dayton, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Dayton Freight",
+        "title": "Software Developer Intern",
+        "source": "vanshb03",
+        "id": "5fb0fbdb-db5e-4be8-ba77-c7e1b6122f87",
+        "date_posted": 1794071215,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794071313,
+        "url": "https://go.vansh.nyc/1ma",
+        "locations": [
+            "Dayton, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Dayton Freight",
+        "title": "Business Intelligence Intern",
+        "source": "vanshb03",
+        "id": "7308da04-a6dc-4898-8351-b653e226b5a5",
+        "date_posted": 1794071215,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794071313,
+        "url": "https://go.vansh.nyc/1mb",
+        "locations": [
+            "Remote",
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Kinaxis",
+        "title": "Developer Co-op, Machine Learning",
+        "source": "vanshb03",
+        "id": "cac1ab40-c4c3-4bd0-bdaa-b2463771447f",
+        "date_posted": 1794071215,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1794071313,
+        "url": "https://go.vansh.nyc/1mc",
+        "locations": [
+            "Ottawa, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Kinaxis",
+        "title": "Full Stack Developer Intern, C#",
+        "source": "vanshb03",
+        "id": "a068b5a7-0d48-4b83-8065-b7b88eb4ba41",
+        "date_posted": 1794071215,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1794071313,
+        "url": "https://go.vansh.nyc/1md",
+        "locations": [
+            "Ottawa, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Kinaxis",
+        "title": "Developer Intern, Back End Technologies",
+        "source": "vanshb03",
+        "id": "fd98838b-2396-42bb-abeb-613143f16f45",
+        "date_posted": 1794071215,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1794071313,
+        "url": "https://go.vansh.nyc/1me",
+        "locations": [
+            "Middleton, WI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Springs Window Fashions",
+        "title": "Textile Engineering Analytics & Software Intern",
+        "source": "vanshb03",
+        "id": "6a809ff4-4c16-47ae-afa5-988a08d9c83e",
+        "date_posted": 1794071215,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794071313,
+        "url": "https://go.vansh.nyc/1mf",
+        "locations": [
+            "Long Island City, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Springs Window Fashions",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "40d4886d-46a0-4351-aab3-90949018dc80",
+        "date_posted": 1794071215,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794071313,
+        "url": "https://go.vansh.nyc/1mg",
+        "locations": [
+            "Dakota Dunes, SD"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "empirical",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "01b87f50-811e-49de-8736-42da45c82da8",
+        "date_posted": 1794071215,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794071313,
+        "url": "https://go.vansh.nyc/1mh",
+        "locations": [
+            "Lexington, MA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Riverside Research",
+        "title": "Formal Methods Research Intern",
+        "source": "vanshb03",
+        "id": "aaebd19d-6a34-490f-807a-464d64e10c4d",
+        "date_posted": 1794071215,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
