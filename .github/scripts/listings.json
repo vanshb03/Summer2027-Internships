@@ -54632,5 +54632,91 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1794085710,
+        "url": "https://go.vansh.nyc/1mn",
+        "locations": [
+            "Newark, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Moody's",
+        "title": "Applied AI & Analytics Intern",
+        "source": "vanshb03",
+        "id": "d8982608-16d5-42ed-8cf4-61506256c02f",
+        "date_posted": 1793929640,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794085710,
+        "url": "https://go.vansh.nyc/1mo",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Marmon Holdings",
+        "title": "AI Technology Solutions Intern",
+        "source": "vanshb03",
+        "id": "29bc790f-a566-4599-9798-adbfffef6cbb",
+        "date_posted": 1793964731,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794085710,
+        "url": "https://go.vansh.nyc/1mp",
+        "locations": [
+            "Rockville, MD"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Axiom Consultants",
+        "title": "AI Developer Intern",
+        "source": "vanshb03",
+        "id": "c35ed206-279a-4d6b-a33f-d1147719f9a9",
+        "date_posted": 1793969126,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794085710,
+        "url": "https://go.vansh.nyc/1mq",
+        "locations": [
+            "Duncan, SC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "AFL",
+        "title": "Web Design/Development Intern",
+        "source": "vanshb03",
+        "id": "20ae5a5a-f61a-48ff-bb9f-2b6a76f5f0b4",
+        "date_posted": 1793985787,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794085710,
+        "url": "https://go.vansh.nyc/1mr",
+        "locations": [
+            "Remote",
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Enovation Controls",
+        "title": "Product Content Automation Intern",
+        "source": "vanshb03",
+        "id": "ba1f9edb-7e19-4fe9-aa18-0175b3da89a5",
+        "date_posted": 1793988847,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
