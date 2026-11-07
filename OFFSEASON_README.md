@@ -72,7 +72,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | TMX Group | Junior Cybersecurity Operations Analyst Intern | Toronto, Canada | <a href="https://go.vansh.nyc/1gM?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
 | Saab | Information Security Co-op 🇺🇸 | East Syracuse, NY | <a href="https://go.vansh.nyc/1gV?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
 | Royal Bank of Canada | Software Developer Co-op, Quantitative Technology Services | Montreal, Canada | <a href="https://go.vansh.nyc/1jt?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
-| Northrop Grumman | Software Engineer Intern 🇺🇸 | McClellan, CA | <a href="https://go.vansh.nyc/1h5?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
 | DataVisor | Software Engineer Intern | Remote</br>Canada | <a href="https://go.vansh.nyc/1hA?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
 | ↳ | Software Engineer Intern | Vancouver, Canada | <a href="https://go.vansh.nyc/1hq?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
 | Boston Scientific | Software Engineering Co-op, Urology R&D 🛂 | Maple Grove, MN | <a href="https://go.vansh.nyc/1gJ?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
@@ -247,7 +246,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | OpusClip | Customer Experience Test Automation Intern | Burnaby, Canada | <a href="https://go.vansh.nyc/WR?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
 | Lila Sciences | Robot Perception & State Estimation Co-op | Cambridge, MA | <a href="https://go.vansh.nyc/VD?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
 | Geotab | Software Developer Intern, MyAdmin | Oakville, Canada</br>Waterloo, Canada | <a href="https://go.vansh.nyc/17E?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
-| ASML | Data Engineer Co-op | San Diego, CA | <a href="https://go.vansh.nyc/Yt?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
 | Texas Instruments | Web Marketing Intern, Front-end Developer | Dallas, TX | <a href="https://go.vansh.nyc/Wf?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
 | SOTI | Performance Test Engineer Intern | Mississauga, Canada | <a href="https://go.vansh.nyc/SG?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
 | ↳ | Quality Assurance Specialist Intern, SOTI Connect | Mississauga, Canada | <a href="https://go.vansh.nyc/SH?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
@@ -530,6 +528,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Nova-Tech | Software Development Co-op | Willmar, MN | 🔒 | Nov 05 |
 | TMX Group | Security Engineering Intern | Toronto, Canada | 🔒 | Nov 04 |
 | Teledyne Technologies Incorporated | Software Engineering Co-op | Waterloo, Canada | 🔒 | Nov 04 |
+| Northrop Grumman | Software Engineer Intern 🇺🇸 | McClellan, CA | 🔒 | Nov 04 |
 | Wabtec | Firmware Engineering Co-op | Waltham, MA | 🔒 | Nov 03 |
 | Samsung Research America Internship | Agentic AI Solutions Intern | Mountain View, CA | 🔒 | Nov 03 |
 | Transamerica | Data Analytics Intern | Cedar Rapids, IA | 🔒 | Nov 02 |
@@ -564,6 +563,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Johnson Controls | Software Engineering Co-op | Burlington, MA | 🔒 | Oct 27 |
 | Geotab | Software Developer Intern, Geotab Vitality | Oakville, Canada</br>Toronto, Canada</br>Waterloo, Canada | 🔒 | Oct 27 |
 | Blackberry | Software Testing Development Intern, QNX | Ottawa, Canada | 🔒 | Oct 27 |
+| ASML | Data Engineer Co-op | San Diego, CA | 🔒 | Oct 27 |
 | The Walt Disney Company | Content Research Insights & Analytics Intern | Burbank, CA | 🔒 | Oct 26 |
 | Sun Life | Quality Engineering Analyst Intern | Waterloo, Canada | 🔒 | Oct 26 |
 | RTX | Software Platform Engineer Co-op 🇺🇸 | Aurora, CO</br>Remote</br>United States | 🔒 | Oct 26 |
