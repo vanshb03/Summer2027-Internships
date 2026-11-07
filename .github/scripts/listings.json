@@ -54256,5 +54256,39 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1794020766,
+        "url": "https://go.vansh.nyc/1lW",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "GEO Content Product Manager Intern",
+        "source": "vanshb03",
+        "id": "9594cb40-208a-48a8-9fe8-0aa9c0f7a519",
+        "date_posted": 1794017714,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794020863,
+        "url": "https://go.vansh.nyc/1lX",
+        "locations": [
+            "McLean, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "MITRE",
+        "title": "Computer Science or Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "5dfde291-bdbd-4577-9b25-822abb852e39",
+        "date_posted": 1793934463,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
