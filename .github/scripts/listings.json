@@ -55026,5 +55026,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1794128784,
+        "url": "https://go.vansh.nyc/1mN",
+        "locations": [
+            "Renton, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Alaska Air Group",
+        "title": "VR Development Intern",
+        "source": "vanshb03",
+        "id": "8c62ff33-6779-46b2-98b1-5ebff5fbceef",
+        "date_posted": 1793577600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
