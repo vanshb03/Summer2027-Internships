@@ -215,6 +215,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | New York ISO | Software Engineering Co-op, IT | Rensselaer, NY | <a href="https://go.vansh.nyc/13J?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | MDA | FPGA Designer Intern | Montreal, Canada | <a href="https://go.vansh.nyc/126?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | ↳ | FPGA Verification Intern | Montreal, Canada | <a href="https://go.vansh.nyc/127?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
+| Klaviyo | Software Engineer Co-op | Boston, MA | <a href="https://go.vansh.nyc/1mL?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | Keysight Technologies | FPGA Design Intern | Calabasas, CA | <a href="https://go.vansh.nyc/11u?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | Hendler Family Brewing Co. | Software Engineering and IT Co-op | United States | <a href="https://go.vansh.nyc/12v?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | GITAI | Field-Deployed Software Engineering Intern 🇺🇸 | Los Angeles, CA | <a href="https://go.vansh.nyc/13I?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
