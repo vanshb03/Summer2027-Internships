@@ -54958,5 +54958,73 @@
         "company_url": "",
         "is_visible": true,
         "season": "Spring"
+    },
+    {
+        "date_updated": 1794114387,
+        "url": "https://go.vansh.nyc/1mJ",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "T-Mobile",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "29458634-8c95-4a28-93d4-c1f7e2a0545d",
+        "date_posted": 1793836800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794114523,
+        "url": "https://go.vansh.nyc/1mK",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Klaviyo",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "2e219007-5a68-4e1f-9e7e-eb3fe131f951",
+        "date_posted": 1793363833,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794114523,
+        "url": "https://go.vansh.nyc/1mL",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Klaviyo",
+        "title": "Software Engineer Co-op",
+        "source": "vanshb03",
+        "id": "757fa0e0-4c21-4312-a596-b61d535ea710",
+        "date_posted": 1793363834,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1794114523,
+        "url": "https://go.vansh.nyc/1mM",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Citizens Energy Group",
+        "title": "Meter Services Data Analytics Intern",
+        "source": "vanshb03",
+        "id": "460eb7ba-5f54-4ebe-bf4c-ebee17f09c75",
+        "date_posted": 1794114431,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
