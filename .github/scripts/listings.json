@@ -55043,5 +55043,56 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1794143167,
+        "url": "https://go.vansh.nyc/1mO",
+        "locations": [
+            "North York, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ryan",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "8bb8c0d3-3452-4c57-ad7b-6fdb0385312f",
+        "date_posted": 1793232000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794143327,
+        "url": "https://go.vansh.nyc/1mP",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Center for AI Safety (CAIS)",
+        "title": "Research Engineer Intern",
+        "source": "vanshb03",
+        "id": "7bbc3410-3361-4d2b-b865-e7ce146103f7",
+        "date_posted": 1791230497,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794143327,
+        "url": "https://go.vansh.nyc/1mQ",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "DoorDash",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "590f0187-974f-46ce-a63e-aa00578c8907",
+        "date_posted": 1793905182,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
