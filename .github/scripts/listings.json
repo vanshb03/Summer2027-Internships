@@ -39361,7 +39361,7 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793491587,
+        "date_updated": 1794172395,
         "url": "https://go.vansh.nyc/137",
         "locations": [
             "McLean, VA",
@@ -39370,7 +39370,7 @@
             "Chandler, AZ"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Iridium Communications",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
@@ -55198,5 +55198,175 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1794172003,
+        "url": "https://go.vansh.nyc/1mZ",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SDSU Research Foundation",
+        "title": "Computer Science Intern",
+        "source": "vanshb03",
+        "id": "1441dc9e-1cb9-49bd-aba9-f17c0df220a8",
+        "date_posted": 1792566000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794172003,
+        "url": "https://go.vansh.nyc/1n0",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Constellation Energy",
+        "title": "IT Development Intern",
+        "source": "vanshb03",
+        "id": "dbfce975-a488-45f5-b4b0-d7bff88e2df3",
+        "date_posted": 1792588980,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794172003,
+        "url": "https://go.vansh.nyc/1n1",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Copart",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "50a309fa-94fa-4b70-94f6-29dfcfbbb38d",
+        "date_posted": 1792713600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794172003,
+        "url": "https://go.vansh.nyc/1n2",
+        "locations": [
+            "Burlingame, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Quadric",
+        "title": "RTL Intern",
+        "source": "vanshb03",
+        "id": "550e902d-072d-49f4-bc50-2d54c9065dc6",
+        "date_posted": 1792713600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794172003,
+        "url": "https://go.vansh.nyc/1n3",
+        "locations": [
+            "Burlingame, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Quadric",
+        "title": "AI Kernel Engineer Intern",
+        "source": "vanshb03",
+        "id": "5d961286-024e-4053-9556-a3368020a2cf",
+        "date_posted": 1792713600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794172003,
+        "url": "https://go.vansh.nyc/1n4",
+        "locations": [
+            "Burlingame, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Quadric",
+        "title": "Deep Learning Compiler Intern",
+        "source": "vanshb03",
+        "id": "c138131d-f061-4fbb-8a2c-ae5508c01884",
+        "date_posted": 1792713600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794172003,
+        "url": "https://go.vansh.nyc/1n5",
+        "locations": [
+            "Burlingame, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Quadric",
+        "title": "Design Verification Intern",
+        "source": "vanshb03",
+        "id": "1c072b7b-d86e-4aa3-a11f-330b91faf3f2",
+        "date_posted": 1792713600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794172003,
+        "url": "https://go.vansh.nyc/1n6",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Intercontinental Exchange",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "9e248626-b519-4e7f-9c7e-d1a16fac1602",
+        "date_posted": 1792786140,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794172003,
+        "url": "https://go.vansh.nyc/1n7",
+        "locations": [
+            "Jacksonville, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Intercontinental Exchange",
+        "title": "Software Engineer Intern, Java",
+        "source": "vanshb03",
+        "id": "e83dd9f2-fe23-46c6-8cc4-1bee8a4a3e19",
+        "date_posted": 1792786140,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794172003,
+        "url": "https://go.vansh.nyc/1n8",
+        "locations": [
+            "Jacksonville, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Intercontinental Exchange",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "1cf594c9-7f0a-4bf6-8a3d-994bb986e3aa",
+        "date_posted": 1792786140,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
