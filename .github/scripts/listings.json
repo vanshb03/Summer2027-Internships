@@ -19682,13 +19682,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793013503,
+        "date_updated": 1794100507,
         "url": "https://go.vansh.nyc/Cc",
         "locations": [
             "Toronto, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Pebl",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
@@ -23602,13 +23602,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793015500,
+        "date_updated": 1794100507,
         "url": "https://go.vansh.nyc/Gq",
         "locations": [
             "Vancouver, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Workday",
         "title": "Software Development Engineer Intern",
         "source": "vanshb03",
@@ -54718,5 +54718,245 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1794099938,
+        "url": "https://go.vansh.nyc/1ms",
+        "locations": [
+            "Houston, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Group 1 Automotive",
+        "title": "IT Intern",
+        "source": "vanshb03",
+        "id": "7884b364-1d27-4d36-b443-2256cfbad42a",
+        "date_posted": 1794009600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794099938,
+        "url": "https://go.vansh.nyc/1mt",
+        "locations": [
+            "Johns Creek, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Rambus",
+        "title": "Digital Design Intern",
+        "source": "vanshb03",
+        "id": "7d0d7a53-ee53-492a-850f-2ab84b009dfb",
+        "date_posted": 1794009600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794099938,
+        "url": "https://go.vansh.nyc/1mu",
+        "locations": [
+            "Hamilton, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Rockefeller Capital Management",
+        "title": "Analyst Intern, Core Platforms",
+        "source": "vanshb03",
+        "id": "e53b914d-c0ac-4f28-a527-69f8dcb187f5",
+        "date_posted": 1794009600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794099938,
+        "url": "https://go.vansh.nyc/1mv",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Rockefeller Capital Management",
+        "title": "Analyst Intern, Information Security",
+        "source": "vanshb03",
+        "id": "50a9b8be-8582-41a4-88d8-fda74fd2e31c",
+        "date_posted": 1794009600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794099938,
+        "url": "https://go.vansh.nyc/1mw",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SDSU Research Foundation",
+        "title": "Undergraduate Student Intern, Port Contamination Project",
+        "source": "vanshb03",
+        "id": "1f15f3de-a1cd-448e-9f91-7b4bf748efeb",
+        "date_posted": 1794009600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794099938,
+        "url": "https://go.vansh.nyc/1mx",
+        "locations": [
+            "Remote",
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "United Wholesale Mortgage",
+        "title": "Technology Intern Program",
+        "source": "vanshb03",
+        "id": "dca131c1-01e8-49ac-9a62-ad46a501d282",
+        "date_posted": 1794009600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794099938,
+        "url": "https://go.vansh.nyc/1my",
+        "locations": [
+            "West Bend, WI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "West Bend Insurance",
+        "title": "Data Solution Engineer Intern",
+        "source": "vanshb03",
+        "id": "9b652c99-2bb4-42f9-9d4a-7ecfb2ce925b",
+        "date_posted": 1794009600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794100039,
+        "url": "https://go.vansh.nyc/1mz",
+        "locations": [
+            "Lakewood, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "General Dynamics Mission Systems",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "1fe8980e-b999-42af-be3e-73c7434c503e",
+        "date_posted": 1793864887,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794100039,
+        "url": "https://go.vansh.nyc/1mA",
+        "locations": [
+            "Manassas, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "General Dynamics Mission Systems",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "1b86f35c-abfe-478e-816f-f65b41996e6d",
+        "date_posted": 1793864887,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794100039,
+        "url": "https://go.vansh.nyc/1mB",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "KLA",
+        "title": "Software Intern",
+        "source": "vanshb03",
+        "id": "09275c49-0cfc-4a94-bbe7-79b7bb0b896c",
+        "date_posted": 1793923200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794100039,
+        "url": "https://go.vansh.nyc/1mC",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "T-Mobile",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "e7638e0c-10ff-477e-8c7f-3847540809fd",
+        "date_posted": 1793923200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794100039,
+        "url": "https://go.vansh.nyc/1mD",
+        "locations": [
+            "Freeport, ME"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "L.L.Bean",
+        "title": "Business Analyst/Data Analyst Intern",
+        "source": "vanshb03",
+        "id": "8c04bc8e-6927-47c1-a047-49b473b25bc5",
+        "date_posted": 1793923200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794100178,
+        "url": "https://go.vansh.nyc/1mE",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Conifer Health Solutions",
+        "title": "BI Developer Intern",
+        "source": "vanshb03",
+        "id": "a2b57828-6f08-417b-ae3b-c2b5973d93be",
+        "date_posted": 1789948800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794100178,
+        "url": "https://go.vansh.nyc/1mF",
+        "locations": [
+            "Remote",
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "UMG Contingent Worker Company",
+        "title": "Data Engineer Co-op",
+        "source": "vanshb03",
+        "id": "fffa0e9d-b12c-4ed9-80b3-4f482a856684",
+        "date_posted": 1794100095,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
     }
 ]
