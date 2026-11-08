@@ -55094,5 +55094,109 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1794157597,
+        "url": "https://go.vansh.nyc/1mT",
+        "locations": [
+            "Jacksonville, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Intercontinental Exchange",
+        "title": "Integration Intern",
+        "source": "vanshb03",
+        "id": "c73c6a90-8687-42e1-a1d3-397616573cbb",
+        "date_posted": 1792786140,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794157597,
+        "url": "https://go.vansh.nyc/1mU",
+        "locations": [
+            "Waterloo, IA",
+            "Cary, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "John Deere",
+        "title": "Software Engineer Intern, Product Engineering",
+        "source": "vanshb03",
+        "id": "8ef761a5-f3f8-4a85-b411-ccbb028cd05f",
+        "date_posted": 1792795459,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794157597,
+        "url": "https://go.vansh.nyc/1mV",
+        "locations": [
+            "Dayton, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Booz Allen Hamilton",
+        "title": "Systems Engineer Intern",
+        "source": "vanshb03",
+        "id": "2ea95c5c-8bbf-4fff-b497-844a2040d183",
+        "date_posted": 1792972800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794157597,
+        "url": "https://go.vansh.nyc/1mW",
+        "locations": [
+            "Chicago, IL",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Qube Research and Technologies",
+        "title": "Technology Intern",
+        "source": "vanshb03",
+        "id": "519709b4-6461-4b25-9ccf-078c826c85cd",
+        "date_posted": 1793012494,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794157597,
+        "url": "https://go.vansh.nyc/1mX",
+        "locations": [
+            "Colorado Springs, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Northrop Grumman",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "a2a79c77-974f-400d-a645-ca059cbe5ea9",
+        "date_posted": 1793059200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794157597,
+        "url": "https://go.vansh.nyc/1mY",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ACLU Kentucky",
+        "title": "Undergraduate Software Engineer Intern, Technology and Analytics (Educate Pod)",
+        "source": "vanshb03",
+        "id": "7a973823-2752-458d-ab30-14773b10fe25",
+        "date_posted": 1793129801,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
