@@ -27652,13 +27652,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793023513,
+        "date_updated": 1794226160,
         "url": "https://go.vansh.nyc/Mr",
         "locations": [
             "Pittsburgh, PA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Covestro",
         "title": "Digital R&D Intern",
         "source": "vanshb03",
