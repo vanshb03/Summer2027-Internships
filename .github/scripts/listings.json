@@ -55710,5 +55710,142 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1794207996,
+        "url": "https://go.vansh.nyc/1nA",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hewlett Packard Enterprise",
+        "title": "Hardware Engineer Intern",
+        "source": "vanshb03",
+        "id": "928e6613-5df1-4f7e-b417-bc46d6d669ee",
+        "date_posted": 1791244800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794207996,
+        "url": "https://go.vansh.nyc/1nB",
+        "locations": [
+            "Montreal, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Coveo",
+        "title": "Software Developer Intern, Solutions Engineering Core Team",
+        "source": "vanshb03",
+        "id": "e3625ccb-7b19-4e72-bf2f-36bfe11ec2fb",
+        "date_posted": 1791302054,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1794207996,
+        "url": "https://go.vansh.nyc/1nC",
+        "locations": [
+            "Ripon, WI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Alliance Laundry Systems",
+        "title": "Embedded Firmware Co-op",
+        "source": "vanshb03",
+        "id": "8a309f21-1889-45b4-b1c8-5a8a590cc745",
+        "date_posted": 1791325114,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794207996,
+        "url": "https://go.vansh.nyc/1nD",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Dow Jones",
+        "title": "Marketing Data Science Intern",
+        "source": "vanshb03",
+        "id": "3bf5f034-2280-44c9-9a41-8cf410ff3fbe",
+        "date_posted": 1791331200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794207996,
+        "url": "https://go.vansh.nyc/1nE",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "GE Vernova",
+        "title": "AI Data Mining Agent Intern, SCS Commercial",
+        "source": "vanshb03",
+        "id": "ab9c5600-71de-4c06-9aca-1ad32373dbf7",
+        "date_posted": 1791331200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794207996,
+        "url": "https://go.vansh.nyc/1nF",
+        "locations": [
+            "Kirkland, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Skyband Systems",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "4ccfd956-2a52-4a87-9b78-6e2d91267da5",
+        "date_posted": 1791331200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794207996,
+        "url": "https://go.vansh.nyc/1nG",
+        "locations": [
+            "San Francisco, CA",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Sigma Computing",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "35a4309c-8e46-4788-b06b-a86681ab473c",
+        "date_posted": 1791337035,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794207996,
+        "url": "https://go.vansh.nyc/1nH",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Figure",
+        "title": "Middleware Software Intern",
+        "source": "vanshb03",
+        "id": "e1af14b7-9388-4b3b-be1a-90a8cfdb0a14",
+        "date_posted": 1791337158,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
