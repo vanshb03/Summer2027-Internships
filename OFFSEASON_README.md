@@ -43,6 +43,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Apache Industrial | AI Implementation Intern | Houston, TX | <a href="https://go.vansh.nyc/1ol?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 08 |
 | UMG Contingent Worker Company | Data Engineer Co-op | Remote</br>United States | <a href="https://go.vansh.nyc/1mF?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 07 |
 | Kinaxis | Developer Co-op, Machine Learning | Remote</br>United States | <a href="https://go.vansh.nyc/1mb?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 07 |
 | ↳ | Full Stack Developer Intern, C# | Ottawa, Canada | <a href="https://go.vansh.nyc/1mc?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 07 |
@@ -283,7 +284,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Amazon.com Services LLC | System Development Engineer Co-op, Robotics | North Reading, MA | <a href="https://go.vansh.nyc/i1?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | Amazon | Junior Software Development Engineer Intern | Detroit, MI | <a href="https://go.vansh.nyc/gC?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | 1Password | Security Intern, Threat Operations | Remote in USA | <a href="https://go.vansh.nyc/eI?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
-| TPG | Research Assistant Intern, Data Analytics and Reporting | Remote</br>United States | <a href="https://go.vansh.nyc/RV?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 21 |
 | Themis Intelligence | Software Engineer Co-op, Data | Mississauga, Canada | <a href="https://go.vansh.nyc/Da?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 21 |
 | ↳ | AI Engineer Co-op | Mississauga, Canada | <a href="https://go.vansh.nyc/Db?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 21 |
 | Hitachi | Software Engineering Co-op | Liberty, SC | <a href="https://go.vansh.nyc/du?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 21 |
@@ -610,6 +610,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Developer Intern, Data Security | Remote</br>United States</br>Canada | 🔒 | Oct 22 |
 | ↳ | Developer Intern, Machine Identity | Remote</br>United States</br>Canada | 🔒 | Oct 22 |
 | ↳ | Developer Intern, Vault Team | Remote</br>United States</br>Canada | 🔒 | Oct 22 |
+| TPG | Research Assistant Intern, Data Analytics and Reporting | Remote</br>United States | 🔒 | Oct 21 |
 | RTX | Data Science Engineering Co-op 🇺🇸 | Aguadilla, PR | 🔒 | Oct 21 |
 | Intel | Information Security Engineer Intern | Folsom, CA | 🔒 | Oct 21 |
 | GeoComply | Forward Deployed Engineer Intern (FDE) | Vancouver, Canada | 🔒 | Oct 21 |
