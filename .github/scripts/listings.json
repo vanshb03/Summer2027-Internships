@@ -10125,14 +10125,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792261427,
+        "date_updated": 1794260388,
         "url": "https://go.vansh.nyc/9H",
         "locations": [
             "Pittsburgh, PA",
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Duolingo",
         "title": "Data Scientist Intern",
         "source": "vanshb03",
@@ -10143,14 +10143,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792261427,
+        "date_updated": 1794260388,
         "url": "https://go.vansh.nyc/9I",
         "locations": [
             "New York, NY",
             "Pittsburgh, PA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Duolingo",
         "title": "Data Scientist Intern",
         "source": "vanshb03",
@@ -23379,14 +23379,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793015500,
+        "date_updated": 1794260388,
         "url": "https://go.vansh.nyc/Gd",
         "locations": [
             "Remote",
             "United States"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "GuidePoint Security",
         "title": "AI & Data Science Intern, GPSU",
         "source": "vanshb03",
@@ -24462,14 +24462,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793016276,
+        "date_updated": 1794260388,
         "url": "https://go.vansh.nyc/He",
         "locations": [
             "Remote",
             "United States"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "GuidePoint Security",
         "title": "Cloud Infrastructure Intern",
         "source": "vanshb03",
@@ -24480,14 +24480,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793016276,
+        "date_updated": 1794260388,
         "url": "https://go.vansh.nyc/Hf",
         "locations": [
             "Remote",
             "United States"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "GuidePoint Security",
         "title": "Application Security Intern",
         "source": "vanshb03",
@@ -57335,6 +57335,59 @@
         "source": "vanshb03",
         "id": "3a1fcd12-db4b-43bc-899d-a7346f94c58b",
         "date_posted": 1794258479,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794260217,
+        "url": "https://go.vansh.nyc/1pf",
+        "locations": [
+            "Dayton, OH"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Radiance Technologies",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "25df1758-4c3c-4641-8807-8a73277ba99f",
+        "date_posted": 1794259917,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1794260316,
+        "url": "https://go.vansh.nyc/1pg",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CAI",
+        "title": "Programmer Intern",
+        "source": "vanshb03",
+        "id": "859cb598-83a0-4c0a-bcd2-702096e453af",
+        "date_posted": 1794260255,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794260316,
+        "url": "https://go.vansh.nyc/1ph",
+        "locations": [
+            "Remote",
+            "United States",
+            "Kalamazoo, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zoetis",
+        "title": "AI Architecture, Enablement & Tools Intern, AI Capabilities",
+        "source": "vanshb03",
+        "id": "213eefb5-e919-4ac1-b589-5873a6b5c4b9",
+        "date_posted": 1794260255,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
