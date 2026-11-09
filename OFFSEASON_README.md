@@ -422,12 +422,18 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Stripe | Data Analyst Intern | Toronto, Canada | <a href="https://go.vansh.nyc/1nJ?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 01 |
 | Regeneron Pharmaceuticals | Data Science & Digital Innovation Co-op, Preclinical Manufacturing & Research IT | Tarrytown, NY | <a href="https://go.vansh.nyc/Ek?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 01 |
 | Marvell | Firmware Engineer Intern | Ottawa, Canada | <a href="https://go.vansh.nyc/Ej?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 01 |
+| Skyband Systems | Software Engineer Intern | Kirkland, WA | <a href="https://go.vansh.nyc/1oe?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 30 |
 | Rivian | Engineering Co-op, Machine Learning Hardware | Palo Alto, CA | <a href="https://go.vansh.nyc/E4?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 30 |
 | ↳ | Design Verification Co-op, Neural Engine | Palo Alto, CA | <a href="https://go.vansh.nyc/E5?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 30 |
 | ↳ | Engineer Co-op, Design-for-Test | Palo Alto, CA | <a href="https://go.vansh.nyc/Eg?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 30 |
+| Peraton | Software Engineering Co-op | San Diego, CA | <a href="https://go.vansh.nyc/1o9?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 30 |
 | Plot Technologies | Applied AI Co-op | New York, NY | <a href="https://go.vansh.nyc/1eP?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 29 |
+| Honeywell | Artificial Intelligence/Machine Learning Co-op | United States | <a href="https://go.vansh.nyc/1o5?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 29 |
 | Risepoint | Analytics Engineering Co-op | Remote</br>United States | <a href="https://go.vansh.nyc/DV?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 28 |
+| onsemi | AI & Data Engineering Intern | San Jose, CA | <a href="https://go.vansh.nyc/1nY?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 28 |
+| Moderna | Biometrics Co-op | Cambridge, MA | <a href="https://go.vansh.nyc/1o2?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 28 |
 | Insulet Corporation | Software Development Engineer in Test Co-op 🛂 | Acton, MA | <a href="https://go.vansh.nyc/fS?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 28 |
+| Coveo | Frontend Developer Intern | Montreal, Canada | <a href="https://go.vansh.nyc/1o0?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 28 |
 | Cloudflare | Software Engineer Intern | Austin, TX | <a href="https://go.vansh.nyc/DW?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 28 |
 | Terranova | Embedded Systems Intern | Berkeley, CA | <a href="https://go.vansh.nyc/1lu?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 25 |
 | ↳ | Software Engineering Intern | Berkeley, CA | <a href="https://go.vansh.nyc/1lv?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 25 |
