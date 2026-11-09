@@ -296,6 +296,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Anduril | Robotics Engineer Co-op | Quincy, MA | <a href="https://go.vansh.nyc/dS?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 21 |
 | Analytic Partners | Data Science Co-op | Miami, FL | <a href="https://go.vansh.nyc/dz?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 21 |
 | Survalent | Web Developer Co-op, Quality and Infrastructure | Mississauga, Canada | <a href="https://go.vansh.nyc/D4?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 20 |
+| OneEthos | Research and Development Intern | Remote</br>United States | <a href="https://go.vansh.nyc/1nh?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 20 |
 | Keysight Technologies | R&D Software Engineer Intern | Santa Rosa, CA | <a href="https://go.vansh.nyc/db?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 20 |
 | GeoSpectrum Technologies | Software Developer Co-op | Dartmouth, NS, Canada | <a href="https://go.vansh.nyc/cs?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 20 |
 | CIBC | Application/Software Developer Co-op, Capital Markets Technology | Toronto, ON | <a href="https://go.vansh.nyc/bM?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 20 |
@@ -348,6 +349,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | System Engineer Co-op | Brooksville, FL | <a href="https://go.vansh.nyc/a8?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
 | Susquehanna International Group | Business Analytics AI Co-op | Remote (US) | <a href="https://go.vansh.nyc/a5?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
 | ↳ | Technical Business Analyst Co-op | Remote (US) | <a href="https://go.vansh.nyc/a6?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
+| SiTime | ASIC Digital Verification Engineer Co-op | Ottawa, Canada | <a href="https://go.vansh.nyc/1nd?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
 | Nokia | Embedded Software Developer Co-op, C/C++ | Ottawa, Canada | <a href="https://go.vansh.nyc/CI?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
 | Inter Miami CF | Business Intelligence Intern, Software Development | Miami, FL | <a href="https://go.vansh.nyc/gl?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
 | Definity Financial | Cloud Engineer Co-op | Waterloo, ON | <a href="https://go.vansh.nyc/9Y?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
