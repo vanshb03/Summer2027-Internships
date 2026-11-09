@@ -23208,13 +23208,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793015500,
+        "date_updated": 1794201159,
         "url": "https://go.vansh.nyc/G3",
         "locations": [
             "Waterloo, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Manulife Financial",
         "title": "Software Engineering Co-op",
         "source": "vanshb03",
@@ -23859,7 +23859,7 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793015500,
+        "date_updated": 1794201159,
         "url": "https://go.vansh.nyc/GF",
         "locations": [
             "Spring House, PA",
@@ -23867,7 +23867,7 @@
             "Hopewell Township, NJ"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Johnson & Johnson",
         "title": "IDAR Intern, C&SP",
         "source": "vanshb03",
@@ -35883,13 +35883,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793284515,
+        "date_updated": 1794201159,
         "url": "https://go.vansh.nyc/YZ",
         "locations": [
             "Montreal, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "CIBC",
         "title": "AI Developer Co-op, Bilingual",
         "source": "vanshb03",
@@ -37732,13 +37732,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793399756,
+        "date_updated": 1794201159,
         "url": "https://go.vansh.nyc/118",
         "locations": [
             "Ottawa, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "NAV CANADA",
         "title": "Aviation Predictive Analytics Co-op",
         "source": "vanshb03",
@@ -37817,14 +37817,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793403332,
+        "date_updated": 1794201159,
         "url": "https://go.vansh.nyc/11s",
         "locations": [
             "Toronto, Canada",
             "Sault Ste. Marie, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "OLG",
         "title": "Front End Developer Intern",
         "source": "vanshb03",
@@ -42953,13 +42953,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793640967,
+        "date_updated": 1794201159,
         "url": "https://go.vansh.nyc/19q",
         "locations": [
             "Philadelphia, PA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "T-Mobile",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
@@ -42970,13 +42970,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793640967,
+        "date_updated": 1794201159,
         "url": "https://go.vansh.nyc/19r",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "T-Mobile",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
@@ -55485,6 +55485,92 @@
         "source": "vanshb03",
         "id": "4fdc5052-c2c8-4240-bf13-acff01f0d78a",
         "date_posted": 1794186525,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794200789,
+        "url": "https://go.vansh.nyc/1nn",
+        "locations": [
+            "Louisville, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Garmin",
+        "title": "Data Scientist Intern",
+        "source": "vanshb03",
+        "id": "b0e1c203-5540-4b7c-90cb-21dad47bfaf3",
+        "date_posted": 1791853860,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794200789,
+        "url": "https://go.vansh.nyc/1no",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Peraton",
+        "title": "Mission Systems Software and Edge Computing Intern",
+        "source": "vanshb03",
+        "id": "5c0becee-35ea-4ad5-a759-fcb4715ea726",
+        "date_posted": 1791936000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1794200789,
+        "url": "https://go.vansh.nyc/1np",
+        "locations": [
+            "Toronto, Canada",
+            "Vancouver, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tenstorrent",
+        "title": "Systems Intern, Multiple Teams",
+        "source": "vanshb03",
+        "id": "3e72578a-67bc-4725-85d7-c9515a43e737",
+        "date_posted": 1791968538,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794200789,
+        "url": "https://go.vansh.nyc/1nq",
+        "locations": [
+            "Aliso Viejo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Indie",
+        "title": "Applications Software Developer Intern",
+        "source": "vanshb03",
+        "id": "71692505-b388-4b13-ae10-52c8540c059d",
+        "date_posted": 1792005868,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794200789,
+        "url": "https://go.vansh.nyc/1nr",
+        "locations": [
+            "Brea, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Garmin",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "47f25f76-21e5-42c6-9680-a5a09556c002",
+        "date_posted": 1792074960,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
