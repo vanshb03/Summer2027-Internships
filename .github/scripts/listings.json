@@ -9699,14 +9699,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792261427,
+        "date_updated": 1794253209,
         "url": "https://go.vansh.nyc/9i",
         "locations": [
             "Addison, TX",
             "Montpelier, VT"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "National Life",
         "title": "Data Science Intern",
         "source": "vanshb03",
@@ -23482,13 +23482,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1793015500,
+        "date_updated": 1794253209,
         "url": "https://go.vansh.nyc/Gj",
         "locations": [
             "Media, PA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Wawa",
         "title": "Information Technology Development Intern",
         "source": "vanshb03",
@@ -48598,13 +48598,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793745535,
+        "date_updated": 1794253209,
         "url": "https://go.vansh.nyc/1fe",
         "locations": [
             "Ottawa, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Blackberry",
         "title": "Software Developer Intern",
         "source": "vanshb03",
@@ -48615,13 +48615,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793745535,
+        "date_updated": 1794253209,
         "url": "https://go.vansh.nyc/1ff",
         "locations": [
             "Ottawa, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Blackberry",
         "title": "Software Development Intern",
         "source": "vanshb03",
@@ -57198,6 +57198,40 @@
         "source": "vanshb03",
         "id": "9be71852-c6b0-4056-9e1c-3665750a1199",
         "date_posted": 1793222844,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794252988,
+        "url": "https://go.vansh.nyc/1p2",
+        "locations": [
+            "Richmond, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nasdaq",
+        "title": "Technical Research Intern",
+        "source": "vanshb03",
+        "id": "8d6f4277-aec3-4e1b-9ca7-1bb30e113eba",
+        "date_posted": 1794251968,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794253126,
+        "url": "https://go.vansh.nyc/1p3",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Altera",
+        "title": "FPGA Design Verification Intern",
+        "source": "vanshb03",
+        "id": "d1b9bba3-7b9e-4c0f-a567-5b2224efd6ee",
+        "date_posted": 1794253061,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
