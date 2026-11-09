@@ -16282,13 +16282,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792717375,
+        "date_updated": 1794240908,
         "url": "https://go.vansh.nyc/fs",
         "locations": [
             "Tulsa, OK"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "L3Harris Technologies",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -18290,7 +18290,7 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792812208,
+        "date_updated": 1794240908,
         "url": "https://go.vansh.nyc/hk",
         "locations": [
             "Milwaukee, WI",
@@ -18300,7 +18300,7 @@
             "Wellesley, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Sun Life",
         "title": "Data Science Intern",
         "source": "vanshb03",
@@ -22864,7 +22864,7 @@
         "season": "Spring"
     },
     {
-        "date_updated": 1793015500,
+        "date_updated": 1794240908,
         "url": "https://go.vansh.nyc/FK",
         "locations": [
             "Bloomfield Hills, MI",
@@ -22873,7 +22873,7 @@
             "Atlanta, GA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Bose",
         "title": "Embedded Software Engineer Co-op, Audio Tech",
         "source": "vanshb03",
@@ -48962,13 +48962,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1793748955,
+        "date_updated": 1794240908,
         "url": "https://go.vansh.nyc/1fC",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Hearst",
         "title": "Editorial AI Development Intern",
         "source": "vanshb03",
@@ -50006,13 +50006,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793821139,
+        "date_updated": 1794240908,
         "url": "https://go.vansh.nyc/1gZ",
         "locations": [
             "Atlanta, GA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "American Cancer Society Cancer Action Network",
         "title": "Research Intern, Cancer Risk Prediction",
         "source": "vanshb03",
@@ -56619,6 +56619,142 @@
         "source": "vanshb03",
         "id": "867ddc34-305e-4883-a708-eef87e9cc00a",
         "date_posted": 1794238656,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794240330,
+        "url": "https://go.vansh.nyc/1or",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Kensington",
+        "title": "BI/Data Analyst Intern",
+        "source": "vanshb03",
+        "id": "d55e6574-9257-45f0-bcff-6558bdbdad0b",
+        "date_posted": 1794182400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794240330,
+        "url": "https://go.vansh.nyc/1os",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NBCUniversal",
+        "title": "Technology Intern, NBC News Group",
+        "source": "vanshb03",
+        "id": "52f5760e-dae5-458d-bfa8-e641f56ab637",
+        "date_posted": 1794182400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794240330,
+        "url": "https://go.vansh.nyc/1ot",
+        "locations": [
+            "Montvale, NJ"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Sharp Electronics",
+        "title": "IT AI Intern",
+        "source": "vanshb03",
+        "id": "1db79414-5cc5-45b7-81f3-2caa93b7dc3a",
+        "date_posted": 1794182400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794240455,
+        "url": "https://go.vansh.nyc/1ou",
+        "locations": [
+            "Oakland, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Mettler Toledo",
+        "title": "Embedded Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "464b693c-d865-4d31-856c-147c896b3bda",
+        "date_posted": 1794238229,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794240455,
+        "url": "https://go.vansh.nyc/1ov",
+        "locations": [
+            "Melbourne, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CesiumAstro",
+        "title": "Embedded Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "110172c9-cacb-4e4a-9b63-0dc54234601c",
+        "date_posted": 1794239453,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794240455,
+        "url": "https://go.vansh.nyc/1ow",
+        "locations": [
+            "Melbourne, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CesiumAstro",
+        "title": "Electrical Engineering Intern, FPGA",
+        "source": "vanshb03",
+        "id": "f90cee08-366b-4306-a755-32cbd02a1bd3",
+        "date_posted": 1794239453,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794240540,
+        "url": "https://go.vansh.nyc/1ox",
+        "locations": [
+            "Parsippany, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zoetis",
+        "title": "Information Security Intern",
+        "source": "vanshb03",
+        "id": "ece7e09c-d41c-49b6-bbb7-b0e685cf02a7",
+        "date_posted": 1794239580,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794240540,
+        "url": "https://go.vansh.nyc/1oy",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NBCUniversal",
+        "title": "Media Tech: Product & Engineering Intern",
+        "source": "vanshb03",
+        "id": "bb76c64e-d284-48da-bb16-f9ea02dcb54c",
+        "date_posted": 1794239400,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
