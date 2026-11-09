@@ -378,6 +378,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | TransMarket Group | Junior Data Center/Desktop Engineer Intern | Chicago, IL | <a href="https://go.vansh.nyc/81?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 10 |
 | Advanced Space | Technical Growth and Capture Intern | Westminster, CO | <a href="https://go.vansh.nyc/7Y?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 10 |
 | Magnet Forensics | Software Developer Co-op | Waterloo, Canada</br>Ottawa, Canada | <a href="https://go.vansh.nyc/GD?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
+| SoloPulse | Software Engineer Co-op | Peachtree Corners, GA | <a href="https://go.vansh.nyc/1nw?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 08 |
 | Rugged Robotics | Robotics Software Co-op | Houston, TX | <a href="https://go.vansh.nyc/Ga?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 08 |
 | Parsons | Software Engineer Co-op | Centreville, VA | <a href="https://go.vansh.nyc/Gi?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 08 |
 | EQ Bank | Software Engineer Intern | Toronto, Canada | <a href="https://go.vansh.nyc/1eg?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 08 |
