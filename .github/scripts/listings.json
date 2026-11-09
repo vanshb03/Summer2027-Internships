@@ -57425,5 +57425,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1794263824,
+        "url": "https://go.vansh.nyc/1pk",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ASML",
+        "title": "AI Engineer Co-op",
+        "source": "vanshb03",
+        "id": "bb924216-d146-463c-b9ee-460cc9c22144",
+        "date_posted": 1794262984,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
