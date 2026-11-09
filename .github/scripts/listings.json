@@ -56911,5 +56911,57 @@
         "company_url": "",
         "is_visible": true,
         "season": "Spring"
+    },
+    {
+        "date_updated": 1794244020,
+        "url": "https://go.vansh.nyc/1oI",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Toyota Research Institute",
+        "title": "Robotics Intern, Teleoperation and Spatial Computing",
+        "source": "vanshb03",
+        "id": "0a169a4d-89b5-473d-a663-7f79391f3dcd",
+        "date_posted": 1794242460,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794244085,
+        "url": "https://go.vansh.nyc/1oJ",
+        "locations": [
+            "Remote",
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ritual",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "c668c2a1-49b5-4a5f-bc84-9b8f642a21ea",
+        "date_posted": 1721851750,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794244085,
+        "url": "https://go.vansh.nyc/1oK",
+        "locations": [
+            "Parsippany, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Langan Engineering & Environmental Services",
+        "title": "Cyber Security Co-op",
+        "source": "vanshb03",
+        "id": "b9703926-bbcf-4124-bffe-ad42791f55cf",
+        "date_posted": 1793897446,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
     }
 ]
