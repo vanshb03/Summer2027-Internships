@@ -26582,13 +26582,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793023513,
+        "date_updated": 1794242443,
         "url": "https://go.vansh.nyc/Lu",
         "locations": [
             "Danbury, CT"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "CACI",
         "title": "Embedded Software Engineer Co-op",
         "source": "vanshb03",
@@ -35849,13 +35849,13 @@
         "season": "Spring"
     },
     {
-        "date_updated": 1793282772,
+        "date_updated": 1794242443,
         "url": "https://go.vansh.nyc/YW",
         "locations": [
             "Boston, MA"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Sonos",
         "title": "Software Partner Engineering Intern",
         "source": "vanshb03",
@@ -44694,13 +44694,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793662521,
+        "date_updated": 1794242443,
         "url": "https://go.vansh.nyc/1bc",
         "locations": [
             "Arlington, VA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Leidos",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -44866,13 +44866,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793662590,
+        "date_updated": 1794242443,
         "url": "https://go.vansh.nyc/1bm",
         "locations": [
             "Dallas, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Shield AI",
         "title": "Embedded Firmware Intern",
         "source": "vanshb03",
@@ -54977,13 +54977,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794114523,
+        "date_updated": 1794242443,
         "url": "https://go.vansh.nyc/1mK",
         "locations": [
             "Boston, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Klaviyo",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -56758,5 +56758,158 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1794242234,
+        "url": "https://go.vansh.nyc/1oz",
+        "locations": [
+            "Needham, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Warner Bros. Discovery",
+        "title": "Software Engineering Co-op, WB Games",
+        "source": "vanshb03",
+        "id": "f15a2007-ee95-4196-a904-f041ce1406d1",
+        "date_posted": 1794241394,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1794242234,
+        "url": "https://go.vansh.nyc/1oA",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NBCUniversal",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "fc4f1ed1-70db-4802-943c-a9bb80317c2a",
+        "date_posted": 1794240794,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794242234,
+        "url": "https://go.vansh.nyc/1oB",
+        "locations": [
+            "Universal City, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NBCUniversal",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "23be7e1b-ab0b-4fb5-8c8b-ee0eddecaab7",
+        "date_posted": 1794240794,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794242234,
+        "url": "https://go.vansh.nyc/1oC",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NBCUniversal",
+        "title": "Cybersecurity, Governance & Security Engineering Intern, Media Tech",
+        "source": "vanshb03",
+        "id": "550ddc40-4df4-4f16-a550-609a5a36d154",
+        "date_posted": 1794239774,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794242234,
+        "url": "https://go.vansh.nyc/1oD",
+        "locations": [
+            "Universal City, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NBCUniversal",
+        "title": "Data, AI & Machine Learning Intern, Media Tech",
+        "source": "vanshb03",
+        "id": "bcbd3d91-e2a7-446f-ae18-f25df3395228",
+        "date_posted": 1794239714,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794242234,
+        "url": "https://go.vansh.nyc/1oE",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NBCUniversal",
+        "title": "Data, AI & Machine Learning Intern, Media Tech",
+        "source": "vanshb03",
+        "id": "d96473b5-4680-48ed-848f-5530a2755332",
+        "date_posted": 1794239654,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794242234,
+        "url": "https://go.vansh.nyc/1oF",
+        "locations": [
+            "Universal City, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NBCUniversal",
+        "title": "Product & Engineering Intern, Media Tech",
+        "source": "vanshb03",
+        "id": "68a8d23c-fcf0-4a88-ba69-bb37a7914d9e",
+        "date_posted": 1794239534,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794242357,
+        "url": "https://go.vansh.nyc/1oG",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Uhaul",
+        "title": "Software Development Intern",
+        "source": "vanshb03",
+        "id": "d3de9b90-c29b-4953-8fea-0233d7b0dd09",
+        "date_posted": 1794242276,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1794242357,
+        "url": "https://go.vansh.nyc/1oH",
+        "locations": [
+            "Needham, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Warner Bros. Discovery",
+        "title": "Data Engineering Co-op, WB Games",
+        "source": "vanshb03",
+        "id": "e97441d5-dc34-46b3-966b-6339ebf925ba",
+        "date_posted": 1794242276,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
     }
 ]
