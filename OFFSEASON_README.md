@@ -387,7 +387,9 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Embedded Firmware Co-op, Amazon Robotics | North Reading, MA | <a href="https://go.vansh.nyc/g8?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 07 |
 | The Semios Group | Software Developer Co-op | Vancouver, Canada | <a href="https://go.vansh.nyc/FE?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
 | Nokia | ASIC Physical Design Co-op | San Jose, CA | <a href="https://go.vansh.nyc/FB?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
+| Figure | Middleware Software Intern | San Jose, CA | <a href="https://go.vansh.nyc/1nH?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
 | Entrust | Firmware Engineer Co-op | Shakopee, MN | <a href="https://go.vansh.nyc/FH?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
+| Coveo | Software Developer Intern, Solutions Engineering Core Team | Montreal, Canada | <a href="https://go.vansh.nyc/1nB?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
 | Bose | Data Analytics Engineer Co-op | Bloomfield Hills, MI</br>Framingham, MA</br>Atlanta, GA | <a href="https://go.vansh.nyc/FJ?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
 | ↳ | Embedded Software Engineer Co-op, Audio Tech | <details><summary>**4 locations**</summary>Bloomfield Hills, MI</br>Framingham, MA</br>Troy, MI</br>Atlanta, GA</details> | <a href="https://go.vansh.nyc/FK?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
 | Tevora | Cybersecurity Intern, Enterprise Risk Management | Irvine, CA</br>Fairfax, VA | <a href="https://go.vansh.nyc/V4?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 05 |
