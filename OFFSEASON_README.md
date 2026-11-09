@@ -235,7 +235,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | BC Pensions | Junior Security Analyst Co-op | Victoria, Canada | <a href="https://go.vansh.nyc/13B?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | Waterworth | Computer Science Co-op | Victoria, Canada | <a href="https://go.vansh.nyc/10a?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
 | Itron | Systems Engineer Intern | West Union, SC | <a href="https://go.vansh.nyc/115?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
-| CACI | Software Engineering Co-op | Rochester, NY | <a href="https://go.vansh.nyc/YV?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
 | Vestmark Internship Program | Cloud Engineer Co-op | Wakefield, MA | <a href="https://go.vansh.nyc/100?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | The Nuclear Company | Security Engineer Intern 🛂 | Washington, DC | <a href="https://go.vansh.nyc/XL?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | Philips | Data Engineer Co-op, Biocompatibility | Murrysville, PA | <a href="https://go.vansh.nyc/ZZ?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
@@ -574,6 +573,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Nokia | Software Engineer Co-op | United States | 🔒 | Oct 29 |
 | NAV CANADA | Aviation Predictive Analytics Co-op | Ottawa, Canada | 🔒 | Oct 29 |
 | Elucid | Software Engineering Intern | Boston, MA | 🔒 | Oct 29 |
+| CACI | Software Engineering Co-op | Rochester, NY | 🔒 | Oct 29 |
 | Sun Life | Data Analyst Co-op | Toronto, Canada | 🔒 | Oct 28 |
 | Geotab | Data Analyst Intern | Burnaby, Canada</br>Oakville, Canada</br>Toronto, Canada | 🔒 | Oct 28 |
 | CIBC | AI Developer Co-op, Bilingual | Montreal, Canada | 🔒 | Oct 28 |
