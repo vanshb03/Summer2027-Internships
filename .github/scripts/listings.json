@@ -36825,14 +36825,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793315160,
+        "date_updated": 1794233380,
         "url": "https://go.vansh.nyc/106",
         "locations": [
             "Remote",
             "United States"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "CareSource",
         "title": "Full Stack AI Development Intern",
         "source": "vanshb03",
@@ -47326,14 +47326,14 @@
         "season": "Spring"
     },
     {
-        "date_updated": 1793729366,
+        "date_updated": 1794233380,
         "url": "https://go.vansh.nyc/1dQ",
         "locations": [
             "Remote",
             "United States"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "CareSource",
         "title": "Data Science Intern",
         "source": "vanshb03",
@@ -49714,13 +49714,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793808327,
+        "date_updated": 1794233380,
         "url": "https://go.vansh.nyc/1gF",
         "locations": [
             "Centreville, VA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Parsons",
         "title": "AI/ML Engineer Intern",
         "source": "vanshb03",
@@ -49765,13 +49765,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793810325,
+        "date_updated": 1794233380,
         "url": "https://go.vansh.nyc/1gI",
         "locations": [
             "Huntsville, AL"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Parsons",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
