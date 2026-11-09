@@ -11965,13 +11965,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792442374,
+        "date_updated": 1794265747,
         "url": "https://go.vansh.nyc/bq",
         "locations": [
             "Richardson, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Micron Technology",
         "title": "Design Engineer Intern, HBM",
         "source": "vanshb03",
@@ -47858,13 +47858,13 @@
         "season": "Spring"
     },
     {
-        "date_updated": 1793743587,
+        "date_updated": 1794265747,
         "url": "https://go.vansh.nyc/1et",
         "locations": [
             "Greensboro, NC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Arch Capital Group",
         "title": "Originations Portal IT Intern",
         "source": "vanshb03",
@@ -53408,13 +53408,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793993919,
+        "date_updated": 1794265747,
         "url": "https://go.vansh.nyc/1l0",
         "locations": [
             "Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Hootsuite",
         "title": "DevOps Co-op",
         "source": "vanshb03",
@@ -57442,5 +57442,56 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1794265615,
+        "url": "https://go.vansh.nyc/1pl",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Illumio",
+        "title": "Engineering Intern, SRE",
+        "source": "vanshb03",
+        "id": "75aa0ee4-1736-4cfc-bbf5-9b3dce0fcebc",
+        "date_posted": 1794264115,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794265615,
+        "url": "https://go.vansh.nyc/1pm",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "The New York Times",
+        "title": "Data Analyst Intern",
+        "source": "vanshb03",
+        "id": "08a0ba1f-91bf-4e63-aaf3-7fef1a8c435e",
+        "date_posted": 1794263335,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794265615,
+        "url": "https://go.vansh.nyc/1pn",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "The New York Times",
+        "title": "ML Scientist Intern",
+        "source": "vanshb03",
+        "id": "d1e12bcd-c5f2-4cfa-bb64-ff4de9da3637",
+        "date_posted": 1794263335,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
