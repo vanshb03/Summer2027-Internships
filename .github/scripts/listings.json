@@ -47600,13 +47600,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793740130,
+        "date_updated": 1794262171,
         "url": "https://go.vansh.nyc/1ee",
         "locations": [
             "Toronto, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "EQ Bank",
         "title": "Retail Lending AI Engineer Intern",
         "source": "vanshb03",
@@ -51230,13 +51230,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793873370,
+        "date_updated": 1794262171,
         "url": "https://go.vansh.nyc/1im",
         "locations": [
             "Bellevue, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Golden Analytics",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -54343,13 +54343,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794056734,
+        "date_updated": 1794262171,
         "url": "https://go.vansh.nyc/1m1",
         "locations": [
             "Brentwood, TN"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "IDEMIA",
         "title": "Service Platform Engineering Intern",
         "source": "vanshb03",
@@ -57388,6 +57388,40 @@
         "source": "vanshb03",
         "id": "213eefb5-e919-4ac1-b589-5873a6b5c4b9",
         "date_posted": 1794260255,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794262015,
+        "url": "https://go.vansh.nyc/1pi",
+        "locations": [
+            "Dayton, OH"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Radiance Technologies",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "2666ad0c-8057-4e8b-b71c-d6f11718e96c",
+        "date_posted": 1794259915,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1794262015,
+        "url": "https://go.vansh.nyc/1pj",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "National Interstate Insurance",
+        "title": "Telematics / Predictive Analytics Intern",
+        "source": "vanshb03",
+        "id": "86661ba4-4a5b-4f53-921d-e9925313982b",
+        "date_posted": 1794260635,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
