@@ -57235,5 +57235,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1794256718,
+        "url": "https://go.vansh.nyc/1p8",
+        "locations": [
+            "Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Varian",
+        "title": "Application Software Developer Co-op",
+        "source": "vanshb03",
+        "id": "aa09be7d-ec57-4c7e-aa99-322a69368a4d",
+        "date_posted": 1794256659,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
