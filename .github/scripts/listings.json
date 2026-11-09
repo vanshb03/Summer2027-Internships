@@ -35832,13 +35832,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793282772,
+        "date_updated": 1794245977,
         "url": "https://go.vansh.nyc/YV",
         "locations": [
             "Rochester, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "CACI",
         "title": "Software Engineering Co-op",
         "source": "vanshb03",
@@ -56963,5 +56963,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Spring"
+    },
+    {
+        "date_updated": 1794245880,
+        "url": "https://go.vansh.nyc/1oM",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ryan",
+        "title": "Application Development Intern",
+        "source": "vanshb03",
+        "id": "ae92a5f8-6b79-4f45-90ef-4bdba9ec0a6f",
+        "date_posted": 1794245814,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
