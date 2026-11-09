@@ -22707,13 +22707,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793015500,
+        "date_updated": 1794258781,
         "url": "https://go.vansh.nyc/FB",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Nokia",
         "title": "ASIC Physical Design Co-op",
         "source": "vanshb03",
@@ -57067,13 +57067,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794247714,
+        "date_updated": 1794258781,
         "url": "https://go.vansh.nyc/1oS",
         "locations": [
             "Odenton, MD"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Kudu Dynamics",
         "title": "Cybersecurity Analyst Intern",
         "source": "vanshb03",
@@ -57252,5 +57252,91 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1794258434,
+        "url": "https://go.vansh.nyc/1p9",
+        "locations": [
+            "Pensacola, FL",
+            "Houston, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Persona AI",
+        "title": "Humanoid Robotics Software Intern",
+        "source": "vanshb03",
+        "id": "0ed52c8b-350e-460e-8c9e-be5cfdea0cb3",
+        "date_posted": 1794257234,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794258434,
+        "url": "https://go.vansh.nyc/1pa",
+        "locations": [
+            "Maple Grove, MN"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Boston Scientific",
+        "title": "Urology R&D Software Engineering Co-op",
+        "source": "vanshb03",
+        "id": "e7a26664-8fcd-4bc1-8719-f1b96dc052a2",
+        "date_posted": 1794256574,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1794258434,
+        "url": "https://go.vansh.nyc/1pb",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Carnegie Mellon University",
+        "title": "Advanced Computing Lab Intern",
+        "source": "vanshb03",
+        "id": "ad5f040e-876d-4ce8-aab7-ba884e251e8a",
+        "date_posted": 1794256094,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794258545,
+        "url": "https://go.vansh.nyc/1pc",
+        "locations": [
+            "Scottsdale, AZ"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "General Dynamics Mission Systems, Inc.",
+        "title": "FPGA Engineer Intern",
+        "source": "vanshb03",
+        "id": "fa897076-a1e3-485a-8d34-8855791ca3d0",
+        "date_posted": 1794258479,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794258545,
+        "url": "https://go.vansh.nyc/1pd",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "i3",
+        "title": "Cybersecurity Intern",
+        "source": "vanshb03",
+        "id": "3a1fcd12-db4b-43bc-899d-a7346f94c58b",
+        "date_posted": 1794258479,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
