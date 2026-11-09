@@ -13931,13 +13931,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792554309,
+        "date_updated": 1794247804,
         "url": "https://go.vansh.nyc/dh",
         "locations": [
             "Mountain View, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "LinkedIn",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -49748,13 +49748,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1793810325,
+        "date_updated": 1794247804,
         "url": "https://go.vansh.nyc/1gH",
         "locations": [
             "Auburn Hills, MI"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "BorgWarner",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
@@ -56977,6 +56977,108 @@
         "source": "vanshb03",
         "id": "ae92a5f8-6b79-4f45-90ef-4bdba9ec0a6f",
         "date_posted": 1794245814,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794247614,
+        "url": "https://go.vansh.nyc/1oN",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "UiPath",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "fe8d2d00-dfae-4556-b0a5-99c74f1f21be",
+        "date_posted": 1794244854,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794247614,
+        "url": "https://go.vansh.nyc/1oO",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NBCUniversal",
+        "title": "Data Science Intern, Advertising & Partnerships",
+        "source": "vanshb03",
+        "id": "c84dcc18-2928-42cc-a226-173c14c6b712",
+        "date_posted": 1794245934,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794247614,
+        "url": "https://go.vansh.nyc/1oP",
+        "locations": [
+            "Parsippany, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zoetis",
+        "title": "AI Assistant Development Intern",
+        "source": "vanshb03",
+        "id": "267e71f0-5bd7-4d90-b4a1-0488f14cd83c",
+        "date_posted": 1794245334,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794247714,
+        "url": "https://go.vansh.nyc/1oQ",
+        "locations": [
+            "Laurel, MD"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Johns Hopkins APL",
+        "title": "Artificial Intelligence Intern, Information Fusion",
+        "source": "vanshb03",
+        "id": "3518e5d0-f376-48eb-b2ad-d1566b248458",
+        "date_posted": 1794247633,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794247714,
+        "url": "https://go.vansh.nyc/1oR",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Citizens Energy Group",
+        "title": "IT Security Intern",
+        "source": "vanshb03",
+        "id": "c115fe1e-5740-4e31-b3a2-2cbb70e82b29",
+        "date_posted": 1794247633,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794247714,
+        "url": "https://go.vansh.nyc/1oS",
+        "locations": [
+            "Odenton, MD"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Kudu Dynamics",
+        "title": "Cybersecurity Analyst Intern",
+        "source": "vanshb03",
+        "id": "6193ee27-1bb9-4191-be7a-a79f807d23d5",
+        "date_posted": 1794247633,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
