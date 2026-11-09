@@ -534,7 +534,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | GeoComply | Browser Security Engineer Intern | Vancouver, Canada | <a href="https://go.vansh.nyc/QA?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 09 |
 | Pinterest | Machine Learning Intern, PhD | <details><summary>**4 locations**</summary>San Francisco, CA</br>Palo Alto, CA</br>Seattle, WA</br>New York, NY</details> | <a href="https://go.vansh.nyc/1C?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 20 |
 | ↳ | Software Engineer Intern | Toronto, Canada | <a href="https://go.vansh.nyc/1s?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 20 |
-| PathAI | Machine Learning Intern, AI Product and ML Core | Boston, MA</br>New York, NY</br>Remote | <a href="https://go.vansh.nyc/1A?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 20 |
 | Mesh Optical Technologies | Associate Software Engineer Co-op | Gardena, CA | <a href="https://go.vansh.nyc/BQ?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 16 |
 | Pinterest | Software Engineer Intern | Toronto, Canada | <a href="https://go.vansh.nyc/Y?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 24 |
 | Colgate-Palmolive | Software Development Intern | Piscataway, NJ | <a href="https://go.vansh.nyc/U?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
@@ -799,6 +798,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Tesla | Software Engineer Intern, Vehicle Engineering | Palo Alto, CA</br>Fremont, CA | 🔒 | Apr 20 |
 | SpaceX | Engineering Intern 🇺🇸 | <details><summary>**8 locations**</summary>Bastrop, TX</br>Cape Canaveral, FL</br>Hawthorne, CA</br>Irvine, CA</br>McGregor, TX</br>Redmond, WA</br>Starbase, TX</br>Vandenberg, CA</details> | 🔒 | Apr 20 |
 | ↳ | Software Engineering Intern 🇺🇸 | <details><summary>**8 locations**</summary>Bastrop, TX</br>Cape Canaveral, FL</br>Hawthorne, CA</br>Irvine, CA</br>McGregor, TX</br>Redmond, WA</br>Starbase, TX</br>Sunnyvale, CA</details> | 🔒 | Apr 20 |
+| PathAI | Machine Learning Intern, AI Product and ML Core | Boston, MA</br>New York, NY</br>Remote | 🔒 | Apr 20 |
 | NBCUniversal | Software Engineering Intern 🛂 | Universal City, CA | 🔒 | Apr 20 |
 | ↳ | Software Engineering Intern 🛂 | New York, NY | 🔒 | Apr 20 |
 | Hermeus | Modeling & Simulation Software Engineering Intern 🇺🇸 | Los Angeles, CA | 🔒 | Apr 20 |
