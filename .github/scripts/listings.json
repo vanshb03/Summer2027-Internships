@@ -10977,13 +10977,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1792261427,
+        "date_updated": 1794236987,
         "url": "https://go.vansh.nyc/av",
         "locations": [
             "Orrville, OH"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "J.M. Smucker",
         "title": "Finance Technology Intern",
         "source": "vanshb03",
@@ -18220,7 +18220,7 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1792812208,
+        "date_updated": 1794236987,
         "url": "https://go.vansh.nyc/hg",
         "locations": [
             "Toronto, Canada",
@@ -18228,7 +18228,7 @@
             "Edmonton, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "RSM",
         "title": "Business Intelligence Consulting Intern",
         "source": "vanshb03",
@@ -48826,13 +48826,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793747321,
+        "date_updated": 1794236987,
         "url": "https://go.vansh.nyc/1fs",
         "locations": [
             "Indianapolis, IN"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Simon Property Group",
         "title": "Front End Developer Intern",
         "source": "vanshb03",
@@ -56494,6 +56494,25 @@
         "source": "vanshb03",
         "id": "5a039fd2-bc18-4f15-a02e-d41d23fe0175",
         "date_posted": 1793277287,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794236831,
+        "url": "https://go.vansh.nyc/1ok",
+        "locations": [
+            "San Jose, CA",
+            "Austin, TX",
+            "Research Triangle Park, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cisco",
+        "title": "Software Engineer Intern, Full-Stack / Backend I",
+        "source": "vanshb03",
+        "id": "8fa2e7e6-1cd2-40bb-beef-79cc408d52ff",
+        "date_posted": 1794236111,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
