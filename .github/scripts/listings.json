@@ -55368,5 +55368,125 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1794186425,
+        "url": "https://go.vansh.nyc/1nc",
+        "locations": [
+            "Ottawa, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SiTime",
+        "title": "ASIC Digital Verification Engineer Intern",
+        "source": "vanshb03",
+        "id": "c5a72135-7e89-421c-804f-f05a259b0adb",
+        "date_posted": 1792112781,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794186425,
+        "url": "https://go.vansh.nyc/1nd",
+        "locations": [
+            "Ottawa, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SiTime",
+        "title": "ASIC Digital Verification Engineer Co-op",
+        "source": "vanshb03",
+        "id": "908308ac-10b6-4d8b-96d6-bd8c958d0c87",
+        "date_posted": 1792112793,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1794186425,
+        "url": "https://go.vansh.nyc/1ne",
+        "locations": [
+            "Washington, DC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Systems Planning and Analysis",
+        "title": "Data Engineering & Analytics Tools Intern",
+        "source": "vanshb03",
+        "id": "b7d5f948-1ff0-46a4-b0f9-3848f50de77a",
+        "date_posted": 1792186320,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794186425,
+        "url": "https://go.vansh.nyc/1nf",
+        "locations": [
+            "Greeneville, TN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "John Deere",
+        "title": "Process Automation Intern, Data and Analytics",
+        "source": "vanshb03",
+        "id": "8af46d45-6e4b-4e9c-a519-6e9654672bec",
+        "date_posted": 1792188899,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794186425,
+        "url": "https://go.vansh.nyc/1ng",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Integrate",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "eb64cc81-65d3-4063-959e-c5ca2e8c55c8",
+        "date_posted": 1792454400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794186425,
+        "url": "https://go.vansh.nyc/1nh",
+        "locations": [
+            "Remote",
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "OneEthos",
+        "title": "Research and Development Intern",
+        "source": "vanshb03",
+        "id": "c6a471a1-3b6f-4385-84ae-6ab0c4a82ae6",
+        "date_posted": 1792511877,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1794186607,
+        "url": "https://go.vansh.nyc/1ni",
+        "locations": [
+            "Lakeland, FL"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "National Interstate Insurance",
+        "title": "Data Scientist Intern",
+        "source": "vanshb03",
+        "id": "4fdc5052-c2c8-4240-bf13-acff01f0d78a",
+        "date_posted": 1794186525,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
