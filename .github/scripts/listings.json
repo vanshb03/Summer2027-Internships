@@ -8747,13 +8747,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1792261427,
+        "date_updated": 1794251398,
         "url": "https://go.vansh.nyc/8o",
         "locations": [
             "Rochester, MN"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Western Digital",
         "title": "Recording Electronics Data Analytics & Optimization Co-op",
         "source": "vanshb03",
@@ -24134,13 +24134,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793016276,
+        "date_updated": 1794251398,
         "url": "https://go.vansh.nyc/GV",
         "locations": [
             "Ottawa, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Fullscript",
         "title": "Software Developer Co-op",
         "source": "vanshb03",
@@ -35417,13 +35417,13 @@
         "season": "Spring"
     },
     {
-        "date_updated": 1793228719,
+        "date_updated": 1794251398,
         "url": "https://go.vansh.nyc/Yp",
         "locations": [
             "Boise, ID"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Marvell",
         "title": "Data Science Intern",
         "source": "vanshb03",
@@ -36481,13 +36481,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793313325,
+        "date_updated": 1794251398,
         "url": "https://go.vansh.nyc/ZH",
         "locations": [
             "Charlotte, NC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Schweitzer Engineering Laboratories",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -47121,13 +47121,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793716528,
+        "date_updated": 1794251398,
         "url": "https://go.vansh.nyc/1dC",
         "locations": [
             "Lancaster, PA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Eurofins",
         "title": "Business Intelligence Intern",
         "source": "vanshb03",
@@ -57130,6 +57130,74 @@
         "source": "vanshb03",
         "id": "dd2a7958-5983-41de-ac76-6e7efd0c99b6",
         "date_posted": 1794239440,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794251217,
+        "url": "https://go.vansh.nyc/1oX",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lila Sciences",
+        "title": "IT/OT Security Analyst Co-op",
+        "source": "vanshb03",
+        "id": "808ff717-05af-4c04-b7c0-df5ba8676f40",
+        "date_posted": 1794249597,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1794251217,
+        "url": "https://go.vansh.nyc/1oY",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lila Sciences",
+        "title": "Applied AI Platform Engineer Co-op, Software",
+        "source": "vanshb03",
+        "id": "5db67006-26b2-416d-8599-d1ffb446cf14",
+        "date_posted": 1794249537,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1794251311,
+        "url": "https://go.vansh.nyc/1oZ",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SeatGeek",
+        "title": "Security Engineer Intern",
+        "source": "vanshb03",
+        "id": "ae4552d8-36f3-4b6d-8e04-0b70e70952ef",
+        "date_posted": 1793221683,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794251311,
+        "url": "https://go.vansh.nyc/1p0",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SeatGeek",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "9be71852-c6b0-4056-9e1c-3665750a1199",
+        "date_posted": 1793222844,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
