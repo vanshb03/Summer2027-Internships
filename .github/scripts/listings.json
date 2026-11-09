@@ -55847,5 +55847,243 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1794211593,
+        "url": "https://go.vansh.nyc/1nI",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Varda Space Industries",
+        "title": "Flight Software Intern",
+        "source": "vanshb03",
+        "id": "19dd7308-5c4e-45e0-84c9-8800e3f59010",
+        "date_posted": 1790845434,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794211593,
+        "url": "https://go.vansh.nyc/1nJ",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Stripe",
+        "title": "Data Analyst Intern",
+        "source": "vanshb03",
+        "id": "fc8233cc-5c02-4e1d-b5c0-5fb369428195",
+        "date_posted": 1790893239,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1794211593,
+        "url": "https://go.vansh.nyc/1nK",
+        "locations": [
+            "Malvern, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Vanguard",
+        "title": "College to Corporate IT Intern, Application Development",
+        "source": "vanshb03",
+        "id": "fcc01c13-45b3-4be7-ba19-79e89381c3f2",
+        "date_posted": 1790899200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794211593,
+        "url": "https://go.vansh.nyc/1nL",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Vanguard",
+        "title": "IT Intern, Application Development",
+        "source": "vanshb03",
+        "id": "bc11f4e6-62a1-4bef-b5b0-5fa51f5afa39",
+        "date_posted": 1790899200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794211593,
+        "url": "https://go.vansh.nyc/1nM",
+        "locations": [
+            "Lincoln, NE"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nelnet",
+        "title": "IT Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "e7fe5587-7fd8-44ea-91c1-047f3b94b1b3",
+        "date_posted": 1790899200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794211593,
+        "url": "https://go.vansh.nyc/1nN",
+        "locations": [
+            "Ashburn, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CACI",
+        "title": "Software Development Intern",
+        "source": "vanshb03",
+        "id": "ce32dd31-863a-4a7d-8aae-c93561b8d261",
+        "date_posted": 1790899200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794211593,
+        "url": "https://go.vansh.nyc/1nO",
+        "locations": [
+            "Malvern, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Vanguard",
+        "title": "College to Corporate Investment Systems Intern",
+        "source": "vanshb03",
+        "id": "45126834-dfec-4362-939c-d9b0a1ccd894",
+        "date_posted": 1790899200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794211593,
+        "url": "https://go.vansh.nyc/1nP",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "xAI",
+        "title": "Software Engineering Co-op",
+        "source": "vanshb03",
+        "id": "1236ec56-5b53-4c21-a3a5-d1b2cb939ece",
+        "date_posted": 1790979147,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1794211593,
+        "url": "https://go.vansh.nyc/1nQ",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "xAI",
+        "title": "Software Engineer Co-op",
+        "source": "vanshb03",
+        "id": "ee4a0d64-e248-4b1f-b5f6-653c297c2f13",
+        "date_posted": 1790979149,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794211593,
+        "url": "https://go.vansh.nyc/1nR",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Affirm",
+        "title": "Software Engineer Intern, Machine Learning",
+        "source": "vanshb03",
+        "id": "20691b9f-a82b-445c-8815-01271f978a4b",
+        "date_posted": 1790979178,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794211593,
+        "url": "https://go.vansh.nyc/1nS",
+        "locations": [
+            "Golden, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "National Laboratory of the Rockies",
+        "title": "Undergraduate/Graduate Cyber Security Research Intern, 5G",
+        "source": "vanshb03",
+        "id": "507f7398-5baf-4f6a-afcc-6697bbb982a6",
+        "date_posted": 1791158400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1794211593,
+        "url": "https://go.vansh.nyc/1nT",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Atlassian",
+        "title": "Data Engineer Intern",
+        "source": "vanshb03",
+        "id": "a0b0d298-460e-4ad7-b17f-d772fb049241",
+        "date_posted": 1791237838,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794211593,
+        "url": "https://go.vansh.nyc/1nU",
+        "locations": [
+            "Washington, DC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "American Enterprise Institute",
+        "title": "Data Analyst and Education Policy Intern",
+        "source": "vanshb03",
+        "id": "d9599fc9-69d3-4790-a9e7-1b370f5f87af",
+        "date_posted": 1791238658,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1794211593,
+        "url": "https://go.vansh.nyc/1nV",
+        "locations": [
+            "Manassas, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "General Dynamics Mission Systems",
+        "title": "Software Engineer Intern, CWL",
+        "source": "vanshb03",
+        "id": "c9900bd9-103e-44cc-a6a6-f04d79380d57",
+        "date_posted": 1791238880,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
