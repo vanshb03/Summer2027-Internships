@@ -56275,13 +56275,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794215186,
+        "date_updated": 1794220056,
         "url": "https://go.vansh.nyc/1o7",
         "locations": [
             "Boston, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "DraftKings",
         "title": "Analytics Intern",
         "source": "vanshb03",
@@ -56343,13 +56343,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794215186,
+        "date_updated": 1794220056,
         "url": "https://go.vansh.nyc/1ob",
         "locations": [
             "Chicago, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "The Federal Reserve System",
         "title": "Data Science Intern",
         "source": "vanshb03",
