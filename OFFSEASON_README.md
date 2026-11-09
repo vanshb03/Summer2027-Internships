@@ -72,6 +72,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Omya | Data Scientist Co-op | Cincinnati, OH | <a href="https://go.vansh.nyc/1iz?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | Nelnet | Platform Engineer Intern | Mississauga, Canada | <a href="https://go.vansh.nyc/1iO?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | Montgomery Investment Technology, Inc. | Computer Programming Intern | Cinnaminson, NJ | <a href="https://go.vansh.nyc/1i3?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
+| Langan Engineering & Environmental Services | Cyber Security Co-op | Parsippany, NJ | <a href="https://go.vansh.nyc/1oK?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | Johns Hopkins APL | Maritime Software Development Intern, Ocean Systems and Engineering | Laurel, MD | <a href="https://go.vansh.nyc/1jq?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | Fresenius Medical Care | Embedded Software Co-op | Lawrence, MA | <a href="https://go.vansh.nyc/1jc?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | Apex Technology, Inc. | Ground Software Engineering Intern | Los Angeles, CA | <a href="https://go.vansh.nyc/1jo?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
