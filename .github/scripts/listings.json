@@ -1417,7 +1417,7 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1776727656,
+        "date_updated": 1794249752,
         "url": "https://go.vansh.nyc/1A",
         "locations": [
             "Boston, MA",
@@ -1425,7 +1425,7 @@
             "Remote"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "PathAI",
         "title": "Machine Learning Intern, AI Product and ML Core",
         "source": "vanshb03",
@@ -7127,13 +7127,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1787326622,
+        "date_updated": 1794249752,
         "url": "https://go.vansh.nyc/6S",
         "locations": [
             "Cary, United States"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Epic Games",
         "title": "Gameplay Programmer Intern",
         "source": "vanshb03",
@@ -16231,13 +16231,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792717375,
+        "date_updated": 1794249752,
         "url": "https://go.vansh.nyc/fp",
         "locations": [
             "Berthoud, CO"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Ursa Major",
         "title": "Software Development Intern",
         "source": "vanshb03",
@@ -16248,13 +16248,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792717375,
+        "date_updated": 1794249752,
         "url": "https://go.vansh.nyc/fq",
         "locations": [
             "Longmont, CO"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Ursa Major",
         "title": "Embedded Flight Software Intern",
         "source": "vanshb03",
@@ -24117,13 +24117,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793015500,
+        "date_updated": 1794249752,
         "url": "https://go.vansh.nyc/GU",
         "locations": [
             "Sunnyvale, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Hewlett Packard Enterprise",
         "title": "Firmware Engineer Intern",
         "source": "vanshb03",
@@ -37612,13 +37612,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793396179,
+        "date_updated": 1794249752,
         "url": "https://go.vansh.nyc/111",
         "locations": [
             "Sunnyvale, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Hewlett Packard Enterprise",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
@@ -57079,6 +57079,57 @@
         "source": "vanshb03",
         "id": "6193ee27-1bb9-4191-be7a-a79f807d23d5",
         "date_posted": 1794247633,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794249425,
+        "url": "https://go.vansh.nyc/1oU",
+        "locations": [
+            "Lenexa, KS"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Viavi Solutions",
+        "title": "Digital Hardware Engineering Intern",
+        "source": "vanshb03",
+        "id": "569be888-1e6f-493d-9835-5383206d3150",
+        "date_posted": 1794248585,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794249676,
+        "url": "https://go.vansh.nyc/1oV",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Scout Motors Inc.",
+        "title": "Digital Products Intern",
+        "source": "vanshb03",
+        "id": "338de2be-998c-460e-bf00-c016492cef1a",
+        "date_posted": 1794239360,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794249676,
+        "url": "https://go.vansh.nyc/1oW",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Scout Motors Inc.",
+        "title": "IT Intern",
+        "source": "vanshb03",
+        "id": "dd2a7958-5983-41de-ac76-6e7efd0c99b6",
+        "date_posted": 1794239440,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
