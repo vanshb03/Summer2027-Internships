@@ -31426,14 +31426,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793031368,
+        "date_updated": 1794238829,
         "url": "https://go.vansh.nyc/RV",
         "locations": [
             "Remote",
             "United States"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TPG",
         "title": "Research Assistant Intern, Data Analytics and Reporting",
         "source": "vanshb03",
@@ -49816,7 +49816,7 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793812147,
+        "date_updated": 1794238829,
         "url": "https://go.vansh.nyc/1gL",
         "locations": [
             "Remote",
@@ -49825,7 +49825,7 @@
             "Shiloh, IL"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Kudu Dynamics",
         "title": "Software Engineering & AI Intern",
         "source": "vanshb03",
@@ -51298,13 +51298,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793876953,
+        "date_updated": 1794238829,
         "url": "https://go.vansh.nyc/1ir",
         "locations": [
             "Florham Park, NJ"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Concord Advice",
         "title": "Data Scientist Intern",
         "source": "vanshb03",
@@ -56513,6 +56513,112 @@
         "source": "vanshb03",
         "id": "8fa2e7e6-1cd2-40bb-beef-79cc408d52ff",
         "date_posted": 1794236111,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794238574,
+        "url": "https://go.vansh.nyc/1ol",
+        "locations": [
+            "Houston, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Apache Industrial",
+        "title": "AI Implementation Intern",
+        "source": "vanshb03",
+        "id": "ad4ae377-6f8c-493c-96ad-71fa37f586d4",
+        "date_posted": 1794182400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1794238574,
+        "url": "https://go.vansh.nyc/1om",
+        "locations": [
+            "Chantilly, VA",
+            "Pittsfield, MA",
+            "Scottsdale, AZ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "General Dynamics Mission Systems",
+        "title": "Full-Stack Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "21a74fde-c5a5-40c0-9bb3-d7a55e731679",
+        "date_posted": 1794182400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794238574,
+        "url": "https://go.vansh.nyc/1on",
+        "locations": [
+            "Chantilly, VA",
+            "Pittsfield, MA",
+            "Scottsdale, AZ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "General Dynamics Mission Systems",
+        "title": "Full-Stack Application Development Intern",
+        "source": "vanshb03",
+        "id": "4c69be07-00ea-4d4a-8871-6295f0dab440",
+        "date_posted": 1794182400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794238574,
+        "url": "https://go.vansh.nyc/1oo",
+        "locations": [
+            "Chillicothe, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Paccar",
+        "title": "Data Analyst Intern",
+        "source": "vanshb03",
+        "id": "4fdc7cf3-4f2b-4a9b-89ac-9c854a974640",
+        "date_posted": 1794237704,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794238642,
+        "url": "https://go.vansh.nyc/1op",
+        "locations": [
+            "Kalamazoo, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zoetis",
+        "title": "IT/OT Security Intern",
+        "source": "vanshb03",
+        "id": "3df5246e-9e3d-4faf-82ec-52c58610f5cd",
+        "date_posted": 1794237622,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794238743,
+        "url": "https://go.vansh.nyc/1oq",
+        "locations": [
+            "Sterling, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CACI",
+        "title": "Cyber Security Intern",
+        "source": "vanshb03",
+        "id": "867ddc34-305e-4883-a708-eef87e9cc00a",
+        "date_posted": 1794238656,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
