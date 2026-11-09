@@ -25787,14 +25787,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793021626,
+        "date_updated": 1794254980,
         "url": "https://go.vansh.nyc/Jt",
         "locations": [
             "Toronto, Canada",
             "Ottawa, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Marvell",
         "title": "Data Center Silicon Hardware Engineering Co-op",
         "source": "vanshb03",
@@ -35434,13 +35434,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793228719,
+        "date_updated": 1794254980,
         "url": "https://go.vansh.nyc/Yq",
         "locations": [
             "Rensselaer, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Regeneron Pharmaceuticals",
         "title": "Data Science & Digital Innovation Intern, Industrial Operations and Product Supply",
         "source": "vanshb03",
@@ -53050,13 +53050,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793983123,
+        "date_updated": 1794254980,
         "url": "https://go.vansh.nyc/1kz",
         "locations": [
             "Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Varian",
         "title": "Embedded Software Developer Co-op",
         "source": "vanshb03",
