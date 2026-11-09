@@ -27195,7 +27195,7 @@
         "season": "Spring"
     },
     {
-        "date_updated": 1793023513,
+        "date_updated": 1794204641,
         "url": "https://go.vansh.nyc/M2",
         "locations": [
             "Peoria, IL",
@@ -27205,7 +27205,7 @@
             "Irving, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Caterpillar",
         "title": "Corporate Intern, Autonomy & Intelligent Systems Engineering",
         "source": "vanshb03",
@@ -27251,7 +27251,7 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793023513,
+        "date_updated": 1794204641,
         "url": "https://go.vansh.nyc/M5",
         "locations": [
             "Peoria, IL",
@@ -27259,7 +27259,7 @@
             "Irving, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Caterpillar",
         "title": "Corporate Intern, Digital and Analytics",
         "source": "vanshb03",
@@ -35298,13 +35298,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793226961,
+        "date_updated": 1794204641,
         "url": "https://go.vansh.nyc/Yg",
         "locations": [
             "Frisco, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "T-Mobile",
         "title": "Associate Technical Product Manager Intern",
         "source": "vanshb03",
@@ -52725,13 +52725,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793975933,
+        "date_updated": 1794204641,
         "url": "https://go.vansh.nyc/1kc",
         "locations": [
             "SeaTac, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Alaska Airlines",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -52742,13 +52742,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793975933,
+        "date_updated": 1794204641,
         "url": "https://go.vansh.nyc/1kd",
         "locations": [
             "SeaTac, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Alaska Airlines",
         "title": "Cybersecurity Threat Defense Intern",
         "source": "vanshb03",
@@ -52759,13 +52759,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793975933,
+        "date_updated": 1794204641,
         "url": "https://go.vansh.nyc/1ke",
         "locations": [
             "SeaTac, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Alaska Airlines",
         "title": "Software Delivery Platform Intern",
         "source": "vanshb03",
@@ -55028,13 +55028,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794128784,
+        "date_updated": 1794204641,
         "url": "https://go.vansh.nyc/1mN",
         "locations": [
             "Renton, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Alaska Air Group",
         "title": "VR Development Intern",
         "source": "vanshb03",
@@ -55571,6 +55571,142 @@
         "source": "vanshb03",
         "id": "47f25f76-21e5-42c6-9680-a5a09556c002",
         "date_posted": 1792074960,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794204387,
+        "url": "https://go.vansh.nyc/1ns",
+        "locations": [
+            "Atlantic City, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Leidos",
+        "title": "Systems Integration and Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "7a2a976a-e365-4324-8ea3-b7da8234f952",
+        "date_posted": 1791417600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794204387,
+        "url": "https://go.vansh.nyc/1nt",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "General Motors",
+        "title": "Autonomous Driving Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "c82f4ef1-8277-4f3e-9e78-85f8ab6c9895",
+        "date_posted": 1791417600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794204387,
+        "url": "https://go.vansh.nyc/1nu",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tenstorrent",
+        "title": "AI Software Intern",
+        "source": "vanshb03",
+        "id": "460c645e-5cf9-4b30-85bc-72968c00cab1",
+        "date_posted": 1791450939,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794204387,
+        "url": "https://go.vansh.nyc/1nv",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "IMC Trading",
+        "title": "Machine Learning Engineer Intern",
+        "source": "vanshb03",
+        "id": "3cfe85bc-2361-4726-8342-2d90c4cd75a0",
+        "date_posted": 1791497959,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794204387,
+        "url": "https://go.vansh.nyc/1nw",
+        "locations": [
+            "Peachtree Corners, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SoloPulse",
+        "title": "Software Engineer Co-op",
+        "source": "vanshb03",
+        "id": "bfbc46ee-7a0d-4afb-ba1c-5911afd9428d",
+        "date_posted": 1791498217,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1794204387,
+        "url": "https://go.vansh.nyc/1nx",
+        "locations": [
+            "Topeka, KS"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Peraton",
+        "title": "Software Development Intern",
+        "source": "vanshb03",
+        "id": "82160097-3674-40c9-b1b5-caaa8c7428e4",
+        "date_posted": 1791498349,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794204387,
+        "url": "https://go.vansh.nyc/1ny",
+        "locations": [
+            "Walnut Creek, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Aptiv",
+        "title": "Compiler Intern, Compiler Team",
+        "source": "vanshb03",
+        "id": "31325448-574f-4b22-a81b-bdb1e3b527b1",
+        "date_posted": 1791504000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794204387,
+        "url": "https://go.vansh.nyc/1nz",
+        "locations": [
+            "San Antonio, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Aptiv",
+        "title": "Linux Software Development Intern",
+        "source": "vanshb03",
+        "id": "b093d4f3-ee62-4431-8d2e-ade149dfa0a1",
+        "date_posted": 1791504000,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
