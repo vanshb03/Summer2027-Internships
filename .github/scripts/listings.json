@@ -9580,13 +9580,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792261427,
+        "date_updated": 1794345287,
         "url": "https://go.vansh.nyc/9b",
         "locations": [
             "Reston, VA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "ICF International",
         "title": "AI Engineer Intern",
         "source": "vanshb03",
@@ -49340,13 +49340,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793775957,
+        "date_updated": 1794345287,
         "url": "https://go.vansh.nyc/1g8",
         "locations": [
             "Jupiter, FL"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "RTX",
         "title": "Control/Diagnostic Software Intern",
         "source": "vanshb03",
@@ -59837,6 +59837,23 @@
         "source": "vanshb03",
         "id": "2583a454-d120-4eb2-8aa6-89faa5496700",
         "date_posted": 1794272755,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794345126,
+        "url": "https://go.vansh.nyc/1s3",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Addepar",
+        "title": "Product Intern",
+        "source": "vanshb03",
+        "id": "acc518a7-582f-494a-b92b-bae38debd6ae",
+        "date_posted": 1794327530,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
