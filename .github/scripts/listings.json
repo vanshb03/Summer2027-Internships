@@ -53016,13 +53016,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793981344,
+        "date_updated": 1794294565,
         "url": "https://go.vansh.nyc/1kv",
         "locations": [
             "Englewood, CO"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Invitation-charter",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -58126,6 +58126,57 @@
         "source": "vanshb03",
         "id": "d41d8a52-3a90-4f12-8ca6-20bd3650bbd4",
         "date_posted": 1793726451,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794294498,
+        "url": "https://go.vansh.nyc/1q4",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Domino Data Lab",
+        "title": "Software Engineer Intern, Campus Recruiting",
+        "source": "vanshb03",
+        "id": "c3a95a2c-e2f2-4585-8471-24dee58961d8",
+        "date_posted": 1790191365,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794294498,
+        "url": "https://go.vansh.nyc/1q5",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "National Information Solutions Cooperative",
+        "title": "Software Development Intern",
+        "source": "vanshb03",
+        "id": "a0148a4e-205d-464c-83ad-88313e777e10",
+        "date_posted": 1793996703,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794294498,
+        "url": "https://go.vansh.nyc/1q6",
+        "locations": [
+            "Mandan, ND"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "National Information Solutions Cooperative",
+        "title": "Software Development Intern",
+        "source": "vanshb03",
+        "id": "ae2f41c7-1d17-4ab6-b8be-27bc7704d016",
+        "date_posted": 1793996852,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
