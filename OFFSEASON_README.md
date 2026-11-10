@@ -68,7 +68,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | SharkNinja | Applied AI & Analytics Co-op, AI | Miami, FL</br>Needham, MA | <a href="https://go.vansh.nyc/1la?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | Samsara | Software Engineering Intern | San Francisco, CA | <a href="https://go.vansh.nyc/1kA?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | OLG | Analytics Engineering & Measurement Intern | Toronto, Canada</br>Sault Ste. Marie, Canada | <a href="https://go.vansh.nyc/1ld?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
-| Hootsuite | Software Development Co-op | Vancouver, Canada</br>Toronto, Canada | <a href="https://go.vansh.nyc/1lf?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | Globus Medical | Software Co-op | Methuen, MA | <a href="https://go.vansh.nyc/1kn?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | Danaher Corporation | Firmware Engineer Co-op | Indianapolis, IN | <a href="https://go.vansh.nyc/1kG?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | Astranis | Embedded Software Developer Intern, Network/Payload 🇺🇸 | San Francisco, CA | <a href="https://go.vansh.nyc/1lz?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
@@ -539,7 +538,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Colgate-Palmolive | Software Development Intern | Piscataway, NJ | <a href="https://go.vansh.nyc/U?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
 | Shopify | Engineering and Data Intern | Remote</br>Canada | <a href="https://go.vansh.nyc/G?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 19 |
 | Varian | Embedded Software Developer Co-op | Canada | 🔒 | Nov 06 |
-| Hootsuite | DevOps Co-op | Canada | 🔒 | Nov 06 |
+| Hootsuite | Software Development Co-op | Vancouver, Canada</br>Toronto, Canada | 🔒 | Nov 06 |
+| ↳ | DevOps Co-op | Canada | 🔒 | Nov 06 |
 | TD Bank | Software Engineer Co-op | Toronto, Canada</br>Mississauga, Canada</br>London, Canada | 🔒 | Nov 05 |
 | Nova-Tech | Software Development Co-op | Willmar, MN | 🔒 | Nov 05 |
 | TMX Group | Security Engineering Intern | Toronto, Canada | 🔒 | Nov 04 |
