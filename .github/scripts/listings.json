@@ -48530,13 +48530,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793745378,
+        "date_updated": 1794323497,
         "url": "https://go.vansh.nyc/1fa",
         "locations": [
             "Cambridge, MA"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Moderna",
         "title": "mRNA Design Engineering Co-op",
         "source": "vanshb03",
@@ -58316,6 +58316,23 @@
         "source": "vanshb03",
         "id": "5facce2b-efaa-4576-b639-c82634711b4b",
         "date_posted": 1794319595,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794323140,
+        "url": "https://go.vansh.nyc/1qr",
+        "locations": [
+            "San Antonio, TX"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "General Dynamics Mission Systems",
+        "title": "Linux Automation Intern, Linux Integration and Test Engineer",
+        "source": "vanshb03",
+        "id": "5f859c9d-f0ee-4684-80c4-ee4e8f6aafc8",
+        "date_posted": 1794268800,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
