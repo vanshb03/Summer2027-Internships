@@ -334,7 +334,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Military Systems Cybersecurity Engineer Intern | Laurel, MD | <a href="https://go.vansh.nyc/R7?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
 | ↳ | Cyber Security Intern, Cyber Dominance | Laurel, MD | <a href="https://go.vansh.nyc/R8?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
 | ↳ | Reverse Engineer Intern, Offensive Cyber Capabilities | Laurel, MD | <a href="https://go.vansh.nyc/R9?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
-| ↳ | Algorithm, Software, or RF Systems Engineering Intern | Laurel, MD | <a href="https://go.vansh.nyc/Rb?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
 | ↳ | Cybersecurity Engineer Intern, Critical Infrastructure Protection | Laurel, MD | <a href="https://go.vansh.nyc/Rc?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
 | HeyGen | Software Engineer Intern | <details><summary>**4 locations**</summary>Toronto, ON, Canada</br>SF</br>LA</br>Singapore</details> | <a href="https://go.vansh.nyc/bb?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
 | Foresters Financial | Quality Assurance Engineer Co-op | Toronto, Canada | <a href="https://go.vansh.nyc/QP?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
@@ -627,7 +626,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | BMO | Data & AI Analyst Co-op | Toronto, ON, Canada | 🔒 | Oct 20 |
 | ABB | Integrated Motor Drive Software Co-op | Greenville, SC | 🔒 | Oct 19 |
 | Manulife Financial | AI Co-op | Toronto, ON, Canada | 🔒 | Oct 18 |
-| Johns Hopkins Applied Physics Laboratory | Cybersecurity Intern, Mission Engineering | Laurel, MD | 🔒 | Oct 18 |
+| Johns Hopkins Applied Physics Laboratory | Algorithm, Software, or RF Systems Engineering Intern | Laurel, MD | 🔒 | Oct 18 |
+| ↳ | Cybersecurity Intern, Mission Engineering | Laurel, MD | 🔒 | Oct 18 |
 | CIBC | Application Developer Co-op - Enterprise Technology & Business Management | Toronto, ON, Canada | 🔒 | Oct 18 |
 | ↳ | Application/Software Developer Co-op - Capital Markets Technology | Toronto, ON, Canada | 🔒 | Oct 18 |
 | Bombardier | Extended Reality Programmer Intern | Dorval, Canada | 🔒 | Oct 18 |
