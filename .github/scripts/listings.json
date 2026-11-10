@@ -45917,13 +45917,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793686189,
+        "date_updated": 1794327209,
         "url": "https://go.vansh.nyc/1cs",
         "locations": [
             "Tempe, AZ"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "DriveTime",
         "title": "Database Engineering Intern",
         "source": "vanshb03",
@@ -46558,13 +46558,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793686189,
+        "date_updated": 1794327209,
         "url": "https://go.vansh.nyc/1d3",
         "locations": [
             "Longmont, CO"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Micron Technology",
         "title": "Data Center SSD Firmware Intern",
         "source": "vanshb03",
@@ -46575,13 +46575,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793686189,
+        "date_updated": 1794327209,
         "url": "https://go.vansh.nyc/1d4",
         "locations": [
             "Longmont, CO"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Micron Technology",
         "title": "Firmware Engineer Intern",
         "source": "vanshb03",
@@ -54651,13 +54651,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794085710,
+        "date_updated": 1794327209,
         "url": "https://go.vansh.nyc/1mo",
         "locations": [
             "Chicago, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Marmon Holdings",
         "title": "AI Technology Solutions Intern",
         "source": "vanshb03",
@@ -54994,13 +54994,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794114523,
+        "date_updated": 1794327209,
         "url": "https://go.vansh.nyc/1mL",
         "locations": [
             "Boston, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Klaviyo",
         "title": "Software Engineer Co-op",
         "source": "vanshb03",
@@ -58402,6 +58402,57 @@
         "source": "vanshb03",
         "id": "85ecb08f-ea9d-451f-9363-8950923b7e4f",
         "date_posted": 1794325204,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794326889,
+        "url": "https://go.vansh.nyc/1qw",
+        "locations": [
+            "Duncan, SC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "AFL",
+        "title": "Business Intelligence (BI) Co-op",
+        "source": "vanshb03",
+        "id": "c14ba8ad-7573-44ea-b9d7-7791fe925a83",
+        "date_posted": 1794326766,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1794326889,
+        "url": "https://go.vansh.nyc/1qx",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "OneAmerica Financial",
+        "title": "Cyber Security Intern",
+        "source": "vanshb03",
+        "id": "612f587a-4810-472a-a35e-962a5e884343",
+        "date_posted": 1794326766,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794326889,
+        "url": "https://go.vansh.nyc/1qy",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Clarios",
+        "title": "IT Digital/AI Intern",
+        "source": "vanshb03",
+        "id": "2d044054-cf1c-4988-9ff3-5a7cb655fd36",
+        "date_posted": 1794326766,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
