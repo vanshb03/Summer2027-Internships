@@ -59857,5 +59857,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1794346692,
+        "url": "https://go.vansh.nyc/1s5",
+        "locations": [
+            "Columbus, GA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Global Payments",
+        "title": "CyberSecurity Intern",
+        "source": "vanshb03",
+        "id": "5a76f055-1a11-465f-8f04-89acbb6b621c",
+        "date_posted": 1794346594,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
