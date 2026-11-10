@@ -43,6 +43,12 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Peripheral | Software Engineer Intern, Infrastructure | Toronto, Canada | <a href="https://go.vansh.nyc/1ri?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
+| ↳ | Embedded Systems Engineering Intern, Capture Systems | Toronto, Canada | <a href="https://go.vansh.nyc/1rk?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
+| ↳ | ML Research Intern, Reconstruction | Toronto, Canada | <a href="https://go.vansh.nyc/1rl?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
+| Mantlebio | Computational Biology Research Engineer Intern | San Francisco, CA | <a href="https://go.vansh.nyc/1qV?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
+| Hitachi | DevOps Analyst Intern | Toronto, Canada | <a href="https://go.vansh.nyc/1ro?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
+| Amgen | Undergraduate Software Engineer Co-op, Large Molecule Discovery Technology | Burnaby, Canada | <a href="https://go.vansh.nyc/1rn?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | AFL | Business Intelligence (BI) Co-op | Duncan, SC | <a href="https://go.vansh.nyc/1qw?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | Warner Bros. Discovery | Data Engineering Co-op, WB Games | Needham, MA | <a href="https://go.vansh.nyc/1oH?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
 | ↳ | Software Engineering Co-op, WB Games | Needham, MA | <a href="https://go.vansh.nyc/1oz?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
