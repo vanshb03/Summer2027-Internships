@@ -45019,14 +45019,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793664318,
+        "date_updated": 1794343130,
         "url": "https://go.vansh.nyc/1by",
         "locations": [
             "Austin, TX",
             "Golden Valley, MN"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Resideo",
         "title": "Data Science Intern",
         "source": "vanshb03",
