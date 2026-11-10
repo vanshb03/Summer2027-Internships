@@ -58180,5 +58180,39 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1794301513,
+        "url": "https://go.vansh.nyc/1qb",
+        "locations": [
+            "Louisville, KY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Trilogy Health Services",
+        "title": "Information Systems Developer of AI and Automated Solutions Intern",
+        "source": "vanshb03",
+        "id": "b88e660e-8aa8-4fed-8f34-0762497595ef",
+        "date_posted": 1794237780,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794301513,
+        "url": "https://go.vansh.nyc/1qc",
+        "locations": [
+            "Plano, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "GlobalFoundries",
+        "title": "Design Verification Engineer Intern",
+        "source": "vanshb03",
+        "id": "11054b2f-34e1-4f34-b9a7-7d3cf5671f13",
+        "date_posted": 1794268800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
