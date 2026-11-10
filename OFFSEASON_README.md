@@ -186,7 +186,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Embedded Software Engineer Intern, Silicon Development | Palo Alto, CA | <a href="https://go.vansh.nyc/1b4?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | Rockwell Automation | Embedded Software Engineer Co-op 🛂 | Milwaukee, WI</br>Mayfield Heights, OH | <a href="https://go.vansh.nyc/1di?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | Regeneron Pharmaceuticals | Data Analytics & Digital Tools Co-op (IOPS) | Rensselaer, NY | <a href="https://go.vansh.nyc/1dq?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
-| Manulife Financial | AI Co-op | Toronto, Canada | <a href="https://go.vansh.nyc/1dA?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | Lila Sciences | Agentic and Generative Protein Design Co-op | Cambridge, MA</br>San Francisco, CA | <a href="https://go.vansh.nyc/19d?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | LabCorp | Agentic AI Developer Co-op | Durham, NC | <a href="https://go.vansh.nyc/19P?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | ↳ | Full-Stack Life Sciences Engineer Co-op | Durham, NC | <a href="https://go.vansh.nyc/19C?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
@@ -380,10 +379,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Watts Water | Product Management Co-op | Menomonee Falls, WI | <a href="https://go.vansh.nyc/8n?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 12 |
 | Point72 | Data Research Fellowship | New York, NY | <a href="https://go.vansh.nyc/8m?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 12 |
 | KION Group | Engineering & Delivery Optimization Co-op | Grand Rapids, MI | <a href="https://go.vansh.nyc/8l?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 12 |
-| Manulife Financial | Data Engineering Co-op | Toronto, Canada | <a href="https://go.vansh.nyc/GM?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |
-| ↳ | Data Engineering Co-op | Waterloo, Canada | <a href="https://go.vansh.nyc/GN?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |
-| ↳ | Software Engineer Co-op | Toronto, Canada | <a href="https://go.vansh.nyc/GO?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |
-| ↳ | Software Engineering Co-op | Toronto, Canada | <a href="https://go.vansh.nyc/GP?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 11 |
 | TransMarket Group | Junior Data Center/Desktop Engineer Intern | Chicago, IL | <a href="https://go.vansh.nyc/81?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 10 |
 | Advanced Space | Technical Growth and Capture Intern | Westminster, CO | <a href="https://go.vansh.nyc/7Y?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 10 |
 | Magnet Forensics | Software Developer Co-op | Waterloo, Canada</br>Ottawa, Canada | <a href="https://go.vansh.nyc/GD?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
@@ -560,6 +555,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | AI Software Engineering Intern | Frisco, TX | 🔒 | Nov 02 |
 | RTX | Software Engineer Co-op 🇺🇸 | Cedar Rapids, IA | 🔒 | Nov 02 |
 | Rockwell Automation | Robotics Research Co-op, Data Engineering 🛂 | Waterloo, Canada | 🔒 | Nov 02 |
+| Manulife Financial | AI Co-op | Toronto, Canada | 🔒 | Nov 02 |
 | Johnson & Johnson | Software Engineering Co-op | Danvers, MA | 🔒 | Nov 02 |
 | ↳ | Software Test Engineering Co-op | Danvers, MA | 🔒 | Nov 02 |
 | ↳ | Heart Recovery Software R&D Co-op | Halethorpe, MD | 🔒 | Nov 02 |
@@ -664,6 +660,10 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Western Digital | Recording Electronics Data Analytics & Optimization Co-op | Rochester, MN | 🔒 | Oct 12 |
 | Nokia | Hardware Development Co-op | New Providence, NJ | 🔒 | Oct 12 |
 | 1Password | Data Intern, Product Analytics | Remote (United States | Canada) | 🔒 | Oct 12 |
+| Manulife Financial | Data Engineering Co-op | Toronto, Canada | 🔒 | Oct 11 |
+| ↳ | Data Engineering Co-op | Waterloo, Canada | 🔒 | Oct 11 |
+| ↳ | Software Engineer Co-op | Toronto, Canada | 🔒 | Oct 11 |
+| ↳ | Software Engineering Co-op | Toronto, Canada | 🔒 | Oct 11 |
 | Truist | TD&O Program Enablement Specialist Intern 🛂 | Charlotte, NC | 🔒 | Oct 10 |
 | Johnson & Johnson | TDS Lab Automation Co-op 🛂 | Malvern, PA | 🔒 | Oct 10 |
 | ↳ | TDS CGT-Digital Automation Co-op 🛂 | Malvern, PA | 🔒 | Oct 10 |
