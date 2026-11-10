@@ -14943,13 +14943,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792629862,
+        "date_updated": 1794337865,
         "url": "https://go.vansh.nyc/ed",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Microchip Technology",
         "title": "Engineering Intern, ASIC Verification",
         "source": "vanshb03",
@@ -39824,13 +39824,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793491587,
+        "date_updated": 1794337865,
         "url": "https://go.vansh.nyc/13y",
         "locations": [
             "South San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Western Magnetics",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -59667,6 +59667,108 @@
         "source": "vanshb03",
         "id": "1f22b127-29e5-4c8a-930c-b2b2299a7be9",
         "date_posted": 1794335810,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794337560,
+        "url": "https://go.vansh.nyc/1rP",
+        "locations": [
+            "Knoxville, TN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Trimble",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "d97e368a-5ccc-4793-b72d-2747df95bd01",
+        "date_posted": 1794337080,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794337560,
+        "url": "https://go.vansh.nyc/1rQ",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "General Motors",
+        "title": "Machine Learning Engineer Intern, Embodied AI",
+        "source": "vanshb03",
+        "id": "15ce21da-e568-4554-bdb9-d89b6fce2c99",
+        "date_posted": 1794336000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794337560,
+        "url": "https://go.vansh.nyc/1rR",
+        "locations": [
+            "Fort Collins, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hewlett Packard (HP)",
+        "title": "Performance Engineering Co-op",
+        "source": "vanshb03",
+        "id": "2b7cd119-ffa5-48df-a6b5-ef2b750b63a2",
+        "date_posted": 1794336540,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794337713,
+        "url": "https://go.vansh.nyc/1rS",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Palantir Technologies",
+        "title": "Software Engineer Intern, Data Connectors",
+        "source": "vanshb03",
+        "id": "35b6ba17-3110-4346-bacc-4657d9952371",
+        "date_posted": 1793824715,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794337713,
+        "url": "https://go.vansh.nyc/1rT",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Palantir Technologies",
+        "title": "Software Engineer Intern, Connectivity Platform and Product",
+        "source": "vanshb03",
+        "id": "bda5c653-8115-440a-a7f1-e37caef00c1e",
+        "date_posted": 1793824890,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794337713,
+        "url": "https://go.vansh.nyc/1rU",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SRC, Inc",
+        "title": "Machine Learning Engineer Intern",
+        "source": "vanshb03",
+        "id": "9bc08a88-4e38-4daf-bbb4-9a539d32caf3",
+        "date_posted": 1794337605,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
