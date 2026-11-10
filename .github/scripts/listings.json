@@ -59772,5 +59772,56 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1794339465,
+        "url": "https://go.vansh.nyc/1rW",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Addepar",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "def9b2ef-44f6-407d-91a5-fc96f24a61fb",
+        "date_posted": 1794328067,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794339465,
+        "url": "https://go.vansh.nyc/1rX",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Addepar",
+        "title": "AI Engineering Intern",
+        "source": "vanshb03",
+        "id": "82ac99d5-1784-4975-af26-46b82a811445",
+        "date_posted": 1794328159,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794339465,
+        "url": "https://go.vansh.nyc/1rY",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Addepar",
+        "title": "Data Engineering Intern",
+        "source": "vanshb03",
+        "id": "36e27361-2c83-4ff8-88ef-41db41f8adf5",
+        "date_posted": 1794328933,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
