@@ -42884,14 +42884,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793633723,
+        "date_updated": 1794341351,
         "url": "https://go.vansh.nyc/19l",
         "locations": [
             "Remote",
             "United States"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "GE Aerospace",
         "title": "Artificial Intelligence Intern",
         "source": "vanshb03",
@@ -50229,13 +50229,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793837145,
+        "date_updated": 1794341351,
         "url": "https://go.vansh.nyc/1hh",
         "locations": [
             "Coral Gables, FL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Ryder System",
         "title": "IT Intern",
         "source": "vanshb03",
@@ -59516,13 +59516,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794330527,
+        "date_updated": 1794341351,
         "url": "https://go.vansh.nyc/1rz",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Mason",
         "title": "AI Engineer Intern",
         "source": "vanshb03",
@@ -59820,6 +59820,23 @@
         "source": "vanshb03",
         "id": "36e27361-2c83-4ff8-88ef-41db41f8adf5",
         "date_posted": 1794328933,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794341155,
+        "url": "https://go.vansh.nyc/1s2",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hunt Oil Company",
+        "title": "Application Developer Intern",
+        "source": "vanshb03",
+        "id": "2583a454-d120-4eb2-8aa6-89faa5496700",
+        "date_posted": 1794272755,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
