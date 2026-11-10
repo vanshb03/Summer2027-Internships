@@ -7586,7 +7586,7 @@
         "season": "Fall"
     },
     {
-        "date_updated": 1787326911,
+        "date_updated": 1794350358,
         "url": "https://go.vansh.nyc/7j",
         "locations": [
             "Austin, TX",
@@ -7597,7 +7597,7 @@
             "Fishkill, NY"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "AMD",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -7608,14 +7608,14 @@
         "season": "Spring/Summer"
     },
     {
-        "date_updated": 1787326915,
+        "date_updated": 1794350358,
         "url": "https://go.vansh.nyc/7k",
         "locations": [
             "Santa Clara, CA",
             "San Jose, CA"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "AMD",
         "title": "Software Engineer Intern, Co-op",
         "source": "vanshb03",
@@ -7626,7 +7626,7 @@
         "season": "Spring/Summer"
     },
     {
-        "date_updated": 1787326917,
+        "date_updated": 1794350358,
         "url": "https://go.vansh.nyc/7l",
         "locations": [
             "Austin, TX",
@@ -7637,7 +7637,7 @@
             "Rochester, NY"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "AMD",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -7648,14 +7648,14 @@
         "season": "Spring/Summer"
     },
     {
-        "date_updated": 1787326921,
+        "date_updated": 1794350358,
         "url": "https://go.vansh.nyc/7m",
         "locations": [
             "Santa Clara, CA",
             "San Jose, CA"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "AMD",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -27019,7 +27019,7 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1793023513,
+        "date_updated": 1794350358,
         "url": "https://go.vansh.nyc/LS",
         "locations": [
             "Austin, TX",
@@ -27029,7 +27029,7 @@
             "Boxborough, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "AMD",
         "title": "Compiler Engineer Co-op",
         "source": "vanshb03",
@@ -27040,14 +27040,14 @@
         "season": "Spring"
     },
     {
-        "date_updated": 1793023513,
+        "date_updated": 1794350358,
         "url": "https://go.vansh.nyc/LT",
         "locations": [
             "San Jose, CA",
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "AMD",
         "title": "Compiler Engineer Co-op",
         "source": "vanshb03",
@@ -28531,7 +28531,7 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793025667,
+        "date_updated": 1794350358,
         "url": "https://go.vansh.nyc/Oi",
         "locations": [
             "Rochester, NY",
@@ -28542,7 +28542,7 @@
             "Boxborough, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "AMD",
         "title": "Machine Learning Co-op",
         "source": "vanshb03",
@@ -28553,7 +28553,7 @@
         "season": "Spring"
     },
     {
-        "date_updated": 1793025667,
+        "date_updated": 1794350358,
         "url": "https://go.vansh.nyc/Oj",
         "locations": [
             "Secaucus, NJ",
@@ -28564,7 +28564,7 @@
             "Fort Collins, CO"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "AMD",
         "title": "Firmware Engineer Co-op",
         "source": "vanshb03",
@@ -28575,14 +28575,14 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1793025667,
+        "date_updated": 1794350358,
         "url": "https://go.vansh.nyc/Ok",
         "locations": [
             "San Jose, CA",
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "AMD",
         "title": "Firmware Engineering Co-op",
         "source": "vanshb03",
@@ -28593,14 +28593,14 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1793025667,
+        "date_updated": 1794350358,
         "url": "https://go.vansh.nyc/Ol",
         "locations": [
             "San Jose, CA",
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "AMD",
         "title": "Machine Learning Co-op, Artificial Intelligence",
         "source": "vanshb03",
@@ -29066,13 +29066,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793025930,
+        "date_updated": 1794350358,
         "url": "https://go.vansh.nyc/OL",
         "locations": [
             "Austin, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "AMD",
         "title": "Software Test Engineering Co-op",
         "source": "vanshb03",
@@ -29083,13 +29083,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793025930,
+        "date_updated": 1794350358,
         "url": "https://go.vansh.nyc/OM",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "AMD",
         "title": "Software Test Engineering Co-op",
         "source": "vanshb03",
@@ -35695,13 +35695,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793253969,
+        "date_updated": 1794350358,
         "url": "https://go.vansh.nyc/YL",
         "locations": [
             "Orlando, FL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Disney",
         "title": "Enterprise Technology & Data Software Engineering Intern",
         "source": "vanshb03",
@@ -51938,14 +51938,14 @@
         "season": "Spring"
     },
     {
-        "date_updated": 1793914717,
+        "date_updated": 1794350358,
         "url": "https://go.vansh.nyc/1jg",
         "locations": [
             "Remote",
             "United States"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "CareSource",
         "title": "Data Analyst Intern",
         "source": "vanshb03",
@@ -59905,6 +59905,74 @@
         "source": "vanshb03",
         "id": "bafc9090-b9c7-4bef-a0be-926faf866497",
         "date_posted": 1794348356,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794350173,
+        "url": "https://go.vansh.nyc/1s8",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Western Digital",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "6fb240ce-7e9b-4110-abd5-02b476eb6f8d",
+        "date_posted": 1794348073,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794350173,
+        "url": "https://go.vansh.nyc/1s9",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Skydio",
+        "title": "Middleware Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "7ae9c9a0-b81b-4b36-9b22-76b22a5547ff",
+        "date_posted": 1794347533,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794350173,
+        "url": "https://go.vansh.nyc/1sa",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Western Digital",
+        "title": "Hardware Engineering Intern",
+        "source": "vanshb03",
+        "id": "98f43590-180b-4be2-8c36-fd01bdc226f3",
+        "date_posted": 1794348373,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794350288,
+        "url": "https://go.vansh.nyc/1sb",
+        "locations": [
+            "North Kingstown, RI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "REGENT",
+        "title": "Embedded Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "14aba243-07a7-4628-98f0-a4817ef9d6f4",
+        "date_posted": 1794268800,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
