@@ -57681,5 +57681,39 @@
         "company_url": "",
         "is_visible": true,
         "season": "Spring"
+    },
+    {
+        "date_updated": 1794269220,
+        "url": "https://go.vansh.nyc/1pD",
+        "locations": [
+            "Lake Oswego, OR"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Trimble",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "f4589e7d-2624-4d74-ba7e-11ce0c722113",
+        "date_posted": 1794268740,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794269298,
+        "url": "https://go.vansh.nyc/1pE",
+        "locations": [
+            "Nashville, TN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ecmtek",
+        "title": "Developer Intern, Python Development",
+        "source": "vanshb03",
+        "id": "304ea544-aa1c-4407-8ca7-4d167c1d2257",
+        "date_posted": 1794182400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
