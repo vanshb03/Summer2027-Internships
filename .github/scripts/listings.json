@@ -51281,13 +51281,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793873370,
+        "date_updated": 1794337307,
         "url": "https://go.vansh.nyc/1ip",
         "locations": [
             "Dallas, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Veryable",
         "title": "Platform Engineer Intern",
         "source": "vanshb03",
@@ -51333,14 +51333,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793876953,
+        "date_updated": 1794337307,
         "url": "https://go.vansh.nyc/1it",
         "locations": [
             "Remote",
             "United States"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Arango",
         "title": "Software Engineer Intern, Cookbooks",
         "source": "vanshb03",
@@ -59499,13 +59499,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794330527,
+        "date_updated": 1794337307,
         "url": "https://go.vansh.nyc/1ry",
         "locations": [
             "United States"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TerraByte Green",
         "title": "AI Engineering Intern",
         "source": "vanshb03",
