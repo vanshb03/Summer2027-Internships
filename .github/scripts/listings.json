@@ -26011,13 +26011,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793021626,
+        "date_updated": 1794336266,
         "url": "https://go.vansh.nyc/JG",
         "locations": [
             "Edina, MN"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Western National Insurance",
         "title": "Data Engineering Intern, Data & Integrations",
         "source": "vanshb03",
@@ -39415,13 +39415,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793491587,
+        "date_updated": 1794336266,
         "url": "https://go.vansh.nyc/13a",
         "locations": [
             "Milpitas, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "KLA",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
@@ -59599,6 +59599,74 @@
         "source": "vanshb03",
         "id": "7b391056-4d17-43c1-9479-899d1a5d250d",
         "date_posted": 1794332182,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794335784,
+        "url": "https://go.vansh.nyc/1rH",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Skydio",
+        "title": "Hardware In Loop (HIL) Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "38075853-84d1-4661-b7de-b5c05974406d",
+        "date_posted": 1794334344,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1794335922,
+        "url": "https://go.vansh.nyc/1rI",
+        "locations": [
+            "San Antonio, TX"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "General Dynamics Mission Systems, Inc.",
+        "title": "Systems Intern, Cybersecurity and Linux Administration",
+        "source": "vanshb03",
+        "id": "f67f152e-6809-4737-a601-b243cdc87619",
+        "date_posted": 1794321353,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794335922,
+        "url": "https://go.vansh.nyc/1rJ",
+        "locations": [
+            "Scottsdale, AZ"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "General Dynamics Mission Systems, Inc.",
+        "title": "ASIC/FPGA Engineer Intern",
+        "source": "vanshb03",
+        "id": "ba4f2675-ceb2-4ec5-af31-7a893bd7ed43",
+        "date_posted": 1794335810,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794335922,
+        "url": "https://go.vansh.nyc/1rK",
+        "locations": [
+            "Greenwood Village, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Invitation-charter",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "1f22b127-29e5-4c8a-930c-b2b2299a7be9",
+        "date_posted": 1794335810,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
