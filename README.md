@@ -85,6 +85,9 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Clarios | IT Digital/AI Intern 🛂 | Milwaukee, WI | <a href="https://go.vansh.nyc/1qy?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | Booz Allen Hamilton | Quantum Computing Research Intern | Washington, DC | <a href="https://go.vansh.nyc/1qt?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | Avary.ai | Quality Assurance (QA) Intern | United States | <a href="https://go.vansh.nyc/1qG?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
+| Addepar | Software Engineering Intern | New York, NY | <a href="https://go.vansh.nyc/1rW?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
+| ↳ | AI Engineering Intern | New York, NY | <a href="https://go.vansh.nyc/1rX?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
+| ↳ | Data Engineering Intern | New York, NY | <a href="https://go.vansh.nyc/1rY?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | Zoetis | AI Architecture, Enablement & Tools Intern, AI Capabilities | Remote</br>United States</br>Kalamazoo, MI | <a href="https://go.vansh.nyc/1ph?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
 | ↳ | AI Assistant Development Intern | Parsippany, NJ | <a href="https://go.vansh.nyc/1oP?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
 | ↳ | Information Security Intern | Parsippany, NJ | <a href="https://go.vansh.nyc/1ox?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
