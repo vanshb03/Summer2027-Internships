@@ -98,7 +98,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Survalent | SmartVu Developer Co-op, Quality and Infrastructure | Mississauga, Canada | <a href="https://go.vansh.nyc/1h4?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | Sun Life | Business Operations Software Engineer Co-op | <details><summary>**5 locations**</summary>Milwaukee, WI</br>Wellesley Hills, MA</br>Hartford, CT</br>Portland, ME</br>Kansas City, MO</details> | <a href="https://go.vansh.nyc/1fl?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | PlayStation Waterloo Co-Op | Software Developer Co-op | Waterloo, Canada | <a href="https://go.vansh.nyc/1hk?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
-| Moderna | mRNA Design Engineering Co-op 🛂 | Cambridge, MA | <a href="https://go.vansh.nyc/1fa?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | Micron Technology | DRAM Design Engineer Intern | Boise, ID | <a href="https://go.vansh.nyc/1h3?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | MDA | Student Cyber Security Analyst Intern | Brampton, Canada | <a href="https://go.vansh.nyc/1fU?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | Global Relay | Java Developer Co-op | Halifax, Canada | <a href="https://go.vansh.nyc/1fE?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
@@ -546,6 +545,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Northrop Grumman | Software Engineer Intern 🇺🇸 | McClellan, CA | 🔒 | Nov 04 |
 | Wabtec | Firmware Engineering Co-op | Waltham, MA | 🔒 | Nov 03 |
 | Samsung Research America Internship | Agentic AI Solutions Intern | Mountain View, CA | 🔒 | Nov 03 |
+| Moderna | mRNA Design Engineering Co-op 🛂 | Cambridge, MA | 🔒 | Nov 03 |
 | Hearst | Editorial AI Development Intern | San Francisco, CA | 🔒 | Nov 03 |
 | Transamerica | Data Analytics Intern | Cedar Rapids, IA | 🔒 | Nov 02 |
 | Toshiba Commerce Solutions | Agentic Software Engineering Intern | Durham, NC | 🔒 | Nov 02 |
