@@ -115,7 +115,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Altera | FPGA Design Verification Intern | Toronto, Canada | <a href="https://go.vansh.nyc/1p3?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
 | Aerospace Corporation | Defensive Cyber Operations Grad Intern 🇺🇸 | El Segundo, CA | <a href="https://go.vansh.nyc/1pU?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
 | Sharp Electronics | IT AI Intern 🛂 | Montvale, NJ | <a href="https://go.vansh.nyc/1ot?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 08 |
-| RTX | Digital Hardware Design Engineer Co-op | Cedar Rapids, IA | <a href="https://go.vansh.nyc/1pH?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 08 |
 | NBCUniversal | Technology Intern, NBC News Group | New York, NY | <a href="https://go.vansh.nyc/1os?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 08 |
 | National Interstate Insurance | Data Scientist Intern 🛂 | Lakeland, FL | <a href="https://go.vansh.nyc/1ni?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 08 |
 | Kensington | BI/Data Analyst Intern | Toronto, Canada | <a href="https://go.vansh.nyc/1or?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 08 |
@@ -1412,7 +1411,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Garmin | Software Engineer Intern | Tucson, AZ | <a href="https://go.vansh.nyc/Fz?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
 | Dow Jones | Marketing Data Science Intern | New York, NY | <a href="https://go.vansh.nyc/1nD?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
 | Courier Health | Software Engineer Intern | New York, NY | <a href="https://go.vansh.nyc/FG?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
-| Arcfield | Software Engineer Intern, On-Call | Middletown, RI | <a href="https://go.vansh.nyc/FD?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
 | Amazon | Software Development Engineer Intern, Amazon Leo, Embedded Systems 🇺🇸 | Redmond, WA | <a href="https://go.vansh.nyc/g6?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
 | Alliance Laundry Systems | Embedded Firmware Co-op | Ripon, WI | <a href="https://go.vansh.nyc/1nC?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
 | Veterans United Home Loans | Software Engineer Intern | Remote</br>United States | <a href="https://go.vansh.nyc/g4?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 05 |
@@ -1913,6 +1911,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Barkback | Software Intern | Santa Barbara, CA | <a href="https://go.vansh.nyc/Qv?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 2016 |
 | Northwestern Mutual | Application Development Intern | Milwaukee, WI | <a href="https://go.vansh.nyc/Qu?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 2015 |
 | Kudu Dynamics | Cybersecurity Analyst Intern 🇺🇸 | Odenton, MD | 🔒 | Nov 09 |
+| RTX | Digital Hardware Design Engineer Co-op | Cedar Rapids, IA | 🔒 | Nov 08 |
 | Invitation-charter | Software Engineer Intern | Englewood, CO | 🔒 | Nov 06 |
 | IDEMIA | Service Platform Engineering Intern | Brentwood, TN | 🔒 | Nov 06 |
 | Hitachi | Full Stack Developer Intern | Dallas, TX | 🔒 | Nov 06 |
@@ -2380,6 +2379,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Dow Jones | Data Analyst Intern | New York, NY | 🔒 | Oct 06 |
 | ↳ | Software Engineer Intern | New York, NY | 🔒 | Oct 06 |
 | CACI | Cyber Analyst Intern | Ashburn, VA | 🔒 | Oct 06 |
+| Arcfield | Software Engineer Intern, On-Call | Middletown, RI | 🔒 | Oct 06 |
 | Amazon | Software Engineer Intern, Embedded Systems | Redmond, WA</br>Northridge, CA | 🔒 | Oct 06 |
 | Akuna Capital | Entry-Level Software Engineer Intern, C++ | Chicago, IL | 🔒 | Oct 06 |
 | TensorWave | Security Engineer Intern | Las Vegas, NV | 🔒 | Oct 05 |
