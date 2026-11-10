@@ -485,8 +485,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Hardware Design Engineer Co-op | Markham, Canada | <a href="https://go.vansh.nyc/LM?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 01 |
 | ↳ | Firmware Engineer Co-op | Vancouver, Canada | <a href="https://go.vansh.nyc/LP?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 01 |
 | ↳ | Firmware Engineer Co-op | Markham, Canada | <a href="https://go.vansh.nyc/LR?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 01 |
-| ↳ | Compiler Engineer Co-op | <details><summary>**5 locations**</summary>Austin, TX</br>Longmont, CO</br>Fishkill, NY</br>Fort Collins, CO</br>Boxborough, MA</details> | <a href="https://go.vansh.nyc/LS?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 01 |
-| ↳ | Compiler Engineer Co-op | San Jose, CA</br>Santa Clara, CA | <a href="https://go.vansh.nyc/LT?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 01 |
 | SK Hynix Memory Solution | SSD Firmware Development Engineer Intern | San Jose, CA | <a href="https://go.vansh.nyc/OS?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 30 |
 | fab2 | Automation Software Engineering Intern | Austin, TX</br>San Francisco, CA | <a href="https://go.vansh.nyc/1lj?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 27 |
 | ↳ | Rust Software Engineering Intern, Chip Design Tools | Austin, TX</br>San Francisco, CA | <a href="https://go.vansh.nyc/1lk?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 27 |
@@ -501,14 +499,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Campbell Soup Company | Data Engineer Intern, DA&AI Co-Op | Camden, NJ | <a href="https://go.vansh.nyc/7K?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 21 |
 | ↳ | Agentic AI Engineer Co-Op | Remote | <a href="https://go.vansh.nyc/7J?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 21 |
 | Atoms | ML PhD Software Engineer Intern | Multiple Locations Available | <a href="https://go.vansh.nyc/7v?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 21 |
-| AMD | Software Engineer Intern 🛂 | Santa Clara, CA</br>San Jose, CA | <a href="https://go.vansh.nyc/7m?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 21 |
-| ↳ | Software Engineer Intern 🛂 | <details><summary>**6 locations**</summary>Austin, TX</br>Boxborough, MA</br>Fort Collins, CO</br>Longmont, CO</br>Fishkill, NY</br>Rochester, NY</details> | <a href="https://go.vansh.nyc/7l?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 21 |
-| ↳ | Software Engineer Intern, Co-op 🛂 | Santa Clara, CA</br>San Jose, CA | <a href="https://go.vansh.nyc/7k?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 21 |
-| ↳ | Software Engineer Intern 🛂 | <details><summary>**6 locations**</summary>Austin, TX</br>Boxborough, MA</br>Rochester, NY</br>Fort Collins, CO</br>Longmont, CO</br>Fishkill, NY</details> | <a href="https://go.vansh.nyc/7j?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 21 |
-| AMD | Machine Learning Co-op | <details><summary>**6 locations**</summary>Rochester, NY</br>Austin, TX</br>Longmont, CO</br>Fishkill, NY</br>Fort Collins, CO</br>Boxborough, MA</details> | <a href="https://go.vansh.nyc/Oi?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 20 |
-| ↳ | Firmware Engineer Co-op | <details><summary>**6 locations**</summary>Secaucus, NJ</br>Rochester, NY</br>Austin, TX</br>Longmont, CO</br>Fishkill, NY</br>Fort Collins, CO</details> | <a href="https://go.vansh.nyc/Oj?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 20 |
-| ↳ | Firmware Engineering Co-op | San Jose, CA</br>Santa Clara, CA | <a href="https://go.vansh.nyc/Ok?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 20 |
-| ↳ | Machine Learning Co-op, Artificial Intelligence | San Jose, CA</br>Santa Clara, CA | <a href="https://go.vansh.nyc/Ol?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 20 |
 | SpaceX | Software Engineer Intern, Fleet Health Instrumentation 🇺🇸 | Remote | <a href="https://go.vansh.nyc/6J?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 06 |
 | Yotta Labs | Research Engineer Intern | Remote | <a href="https://go.vansh.nyc/5V?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 04 |
 | Bot Auto | Deep Learning Engineer Intern | Houston, TX | <a href="https://go.vansh.nyc/5P?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 04 |
@@ -709,6 +699,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Nokia | DSP Firmware Engineer Co-op | Ottawa, Canada | 🔒 | Sep 02 |
 | OnLogic | Firmware Engineer Co-op | South Burlington, VT</br>Cary, NC | 🔒 | Sep 01 |
 | Elevance Health | Information Security Co-op | Indianapolis, IN</br>Atlanta, GA | 🔒 | Sep 01 |
+| AMD | Compiler Engineer Co-op | <details><summary>**5 locations**</summary>Austin, TX</br>Longmont, CO</br>Fishkill, NY</br>Fort Collins, CO</br>Boxborough, MA</details> | 🔒 | Sep 01 |
+| ↳ | Compiler Engineer Co-op | San Jose, CA</br>Santa Clara, CA | 🔒 | Sep 01 |
 | CACI | Embedded Software Engineer Co-op | Danbury, CT | 🔒 | Aug 31 |
 | Kodiak Robotics | Planning Intern, Mission Planning | Mountain View, CA | 🔒 | Aug 24 |
 | Philips | Software Systems Engineering Co-op, Image Guided Therapy Devices - IVUS Clinical Imaging Software Application | Plymouth, MN | 🔒 | Aug 23 |
@@ -731,6 +723,14 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Software Engineer Intern, Mobile | Toronto, ON | 🔒 | Aug 21 |
 | ↳ | Software Engineer Intern, Team Pickle | Toronto, ON | 🔒 | Aug 21 |
 | Astranis | Reliability Test Intern 🇺🇸 | San Francisco, CA | 🔒 | Aug 21 |
+| AMD | Software Engineer Intern 🛂 | <details><summary>**6 locations**</summary>Austin, TX</br>Boxborough, MA</br>Rochester, NY</br>Fort Collins, CO</br>Longmont, CO</br>Fishkill, NY</details> | 🔒 | Aug 21 |
+| ↳ | Software Engineer Intern, Co-op 🛂 | Santa Clara, CA</br>San Jose, CA | 🔒 | Aug 21 |
+| ↳ | Software Engineer Intern 🛂 | <details><summary>**6 locations**</summary>Austin, TX</br>Boxborough, MA</br>Fort Collins, CO</br>Longmont, CO</br>Fishkill, NY</br>Rochester, NY</details> | 🔒 | Aug 21 |
+| ↳ | Software Engineer Intern 🛂 | Santa Clara, CA</br>San Jose, CA | 🔒 | Aug 21 |
+| AMD | Machine Learning Co-op | <details><summary>**6 locations**</summary>Rochester, NY</br>Austin, TX</br>Longmont, CO</br>Fishkill, NY</br>Fort Collins, CO</br>Boxborough, MA</details> | 🔒 | Aug 20 |
+| ↳ | Firmware Engineer Co-op | <details><summary>**6 locations**</summary>Secaucus, NJ</br>Rochester, NY</br>Austin, TX</br>Longmont, CO</br>Fishkill, NY</br>Fort Collins, CO</details> | 🔒 | Aug 20 |
+| ↳ | Firmware Engineering Co-op | San Jose, CA</br>Santa Clara, CA | 🔒 | Aug 20 |
+| ↳ | Machine Learning Co-op, Artificial Intelligence | San Jose, CA</br>Santa Clara, CA | 🔒 | Aug 20 |
 | Shopify | Software Engineering Intern 🛂 | Remote | 🔒 | Aug 06 |
 | Redwood Materials | Test Automation Engineer Intern | San Francisco, CA | 🔒 | Aug 06 |
 | NVIDIA | Software Engineering Intern, Dynamo | Santa Clara, CA | 🔒 | Aug 06 |
