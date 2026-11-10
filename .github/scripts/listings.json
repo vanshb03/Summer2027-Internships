@@ -25977,13 +25977,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793021626,
+        "date_updated": 1794283833,
         "url": "https://go.vansh.nyc/JE",
         "locations": [
             "Laurel, MD"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Johns Hopkins Applied Physics Laboratory",
         "title": "Space Exploration Software Engineer Intern, Embedded Applications",
         "source": "vanshb03",
@@ -57954,6 +57954,144 @@
         "source": "vanshb03",
         "id": "942c34b5-838e-465b-a35d-28145367b7b1",
         "date_posted": 1794100095,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1794283613,
+        "url": "https://go.vansh.nyc/1pU",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Aerospace Corporation",
+        "title": "Defensive Cyber Operations Grad Intern",
+        "source": "vanshb03",
+        "id": "803f0a97-70a1-4d28-b411-1bf75bf45ee6",
+        "date_posted": 1794280973,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794283752,
+        "url": "https://go.vansh.nyc/1pV",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Celestica",
+        "title": "IT Business Application Development Intern",
+        "source": "vanshb03",
+        "id": "9fde1225-6b51-4da8-b8f2-e2c99bc66c60",
+        "date_posted": 1794283631,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794283752,
+        "url": "https://go.vansh.nyc/1pW",
+        "locations": [
+            "Laurel, MD"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Johns Hopkins APL",
+        "title": "AI & Data Science Intern, Analytic Capabilities",
+        "source": "vanshb03",
+        "id": "cf27d90f-ccd9-4798-bb7c-ce552d065dbc",
+        "date_posted": 1794283631,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794283752,
+        "url": "https://go.vansh.nyc/1pX",
+        "locations": [
+            "Omaha, NE"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Kiewit",
+        "title": "Machine Learning Intern, Kiewit Data Services",
+        "source": "vanshb03",
+        "id": "ffa3c317-dd9d-455a-895f-5801cd98fc52",
+        "date_posted": 1794283631,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794283752,
+        "url": "https://go.vansh.nyc/1pY",
+        "locations": [
+            "Rochester, NY"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "L3Harris Technologies",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "37e37f9d-8908-4a12-9767-780cbfb35e0f",
+        "date_posted": 1794283631,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794283752,
+        "url": "https://go.vansh.nyc/1pZ",
+        "locations": [
+            "Bethesda, MD",
+            "Rockville, MD"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lockheed Martin",
+        "title": "Software Development Intern",
+        "source": "vanshb03",
+        "id": "80452e21-1dae-46b9-8419-d758981df6a0",
+        "date_posted": 1794283631,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794283752,
+        "url": "https://go.vansh.nyc/1q0",
+        "locations": [
+            "Mt Laurel Township, NJ"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Lockheed Martin",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "0f407ea7-c16d-4420-8c94-a830766d126b",
+        "date_posted": 1794283631,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794283752,
+        "url": "https://go.vansh.nyc/1q1",
+        "locations": [
+            "New York, NY",
+            "Alpharetta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Morgan Stanley",
+        "title": "Software Engineer Co-op, Parametric",
+        "source": "vanshb03",
+        "id": "aa272dfa-e020-4bb3-91d2-1826def725c1",
+        "date_posted": 1794283631,
         "company_url": "",
         "is_visible": true,
         "season": "Spring"
