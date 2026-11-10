@@ -34060,13 +34060,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793140523,
+        "date_updated": 1794271149,
         "url": "https://go.vansh.nyc/WG",
         "locations": [
             "Austin, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Emerson Electric",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -50767,13 +50767,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793869551,
+        "date_updated": 1794271149,
         "url": "https://go.vansh.nyc/1hU",
         "locations": [
             "Germantown, MD"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "ViaSat",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -57712,6 +57712,108 @@
         "source": "vanshb03",
         "id": "304ea544-aa1c-4407-8ca7-4d167c1d2257",
         "date_posted": 1794182400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794270958,
+        "url": "https://go.vansh.nyc/1pG",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "RTX",
+        "title": "Digital Hardware Design Engineer Co-op",
+        "source": "vanshb03",
+        "id": "0a176a81-a929-42fe-8efa-95a45544f7da",
+        "date_posted": 1794182400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1794270958,
+        "url": "https://go.vansh.nyc/1pH",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "RTX",
+        "title": "Digital Hardware Design Engineer Co-op",
+        "source": "vanshb03",
+        "id": "f6b1b583-abcf-4495-a5a9-e1f22e7845d0",
+        "date_posted": 1794182400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794270958,
+        "url": "https://go.vansh.nyc/1pI",
+        "locations": [
+            "Manassas, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "General Dynamics Mission Systems",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "1dda02f5-31fd-43fb-b2b8-126e6859de8e",
+        "date_posted": 1794182400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794270958,
+        "url": "https://go.vansh.nyc/1pJ",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "DreamWorks Animation",
+        "title": "Data Science Intern, Advertising & Partnerships",
+        "source": "vanshb03",
+        "id": "7b25bb58-9c72-4244-a0c5-7c28e709b20c",
+        "date_posted": 1794248802,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794270958,
+        "url": "https://go.vansh.nyc/1pK",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Keysight Technologies",
+        "title": "Embedded Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "637094d6-15a7-4912-95fd-b176794aa0c7",
+        "date_posted": 1794266160,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794270958,
+        "url": "https://go.vansh.nyc/1pL",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cirrus Logic",
+        "title": "Applied AI Engineering Intern",
+        "source": "vanshb03",
+        "id": "ea650d1d-6400-4b94-bb44-de292b6f7b8a",
+        "date_posted": 1794267986,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
