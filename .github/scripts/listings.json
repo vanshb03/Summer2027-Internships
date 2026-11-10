@@ -38813,14 +38813,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793491587,
+        "date_updated": 1794352169,
         "url": "https://go.vansh.nyc/12B",
         "locations": [
             "Remote",
             "United States"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Arista Networks",
         "title": "Software Engineer Intern, C/C++",
         "source": "vanshb03",
@@ -59973,6 +59973,76 @@
         "source": "vanshb03",
         "id": "14aba243-07a7-4628-98f0-a4817ef9d6f4",
         "date_posted": 1794268800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794351955,
+        "url": "https://go.vansh.nyc/1sc",
+        "locations": [
+            "St Petersburg, FL"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "RTX",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "bd59d805-af2f-4380-afd5-2a2900bf852a",
+        "date_posted": 1794351415,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794351955,
+        "url": "https://go.vansh.nyc/1sd",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "Performance Engineering Intern, Platform Performance and Power",
+        "source": "vanshb03",
+        "id": "8fa81d7a-7cbb-45fd-be70-d386af1b2e36",
+        "date_posted": 1794351475,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1794352087,
+        "url": "https://go.vansh.nyc/1se",
+        "locations": [
+            "Waterloo, Canada",
+            "Ottawa, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Magnet Forensics",
+        "title": "Information Security Analyst Co-op",
+        "source": "vanshb03",
+        "id": "2212b9e2-0cac-4357-8314-902e2825e25d",
+        "date_posted": 1794343949,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1794352087,
+        "url": "https://go.vansh.nyc/1sf",
+        "locations": [
+            "Remote",
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hook Music",
+        "title": "Machine Learning Engineering Intern, Recommendation Systems",
+        "source": "vanshb03",
+        "id": "c00ffeb8-af02-4894-93e9-90c1e07b573b",
+        "date_posted": 1794348783,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
