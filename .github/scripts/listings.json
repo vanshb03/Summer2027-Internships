@@ -53650,14 +53650,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793999680,
+        "date_updated": 1794290986,
         "url": "https://go.vansh.nyc/1lf",
         "locations": [
             "Vancouver, Canada",
             "Toronto, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Hootsuite",
         "title": "Software Development Co-op",
         "source": "vanshb03",
@@ -58095,5 +58095,39 @@
         "company_url": "",
         "is_visible": true,
         "season": "Spring"
+    },
+    {
+        "date_updated": 1794290906,
+        "url": "https://go.vansh.nyc/1q2",
+        "locations": [
+            "Ann Arbor, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "LG AI Research",
+        "title": "AI Scientist/Engineer Intern",
+        "source": "vanshb03",
+        "id": "2fe9df84-c1b1-41ec-9c26-8304f92f9624",
+        "date_posted": 1790581196,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794290906,
+        "url": "https://go.vansh.nyc/1q3",
+        "locations": [
+            "Columbia, MO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "EquipmentShare",
+        "title": "Engineering Intern, Embedded",
+        "source": "vanshb03",
+        "id": "d41d8a52-3a90-4f12-8ca6-20bd3650bbd4",
+        "date_posted": 1793726451,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
