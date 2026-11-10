@@ -47651,13 +47651,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1793740130,
+        "date_updated": 1794354236,
         "url": "https://go.vansh.nyc/1eh",
         "locations": [
             "Brecksville, OH"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Sherwin-Williams",
         "title": "R&D Data Visualization Intern",
         "source": "vanshb03",
@@ -55302,13 +55302,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794172003,
+        "date_updated": 1794354236,
         "url": "https://go.vansh.nyc/1n5",
         "locations": [
             "Burlingame, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Quadric",
         "title": "Design Verification Intern",
         "source": "vanshb03",
@@ -60043,6 +60043,176 @@
         "source": "vanshb03",
         "id": "c00ffeb8-af02-4894-93e9-90c1e07b573b",
         "date_posted": 1794348783,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794353716,
+        "url": "https://go.vansh.nyc/1sg",
+        "locations": [
+            "Largo, FL"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "RTX",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "4191da66-3e1d-4a73-a62c-b68dcf5a67c2",
+        "date_posted": 1794268800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794353716,
+        "url": "https://go.vansh.nyc/1sh",
+        "locations": [
+            "Bentonville, AR"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Walmart",
+        "title": "Data Science & Data Analytics Intern, Last Mile Delivery",
+        "source": "vanshb03",
+        "id": "6b5a81c1-fb14-467f-9e50-5793c22cd133",
+        "date_posted": 1794268800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794353755,
+        "url": "https://go.vansh.nyc/1si",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "McDonald's",
+        "title": "Software Development Engineer Intern",
+        "source": "vanshb03",
+        "id": "943ad3c5-ab62-45af-83df-d6508b96209d",
+        "date_posted": 1794268155,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794353755,
+        "url": "https://go.vansh.nyc/1sj",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "McDonald's",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "592b6149-8d13-46eb-9c86-09a1fecb98a5",
+        "date_posted": 1794268155,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794353755,
+        "url": "https://go.vansh.nyc/1sk",
+        "locations": [
+            "Morrisville, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Renesas Electronics",
+        "title": "Applications Engineer Intern",
+        "source": "vanshb03",
+        "id": "ff6e837e-8909-432c-a106-265c643f271b",
+        "date_posted": 1794347885,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794353755,
+        "url": "https://go.vansh.nyc/1sl",
+        "locations": [
+            "Bethpage, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Altice USA",
+        "title": "Developer Intern, Financial & People Systems",
+        "source": "vanshb03",
+        "id": "73b4a582-2e05-4707-ae31-5141953453de",
+        "date_posted": 1794353014,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1794353755,
+        "url": "https://go.vansh.nyc/1sm",
+        "locations": [
+            "Bethpage, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Altice USA",
+        "title": "Product Analytics Intern",
+        "source": "vanshb03",
+        "id": "e96a2637-991b-449c-a0a2-508139c1e231",
+        "date_posted": 1794353014,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1794353755,
+        "url": "https://go.vansh.nyc/1sn",
+        "locations": [
+            "Bethpage, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Altice USA",
+        "title": "Operations Data Analyst Intern",
+        "source": "vanshb03",
+        "id": "1d62e318-cd6f-4b94-af07-13c2cd0af00e",
+        "date_posted": 1794353014,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1794353755,
+        "url": "https://go.vansh.nyc/1so",
+        "locations": [
+            "Bethpage, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Altice USA",
+        "title": "Software Development Intern",
+        "source": "vanshb03",
+        "id": "58a4a37f-d3e7-45d5-a452-1868872a4c4d",
+        "date_posted": 1794353015,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1794353837,
+        "url": "https://go.vansh.nyc/1sp",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "General Motors",
+        "title": "Machine Learning Engineer Intern, AV/AI Platform",
+        "source": "vanshb03",
+        "id": "58d245e0-ed2d-4955-9dc8-818d7955607a",
+        "date_posted": 1790899200,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
