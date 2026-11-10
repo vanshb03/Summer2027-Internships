@@ -54,6 +54,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Boston Scientific | Urology R&D Software Engineering Co-op 🛂 | Maple Grove, MN | <a href="https://go.vansh.nyc/1pa?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
 | ASML | AI Engineer Co-op | San Diego, CA | <a href="https://go.vansh.nyc/1pk?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
 | Tonic | Forward Deployed Engineer Co-op, Data De-Identification | Remote</br>United States | <a href="https://go.vansh.nyc/1po?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 08 |
+| RTX | Digital Hardware Design Engineer Co-op | Cedar Rapids, IA | <a href="https://go.vansh.nyc/1pG?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 08 |
 | Nokia | Defense Software Test & AI Co-op 🛂 | United States | <a href="https://go.vansh.nyc/1py?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 08 |
 | Apache Industrial | AI Implementation Intern | Houston, TX | <a href="https://go.vansh.nyc/1ol?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 08 |
 | UMG Contingent Worker Company | Data Engineer Co-op | Remote</br>United States | <a href="https://go.vansh.nyc/1mF?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 07 |
