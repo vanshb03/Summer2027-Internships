@@ -30636,13 +30636,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1793031368,
+        "date_updated": 1794319795,
         "url": "https://go.vansh.nyc/Rb",
         "locations": [
             "Laurel, MD"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Johns Hopkins Applied Physics Laboratory",
         "title": "Algorithm, Software, or RF Systems Engineering Intern",
         "source": "vanshb03",
@@ -40098,13 +40098,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1793505966,
+        "date_updated": 1794319795,
         "url": "https://go.vansh.nyc/13V",
         "locations": [
             "West Des Moines, IA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Farmers Mutual Hail",
         "title": "QA Automation Engineer Intern",
         "source": "vanshb03",
@@ -42245,13 +42245,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793526799,
+        "date_updated": 1794319795,
         "url": "https://go.vansh.nyc/18F",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "Software Engineer Project Intern, Recommendation Infrastructure, Video Social",
         "source": "vanshb03",
@@ -58299,6 +58299,23 @@
         "source": "vanshb03",
         "id": "353f4b3b-49c8-4737-9bdd-5fde534e1e9c",
         "date_posted": 1794222569,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794319722,
+        "url": "https://go.vansh.nyc/1qq",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "AI Operations Intern, AI Clouds",
+        "source": "vanshb03",
+        "id": "5facce2b-efaa-4576-b639-c82634711b4b",
+        "date_posted": 1794319595,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
