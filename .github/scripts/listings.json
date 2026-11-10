@@ -4942,7 +4942,7 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1785124718,
+        "date_updated": 1794332364,
         "url": "https://go.vansh.nyc/4R",
         "locations": [
             "Austin, TX",
@@ -4950,7 +4950,7 @@
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Virtu",
         "title": "Quantitative Trading Intern",
         "source": "vanshb03",
@@ -54600,13 +54600,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794071313,
+        "date_updated": 1794332364,
         "url": "https://go.vansh.nyc/1mg",
         "locations": [
             "Dakota Dunes, SD"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "empirical",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
@@ -59580,6 +59580,25 @@
         "source": "vanshb03",
         "id": "126148cc-643b-42f6-8f3d-c094769fd60c",
         "date_posted": 1794330395,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794332288,
+        "url": "https://go.vansh.nyc/1rF",
+        "locations": [
+            "Chicago, IL",
+            "Remote",
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Echo",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "7b391056-4d17-43c1-9479-899d1a5d250d",
+        "date_posted": 1794332182,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
