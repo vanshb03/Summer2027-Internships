@@ -36687,13 +36687,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793315116,
+        "date_updated": 1794334210,
         "url": "https://go.vansh.nyc/ZY",
         "locations": [
             "Foster City, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Zoox",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -39517,13 +39517,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793491587,
+        "date_updated": 1794334210,
         "url": "https://go.vansh.nyc/13g",
         "locations": [
             "East Providence, RI"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Nordson",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
@@ -51422,14 +51422,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793889660,
+        "date_updated": 1794334210,
         "url": "https://go.vansh.nyc/1iy",
         "locations": [
             "Remote",
             "United States"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Kimball Electronics",
         "title": "Cybersecurity Intern",
         "source": "vanshb03",
