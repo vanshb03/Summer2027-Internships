@@ -22741,13 +22741,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793015500,
+        "date_updated": 1794321554,
         "url": "https://go.vansh.nyc/FD",
         "locations": [
             "Middletown, RI"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Arcfield",
         "title": "Software Engineer Intern, On-Call",
         "source": "vanshb03",
@@ -57717,13 +57717,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794270958,
+        "date_updated": 1794321554,
         "url": "https://go.vansh.nyc/1pG",
         "locations": [
             "Cedar Rapids, IA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "RTX",
         "title": "Digital Hardware Design Engineer Co-op",
         "source": "vanshb03",
@@ -57734,13 +57734,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1794270958,
+        "date_updated": 1794321554,
         "url": "https://go.vansh.nyc/1pH",
         "locations": [
             "Cedar Rapids, IA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "RTX",
         "title": "Digital Hardware Design Engineer Co-op",
         "source": "vanshb03",
