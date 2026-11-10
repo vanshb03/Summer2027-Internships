@@ -21250,14 +21250,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793015500,
+        "date_updated": 1794330649,
         "url": "https://go.vansh.nyc/Ef",
         "locations": [
             "San Jose, CA",
             "Boise, ID"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Micron Technology",
         "title": "DRAM Architecture Intern",
         "source": "vanshb03",
@@ -54514,14 +54514,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794071313,
+        "date_updated": 1794330649,
         "url": "https://go.vansh.nyc/1mb",
         "locations": [
             "Remote",
             "United States"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Kinaxis",
         "title": "Developer Co-op, Machine Learning",
         "source": "vanshb03",
@@ -59395,5 +59395,193 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1794330371,
+        "url": "https://go.vansh.nyc/1rs",
+        "locations": [
+            "Denver, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Palantir Technologies",
+        "title": "Software Engineer Intern, Connectivity Platform and Product",
+        "source": "vanshb03",
+        "id": "5baca5fc-b0b9-431b-93da-e0c4f4ac461b",
+        "date_posted": 1794329291,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794330527,
+        "url": "https://go.vansh.nyc/1rt",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "RetailReady",
+        "title": "Full Stack Intern",
+        "source": "vanshb03",
+        "id": "9c1a22b1-99a7-4551-93ef-1271aeff965a",
+        "date_posted": 1794330395,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794330527,
+        "url": "https://go.vansh.nyc/1ru",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Rivet",
+        "title": "Full-Stack Engineering Intern",
+        "source": "vanshb03",
+        "id": "7acbbd39-a292-4c96-a1a0-1e7bdde798a2",
+        "date_posted": 1794330395,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794330527,
+        "url": "https://go.vansh.nyc/1rv",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SemiAnalysis",
+        "title": "Data Engineer Intern",
+        "source": "vanshb03",
+        "id": "e7e44c87-62a5-4821-9b08-cb2b24fa6f39",
+        "date_posted": 1794330395,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794330527,
+        "url": "https://go.vansh.nyc/1rw",
+        "locations": [
+            "Berkeley, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SigIQ.ai",
+        "title": "Machine Learning Intern/Resident",
+        "source": "vanshb03",
+        "id": "211962ec-9e82-492b-b4e4-95c43f595840",
+        "date_posted": 1794330395,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794330527,
+        "url": "https://go.vansh.nyc/1rx",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Substrate",
+        "title": "Systems Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "90e34e1e-6bc6-47bf-bac9-863613fd6256",
+        "date_posted": 1794330395,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794330527,
+        "url": "https://go.vansh.nyc/1ry",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TerraByte Green",
+        "title": "AI Engineering Intern",
+        "source": "vanshb03",
+        "id": "4318869c-0ccc-4170-b2c3-7d2eddeb162a",
+        "date_posted": 1794330395,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794330527,
+        "url": "https://go.vansh.nyc/1rz",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Mason",
+        "title": "AI Engineer Intern",
+        "source": "vanshb03",
+        "id": "abc724f7-1788-4985-87b4-1920f5900f0e",
+        "date_posted": 1794330395,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794330527,
+        "url": "https://go.vansh.nyc/1rA",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Vooma",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "26c26a8f-75b1-498b-a095-4192908e8b31",
+        "date_posted": 1794330395,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794330527,
+        "url": "https://go.vansh.nyc/1rB",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zingage",
+        "title": "Software Engineer Co-op",
+        "source": "vanshb03",
+        "id": "7ebac9e0-cc01-40a4-aac5-b80050fd79ec",
+        "date_posted": 1794330395,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1794330527,
+        "url": "https://go.vansh.nyc/1rC",
+        "locations": [
+            "St. Petersburg, FL",
+            "Tampa, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Jabil",
+        "title": "AI Agent Developer Intern, Supply Chain IT - AI & Enablement",
+        "source": "vanshb03",
+        "id": "126148cc-643b-42f6-8f3d-c094769fd60c",
+        "date_posted": 1794330395,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
