@@ -57817,5 +57817,73 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1794276325,
+        "url": "https://go.vansh.nyc/1pM",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CTGT",
+        "title": "AI Evaluation Research Intern",
+        "source": "vanshb03",
+        "id": "b4db8625-84e7-45a7-b003-1de005de2464",
+        "date_posted": 1794268800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794276325,
+        "url": "https://go.vansh.nyc/1pN",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "i3",
+        "title": "Data Management Intern",
+        "source": "vanshb03",
+        "id": "69fb2299-b836-40ac-9800-a1660933720f",
+        "date_posted": 1794268800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794276325,
+        "url": "https://go.vansh.nyc/1pO",
+        "locations": [
+            "North Hollywood, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NBCUniversal",
+        "title": "Digital Transformation AR/VR Intern",
+        "source": "vanshb03",
+        "id": "9f29f6ce-11b2-4270-8d4b-12d77e18e656",
+        "date_posted": 1794268800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794276325,
+        "url": "https://go.vansh.nyc/1pP",
+        "locations": [
+            "Fort Wayne, IN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Steel Dynamics",
+        "title": "Information Security Intern",
+        "source": "vanshb03",
+        "id": "5b69fa58-1bb5-4ff5-99c9-a25685275bd3",
+        "date_posted": 1794268800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
