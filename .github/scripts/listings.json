@@ -6399,13 +6399,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1785853278,
+        "date_updated": 1794309157,
         "url": "https://go.vansh.nyc/6d",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "Backend Software Engineer Intern, Social Foundation",
         "source": "vanshb03",
@@ -6552,13 +6552,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1785853316,
+        "date_updated": 1794309157,
         "url": "https://go.vansh.nyc/6m",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "Software Engineer Intern, Code Graph and Quality Validation",
         "source": "vanshb03",
@@ -41361,13 +41361,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793526799,
+        "date_updated": 1794309157,
         "url": "https://go.vansh.nyc/17P",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "AI Engineer Intern, TikTok-Client Arch",
         "source": "vanshb03",
@@ -58211,6 +58211,94 @@
         "source": "vanshb03",
         "id": "11054b2f-34e1-4f34-b9a7-7d3cf5671f13",
         "date_posted": 1794268800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794308734,
+        "url": "https://go.vansh.nyc/1qe",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Selective Insurance",
+        "title": "IT Information Management Intern",
+        "source": "vanshb03",
+        "id": "56fa289b-ccdb-47b9-b099-e35f19ae8b0d",
+        "date_posted": 1793595600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794308917,
+        "url": "https://go.vansh.nyc/1qf",
+        "locations": [
+            "Austin, TX",
+            "Boston, MA",
+            "Fort Collins, CO",
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tenstorrent",
+        "title": "Hardware Intern, Architecture, AI HW & SoC",
+        "source": "vanshb03",
+        "id": "c52017c1-7b96-4fbc-b9ec-5141684a6084",
+        "date_posted": 1791549950,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794308917,
+        "url": "https://go.vansh.nyc/1qg",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Atoms",
+        "title": "Robotics Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "5b8b1df7-4310-40a3-a578-953d732ad4dd",
+        "date_posted": 1793673326,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794308917,
+        "url": "https://go.vansh.nyc/1qh",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Waymo",
+        "title": "Software Engineer Intern, Multiverse",
+        "source": "vanshb03",
+        "id": "62b968b8-7ea5-492d-8e8a-bb4fe3a0e949",
+        "date_posted": 1794268461,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794309090,
+        "url": "https://go.vansh.nyc/1qi",
+        "locations": [
+            "Pleasanton, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Roche",
+        "title": "Assay Bioinformatics Intern, CSI",
+        "source": "vanshb03",
+        "id": "353f4b3b-49c8-4737-9bdd-5fde534e1e9c",
+        "date_posted": 1794222569,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
