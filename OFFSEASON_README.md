@@ -215,7 +215,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Frontend Engineer Project Intern, Multimedia Arch | San Jose, CA | <a href="https://go.vansh.nyc/18z?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | ↳ | Software Engineer Intern, Recommendation Architecture, Feeds Infrastructure | Seattle, WA | <a href="https://go.vansh.nyc/18A?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | Plexus | Software Engineer Intern | Neenah, WI | <a href="https://go.vansh.nyc/19m?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
-| GE Aerospace | Artificial Intelligence Intern | Remote</br>United States | <a href="https://go.vansh.nyc/19l?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | ByteDance | Student Researcher Intern, Seed Model - AI Foundation Models Infrastructure | Seattle, WA | <a href="https://go.vansh.nyc/15E?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | ↳ | Security Engineering Project Intern, Watermark | San Jose, CA | <a href="https://go.vansh.nyc/15F?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | ↳ | Multi-Cloud CDN Data Platform Engineer Intern, Global Engineering CDN | San Jose, CA | <a href="https://go.vansh.nyc/14b?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
@@ -567,6 +566,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Software Test Engineering Co-op | Danvers, MA | 🔒 | Nov 02 |
 | ↳ | Heart Recovery Software R&D Co-op | Halethorpe, MD | 🔒 | Nov 02 |
 | Apache Industrial | AI Implementation Intern | Houston, TX | 🔒 | Nov 02 |
+| GE Aerospace | Artificial Intelligence Intern | Remote</br>United States | 🔒 | Nov 01 |
 | Klaviyo | Software Engineer Co-op | Boston, MA | 🔒 | Oct 30 |
 | Johns Hopkins APL | Robotics Engineer Intern, Maritime Systems 🇺🇸 | Laurel, MD | 🔒 | Oct 30 |
 | GITAI | Field-Deployed Software Engineering Intern 🇺🇸 | Los Angeles, CA | 🔒 | Oct 30 |
