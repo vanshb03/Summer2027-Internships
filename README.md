@@ -447,7 +447,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Resideo | Embedded Firmware Engineer Intern | Melville, NY | <a href="https://go.vansh.nyc/1bv?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | ↳ | Mobile Software Engineer Intern | Austin, TX | <a href="https://go.vansh.nyc/1bw?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | ↳ | Firmware Engineer Intern | Aurora, IL | <a href="https://go.vansh.nyc/1bx?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
-| ↳ | Data Science Intern | Austin, TX</br>Golden Valley, MN | <a href="https://go.vansh.nyc/1by?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | ↳ | Firmware Engineer Intern | Golden Valley, MN | <a href="https://go.vansh.nyc/1bz?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | Qualcomm | Verification Engineer Intern | Toronto, Canada | <a href="https://go.vansh.nyc/1bu?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | ↳ | SoC Engineering Intern | Markham, Canada | <a href="https://go.vansh.nyc/1a0?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
@@ -2039,6 +2038,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | RTX | Systems Security Engineering Intern 🇺🇸 | Fullerton, CA | 🔒 | Nov 02 |
 | ↳ | Systems Security Engineer Intern, Raytheon 🇺🇸 | Woburn, MA | 🔒 | Nov 02 |
 | ↳ | Software Engineering Intern 🇺🇸 | East Hartford, CT | 🔒 | Nov 02 |
+| Resideo | Data Science Intern | Austin, TX</br>Golden Valley, MN | 🔒 | Nov 02 |
 | Northrop Grumman | Engineering Intern, Software, Mission Assurance, Quality 🇺🇸 | Chandler, AZ | 🔒 | Nov 02 |
 | ↳ | Software Engineer Intern 🇺🇸 | Linthicum, MD | 🔒 | Nov 02 |
 | ↳ | Engineering Software and Analysis Intern 🇺🇸 | Sunnyvale, CA | 🔒 | Nov 02 |
