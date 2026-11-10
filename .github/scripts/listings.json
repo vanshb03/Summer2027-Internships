@@ -27975,14 +27975,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793023513,
+        "date_updated": 1794348544,
         "url": "https://go.vansh.nyc/MK",
         "locations": [
             "Oshkosh, WI",
             "Pittsburgh, PA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Oshkosh",
         "title": "Autonomy & Active Safety Engineer Intern",
         "source": "vanshb03",
@@ -44968,13 +44968,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793664318,
+        "date_updated": 1794348544,
         "url": "https://go.vansh.nyc/1bv",
         "locations": [
             "Melville, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Resideo",
         "title": "Embedded Firmware Engineer Intern",
         "source": "vanshb03",
@@ -44985,13 +44985,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793664318,
+        "date_updated": 1794348544,
         "url": "https://go.vansh.nyc/1bw",
         "locations": [
             "Austin, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Resideo",
         "title": "Mobile Software Engineer Intern",
         "source": "vanshb03",
@@ -45002,13 +45002,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793664318,
+        "date_updated": 1794348544,
         "url": "https://go.vansh.nyc/1bx",
         "locations": [
             "Aurora, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Resideo",
         "title": "Firmware Engineer Intern",
         "source": "vanshb03",
@@ -45037,13 +45037,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793664318,
+        "date_updated": 1794348544,
         "url": "https://go.vansh.nyc/1bz",
         "locations": [
             "Golden Valley, MN"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Resideo",
         "title": "Firmware Engineer Intern",
         "source": "vanshb03",
@@ -51903,14 +51903,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793912951,
+        "date_updated": 1794348544,
         "url": "https://go.vansh.nyc/1je",
         "locations": [
             "Remote",
             "United States"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "CareSource",
         "title": "Cybersecurity Intern",
         "source": "vanshb03",
@@ -59871,6 +59871,40 @@
         "source": "vanshb03",
         "id": "5a76f055-1a11-465f-8f04-89acbb6b621c",
         "date_posted": 1794346594,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794348461,
+        "url": "https://go.vansh.nyc/1s6",
+        "locations": [
+            "Bossier City, LA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "General Dynamics Information Technology",
+        "title": "AI/ML Business Intelligence Development Intern",
+        "source": "vanshb03",
+        "id": "4c024c65-9552-4f86-bd3a-229863523e99",
+        "date_posted": 1794348355,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794348461,
+        "url": "https://go.vansh.nyc/1s7",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "Site Reliability Engineer Intern, Data Platform, Computer Platform",
+        "source": "vanshb03",
+        "id": "bafc9090-b9c7-4bef-a0be-926faf866497",
+        "date_posted": 1794348356,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
