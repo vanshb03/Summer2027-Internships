@@ -45451,13 +45451,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793678915,
+        "date_updated": 1794404690,
         "url": "https://go.vansh.nyc/1c1",
         "locations": [
             "Indianapolis, IN"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Allegion",
         "title": "Firmware Engineer Intern, Advanced Development",
         "source": "vanshb03",
@@ -48496,13 +48496,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793743743,
+        "date_updated": 1794404690,
         "url": "https://go.vansh.nyc/1f4",
         "locations": [
             "Fort Wayne, IN"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "DuCharme, McMillen & Associates",
         "title": "Cybersecurity Intern",
         "source": "vanshb03",
