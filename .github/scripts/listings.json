@@ -30413,13 +30413,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793031368,
+        "date_updated": 1794411819,
         "url": "https://go.vansh.nyc/QY",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Celestica",
         "title": "AI / Data Science Intern",
         "source": "vanshb03",
@@ -45293,13 +45293,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793678915,
+        "date_updated": 1794411819,
         "url": "https://go.vansh.nyc/1bS",
         "locations": [
             "Pewaukee, WI"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "ATC",
         "title": "Cyber Security Intern",
         "source": "vanshb03",
@@ -45433,14 +45433,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793678915,
+        "date_updated": 1794411819,
         "url": "https://go.vansh.nyc/1c0",
         "locations": [
             "Carmel, IN",
             "Golden, CO"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Allegion",
         "title": "Software Engineering Intern, DevOps",
         "source": "vanshb03",
@@ -59567,14 +59567,14 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1794330527,
+        "date_updated": 1794411819,
         "url": "https://go.vansh.nyc/1rC",
         "locations": [
             "St. Petersburg, FL",
             "Tampa, FL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Jabil",
         "title": "AI Agent Developer Intern, Supply Chain IT - AI & Enablement",
         "source": "vanshb03",
@@ -61867,6 +61867,23 @@
         "source": "vanshb03",
         "id": "ff017a5b-bb09-4715-ad01-20b88978e273",
         "date_posted": 1794409556,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794411694,
+        "url": "https://go.vansh.nyc/1uG",
+        "locations": [
+            "Madison, WI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "State of Wisconsin Investment Board",
+        "title": "Data Analytics Engineering Intern",
+        "source": "vanshb03",
+        "id": "9845f999-8a98-4cb5-b334-3634911419f6",
+        "date_posted": 1794411584,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
