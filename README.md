@@ -58,7 +58,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Skydio | Middleware Software Engineer Intern | San Mateo, CA | <a href="https://go.vansh.nyc/1s9?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | SigIQ.ai | Machine Learning Intern/Resident | Berkeley, CA | <a href="https://go.vansh.nyc/1rw?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | SemiAnalysis | Data Engineer Intern | Chicago, IL | <a href="https://go.vansh.nyc/1rv?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
-| RTX | Software Engineering Intern 🇺🇸 | St Petersburg, FL | <a href="https://go.vansh.nyc/1sc?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
+| RTX | Software Engineering Intern 🇺🇸 | Richardson, TX | <a href="https://go.vansh.nyc/1ss?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
+| ↳ | Software Engineering Intern 🇺🇸 | St Petersburg, FL | <a href="https://go.vansh.nyc/1sc?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | Rivet | Full-Stack Engineering Intern | United States | <a href="https://go.vansh.nyc/1ru?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | RetailReady | Full Stack Intern | San Francisco, CA | <a href="https://go.vansh.nyc/1rt?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | Renesas Electronics | Applications Engineer Intern | Morrisville, NC | <a href="https://go.vansh.nyc/1sk?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
