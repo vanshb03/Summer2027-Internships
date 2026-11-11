@@ -60548,5 +60548,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1794370710,
+        "url": "https://go.vansh.nyc/1sS",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Riot Games",
+        "title": "Data Engineering Intern",
+        "source": "vanshb03",
+        "id": "0268cf69-e357-4444-be64-5a4216b8c2de",
+        "date_posted": 1794367350,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
