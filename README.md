@@ -62,6 +62,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | RTX | Software Engineering Intern 🇺🇸 | Richardson, TX | <a href="https://go.vansh.nyc/1ss?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | ↳ | Software Engineering Intern 🇺🇸 | St Petersburg, FL | <a href="https://go.vansh.nyc/1sc?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | Rivet | Full-Stack Engineering Intern | United States | <a href="https://go.vansh.nyc/1ru?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
+| Riot Games | Data Engineering Intern 🛂 | Los Angeles, CA | <a href="https://go.vansh.nyc/1sS?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | RetailReady | Full Stack Intern | San Francisco, CA | <a href="https://go.vansh.nyc/1rt?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | Renesas Electronics | Applications Engineer Intern | Morrisville, NC | <a href="https://go.vansh.nyc/1sk?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | Peripheral | Robotics Engineering Intern, Capture Systems | Toronto, Canada | <a href="https://go.vansh.nyc/1rj?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
