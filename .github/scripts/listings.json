@@ -25221,7 +25221,7 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1793021626,
+        "date_updated": 1794415245,
         "url": "https://go.vansh.nyc/IW",
         "locations": [
             "Hudson Valley, NY",
@@ -25231,7 +25231,7 @@
             "Boise, ID"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Marvell",
         "title": "Digital IC Design Intern",
         "source": "vanshb03",
@@ -27412,7 +27412,7 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1793023513,
+        "date_updated": 1794415245,
         "url": "https://go.vansh.nyc/Me",
         "locations": [
             "Morrisville, NC",
@@ -27422,7 +27422,7 @@
             "Westborough, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Marvell",
         "title": "Design Verification Intern",
         "source": "vanshb03",
@@ -27433,7 +27433,7 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793023513,
+        "date_updated": 1794415245,
         "url": "https://go.vansh.nyc/Mf",
         "locations": [
             "Morrisville, NC",
@@ -27445,7 +27445,7 @@
             "Westborough, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Marvell",
         "title": "Physical Design Engineer Intern",
         "source": "vanshb03",
@@ -40029,14 +40029,14 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1793491587,
+        "date_updated": 1794415245,
         "url": "https://go.vansh.nyc/13K",
         "locations": [
             "Remote",
             "Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Solink",
         "title": "Software Engineer Co-op, Agents",
         "source": "vanshb03",
@@ -61901,6 +61901,23 @@
         "source": "vanshb03",
         "id": "60798595-5277-4b08-b279-5096c9102190",
         "date_posted": 1794413169,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794414941,
+        "url": "https://go.vansh.nyc/1uM",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "The Marzetti Company",
+        "title": "AI Solutions Intern, Human Resources",
+        "source": "vanshb03",
+        "id": "ba41e4fc-630f-48ea-8566-a1f09d33a8bf",
+        "date_posted": 1794404520,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
