@@ -60216,5 +60216,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1794355576,
+        "url": "https://go.vansh.nyc/1ss",
+        "locations": [
+            "Richardson, TX"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "RTX",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "dee46f41-1810-4fe8-9944-119d7591c04a",
+        "date_posted": 1794354736,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
