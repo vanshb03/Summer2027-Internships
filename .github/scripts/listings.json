@@ -9853,13 +9853,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792261427,
+        "date_updated": 1794440753,
         "url": "https://go.vansh.nyc/9r",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Brain Co.",
         "title": "AI Product Engineer Co-op",
         "source": "vanshb03",
@@ -9870,13 +9870,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1792261427,
+        "date_updated": 1794440753,
         "url": "https://go.vansh.nyc/9s",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Brain Co.",
         "title": "AI Security Engineer Co-op",
         "source": "vanshb03",
@@ -9887,13 +9887,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1792261427,
+        "date_updated": 1794440753,
         "url": "https://go.vansh.nyc/9t",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Brain Co.",
         "title": "Machine Learning Engineer, Applied AI Co-op",
         "source": "vanshb03",
@@ -9904,13 +9904,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1792261427,
+        "date_updated": 1794440753,
         "url": "https://go.vansh.nyc/9u",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Brain Co.",
         "title": "AI Platform Engineer Co-op",
         "source": "vanshb03",
@@ -32494,13 +32494,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793065680,
+        "date_updated": 1794440753,
         "url": "https://go.vansh.nyc/Uz",
         "locations": [
             "Vancouver, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Disney",
         "title": "Systems Engineer Intern, Data Services",
         "source": "vanshb03",
@@ -32511,13 +32511,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793065680,
+        "date_updated": 1794440753,
         "url": "https://go.vansh.nyc/UA",
         "locations": [
             "Vancouver, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Disney",
         "title": "Software Engineer Intern, Pipeline Infrastructure",
         "source": "vanshb03",
@@ -35712,13 +35712,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793253969,
+        "date_updated": 1794440753,
         "url": "https://go.vansh.nyc/YM",
         "locations": [
             "Burbank, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Disney",
         "title": "Full Stack Web Development Intern, Walt Disney Animation Studios",
         "source": "vanshb03",
@@ -37425,13 +37425,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793385415,
+        "date_updated": 1794440753,
         "url": "https://go.vansh.nyc/10Q",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Brain Co.",
         "title": "AI Platform Engineer Intern",
         "source": "vanshb03",
@@ -37442,13 +37442,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793385415,
+        "date_updated": 1794440753,
         "url": "https://go.vansh.nyc/10R",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Brain Co.",
         "title": "AI Product Engineer Intern",
         "source": "vanshb03",
@@ -37459,13 +37459,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793385415,
+        "date_updated": 1794440753,
         "url": "https://go.vansh.nyc/10S",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Brain Co.",
         "title": "AI Security Engineer Intern",
         "source": "vanshb03",
@@ -37476,13 +37476,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793385415,
+        "date_updated": 1794440753,
         "url": "https://go.vansh.nyc/10T",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Brain Co.",
         "title": "Machine Learning Engineer Intern, Applied AI",
         "source": "vanshb03",
@@ -62535,5 +62535,180 @@
         "company_url": "",
         "is_visible": true,
         "season": "Spring"
+    },
+    {
+        "date_updated": 1794440119,
+        "url": "https://go.vansh.nyc/1vu",
+        "locations": [
+            "East Hartford, CT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "RTX",
+        "title": "Methods Engineering Intern, Aftermarket & Sustainment Engineering",
+        "source": "vanshb03",
+        "id": "23b2523b-a639-43db-b698-3b81e951185f",
+        "date_posted": 1794355200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794440119,
+        "url": "https://go.vansh.nyc/1vv",
+        "locations": [
+            "Universal City, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NBCUniversal",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "54279981-c4e6-4d09-a8df-35f544dd3d2b",
+        "date_posted": 1794437779,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794440119,
+        "url": "https://go.vansh.nyc/1vw",
+        "locations": [
+            "Remote",
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bask Health",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "9b3ad213-2a8c-4538-aa64-be436081692c",
+        "date_posted": 1794438468,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794440119,
+        "url": "https://go.vansh.nyc/1vx",
+        "locations": [
+            "Remote",
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bask Health",
+        "title": "Backend Engineer Intern",
+        "source": "vanshb03",
+        "id": "968793d6-2170-41e5-a2d2-fd9e521f912e",
+        "date_posted": 1794438468,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794440119,
+        "url": "https://go.vansh.nyc/1vy",
+        "locations": [
+            "Remote",
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bask Health",
+        "title": "Product Engineering Intern",
+        "source": "vanshb03",
+        "id": "11e9161b-1976-49de-850a-507713deb664",
+        "date_posted": 1794438468,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794440119,
+        "url": "https://go.vansh.nyc/1vz",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "McDonald's",
+        "title": "Global Tech Infrastructure & Operations Intern",
+        "source": "vanshb03",
+        "id": "ea972f76-e28b-4769-b202-46ea3eef4fe4",
+        "date_posted": 1794439559,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794440139,
+        "url": "https://go.vansh.nyc/1vA",
+        "locations": [
+            "Bloomfield Hills, MI",
+            "Framingham, MA",
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bose",
+        "title": "Data Engineer Co-op",
+        "source": "vanshb03",
+        "id": "e295b9ec-9aed-419b-8cb3-532dcd3c3f7d",
+        "date_posted": 1791331200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1794440139,
+        "url": "https://go.vansh.nyc/1vB",
+        "locations": [
+            "Wyoming, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Gordon Food Service",
+        "title": "Digital Product Management Intern",
+        "source": "vanshb03",
+        "id": "7dd8b84b-c3ad-44b7-b425-71a6f15da81e",
+        "date_posted": 1794355200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794440269,
+        "url": "https://go.vansh.nyc/1vC",
+        "locations": [
+            "Schaumburg, IL"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Motorola Solutions",
+        "title": "Embedded SW Engineering Intern",
+        "source": "vanshb03",
+        "id": "ec2ecd3d-0248-4d30-a648-de2636f083ca",
+        "date_posted": 1794439309,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794440694,
+        "url": "https://go.vansh.nyc/1vD",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "HUB International",
+        "title": "Security Architect Intern",
+        "source": "vanshb03",
+        "id": "37b6ff81-7855-4bca-af40-0600ac68bbb2",
+        "date_posted": 1794440467,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
