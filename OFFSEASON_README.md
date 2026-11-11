@@ -313,7 +313,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Ciena | Software Developer Intern | Ottawa, Canada | <a href="https://go.vansh.nyc/f1?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | Amazon.com Services LLC | System Development Engineer Co-op, Robotics | North Reading, MA | <a href="https://go.vansh.nyc/i1?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | Amazon | Junior Software Development Engineer Intern | Detroit, MI | <a href="https://go.vansh.nyc/gC?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
-| 1Password | Security Intern, Threat Operations | Remote in USA | <a href="https://go.vansh.nyc/eI?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | Themis Intelligence | Software Engineer Co-op, Data | Mississauga, Canada | <a href="https://go.vansh.nyc/Da?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 21 |
 | ↳ | AI Engineer Co-op | Mississauga, Canada | <a href="https://go.vansh.nyc/Db?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 21 |
 | Hitachi | Software Engineering Co-op | Liberty, SC | <a href="https://go.vansh.nyc/du?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 21 |
@@ -629,7 +628,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Amazon | Hardware Development Engineer Intern | Bellevue, WA | 🔒 | Oct 22 |
 | ↳ | Embedded Firmware Co-op | North Reading, MA</br>Westborough, MA | 🔒 | Oct 22 |
 | ↳ | Systems Development Engineer Intern | Bellevue, WA | 🔒 | Oct 22 |
-| 1Password | Developer Intern, Front-End Platform | Remote in USA | 🔒 | Oct 22 |
+| 1Password | Security Intern, Threat Operations | Remote in USA | 🔒 | Oct 22 |
+| ↳ | Developer Intern, Front-End Platform | Remote in USA | 🔒 | Oct 22 |
 | ↳ | Developer Intern, Extension Excellence | Remote in USA | 🔒 | Oct 22 |
 | ↳ | Developer Intern, Provisioning | Remote in USA | 🔒 | Oct 22 |
 | ↳ | Developer Intern, Data Security | Remote</br>United States</br>Canada | 🔒 | Oct 22 |
