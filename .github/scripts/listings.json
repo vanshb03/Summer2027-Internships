@@ -25204,13 +25204,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793021626,
+        "date_updated": 1794429602,
         "url": "https://go.vansh.nyc/IV",
         "locations": [
             "Rochester, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Ciena",
         "title": "Client Co-op, ASIC IP",
         "source": "vanshb03",
@@ -50382,13 +50382,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1793847950,
+        "date_updated": 1794429602,
         "url": "https://go.vansh.nyc/1ht",
         "locations": [
             "Sherbrooke, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Wolters Kluwer",
         "title": "Front-End Developer Intern",
         "source": "vanshb03",
@@ -56292,13 +56292,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794215186,
+        "date_updated": 1794429602,
         "url": "https://go.vansh.nyc/1o8",
         "locations": [
             "Des Moines, IA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Wellmark",
         "title": "Software Engineer Intern, Metadata Enablement Team",
         "source": "vanshb03",
