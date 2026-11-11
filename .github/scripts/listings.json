@@ -31358,13 +31358,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793031368,
+        "date_updated": 1794427819,
         "url": "https://go.vansh.nyc/RQ",
         "locations": [
             "Seattle, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "Software Development Engineer Intern, Global E-Commerce Quality Platform & AI Test Automation",
         "source": "vanshb03",
@@ -41344,13 +41344,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793526799,
+        "date_updated": 1794427819,
         "url": "https://go.vansh.nyc/17O",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "Data Science Intern, TikTok LIVE",
         "source": "vanshb03",
@@ -41514,13 +41514,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793526799,
+        "date_updated": 1794427819,
         "url": "https://go.vansh.nyc/17Y",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "Data Science Intern, TikTok Product",
         "source": "vanshb03",
@@ -41616,13 +41616,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793526799,
+        "date_updated": 1794427819,
         "url": "https://go.vansh.nyc/184",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "Software Engineer Intern, TikTok Search Architecture",
         "source": "vanshb03",
@@ -52555,13 +52555,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793963181,
+        "date_updated": 1794427819,
         "url": "https://go.vansh.nyc/1k2",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "POI Content Product Manager Intern",
         "source": "vanshb03",
@@ -62209,6 +62209,23 @@
         "source": "vanshb03",
         "id": "36e05d74-d747-4177-831e-21bb9aafae17",
         "date_posted": 1794425809,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794427606,
+        "url": "https://go.vansh.nyc/1v9",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "PTC",
+        "title": "Creo Core Geometry Intern",
+        "source": "vanshb03",
+        "id": "1946d484-4336-4ca9-9ad7-00a5c46e85af",
+        "date_posted": 1794426226,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
