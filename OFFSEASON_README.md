@@ -62,6 +62,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Operations Data Analyst Intern | Bethpage, NY | <a href="https://go.vansh.nyc/1sn?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | ↳ | Software Development Intern | Bethpage, NY | <a href="https://go.vansh.nyc/1so?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | AFL | Business Intelligence (BI) Co-op | Duncan, SC | <a href="https://go.vansh.nyc/1qw?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
+| Whoop | Software Engineer Co-op, Backend, Business Systems | Boston, MA | <a href="https://go.vansh.nyc/1sK?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
 | Warner Bros. Discovery | Data Engineering Co-op, WB Games | Needham, MA | <a href="https://go.vansh.nyc/1oH?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
 | ↳ | Software Engineering Co-op, WB Games | Needham, MA | <a href="https://go.vansh.nyc/1oz?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
 | Varian | Application Software Developer Co-op | Canada | <a href="https://go.vansh.nyc/1p8?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
