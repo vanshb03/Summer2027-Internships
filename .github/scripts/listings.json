@@ -15168,13 +15168,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1792697616,
+        "date_updated": 1794395598,
         "url": "https://go.vansh.nyc/eq",
         "locations": [
             "Aurora, CO"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "RTX",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -51973,13 +51973,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793916521,
+        "date_updated": 1794395598,
         "url": "https://go.vansh.nyc/1jj",
         "locations": [
             "Aurora, CO"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "RTX",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
@@ -61799,6 +61799,40 @@
         "source": "vanshb03",
         "id": "13b29357-a7a9-4adb-9977-8687dd2a79b9",
         "date_posted": 1788912000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794395173,
+        "url": "https://go.vansh.nyc/1uy",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cisco",
+        "title": "Software Engineer Intern, Embedded Systems I",
+        "source": "vanshb03",
+        "id": "ceae067f-4432-4d8a-84e7-331000e69f40",
+        "date_posted": 1794308773,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794395311,
+        "url": "https://go.vansh.nyc/1uz",
+        "locations": [
+            "Nepean, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Synopsys",
+        "title": "Engineering Documentation and AI Automation Co-op",
+        "source": "vanshb03",
+        "id": "13847b27-1ffa-4cf1-8c88-3d8d1c11312e",
+        "date_posted": 1794395197,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
