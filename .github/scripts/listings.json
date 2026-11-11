@@ -10892,13 +10892,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792261427,
+        "date_updated": 1794436801,
         "url": "https://go.vansh.nyc/aq",
         "locations": [
             "Detroit, MI"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Rocket Companies",
         "title": "Marketing, Accounting, or IT Intern",
         "source": "vanshb03",
@@ -17299,13 +17299,13 @@
         "season": "Spring"
     },
     {
-        "date_updated": 1792731778,
+        "date_updated": 1794436801,
         "url": "https://go.vansh.nyc/gp",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "SK Hynix Memory Solution",
         "title": "ASIC Design Intern",
         "source": "vanshb03",
@@ -27788,13 +27788,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793023513,
+        "date_updated": 1794436801,
         "url": "https://go.vansh.nyc/Mz",
         "locations": [
             "Knoxville, TN"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Pilot Company",
         "title": "Data Governance Intern",
         "source": "vanshb03",
@@ -61082,13 +61082,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794375552,
+        "date_updated": 1794436801,
         "url": "https://go.vansh.nyc/1tn",
         "locations": [
             "Des Moines, IA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Wellmark",
         "title": "Software Engineer Intern - User Experience Team",
         "source": "vanshb03",
@@ -62430,6 +62430,74 @@
         "source": "vanshb03",
         "id": "d3ba4e5f-22fb-4075-8e54-db327fa10503",
         "date_posted": 1794434797,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794436716,
+        "url": "https://go.vansh.nyc/1vo",
+        "locations": [
+            "Carmel, IN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zotec Partners",
+        "title": "Software Engineer Intern, RCI",
+        "source": "vanshb03",
+        "id": "53b63a8c-522c-4074-9ed5-36c4f9a4cc1d",
+        "date_posted": 1794355200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794436716,
+        "url": "https://go.vansh.nyc/1vp",
+        "locations": [
+            "Carmel, IN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zotec Partners",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "753abcaf-ab1b-404c-ba61-a4f52ca4fef0",
+        "date_posted": 1794355200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794436716,
+        "url": "https://go.vansh.nyc/1vq",
+        "locations": [
+            "West Des Moines, IA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Farmers Mutual Hail",
+        "title": "AI Intern",
+        "source": "vanshb03",
+        "id": "6bff9581-15f8-4aa8-a89e-99b9b210e312",
+        "date_posted": 1794432491,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794436716,
+        "url": "https://go.vansh.nyc/1vr",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "HUB International",
+        "title": "AI Engineering Intern",
+        "source": "vanshb03",
+        "id": "8bf7a0c1-e1c4-47ca-a77c-ceb1d37a33fd",
+        "date_posted": 1794436608,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
