@@ -15482,13 +15482,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1792697714,
+        "date_updated": 1794402554,
         "url": "https://go.vansh.nyc/eI",
         "locations": [
             "Remote in USA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "1Password",
         "title": "Security Intern, Threat Operations",
         "source": "vanshb03",
@@ -32100,13 +32100,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793045154,
+        "date_updated": 1794402554,
         "url": "https://go.vansh.nyc/SW",
         "locations": [
             "North Chicago, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "AbbVie",
         "title": "Cybersecurity Intern, Business Technology Solutions",
         "source": "vanshb03",
@@ -61218,13 +61218,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794375552,
+        "date_updated": 1794402554,
         "url": "https://go.vansh.nyc/1tv",
         "locations": [
             "North Chicago, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "AbbVie",
         "title": "Business Technology Solutions Intern - Cloud Engineering",
         "source": "vanshb03",
