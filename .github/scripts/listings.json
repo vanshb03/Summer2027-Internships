@@ -12954,13 +12954,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792511227,
+        "date_updated": 1794413676,
         "url": "https://go.vansh.nyc/cm",
         "locations": [
             "Montreal, QC, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Nuovo Photography",
         "title": "Software Developer Intern",
         "source": "vanshb03",
@@ -60082,13 +60082,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794353755,
+        "date_updated": 1794413676,
         "url": "https://go.vansh.nyc/1si",
         "locations": [
             "Chicago, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "McDonald's",
         "title": "Software Development Engineer Intern",
         "source": "vanshb03",
@@ -60099,13 +60099,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794353755,
+        "date_updated": 1794413676,
         "url": "https://go.vansh.nyc/1sj",
         "locations": [
             "Chicago, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "McDonald's",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -61884,6 +61884,23 @@
         "source": "vanshb03",
         "id": "9845f999-8a98-4cb5-b334-3634911419f6",
         "date_posted": 1794411584,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794413270,
+        "url": "https://go.vansh.nyc/1uH",
+        "locations": [
+            "Richardson, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "GlobalFoundries",
+        "title": "AI Processor Hardware/Software Integration Engineer Intern",
+        "source": "vanshb03",
+        "id": "60798595-5277-4b08-b279-5096c9102190",
+        "date_posted": 1794413169,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
