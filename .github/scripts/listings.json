@@ -32664,13 +32664,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793095565,
+        "date_updated": 1794424237,
         "url": "https://go.vansh.nyc/V0",
         "locations": [
             "Knoxville, TN"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Pilot Company",
         "title": "Program Intern, Cloud Operations",
         "source": "vanshb03",
@@ -60478,7 +60478,7 @@
         "season": "Spring"
     },
     {
-        "date_updated": 1794362889,
+        "date_updated": 1794424237,
         "url": "https://go.vansh.nyc/1sL",
         "locations": [
             "Lakeville, MN",
@@ -60488,7 +60488,7 @@
             "Bloomington, IL"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Compeer Financial",
         "title": "Data Analytics Intern",
         "source": "vanshb03",
@@ -61988,6 +61988,210 @@
         "source": "vanshb03",
         "id": "35c38371-5ab5-4b4d-b651-1ee7e7be2571",
         "date_posted": 1794336023,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794424093,
+        "url": "https://go.vansh.nyc/1uT",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Astera Labs",
+        "title": "Firmware Engineer Intern, SCO2",
+        "source": "vanshb03",
+        "id": "05b7a286-786d-4294-9e50-0615ebf394ab",
+        "date_posted": 1793219637,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794424093,
+        "url": "https://go.vansh.nyc/1uU",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Astera Labs",
+        "title": "Firmware Engineer Intern, Leo",
+        "source": "vanshb03",
+        "id": "54025eea-165b-40fa-9397-5252d10a3d22",
+        "date_posted": 1793219637,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794424093,
+        "url": "https://go.vansh.nyc/1uV",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Astera Labs",
+        "title": "Firmware Engineer Intern, DevSecOps",
+        "source": "vanshb03",
+        "id": "2e7418f6-afcb-4819-848d-3ef9c142e02c",
+        "date_posted": 1793219637,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794424093,
+        "url": "https://go.vansh.nyc/1uW",
+        "locations": [
+            "Vancouver, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Astera Labs",
+        "title": "Firmware Engineer Co-op",
+        "source": "vanshb03",
+        "id": "e7a2e41f-eefc-4296-93fe-02693f714a18",
+        "date_posted": 1793219637,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1794424093,
+        "url": "https://go.vansh.nyc/1uX",
+        "locations": [
+            "Vancouver, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Astera Labs",
+        "title": "Firmware Engineer Co-op",
+        "source": "vanshb03",
+        "id": "b09d2c47-2b06-4b5a-8292-fb03103342ba",
+        "date_posted": 1793219637,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794424093,
+        "url": "https://go.vansh.nyc/1uY",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Astera Labs",
+        "title": "Cybersecurity Engineer Intern",
+        "source": "vanshb03",
+        "id": "d81d2513-43c5-4ec4-8c3d-0dc93cb13980",
+        "date_posted": 1793219637,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794424093,
+        "url": "https://go.vansh.nyc/1uZ",
+        "locations": [
+            "Aurora, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cyberix",
+        "title": "Cybersecurity Intern",
+        "source": "vanshb03",
+        "id": "c84d7481-075d-439f-8ed9-cbaa15ea893b",
+        "date_posted": 1794297915,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794424093,
+        "url": "https://go.vansh.nyc/1v0",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Penn Engineering",
+        "title": "AI & Data Intern",
+        "source": "vanshb03",
+        "id": "762bd57e-c0e3-4e1f-bbcb-791e7462e910",
+        "date_posted": 1794300516,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794424093,
+        "url": "https://go.vansh.nyc/1v1",
+        "locations": [
+            "Tampa, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "New York Life Insurance",
+        "title": "IBM i Developer Intern",
+        "source": "vanshb03",
+        "id": "55629909-af97-45d1-8c20-aa789687307a",
+        "date_posted": 1794311790,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794424093,
+        "url": "https://go.vansh.nyc/1v2",
+        "locations": [
+            "Somerville, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Formlabs",
+        "title": "Desktop Software Intern",
+        "source": "vanshb03",
+        "id": "3fed844b-6be1-48d7-b004-2127687632b9",
+        "date_posted": 1794312601,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1794424093,
+        "url": "https://go.vansh.nyc/1v3",
+        "locations": [
+            "South Burlington, VT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "BETA Technologies Summer 2027",
+        "title": "Software, Controls & Autonomy Intern",
+        "source": "vanshb03",
+        "id": "1f355df9-96a4-4346-a1eb-0f6777fce9f4",
+        "date_posted": 1794324661,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794424093,
+        "url": "https://go.vansh.nyc/1v4",
+        "locations": [
+            "La Vista, NE"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Kiewit",
+        "title": "Machine Learning Intern, Kiewit Data Services",
+        "source": "vanshb03",
+        "id": "b9e2b6e8-859e-44af-bc43-08b43c0d4930",
+        "date_posted": 1794342844,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
