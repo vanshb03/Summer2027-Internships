@@ -383,10 +383,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Skydio | Manufacturing Software Engineer Intern | San Mateo, CA | <a href="https://go.vansh.nyc/9y?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
 | Later | Data Science Co-op | Vancouver, BC | <a href="https://go.vansh.nyc/9x?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
 | Hitachi | ITV Automation Specialist Intern | Toronto, ON | <a href="https://go.vansh.nyc/9v?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
-| Brain Co. | AI Product Engineer Co-op | San Francisco, CA | <a href="https://go.vansh.nyc/9r?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
-| ↳ | AI Security Engineer Co-op | San Francisco, CA | <a href="https://go.vansh.nyc/9s?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
-| ↳ | Machine Learning Engineer, Applied AI Co-op | San Francisco, CA | <a href="https://go.vansh.nyc/9t?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
-| ↳ | AI Platform Engineer Co-op | San Francisco, CA | <a href="https://go.vansh.nyc/9u?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
 | Atoms | Software Engineer Intern | Seattle, WA | <a href="https://go.vansh.nyc/Cp?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
 | ↳ | Software Engineering Intern | Seattle, WA | <a href="https://go.vansh.nyc/93?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
 | AGCO | AI & Data Science Intern | Champaign, IL | <a href="https://go.vansh.nyc/Ct?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
@@ -411,7 +407,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Figure | Middleware Software Intern | San Jose, CA | <a href="https://go.vansh.nyc/1nH?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
 | Entrust | Firmware Engineer Co-op | Shakopee, MN | <a href="https://go.vansh.nyc/FH?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
 | Coveo | Software Developer Intern, Solutions Engineering Core Team | Montreal, Canada | <a href="https://go.vansh.nyc/1nB?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
-| Bose | Data Analytics Engineer Co-op | Bloomfield Hills, MI</br>Framingham, MA</br>Atlanta, GA | <a href="https://go.vansh.nyc/FJ?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
+| Bose | Data Engineer Co-op | Bloomfield Hills, MI</br>Framingham, MA</br>Atlanta, GA | <a href="https://go.vansh.nyc/1vA?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
+| ↳ | Data Analytics Engineer Co-op | Bloomfield Hills, MI</br>Framingham, MA</br>Atlanta, GA | <a href="https://go.vansh.nyc/FJ?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
 | Tevora | Cybersecurity Intern, Enterprise Risk Management | Irvine, CA</br>Fairfax, VA | <a href="https://go.vansh.nyc/V4?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 05 |
 | ↳ | Cybersecurity Intern, Federal | Fairfax, VA</br>Irvine, CA | <a href="https://go.vansh.nyc/V5?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 05 |
 | ↳ | Cybersecurity Intern, Healthcare | Irvine, CA</br>Fairfax, VA | <a href="https://go.vansh.nyc/V6?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 05 |
@@ -673,6 +670,10 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Sony Pictures Entertainment | Current Programming Intern, Sony Pictures Television | Culver City, CA | 🔒 | Oct 14 |
 | Johnson & Johnson | Technical Operations Co-op | West Chester, PA | 🔒 | Oct 14 |
 | Ciena | Embedded Software Developer Intern | Ottawa, Canada | 🔒 | Oct 14 |
+| Brain Co. | AI Product Engineer Co-op | San Francisco, CA | 🔒 | Oct 14 |
+| ↳ | AI Security Engineer Co-op | San Francisco, CA | 🔒 | Oct 14 |
+| ↳ | Machine Learning Engineer, Applied AI Co-op | San Francisco, CA | 🔒 | Oct 14 |
+| ↳ | AI Platform Engineer Co-op | San Francisco, CA | 🔒 | Oct 14 |
 | Plexus | Digital Engineer Intern | Neenah, WI | 🔒 | Oct 13 |
 | Disney | Disney & Pixar Games Production Intern | Glendale, CA | 🔒 | Oct 13 |
 | Covestro | Supply Chain Application Developer Co-op | Pittsburgh, PA | 🔒 | Oct 13 |
