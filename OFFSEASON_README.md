@@ -48,6 +48,9 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Peripheral | Software Engineer Intern, Infrastructure | Toronto, Canada | <a href="https://go.vansh.nyc/1ri?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | ↳ | Embedded Systems Engineering Intern, Capture Systems | Toronto, Canada | <a href="https://go.vansh.nyc/1rk?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | ↳ | ML Research Intern, Reconstruction | Toronto, Canada | <a href="https://go.vansh.nyc/1rl?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
+| Optimum (Altice USA) | DevOps Toolchain Intern | Bethpage, NY | <a href="https://go.vansh.nyc/1sF?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
+| ↳ | Cloud Platform Engineering Intern | Bethpage, NY | <a href="https://go.vansh.nyc/1sG?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
+| ↳ | QA Automation Engineering Intern | Bethpage, NY | <a href="https://go.vansh.nyc/1sH?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | NVIDIA | Performance Engineering Intern, Platform Performance and Power | Santa Clara, CA | <a href="https://go.vansh.nyc/1sd?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | Mantlebio | Computational Biology Research Engineer Intern | San Francisco, CA | <a href="https://go.vansh.nyc/1qV?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | Magnet Forensics | Information Security Analyst Co-op | Waterloo, Canada</br>Ottawa, Canada | <a href="https://go.vansh.nyc/1se?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
