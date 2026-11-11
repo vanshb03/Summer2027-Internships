@@ -49,6 +49,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | The Marzetti Company | AI Solutions Intern, Human Resources | Columbus, OH | <a href="https://go.vansh.nyc/1uM?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | Synopsys | Engineering Documentation and AI Automation Co-op | Nepean, Canada | <a href="https://go.vansh.nyc/1uz?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | State of Wisconsin Investment Board | Data Analytics Engineering Intern | Madison, WI | <a href="https://go.vansh.nyc/1uG?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
+| RTX | Software Engineering Intern 🇺🇸 | McKinney, TX | <a href="https://go.vansh.nyc/1v6?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | Rockwell Automation | Software Developer/Engineering Intern 🛂 | Mequon, WI | <a href="https://go.vansh.nyc/1uD?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | ICF | Data Analytics Intern | Reston, VA</br>Remote</br>United States | <a href="https://go.vansh.nyc/1uQ?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | GlobalFoundries | AI Processor Hardware/Software Integration Engineer Intern | Richardson, TX | <a href="https://go.vansh.nyc/1uH?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
@@ -1181,7 +1182,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Graviton | Quantitative Researcher Intern | <details><summary>**4 locations**</summary>London, UK</br>Amsterdam, Netherlands</br>NYC</br>Singapore</details> | <a href="https://go.vansh.nyc/bc?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
 | Generac | Micro-Grid Systems Engineering Intern | Fort Collins, CO | <a href="https://go.vansh.nyc/bj?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
 | Electronic Arts | Software Engineer Intern | Orlando, FL | <a href="https://go.vansh.nyc/cn?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
-| Dominion Energy | Electric Transmission Asset Analyst Intern - Digital Solutions Team | Glen Allen, VA | <a href="https://go.vansh.nyc/cc?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
 | DocuSign | Security Intern 🛂 | San Francisco, CA | <a href="https://go.vansh.nyc/D2?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
 | Constellation Brands | AI Enablement Intern | Rochester, NY | <a href="https://go.vansh.nyc/co?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
 | Citco | Software Engineer Intern | Toronto, ON, Canada | <a href="https://go.vansh.nyc/ca?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
@@ -2414,6 +2414,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Inmar Intelligence | Data Science Intern | Raleigh, NC</br>Winston-Salem, NC | 🔒 | Oct 19 |
 | Highmark Health | Data Analyst Intern | Pittsburgh, PA | 🔒 | Oct 19 |
 | GlobalFoundries | AI/ML Systems Engineering Intern | Richardson, TX | 🔒 | Oct 19 |
+| Dominion Energy | Electric Transmission Asset Analyst Intern - Digital Solutions Team | Glen Allen, VA | 🔒 | Oct 19 |
 | BMO Financial Group | Junior Cloud Engineer Co-op | Toronto, ON | 🔒 | Oct 19 |
 | Arch Capital Group | Security Operations Intern | Greensboro, NC | 🔒 | Oct 19 |
 | Applied Materials | Software Engineer Intern | Santa Clara, CA | 🔒 | Oct 19 |

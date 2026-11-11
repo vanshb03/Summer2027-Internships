@@ -62,7 +62,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Altice USA | Developer Intern, Financial & People Systems | Bethpage, NY | <a href="https://go.vansh.nyc/1sl?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | ↳ | Product Analytics Intern | Bethpage, NY | <a href="https://go.vansh.nyc/1sm?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | ↳ | Operations Data Analyst Intern | Bethpage, NY | <a href="https://go.vansh.nyc/1sn?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
-| ↳ | Software Development Intern | Bethpage, NY | <a href="https://go.vansh.nyc/1so?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | AFL | Business Intelligence (BI) Co-op | Duncan, SC | <a href="https://go.vansh.nyc/1qw?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | Whoop | Software Engineer Co-op, Backend, Business Systems | Boston, MA | <a href="https://go.vansh.nyc/1sK?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
 | Warner Bros. Discovery | Data Engineering Co-op, WB Games | Needham, MA | <a href="https://go.vansh.nyc/1oH?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
@@ -542,6 +541,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Pinterest | Software Engineer Intern | Toronto, Canada | <a href="https://go.vansh.nyc/Y?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 24 |
 | Colgate-Palmolive | Software Development Intern | Piscataway, NJ | <a href="https://go.vansh.nyc/U?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
 | Shopify | Engineering and Data Intern | Remote</br>Canada | <a href="https://go.vansh.nyc/G?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 19 |
+| Altice USA | Software Development Intern | Bethpage, NY | 🔒 | Nov 10 |
 | RTX | Digital Hardware Design Engineer Co-op | Cedar Rapids, IA | 🔒 | Nov 08 |
 | Kinaxis | Developer Co-op, Machine Learning | Remote</br>United States | 🔒 | Nov 07 |
 | Western & Southern Financial Group | Artificial Intelligence Developer Intern | Cincinnati, OH | 🔒 | Nov 06 |
