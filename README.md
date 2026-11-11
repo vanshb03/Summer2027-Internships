@@ -102,6 +102,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ByteDance | Site Reliability Engineer Intern, Data Platform, Computer Platform | San Jose, CA | <a href="https://go.vansh.nyc/1s7?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | Booz Allen Hamilton | Quantum Computing Research Intern | Washington, DC | <a href="https://go.vansh.nyc/1qt?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | Avary.ai | Quality Assurance (QA) Intern | United States | <a href="https://go.vansh.nyc/1qG?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
+| Astranis | Embedded Software Developer Intern, Network/Payload 🇺🇸 | San Francisco, CA | <a href="https://go.vansh.nyc/1sT?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | Art of Problem Solving | Data Science Intern | San Diego, CA | <a href="https://go.vansh.nyc/1sA?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | Addepar | Product Intern | New York, NY | <a href="https://go.vansh.nyc/1s3?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | ↳ | Software Engineering Intern | New York, NY | <a href="https://go.vansh.nyc/1rW?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
@@ -229,7 +230,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Application Software Development Intern 🛂 | Niles, IL | <a href="https://go.vansh.nyc/1kb?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | SDSU Research Foundation | Undergraduate Student Intern, Port Contamination Project | San Diego, CA | <a href="https://go.vansh.nyc/1mw?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | Samsung | Care AI Data Analytic Intern | Plano, TX | <a href="https://go.vansh.nyc/1le?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
-| RTX | Digital Technology Intern 🇺🇸 | Andover, MA | <a href="https://go.vansh.nyc/1l2?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | Rockefeller Capital Management | Analyst Intern, Core Platforms | Hamilton, NJ | <a href="https://go.vansh.nyc/1mu?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | ↳ | Analyst Intern, Information Security | New York, NY | <a href="https://go.vansh.nyc/1mv?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | Rivian | ML AI Motor Controls Algorithm Intern | Champaign, IL | <a href="https://go.vansh.nyc/1kS?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
@@ -1983,6 +1983,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | CTGT | AI Evaluation Research Intern | San Francisco, CA | 🔒 | Nov 09 |
 | RTX | Digital Hardware Design Engineer Co-op | Cedar Rapids, IA | 🔒 | Nov 08 |
 | empirical | Software Engineering Intern | Dakota Dunes, SD | 🔒 | Nov 07 |
+| RTX | Digital Technology Intern 🇺🇸 | Andover, MA | 🔒 | Nov 06 |
 | Marmon Holdings | AI Technology Solutions Intern | Chicago, IL | 🔒 | Nov 06 |
 | Invitation-charter | Software Engineer Intern | Englewood, CO | 🔒 | Nov 06 |
 | IDEMIA | Service Platform Engineering Intern | Brentwood, TN | 🔒 | Nov 06 |
