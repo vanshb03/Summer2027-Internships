@@ -1756,7 +1756,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Security Workflow Engineer Intern | Vienna, VA | <a href="https://go.vansh.nyc/My?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 09 |
 | Barnes & Thornburg | Information Security Intern | Indianapolis, IN | <a href="https://go.vansh.nyc/N8?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 09 |
 | TruStage | Information Technology Development and Infrastructure Intern | Madison, WI | <a href="https://go.vansh.nyc/Ms?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
-| Navy Federal | Associate Data Engineer Intern | Vienna, VA | <a href="https://go.vansh.nyc/1up?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
+| Navy Federal | Associate Data Scientist Intern | Vienna, VA | <a href="https://go.vansh.nyc/1ux?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
+| ↳ | Associate Data Engineer Intern | Vienna, VA | <a href="https://go.vansh.nyc/1up?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
 | ↳ | Associate Zero Trust Information Security Analyst Intern | Vienna, VA | <a href="https://go.vansh.nyc/1uq?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
 | ↳ | Associate Product Security Engineer Intern | Vienna, VA | <a href="https://go.vansh.nyc/1ur?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
 | ↳ | Associate Information Security Analyst Intern | Vienna, VA | <a href="https://go.vansh.nyc/1us?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
