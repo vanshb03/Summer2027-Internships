@@ -11812,13 +11812,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792442374,
+        "date_updated": 1794363231,
         "url": "https://go.vansh.nyc/bh",
         "locations": [
             "Richardson, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "GlobalFoundries",
         "title": "AI/ML Systems Engineering Intern",
         "source": "vanshb03",
@@ -60456,6 +60456,78 @@
         "source": "vanshb03",
         "id": "146b5be4-77d7-4403-98e7-4faef038ac7b",
         "date_posted": 1794359197,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794362889,
+        "url": "https://go.vansh.nyc/1sK",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Whoop",
+        "title": "Software Engineer Co-op, Backend, Business Systems",
+        "source": "vanshb03",
+        "id": "e03b6712-6fc8-49ac-8eff-78c833c529fa",
+        "date_posted": 1794262317,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1794362889,
+        "url": "https://go.vansh.nyc/1sL",
+        "locations": [
+            "Lakeville, MN",
+            "Mankato, MN",
+            "Rochester, MN",
+            "Eau Claire, WI",
+            "Bloomington, IL"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Compeer Financial",
+        "title": "Data Analytics Intern",
+        "source": "vanshb03",
+        "id": "c19fcfb2-1ea4-44ce-8fef-f7159d8c7438",
+        "date_posted": 1794320858,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794362889,
+        "url": "https://go.vansh.nyc/1sM",
+        "locations": [
+            "Lake Saint Louis, MO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "National Information Solutions Cooperative",
+        "title": "Test Automation Intern",
+        "source": "vanshb03",
+        "id": "78c9555e-4b9b-41e9-9ab1-93d3f6f053c8",
+        "date_posted": 1794333511,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794362889,
+        "url": "https://go.vansh.nyc/1sN",
+        "locations": [
+            "State College, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Minitab",
+        "title": "Cybersecurity Intern",
+        "source": "vanshb03",
+        "id": "3a764e81-72f2-43dd-b8b5-7f7dca0854b5",
+        "date_posted": 1794347875,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
