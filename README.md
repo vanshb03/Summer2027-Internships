@@ -54,10 +54,12 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | PTC | Creo Graphics Engineering Intern | Boston, MA | <a href="https://go.vansh.nyc/1ve?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | ↳ | Creo Core Geometry Intern | Boston, MA | <a href="https://go.vansh.nyc/1v9?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | Motorola | Software Engineering Intern | Schaumburg, IL | <a href="https://go.vansh.nyc/1vh?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
+| MKS Instruments | Software Engineer Co-op | Andover, MA | <a href="https://go.vansh.nyc/1vn?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | Lightmatter | Laser Firmware Intern | Boston, MA | <a href="https://go.vansh.nyc/1vf?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | ICF | Data Analytics Intern | Reston, VA</br>Remote</br>United States | <a href="https://go.vansh.nyc/1uQ?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | GlobalFoundries | AI Processor Hardware/Software Integration Engineer Intern | Richardson, TX | <a href="https://go.vansh.nyc/1uH?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | Brex | Software Engineer Intern | San Francisco, CA | <a href="https://go.vansh.nyc/1uO?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
+| Bloom Energy | Data Science Intern | San Jose, CA | <a href="https://go.vansh.nyc/1vm?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | Bask | Backend Engineering Intern | United States | <a href="https://go.vansh.nyc/1vi?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | ↳ | Software Engineering Intern | United States | <a href="https://go.vansh.nyc/1vj?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | AeroVironment | Software Engineering Intern | Lawrence, KS | <a href="https://go.vansh.nyc/1vd?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
@@ -452,7 +454,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Platform Engineering Intern | Cedar Rapids, IA | <a href="https://go.vansh.nyc/1fj?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | GM Financial | Cloud Engineer Intern | Irving, TX | <a href="https://go.vansh.nyc/1hc?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | General Dynamics Mission Systems | Software Engineer Intern | Port Orchard, WA | <a href="https://go.vansh.nyc/1hX?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
-| First Citizens BancShares | Applied AI Intern | Raleigh, NC | <a href="https://go.vansh.nyc/1fD?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | EquipmentShare | Engineering Intern, Embedded | Columbia, MO | <a href="https://go.vansh.nyc/1q3?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | ENFOS | Software Engineer Intern | Chicago, IL | <a href="https://go.vansh.nyc/1eo?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | EMC Insurance | Cybersecurity Intern | United States | <a href="https://go.vansh.nyc/1ei?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
@@ -2085,6 +2086,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Engineering Software Tool Development Intern, Field Engineering 🇺🇸 | Baltimore, MD | 🔒 | Nov 03 |
 | McKesson | CMM Technology Intern | Columbus, OH | 🔒 | Nov 03 |
 | IDEMIA | Information Technology Intern | Remote</br>United States | 🔒 | Nov 03 |
+| First Citizens BancShares | Applied AI Intern | Raleigh, NC | 🔒 | Nov 03 |
 | DuCharme, McMillen & Associates | Cybersecurity Intern | Fort Wayne, IN | 🔒 | Nov 03 |
 | Dimensional Fund Advisors | Software Engineer Intern | Austin, TX | 🔒 | Nov 03 |
 | Cox | Software Engineering Intern 🛂 | Austin, TX | 🔒 | Nov 03 |
