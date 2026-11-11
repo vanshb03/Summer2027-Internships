@@ -61785,5 +61785,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1794384470,
+        "url": "https://go.vansh.nyc/1ux",
+        "locations": [
+            "Vienna, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Navy Federal",
+        "title": "Associate Data Scientist Intern",
+        "source": "vanshb03",
+        "id": "13b29357-a7a9-4adb-9977-8687dd2a79b9",
+        "date_posted": 1788912000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
