@@ -48979,13 +48979,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1793748955,
+        "date_updated": 1794434996,
         "url": "https://go.vansh.nyc/1fD",
         "locations": [
             "Raleigh, NC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "First Citizens BancShares",
         "title": "Applied AI Intern",
         "source": "vanshb03",
@@ -62396,6 +62396,40 @@
         "source": "vanshb03",
         "id": "0531d89b-6bb3-4d54-a92b-b850e8bf3224",
         "date_posted": 1794433010,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794434903,
+        "url": "https://go.vansh.nyc/1vm",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bloom Energy",
+        "title": "Data Science Intern",
+        "source": "vanshb03",
+        "id": "e21cc157-0525-47c3-9d8f-7a95c03d69ae",
+        "date_posted": 1794434797,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794434903,
+        "url": "https://go.vansh.nyc/1vn",
+        "locations": [
+            "Andover, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "MKS Instruments",
+        "title": "Software Engineer Co-op",
+        "source": "vanshb03",
+        "id": "d3ba4e5f-22fb-4075-8e54-db327fa10503",
+        "date_posted": 1794434797,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
