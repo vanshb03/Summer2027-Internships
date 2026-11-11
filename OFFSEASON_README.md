@@ -327,7 +327,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | CIBC | Application/Software Developer Co-op, Capital Markets Technology | Toronto, ON | <a href="https://go.vansh.nyc/bM?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 20 |
 | ↳ | Application/Software Developer Co-op, Enterprise Technology & Business Management | Toronto, ON | <a href="https://go.vansh.nyc/bN?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 20 |
 | Zipline | System Test Automation Intern | South San Francisco, CA | <a href="https://go.vansh.nyc/Su?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
-| Nuovo Photography | Software Developer Intern | Montreal, QC, Canada | <a href="https://go.vansh.nyc/cm?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
 | Hitachi | AI Intern, Supply Chain | Toronto, ON, Canada | <a href="https://go.vansh.nyc/d0?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
 | FanDuel | Product Co-op | Toronto, ON, Canada | <a href="https://go.vansh.nyc/bf?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
 | Cryptic Vector | Full Stack Developer Intern | Liberty Township, OH | <a href="https://go.vansh.nyc/go?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
@@ -637,6 +636,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Software Engineer Co-op 🇺🇸 | Richardson, TX | 🔒 | Oct 20 |
 | OpenAI | Backend Software Engineer Intern, Cooperative AI (Evals) | San Francisco, CA | 🔒 | Oct 20 |
 | BMO | Data & AI Analyst Co-op | Toronto, ON, Canada | 🔒 | Oct 20 |
+| Nuovo Photography | Software Developer Intern | Montreal, QC, Canada | 🔒 | Oct 19 |
 | ABB | Integrated Motor Drive Software Co-op | Greenville, SC | 🔒 | Oct 19 |
 | Manulife Financial | AI Co-op | Toronto, ON, Canada | 🔒 | Oct 18 |
 | Johns Hopkins Applied Physics Laboratory | Algorithm, Software, or RF Systems Engineering Intern | Laurel, MD | 🔒 | Oct 18 |
