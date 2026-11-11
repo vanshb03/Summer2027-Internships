@@ -16578,13 +16578,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792717555,
+        "date_updated": 1794407991,
         "url": "https://go.vansh.nyc/fJ",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Palantir Technologies",
         "title": "Deployment Strategist Intern, Warp Speed",
         "source": "vanshb03",
@@ -21340,13 +21340,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1793015500,
+        "date_updated": 1794407991,
         "url": "https://go.vansh.nyc/Ek",
         "locations": [
             "Tarrytown, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Regeneron Pharmaceuticals",
         "title": "Data Science & Digital Innovation Co-op, Preclinical Manufacturing & Research IT",
         "source": "vanshb03",
@@ -26815,13 +26815,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1793023513,
+        "date_updated": 1794407991,
         "url": "https://go.vansh.nyc/LG",
         "locations": [
             "Markham, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "AMD",
         "title": "Machine Learning/Artificial Intelligence Co-op",
         "source": "vanshb03",
@@ -26849,13 +26849,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1793023513,
+        "date_updated": 1794407991,
         "url": "https://go.vansh.nyc/LI",
         "locations": [
             "Vancouver, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "AMD",
         "title": "Hardware Design Engineer Co-op",
         "source": "vanshb03",
@@ -26866,13 +26866,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793023513,
+        "date_updated": 1794407991,
         "url": "https://go.vansh.nyc/LJ",
         "locations": [
             "Markham, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "AMD",
         "title": "Diagnostics Design Engineer Co-op",
         "source": "vanshb03",
@@ -26900,13 +26900,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1793023513,
+        "date_updated": 1794407991,
         "url": "https://go.vansh.nyc/LL",
         "locations": [
             "Vancouver, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "AMD",
         "title": "Firmware Engineer Co-op",
         "source": "vanshb03",
@@ -26934,13 +26934,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1793023513,
+        "date_updated": 1794407991,
         "url": "https://go.vansh.nyc/LN",
         "locations": [
             "Markham, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "AMD",
         "title": "Hardware Design Engineer Co-op",
         "source": "vanshb03",
@@ -26951,13 +26951,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793023513,
+        "date_updated": 1794407991,
         "url": "https://go.vansh.nyc/LO",
         "locations": [
             "Markham, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "AMD",
         "title": "Graphics Software Engineer Co-op",
         "source": "vanshb03",
@@ -26985,13 +26985,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1793023513,
+        "date_updated": 1794407991,
         "url": "https://go.vansh.nyc/LQ",
         "locations": [
             "Markham, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "AMD",
         "title": "Firmware Engineer Co-op",
         "source": "vanshb03",
@@ -28235,13 +28235,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793024036,
+        "date_updated": 1794407991,
         "url": "https://go.vansh.nyc/MZ",
         "locations": [
             "Markham, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "AMD",
         "title": "Software Engineering Co-op",
         "source": "vanshb03",
@@ -28252,13 +28252,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793024036,
+        "date_updated": 1794407991,
         "url": "https://go.vansh.nyc/N0",
         "locations": [
             "Markham, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "AMD",
         "title": "Software Test Engineering Co-op",
         "source": "vanshb03",
@@ -52657,13 +52657,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793975933,
+        "date_updated": 1794407991,
         "url": "https://go.vansh.nyc/1k8",
         "locations": [
             "Cincinnati, OH"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Western & Southern Financial Group",
         "title": "Artificial Intelligence Developer Intern",
         "source": "vanshb03",
@@ -61833,6 +61833,23 @@
         "source": "vanshb03",
         "id": "13847b27-1ffa-4cf1-8c88-3d8d1c11312e",
         "date_posted": 1794395197,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794407916,
+        "url": "https://go.vansh.nyc/1uC",
+        "locations": [
+            "Eagan, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Unisys",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "f4f12920-d8db-4adb-b1f7-0b316f05b8a3",
+        "date_posted": 1794355200,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
