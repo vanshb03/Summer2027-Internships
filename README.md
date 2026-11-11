@@ -51,6 +51,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | State of Wisconsin Investment Board | Data Analytics Engineering Intern | Madison, WI | <a href="https://go.vansh.nyc/1uG?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | RTX | Software Engineering Intern 🇺🇸 | McKinney, TX | <a href="https://go.vansh.nyc/1v6?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | Rockwell Automation | Software Developer/Engineering Intern 🛂 | Mequon, WI | <a href="https://go.vansh.nyc/1uD?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
+| PTC | Creo Core Geometry Intern | Boston, MA | <a href="https://go.vansh.nyc/1v9?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | ICF | Data Analytics Intern | Reston, VA</br>Remote</br>United States | <a href="https://go.vansh.nyc/1uQ?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | GlobalFoundries | AI Processor Hardware/Software Integration Engineer Intern | Richardson, TX | <a href="https://go.vansh.nyc/1uH?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | Brex | Software Engineer Intern | San Francisco, CA | <a href="https://go.vansh.nyc/1uO?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
@@ -229,7 +230,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | United Wholesale Mortgage | Technology Intern Program | Remote</br>United States | <a href="https://go.vansh.nyc/1mx?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | Trimble | AI Automation Intern | Dayton, OH</br>Westminster, CO | <a href="https://go.vansh.nyc/1lh?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | TikTok | GEO Content Product Manager Intern | San Jose, CA | <a href="https://go.vansh.nyc/1lW?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
-| ↳ | POI Content Product Manager Intern | San Jose, CA | <a href="https://go.vansh.nyc/1k2?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | The New York Times | Backend Engineering Intern | New York, NY | <a href="https://go.vansh.nyc/1lg?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | ↳ | Frontend Engineering Intern | New York, NY | <a href="https://go.vansh.nyc/1l5?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | ↳ | Android Engineering Intern | New York, NY | <a href="https://go.vansh.nyc/1l6?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
@@ -571,7 +571,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Alcon | Software, Data & AI Engineering Intern | <details><summary>**5 locations**</summary>Fort Worth, TX</br>Lake Forest, CA</br>Johns Creek, GA</br>Houston, TX</br>Goleta, CA</details> | <a href="https://go.vansh.nyc/1bZ?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | Valmont | Embedded Systems Engineer Intern | Valley, NE | <a href="https://go.vansh.nyc/1br?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | TikTok | Machine Learning Engineer Intern, Brand Ads | San Jose, CA | <a href="https://go.vansh.nyc/17N?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
-| ↳ | Data Science Intern, TikTok LIVE | San Jose, CA | <a href="https://go.vansh.nyc/17O?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | ↳ | Machine Learning Engineer Intern, Ads Signal & Measurement | San Jose, CA | <a href="https://go.vansh.nyc/17Q?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | ↳ | Data Science Intern, TikTok Integrity and Safety | San Jose, CA | <a href="https://go.vansh.nyc/17R?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | ↳ | Machine Learning MLOps Intern, Global SRE | San Jose, CA | <a href="https://go.vansh.nyc/17S?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
@@ -580,13 +579,11 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | ML Infra Engineer Intern, Ads Infra | San Jose, CA | <a href="https://go.vansh.nyc/17V?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | ↳ | Software Engineer Intern, Global E-commerce-Search | Seattle, WA | <a href="https://go.vansh.nyc/17W?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | ↳ | Machine Learning Engineer Intern, App Ads and Gaming | San Jose, CA | <a href="https://go.vansh.nyc/17X?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
-| ↳ | Data Science Intern, TikTok Product | San Jose, CA | <a href="https://go.vansh.nyc/17Y?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | ↳ | Machine Learning Engineer Intern, Commerce Ads | San Jose, CA | <a href="https://go.vansh.nyc/17Z?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | ↳ | Machine Learning Engineer Intern, Search Ads | San Jose, CA | <a href="https://go.vansh.nyc/180?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | ↳ | Machine Learning Engineer Intern, Performance Monetization | San Jose, CA | <a href="https://go.vansh.nyc/181?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | ↳ | Machine Learning Engineer Intern, Lead Ads | San Jose, CA | <a href="https://go.vansh.nyc/182?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | ↳ | Software Engineer Intern, TikTok AI Search & Visual Search Infra Team | San Jose, CA | <a href="https://go.vansh.nyc/183?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
-| ↳ | Software Engineer Intern, TikTok Search Architecture | San Jose, CA | <a href="https://go.vansh.nyc/184?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | ↳ | Research Scientist Intern, Monetization Technology - Business Integrity | San Jose, CA | <a href="https://go.vansh.nyc/185?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | ↳ | Data Engineering Project Intern, Ads Targeting | San Jose, CA | <a href="https://go.vansh.nyc/186?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | ↳ | Research Engineer Intern, Monetization Technology - Business Integrity | San Jose, CA | <a href="https://go.vansh.nyc/187?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
@@ -1199,7 +1196,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | TikTok | Security Software Engineer Project Intern, Product Security | San Jose, CA | <a href="https://go.vansh.nyc/RN?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
 | ↳ | Software Development Engineer in Test Intern, Testing | San Jose, CA | <a href="https://go.vansh.nyc/RO?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
 | ↳ | Software Development Engineer Intern, Global E-Commerce Quality Platform & AI Test Automation | San Jose, CA | <a href="https://go.vansh.nyc/RP?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
-| ↳ | Software Development Engineer Intern, Global E-Commerce Quality Platform & AI Test Automation | Seattle, WA | <a href="https://go.vansh.nyc/RQ?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
 | ↳ | Site Reliability Engineer Intern, Global SRE | San Jose, CA | <a href="https://go.vansh.nyc/RR?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
 | Susquehanna International Group | Machine Learning Engineering Intern | Bala Cynwyd, PA | <a href="https://go.vansh.nyc/RM?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
 | Seagate Technology | Software and Data Analytics Development Intern, AFM | Bloomington, MN | <a href="https://go.vansh.nyc/Sq?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
@@ -2028,6 +2024,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | RTX | Digital Hardware Design Engineer Co-op | Cedar Rapids, IA | 🔒 | Nov 08 |
 | 7-Eleven | Data Engineer Intern | Irving, TX | 🔒 | Nov 08 |
 | empirical | Software Engineering Intern | Dakota Dunes, SD | 🔒 | Nov 07 |
+| TikTok | POI Content Product Manager Intern | San Jose, CA | 🔒 | Nov 06 |
 | RTX | Digital Technology Intern 🇺🇸 | Andover, MA | 🔒 | Nov 06 |
 | Marmon Holdings | AI Technology Solutions Intern | Chicago, IL | 🔒 | Nov 06 |
 | Invitation-charter | Software Engineer Intern | Englewood, CO | 🔒 | Nov 06 |
@@ -2138,7 +2135,10 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Allegion | Software Engineering Intern, DevOps | Carmel, IN</br>Golden, CO | 🔒 | Nov 02 |
 | ↳ | Firmware Engineer Intern, Advanced Development | Indianapolis, IN | 🔒 | Nov 02 |
 | Aerospace Corporation | Software Engineering Undergrad Intern 🇺🇸 | El Segundo, CA | 🔒 | Nov 02 |
-| TikTok | Software Engineer Project Intern, Recommendation Infrastructure, Video Social | San Jose, CA | 🔒 | Nov 01 |
+| TikTok | Data Science Intern, TikTok LIVE | San Jose, CA | 🔒 | Nov 01 |
+| ↳ | Data Science Intern, TikTok Product | San Jose, CA | 🔒 | Nov 01 |
+| ↳ | Software Engineer Intern, TikTok Search Architecture | San Jose, CA | 🔒 | Nov 01 |
+| ↳ | Software Engineer Project Intern, Recommendation Infrastructure, Video Social | San Jose, CA | 🔒 | Nov 01 |
 | ↳ | AI Engineer Intern, TikTok-Client Arch 🛂 | San Jose, CA | 🔒 | Nov 01 |
 | ↳ | Software Engineer Intern, Recommendation Infra, Performance Efficiency | San Jose, CA | 🔒 | Nov 01 |
 | Marriott Vacations Worldwide | Corporate Information Technology Intern | Orlando, FL | 🔒 | Nov 01 |
@@ -2425,6 +2425,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | FPGA IP Design Engineer Intern | Toronto, ON, Canada | 🔒 | Oct 19 |
 | Allstate | Software Engineer Intern | North Carolina | 🔒 | Oct 19 |
 | Aerospace Corporation | Cloud Solutions Engineer / Site Reliability Intern 🇺🇸 | El Segundo, CA</br>Chantilly, VA</br>Colorado Springs, CO | 🔒 | Oct 19 |
+| TikTok | Software Development Engineer Intern, Global E-Commerce Quality Platform & AI Test Automation | Seattle, WA | 🔒 | Oct 18 |
 | Seagate Technology | Recording Media R&D Intern, AI & Data Science | Fremont, CA | 🔒 | Oct 18 |
 | RTX | Software Engineering Co-op | Cedar Rapids, IA | 🔒 | Oct 18 |
 | ↳ | Software Engineer Intern | Cedar Rapids, IA | 🔒 | Oct 18 |
