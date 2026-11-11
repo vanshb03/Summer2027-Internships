@@ -14152,13 +14152,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792603055,
+        "date_updated": 1794431698,
         "url": "https://go.vansh.nyc/du",
         "locations": [
             "Liberty, SC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Hitachi",
         "title": "Software Engineering Co-op",
         "source": "vanshb03",
@@ -15304,7 +15304,7 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792697714,
+        "date_updated": 1794431698,
         "url": "https://go.vansh.nyc/ey",
         "locations": [
             "Pleasant Prairie, WI",
@@ -15314,7 +15314,7 @@
             "Kenosha, WI"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Uline",
         "title": "Systems Administrator Intern",
         "source": "vanshb03",
@@ -25960,13 +25960,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793021626,
+        "date_updated": 1794431698,
         "url": "https://go.vansh.nyc/JD",
         "locations": [
             "Milwaukee, WI"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Zurn Elkay Water Solutions",
         "title": "Embedded Firmware Intern",
         "source": "vanshb03",
@@ -62226,6 +62226,74 @@
         "source": "vanshb03",
         "id": "1946d484-4336-4ca9-9ad7-00a5c46e85af",
         "date_posted": 1794426226,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794431284,
+        "url": "https://go.vansh.nyc/1va",
+        "locations": [
+            "Vancouver, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "AIM Defence",
+        "title": "Computer Vision Engineering Intern",
+        "source": "vanshb03",
+        "id": "3dedb857-663c-48ac-b63d-3d01965781e1",
+        "date_posted": 1794299498,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794431284,
+        "url": "https://go.vansh.nyc/1vb",
+        "locations": [
+            "Oakville, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Gastronomous Technologies",
+        "title": "Full Stack Developer Co-op",
+        "source": "vanshb03",
+        "id": "cd7a79a2-ce54-488f-91a6-8fe29a254c3e",
+        "date_posted": 1794320235,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1794431284,
+        "url": "https://go.vansh.nyc/1vc",
+        "locations": [
+            "Oakville, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Gastronomous Technologies",
+        "title": "Embedded Software Engineer Co-op",
+        "source": "vanshb03",
+        "id": "adb9ac5a-b68a-4fcb-86cb-15f4669c8731",
+        "date_posted": 1794339392,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1794431284,
+        "url": "https://go.vansh.nyc/1vd",
+        "locations": [
+            "Lawrence, KS"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "AeroVironment",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "d1006c78-7116-4707-987d-ccda9ff2fa40",
+        "date_posted": 1794431172,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
