@@ -53425,13 +53425,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1793995586,
+        "date_updated": 1794373938,
         "url": "https://go.vansh.nyc/1l2",
         "locations": [
             "Andover, MA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "RTX",
         "title": "Digital Technology Intern",
         "source": "vanshb03",
@@ -60562,6 +60562,23 @@
         "source": "vanshb03",
         "id": "0268cf69-e357-4444-be64-5a4216b8c2de",
         "date_posted": 1794367350,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794373555,
+        "url": "https://go.vansh.nyc/1sT",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Astranis",
+        "title": "Embedded Software Developer Intern, Network/Payload",
+        "source": "vanshb03",
+        "id": "6a7dbca0-eaeb-459e-bd90-cef2ddcab774",
+        "date_posted": 1794370795,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
