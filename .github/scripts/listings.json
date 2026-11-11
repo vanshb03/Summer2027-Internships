@@ -59585,7 +59585,7 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794332288,
+        "date_updated": 1794377446,
         "url": "https://go.vansh.nyc/1rF",
         "locations": [
             "Chicago, IL",
@@ -59593,7 +59593,7 @@
             "United States"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Echo",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
@@ -61632,5 +61632,158 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1794377169,
+        "url": "https://go.vansh.nyc/1uo",
+        "locations": [
+            "Detroit, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Daimler Truck",
+        "title": "Governance, Risk, and Compliance (GRC) Analyst Intern, Cybersecurity",
+        "source": "vanshb03",
+        "id": "89fa2c3f-6eb2-45bd-9e73-0f7d37d97f83",
+        "date_posted": 1794374169,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794377311,
+        "url": "https://go.vansh.nyc/1up",
+        "locations": [
+            "Vienna, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Navy Federal",
+        "title": "Associate Data Engineer Intern",
+        "source": "vanshb03",
+        "id": "c4a59357-c57c-49f0-83fd-a06b0ea08efd",
+        "date_posted": 1788912000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794377311,
+        "url": "https://go.vansh.nyc/1uq",
+        "locations": [
+            "Vienna, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Navy Federal",
+        "title": "Associate Zero Trust Information Security Analyst Intern",
+        "source": "vanshb03",
+        "id": "3aaefc3a-6ff3-4203-90b4-847361f08fb9",
+        "date_posted": 1788912000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794377311,
+        "url": "https://go.vansh.nyc/1ur",
+        "locations": [
+            "Vienna, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Navy Federal",
+        "title": "Associate Product Security Engineer Intern",
+        "source": "vanshb03",
+        "id": "23a08c38-0deb-4255-885d-6cb68e182363",
+        "date_posted": 1788912000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794377311,
+        "url": "https://go.vansh.nyc/1us",
+        "locations": [
+            "Vienna, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Navy Federal",
+        "title": "Associate Information Security Analyst Intern",
+        "source": "vanshb03",
+        "id": "cf6e9bd3-6496-4c37-afaa-30d7c77cc906",
+        "date_posted": 1788912000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794377311,
+        "url": "https://go.vansh.nyc/1ut",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Moss",
+        "title": "Intern, ML / Perception / Robotics",
+        "source": "vanshb03",
+        "id": "80c75080-281d-4991-95a9-f0b050624ad9",
+        "date_posted": 1794015366,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1794377311,
+        "url": "https://go.vansh.nyc/1uu",
+        "locations": [
+            "Fredericksburg, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SimVentions",
+        "title": "Cybersecurity Intern",
+        "source": "vanshb03",
+        "id": "9bc3a3e8-3129-409b-a8e7-5ab59d93b941",
+        "date_posted": 1794377185,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794377311,
+        "url": "https://go.vansh.nyc/1uv",
+        "locations": [
+            "Fredericksburg, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SimVentions",
+        "title": "Software Development Intern",
+        "source": "vanshb03",
+        "id": "39fbe3f7-d3bc-4f8e-b5eb-e70dac0cdc76",
+        "date_posted": 1794377185,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794377311,
+        "url": "https://go.vansh.nyc/1uw",
+        "locations": [
+            "Frisco, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Welltower",
+        "title": "Cyber Security Intern",
+        "source": "vanshb03",
+        "id": "f2318c7e-d873-4967-8deb-3dd625522395",
+        "date_posted": 1794377185,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
