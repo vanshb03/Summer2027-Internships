@@ -52,6 +52,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Mantlebio | Computational Biology Research Engineer Intern | San Francisco, CA | <a href="https://go.vansh.nyc/1qV?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | Magnet Forensics | Information Security Analyst Co-op | Waterloo, Canada</br>Ottawa, Canada | <a href="https://go.vansh.nyc/1se?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | Hitachi | DevOps Analyst Intern | Toronto, Canada | <a href="https://go.vansh.nyc/1ro?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
+| DwyerOmega | Applied AI Intern | Remote</br>United States | <a href="https://go.vansh.nyc/1sC?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | Amgen | Undergraduate Software Engineer Co-op, Large Molecule Discovery Technology | Burnaby, Canada | <a href="https://go.vansh.nyc/1rn?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | Altice USA | Developer Intern, Financial & People Systems | Bethpage, NY | <a href="https://go.vansh.nyc/1sl?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | ↳ | Product Analytics Intern | Bethpage, NY | <a href="https://go.vansh.nyc/1sm?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
@@ -69,6 +70,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Lila Sciences | IT/OT Security Analyst Co-op | Cambridge, MA | <a href="https://go.vansh.nyc/1oX?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
 | ↳ | Applied AI Platform Engineer Co-op, Software | San Francisco, CA | <a href="https://go.vansh.nyc/1oY?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
 | Boston Scientific | Urology R&D Software Engineering Co-op 🛂 | Maple Grove, MN | <a href="https://go.vansh.nyc/1pa?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
+| Booz Allen Hamilton | Data Scientist Intern | McLean, VA | <a href="https://go.vansh.nyc/1sy?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
 | ASML | AI Engineer Co-op | San Diego, CA | <a href="https://go.vansh.nyc/1pk?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
 | Tonic | Forward Deployed Engineer Co-op, Data De-Identification | Remote</br>United States | <a href="https://go.vansh.nyc/1po?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 08 |
 | Nokia | Defense Software Test & AI Co-op 🛂 | United States | <a href="https://go.vansh.nyc/1py?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 08 |
