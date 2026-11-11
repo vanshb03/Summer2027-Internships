@@ -57819,13 +57819,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794276325,
+        "date_updated": 1794357581,
         "url": "https://go.vansh.nyc/1pM",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "CTGT",
         "title": "AI Evaluation Research Intern",
         "source": "vanshb03",
@@ -60230,6 +60230,145 @@
         "source": "vanshb03",
         "id": "dee46f41-1810-4fe8-9944-119d7591c04a",
         "date_posted": 1794354736,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794357325,
+        "url": "https://go.vansh.nyc/1sw",
+        "locations": [
+            "Cary, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "JMP Statistical Discovery",
+        "title": "Software Development Intern, C++",
+        "source": "vanshb03",
+        "id": "772bbd0c-a709-4d5e-a370-da560505b82e",
+        "date_posted": 1794268800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794357325,
+        "url": "https://go.vansh.nyc/1sx",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Rambus",
+        "title": "CAD Engineer Intern",
+        "source": "vanshb03",
+        "id": "776ebdf8-b891-4e1e-aee9-685cbbb843ba",
+        "date_posted": 1794268800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794357325,
+        "url": "https://go.vansh.nyc/1sy",
+        "locations": [
+            "McLean, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Booz Allen Hamilton",
+        "title": "Data Scientist Intern",
+        "source": "vanshb03",
+        "id": "74b2b066-3c83-4692-a5dc-3b0b030098f8",
+        "date_posted": 1794268800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1794357325,
+        "url": "https://go.vansh.nyc/1sz",
+        "locations": [
+            "Lisle, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "International",
+        "title": "Artificial Intelligence/Machine Learning Intern",
+        "source": "vanshb03",
+        "id": "a988157a-dc7f-4423-9433-eb5162951297",
+        "date_posted": 1794347340,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794357325,
+        "url": "https://go.vansh.nyc/1sA",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Art of Problem Solving",
+        "title": "Data Science Intern",
+        "source": "vanshb03",
+        "id": "f834027f-c536-4f29-867b-fcbaa8d87b30",
+        "date_posted": 1794353114,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794357325,
+        "url": "https://go.vansh.nyc/1sB",
+        "locations": [
+            "Remote",
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "DwyerOmega",
+        "title": "Applied AI Intern",
+        "source": "vanshb03",
+        "id": "d539acd4-a560-44bf-b28f-0e29db0b2757",
+        "date_posted": 1794354354,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794357325,
+        "url": "https://go.vansh.nyc/1sC",
+        "locations": [
+            "Remote",
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "DwyerOmega",
+        "title": "Applied AI Intern",
+        "source": "vanshb03",
+        "id": "c91784c0-78d2-4043-b548-5895d19582fa",
+        "date_posted": 1794354354,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1794357354,
+        "url": "https://go.vansh.nyc/1sD",
+        "locations": [
+            "Remote",
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CenturyLink",
+        "title": "AI & Automation Builders Intern",
+        "source": "vanshb03",
+        "id": "17cbd1fa-92a5-4854-86d4-2761097f9973",
+        "date_posted": 1792190238,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
