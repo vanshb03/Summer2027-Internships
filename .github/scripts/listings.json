@@ -21765,13 +21765,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793015500,
+        "date_updated": 1794406416,
         "url": "https://go.vansh.nyc/EI",
         "locations": [
             "Richmond, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Semtech",
         "title": "Software Developer Co-op, Web/Cloud Application",
         "source": "vanshb03",
@@ -26798,13 +26798,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793023513,
+        "date_updated": 1794406416,
         "url": "https://go.vansh.nyc/LF",
         "locations": [
             "Markham, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "AMD",
         "title": "Machine Learning/Artificial Intelligence Co-op",
         "source": "vanshb03",
@@ -26832,13 +26832,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793023513,
+        "date_updated": 1794406416,
         "url": "https://go.vansh.nyc/LH",
         "locations": [
             "Markham, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "AMD",
         "title": "Graphics Software Engineer Co-op",
         "source": "vanshb03",
@@ -26883,13 +26883,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793023513,
+        "date_updated": 1794406416,
         "url": "https://go.vansh.nyc/LK",
         "locations": [
             "Vancouver, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "AMD",
         "title": "Software Engineer Co-op",
         "source": "vanshb03",
@@ -26917,13 +26917,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793023513,
+        "date_updated": 1794406416,
         "url": "https://go.vansh.nyc/LM",
         "locations": [
             "Markham, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "AMD",
         "title": "Hardware Design Engineer Co-op",
         "source": "vanshb03",
@@ -26968,13 +26968,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793023513,
+        "date_updated": 1794406416,
         "url": "https://go.vansh.nyc/LP",
         "locations": [
             "Vancouver, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "AMD",
         "title": "Firmware Engineer Co-op",
         "source": "vanshb03",
@@ -27002,13 +27002,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793023513,
+        "date_updated": 1794406416,
         "url": "https://go.vansh.nyc/LR",
         "locations": [
             "Markham, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "AMD",
         "title": "Firmware Engineer Co-op",
         "source": "vanshb03",
@@ -29452,13 +29452,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793027048,
+        "date_updated": 1794406416,
         "url": "https://go.vansh.nyc/Q4",
         "locations": [
             "Calgary, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "AMD",
         "title": "AGS Libraries Co-op",
         "source": "vanshb03",
@@ -57513,13 +57513,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1794267387,
+        "date_updated": 1794406416,
         "url": "https://go.vansh.nyc/1pp",
         "locations": [
             "Irving, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "7-Eleven",
         "title": "Data Engineer Intern",
         "source": "vanshb03",
