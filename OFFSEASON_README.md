@@ -393,7 +393,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | AGCO | AI & Data Science Intern | Champaign, IL | <a href="https://go.vansh.nyc/Ct?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
 | Zoox | AI Validation and Benchmarking Engineer Intern | Foster City, CA | <a href="https://go.vansh.nyc/8X?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 13 |
 | Peraton | Mission Systems Software and Edge Computing Intern | United States | <a href="https://go.vansh.nyc/1no?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 13 |
-| Covestro | Supply Chain Application Developer Co-op | Pittsburgh, PA | <a href="https://go.vansh.nyc/PS?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 13 |
 | Astera Labs | Firmware Engineer Co-op | Vancouver, Canada | <a href="https://go.vansh.nyc/Ck?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 13 |
 | Watts Water | Product Management Co-op | Menomonee Falls, WI | <a href="https://go.vansh.nyc/8n?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 12 |
 | Point72 | Data Research Fellowship | New York, NY | <a href="https://go.vansh.nyc/8m?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 12 |
@@ -679,6 +678,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Ciena | Embedded Software Developer Intern | Ottawa, Canada | 🔒 | Oct 14 |
 | Plexus | Digital Engineer Intern | Neenah, WI | 🔒 | Oct 13 |
 | Disney | Disney & Pixar Games Production Intern | Glendale, CA | 🔒 | Oct 13 |
+| Covestro | Supply Chain Application Developer Co-op | Pittsburgh, PA | 🔒 | Oct 13 |
 | Western Digital | Recording Electronics Data Analytics & Optimization Co-op | Rochester, MN | 🔒 | Oct 12 |
 | Nokia | Hardware Development Co-op | New Providence, NJ | 🔒 | Oct 12 |
 | 1Password | Data Intern, Product Analytics | Remote (United States | Canada) | 🔒 | Oct 12 |
