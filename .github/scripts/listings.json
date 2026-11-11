@@ -62501,5 +62501,39 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1794438504,
+        "url": "https://go.vansh.nyc/1vs",
+        "locations": [
+            "Carmel, IN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zotec Partners",
+        "title": "Database Engineer Intern",
+        "source": "vanshb03",
+        "id": "e0eab22a-2a14-4cc6-9a8b-7171c5975bbf",
+        "date_posted": 1794438393,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794438504,
+        "url": "https://go.vansh.nyc/1vt",
+        "locations": [
+            "Framingham, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Sanofi",
+        "title": "Data Science & Digital Transformation Co-op",
+        "source": "vanshb03",
+        "id": "a48786a0-30bf-4c3f-bdf0-b32531c4c57f",
+        "date_posted": 1794438393,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
     }
 ]
