@@ -31717,13 +31717,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793033120,
+        "date_updated": 1794422723,
         "url": "https://go.vansh.nyc/Sy",
         "locations": [
             "Kokomo, IN"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "BorgWarner",
         "title": "Systems Test Automation Engineering Intern",
         "source": "vanshb03",
@@ -61952,6 +61952,42 @@
         "source": "vanshb03",
         "id": "667d3bdf-042a-4962-b8a0-3e508f5b4075",
         "date_posted": 1794414481,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794422337,
+        "url": "https://go.vansh.nyc/1uQ",
+        "locations": [
+            "Reston, VA",
+            "Remote",
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ICF",
+        "title": "Data Analytics Intern",
+        "source": "vanshb03",
+        "id": "1964bb61-143f-4eae-9066-5ee94d65df56",
+        "date_posted": 1794422233,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794422654,
+        "url": "https://go.vansh.nyc/1uR",
+        "locations": [
+            "Irving, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "7-Eleven",
+        "title": "Enterprise Technology Intern",
+        "source": "vanshb03",
+        "id": "35c38371-5ab5-4b4d-b651-1ee7e7be2571",
+        "date_posted": 1794336023,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
