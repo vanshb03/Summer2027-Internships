@@ -60372,5 +60372,92 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1794359161,
+        "url": "https://go.vansh.nyc/1sE",
+        "locations": [
+            "San Jose, CA",
+            "Austin, TX",
+            "Research Triangle Park, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cisco",
+        "title": "Software Engineer Embedded Systems I Intern",
+        "source": "vanshb03",
+        "id": "1026c810-c164-4212-b162-cc4482482cc9",
+        "date_posted": 1794357721,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794359302,
+        "url": "https://go.vansh.nyc/1sF",
+        "locations": [
+            "Bethpage, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Optimum (Altice USA)",
+        "title": "DevOps Toolchain Intern",
+        "source": "vanshb03",
+        "id": "aeb50efe-1f53-4160-91b2-13309a5e3ed5",
+        "date_posted": 1794359197,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1794359302,
+        "url": "https://go.vansh.nyc/1sG",
+        "locations": [
+            "Bethpage, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Optimum (Altice USA)",
+        "title": "Cloud Platform Engineering Intern",
+        "source": "vanshb03",
+        "id": "99c51873-b922-4db4-8886-aabf094cad86",
+        "date_posted": 1794359197,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1794359302,
+        "url": "https://go.vansh.nyc/1sH",
+        "locations": [
+            "Bethpage, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Optimum (Altice USA)",
+        "title": "QA Automation Engineering Intern",
+        "source": "vanshb03",
+        "id": "7a13b843-a862-4f54-81d2-8910a1b56814",
+        "date_posted": 1794359197,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1794359302,
+        "url": "https://go.vansh.nyc/1sI",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "Machine Learning Engineer Intern, E-Commerce Recommendation Mall",
+        "source": "vanshb03",
+        "id": "146b5be4-77d7-4403-98e7-4faef038ac7b",
+        "date_posted": 1794359197,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
