@@ -19769,13 +19769,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793013503,
+        "date_updated": 1794433234,
         "url": "https://go.vansh.nyc/Ch",
         "locations": [
             "San Antonio, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Whataburger",
         "title": "Data Scientist Intern",
         "source": "vanshb03",
@@ -59638,13 +59638,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794335922,
+        "date_updated": 1794433234,
         "url": "https://go.vansh.nyc/1rJ",
         "locations": [
             "Scottsdale, AZ"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "General Dynamics Mission Systems, Inc.",
         "title": "ASIC/FPGA Engineer Intern",
         "source": "vanshb03",
@@ -62294,6 +62294,108 @@
         "source": "vanshb03",
         "id": "d1006c78-7116-4707-987d-ccda9ff2fa40",
         "date_posted": 1794431172,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794432984,
+        "url": "https://go.vansh.nyc/1ve",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "PTC",
+        "title": "Creo Graphics Engineering Intern",
+        "source": "vanshb03",
+        "id": "e8f8abc3-b336-45da-bd8c-8c2c5684e74f",
+        "date_posted": 1794432084,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794432984,
+        "url": "https://go.vansh.nyc/1vf",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lightmatter",
+        "title": "Laser Firmware Intern",
+        "source": "vanshb03",
+        "id": "6f2ab695-7447-4865-9765-0ced3ed05e91",
+        "date_posted": 1794431664,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794433138,
+        "url": "https://go.vansh.nyc/1vg",
+        "locations": [
+            "Orem, UT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Securitymetrics",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "a782e737-53bb-4139-b4c9-a29ea038c117",
+        "date_posted": 1794355200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794433138,
+        "url": "https://go.vansh.nyc/1vh",
+        "locations": [
+            "Schaumburg, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Motorola",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "9e99a6f2-8eb4-4e47-b1db-6f201acf2b56",
+        "date_posted": 1794433010,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794433138,
+        "url": "https://go.vansh.nyc/1vi",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bask",
+        "title": "Backend Engineering Intern",
+        "source": "vanshb03",
+        "id": "cefcba71-0efe-4d66-a73d-202ad27b1b2f",
+        "date_posted": 1794433010,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794433138,
+        "url": "https://go.vansh.nyc/1vj",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bask",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "0531d89b-6bb3-4d54-a92b-b850e8bf3224",
+        "date_posted": 1794433010,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
