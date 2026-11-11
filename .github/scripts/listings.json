@@ -12783,13 +12783,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792511227,
+        "date_updated": 1794426041,
         "url": "https://go.vansh.nyc/cc",
         "locations": [
             "Glen Allen, VA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Dominion Energy",
         "title": "Electric Transmission Asset Analyst Intern - Digital Solutions Team",
         "source": "vanshb03",
@@ -60184,13 +60184,13 @@
         "season": "Spring"
     },
     {
-        "date_updated": 1794353755,
+        "date_updated": 1794426041,
         "url": "https://go.vansh.nyc/1so",
         "locations": [
             "Bethpage, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Altice USA",
         "title": "Software Development Intern",
         "source": "vanshb03",
@@ -62192,6 +62192,23 @@
         "source": "vanshb03",
         "id": "b9e2b6e8-859e-44af-bc43-08b43c0d4930",
         "date_posted": 1794342844,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794425939,
+        "url": "https://go.vansh.nyc/1v6",
+        "locations": [
+            "McKinney, TX"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "RTX",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "36e05d74-d747-4177-831e-21bb9aafae17",
+        "date_posted": 1794425809,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
