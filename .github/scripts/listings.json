@@ -18328,14 +18328,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792812208,
+        "date_updated": 1794416969,
         "url": "https://go.vansh.nyc/hm",
         "locations": [
             "Austin, TX",
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "GlobalFoundries",
         "title": "CPU IP Design & Verification Intern, RISC-V Processor Development",
         "source": "vanshb03",
@@ -23567,14 +23567,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793015500,
+        "date_updated": 1794416969,
         "url": "https://go.vansh.nyc/Go",
         "locations": [
             "Austin, TX",
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "GlobalFoundries",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -61918,6 +61918,40 @@
         "source": "vanshb03",
         "id": "ba41e4fc-630f-48ea-8566-a1f09d33a8bf",
         "date_posted": 1794404520,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794416761,
+        "url": "https://go.vansh.nyc/1uN",
+        "locations": [
+            "Framingham, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bose",
+        "title": "Digital Signal Processing ML Software Development Co-op",
+        "source": "vanshb03",
+        "id": "1e9173b2-e5b5-477e-bcd6-4440beb811a9",
+        "date_posted": 1794415081,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1794416761,
+        "url": "https://go.vansh.nyc/1uO",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Brex",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "667d3bdf-042a-4962-b8a0-3e508f5b4075",
+        "date_posted": 1794414481,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
