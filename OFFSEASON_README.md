@@ -50,6 +50,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | GIRO | Software Development Intern, Algorithms and Operations Research | Montreal, Canada | <a href="https://go.vansh.nyc/1wg?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | ↳ | Front-End Web Development Intern | Montreal, Canada | <a href="https://go.vansh.nyc/1wh?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | ↳ | Software Development, Quality Assurance and AI Intern | Montreal, Canada | <a href="https://go.vansh.nyc/1wi?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
+| Fresenius Medical Care | Agentic AI Analytics Co-op | Lawrence, MA | <a href="https://go.vansh.nyc/1wv?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | SK hynix memory solutions America Inc. | Embedded Software Engineer Intern | San Jose, CA | <a href="https://go.vansh.nyc/1vW?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | Sanofi | Data Science & Digital Transformation Co-op | Framingham, MA | <a href="https://go.vansh.nyc/1vt?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | Bose | Digital Signal Processing ML Software Development Co-op | Framingham, MA | <a href="https://go.vansh.nyc/1uN?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
@@ -79,8 +80,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Software Engineering Co-op, WB Games | Needham, MA | <a href="https://go.vansh.nyc/1oz?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
 | Varian | Application Software Developer Co-op | Canada | <a href="https://go.vansh.nyc/1p8?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
 | Uhaul | Software Development Intern | Phoenix, AZ | <a href="https://go.vansh.nyc/1oG?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
-| Radiance Technologies | Software Engineer Intern 🇺🇸 | Dayton, OH | <a href="https://go.vansh.nyc/1pi?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
-| ↳ | Software Engineer Intern 🇺🇸 | Dayton, OH | <a href="https://go.vansh.nyc/1pf?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
 | Morgan Stanley | Software Engineer Co-op, Parametric | New York, NY</br>Alpharetta, GA | <a href="https://go.vansh.nyc/1q1?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
 | Moderna | mRNA Design Engineer Co-op | Cambridge, MA | <a href="https://go.vansh.nyc/1qs?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
 | Lila Sciences | IT/OT Security Analyst Co-op | Cambridge, MA | <a href="https://go.vansh.nyc/1oX?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
@@ -543,6 +542,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Shopify | Engineering and Data Intern | Remote</br>Canada | <a href="https://go.vansh.nyc/G?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 19 |
 | Altice USA | Software Development Intern | Bethpage, NY | 🔒 | Nov 10 |
 | Whoop | Software Engineer Co-op, Backend, Business Systems | Boston, MA | 🔒 | Nov 09 |
+| Radiance Technologies | Software Engineer Intern 🇺🇸 | Dayton, OH | 🔒 | Nov 09 |
+| ↳ | Software Engineer Intern 🇺🇸 | Dayton, OH | 🔒 | Nov 09 |
 | RTX | Digital Hardware Design Engineer Co-op | Cedar Rapids, IA | 🔒 | Nov 08 |
 | Kinaxis | Developer Co-op, Machine Learning | Remote</br>United States | 🔒 | Nov 07 |
 | Western & Southern Financial Group | Artificial Intelligence Developer Intern | Cincinnati, OH | 🔒 | Nov 06 |
