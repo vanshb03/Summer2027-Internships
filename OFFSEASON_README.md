@@ -476,7 +476,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | MegazoneCloud | Cloud Operations Co-op | Rochester, NY | <a href="https://go.vansh.nyc/1eN?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 18 |
 | Gemini | Software Engineer Intern | New York, NY | <a href="https://go.vansh.nyc/IO?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 18 |
 | Wave Life Sciences USA | Microsoft Copilot AI Co-op | Lexington, MA | <a href="https://go.vansh.nyc/1t2?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
-| Rivian | Engineering Co-op, Software Test 🛂 | Torrance, CA | <a href="https://go.vansh.nyc/JS?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
 | Nuclear Promise X | Software Developer Intern | Canada | <a href="https://go.vansh.nyc/1kV?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
 | 4AG Robotics | AI Co-op | Salmon Arm, Canada | <a href="https://go.vansh.nyc/1t1?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
 | Vanguard | Co-op, Multiple Teams | Dallas, TX | <a href="https://go.vansh.nyc/IB?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 16 |
@@ -712,6 +711,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Ciena | Client Co-op, ASIC IP | Rochester, NY | 🔒 | Sep 20 |
 | Together AI | Research Intern, Model Shaping | San Francisco, CA | 🔒 | Sep 18 |
 | OCC | Cyber Operations Intern | Chicago, IL | 🔒 | Sep 18 |
+| Rivian | Engineering Co-op, Software Test 🛂 | Torrance, CA | 🔒 | Sep 17 |
 | OCC | Data Intern | Chicago, IL | 🔒 | Sep 16 |
 | Apera AI | Software Developer Co-op, Full Stack | Vancouver, Canada | 🔒 | Sep 16 |
 | ↳ | Software Developer Co-op, Cloud Infrastructure | Vancouver, Canada | 🔒 | Sep 16 |
