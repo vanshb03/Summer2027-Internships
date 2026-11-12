@@ -423,7 +423,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Software Engineer Intern, Connectivity Platform and Product | New York, NY | <a href="https://go.vansh.nyc/1rT?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
 | Paccar | Data Engineer Intern | Denton, TX | <a href="https://go.vansh.nyc/1gB?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
 | National Interstate Insurance | Business Intelligence Intern, Power BI | Cincinnati, OH | <a href="https://go.vansh.nyc/1go?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
-| Molina Healthcare | Undergraduate Electronic Data Interchange Intern | Remote</br>United States | <a href="https://go.vansh.nyc/1jD?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
 | Microchip Technology | Data Analyst Intern | Gresham, OR | <a href="https://go.vansh.nyc/1gQ?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
 | Little Caesars Enterprises | QA IT Intern | Detroit, MI | <a href="https://go.vansh.nyc/1jC?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
 | ↳ | Cyber IT Intern | Detroit, MI | <a href="https://go.vansh.nyc/1iv?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
@@ -1630,7 +1629,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Firmware Engineer Intern, Robotics and Surgery Engineering | South San Francisco, CA | <a href="https://go.vansh.nyc/QH?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 24 |
 | Mill | Computer Vision Intern, Multiple Teams | San Bruno, CA | <a href="https://go.vansh.nyc/Jx?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 24 |
 | Arista Networks | Hardware Engineering Intern | Nashua, NH | <a href="https://go.vansh.nyc/1tu?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 24 |
-| Shield | Software Engineer Intern | San Mateo, CA</br>Dallas, TX | <a href="https://go.vansh.nyc/1bL?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 23 |
 | Semtech | Firmware Intern | Ottawa, Canada | <a href="https://go.vansh.nyc/Jr?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 23 |
 | ↳ | Digital IC Design Intern | Ottawa, Canada | <a href="https://go.vansh.nyc/Js?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 23 |
 | Qumulo | Software Development Engineer Intern | Seattle, WA | <a href="https://go.vansh.nyc/Jp?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 23 |
@@ -2080,6 +2078,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Cybersecurity Software Engineering Intern 🇺🇸 | Clearfield, UT | 🔒 | Nov 04 |
 | ↳ | Software Engineering Intern 🇺🇸 | Roy, UT | 🔒 | Nov 04 |
 | Moog | Software Engineering Intern | Torrance, CA | 🔒 | Nov 04 |
+| Molina Healthcare | Undergraduate Electronic Data Interchange Intern | Remote</br>United States | 🔒 | Nov 04 |
 | Lumbermen's | Software Developer Intern | Grand Rapids, MI | 🔒 | Nov 04 |
 | Kudu Dynamics | Software Engineering & AI Intern 🇺🇸 | <details><summary>**4 locations**</summary>Remote</br>United States</br>Odenton, MD</br>Shiloh, IL</details> | 🔒 | Nov 04 |
 | Cigna | Cybersecurity Intern, Technology Development Program | Bloomfield, CT</br>St. Louis, MO | 🔒 | Nov 04 |
@@ -2621,6 +2620,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | AbbVie | Business Technology Solutions Intern - Data & Software Engineering | North Chicago, IL | 🔒 | Sep 25 |
 | ↳ | Business Technology Solutions Intern - Cloud Engineering | North Chicago, IL | 🔒 | Sep 25 |
 | Zurn Elkay Water Solutions | Embedded Firmware Intern | Milwaukee, WI | 🔒 | Sep 24 |
+| Shield | Software Engineer Intern | San Mateo, CA</br>Dallas, TX | 🔒 | Sep 23 |
 | Marvell | Data Center Silicon Hardware Engineering Co-op | Toronto, Canada</br>Ottawa, Canada | 🔒 | Sep 23 |
 | Oceaneering | ROV Software Intern 🇺🇸 | Austin, TX | 🔒 | Sep 22 |
 | Neuberger Berman | Quantitative Analyst Intern | New York, NY | 🔒 | Sep 22 |
