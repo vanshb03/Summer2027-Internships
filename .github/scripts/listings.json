@@ -27270,13 +27270,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793023513,
+        "date_updated": 1794501677,
         "url": "https://go.vansh.nyc/M6",
         "locations": [
             "Ottawa, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "AMD",
         "title": "ASIC Verification Engineer Co-op",
         "source": "vanshb03",
@@ -42679,13 +42679,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793567298,
+        "date_updated": 1794501677,
         "url": "https://go.vansh.nyc/193",
         "locations": [
             "Renton, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Seattle Seahawks / First & Goal",
         "title": "Information Security Intern",
         "source": "vanshb03",
@@ -63374,6 +63374,95 @@
         "source": "vanshb03",
         "id": "58e231db-9fb4-4ccb-ae66-f89d0a45b035",
         "date_posted": 1794497812,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794501328,
+        "url": "https://go.vansh.nyc/1wD",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Illinois Tool Works",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "21dc63eb-1be1-4d62-a025-39b6fdb9e263",
+        "date_posted": 1790726400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794501328,
+        "url": "https://go.vansh.nyc/1wE",
+        "locations": [
+            "Eden Prairie, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Illinois Tool Works",
+        "title": "Software Engineer Intern, Application Software",
+        "source": "vanshb03",
+        "id": "ef77202f-0206-4cd9-a1db-8fc491742b3b",
+        "date_posted": 1791331200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794501328,
+        "url": "https://go.vansh.nyc/1wF",
+        "locations": [
+            "Waltham, MA",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Trinity Life Sciences",
+        "title": "Data Science Intern",
+        "source": "vanshb03",
+        "id": "1e5a4f03-1843-4022-8f9f-cfcd892e2d32",
+        "date_posted": 1793059200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794501422,
+        "url": "https://go.vansh.nyc/1wG",
+        "locations": [
+            "Dublin, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cardinal Health",
+        "title": "Technology Intern",
+        "source": "vanshb03",
+        "id": "45ef8990-285b-45de-93d4-5330751c2133",
+        "date_posted": 1794500522,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794501572,
+        "url": "https://go.vansh.nyc/1wH",
+        "locations": [
+            "St. Louis, MO",
+            "Austin, TX",
+            "Morris Plains, NJ",
+            "Bloomfield, CT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cigna",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "eb012f78-2110-4935-b8eb-74a435dfe5aa",
+        "date_posted": 1794501451,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
