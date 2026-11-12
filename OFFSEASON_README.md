@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | TMX Group | AI Engineering Intern | Toronto, Canada | <a href="https://go.vansh.nyc/1wI?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | SharkNinja | Digital & Website Technology Intern | Needham, MA | <a href="https://go.vansh.nyc/1wJ?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | Ready to? | Quality Assurance Automation Engineer Intern | Idaho Falls, ID | <a href="https://go.vansh.nyc/1xP?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
+| North Atlantic Industries | Embedded Software Engineer Intern | Bohemia, NY | <a href="https://go.vansh.nyc/1y5?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | Medpace | Data Engineer Intern | Cincinnati, OH | <a href="https://go.vansh.nyc/1wk?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | ↳ | Software Development Co-op | Cincinnati, OH | <a href="https://go.vansh.nyc/1wl?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | ↳ | Software QA Test Engineer Intern | Cincinnati, OH | <a href="https://go.vansh.nyc/1wm?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
@@ -60,6 +61,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Medpace | Clinical Informatics Co-op | Cincinnati, OH | <a href="https://go.vansh.nyc/1xk?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | Lynco Products | Full Stack Software Development Intern | West Milan, IL | <a href="https://go.vansh.nyc/1xd?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | Bose | Digital Signal Processing ML Software Development Co-op | Framingham, MA | <a href="https://go.vansh.nyc/1uN?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
+| Bank of Montreal | AI Developer Co-op | Toronto, Canada | <a href="https://go.vansh.nyc/1y4?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | Zingage | Software Engineer Co-op | New York, NY | <a href="https://go.vansh.nyc/1rB?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | Skydio | Hardware In Loop (HIL) Software Engineer Intern | San Mateo, CA | <a href="https://go.vansh.nyc/1rH?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | Ribbon | AI Engineer Co-op | Westford, MA | <a href="https://go.vansh.nyc/1w4?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
