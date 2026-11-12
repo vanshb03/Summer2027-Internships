@@ -63121,5 +63121,90 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1794481517,
+        "url": "https://go.vansh.nyc/1wj",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Data Scientist Intern, CoreAI",
+        "source": "vanshb03",
+        "id": "a7ece1d7-457b-4996-86ff-666aa9b7490a",
+        "date_posted": 1794478846,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794481750,
+        "url": "https://go.vansh.nyc/1wk",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Medpace",
+        "title": "Data Engineer Intern",
+        "source": "vanshb03",
+        "id": "22347f8f-caa0-424f-895c-1272af07000e",
+        "date_posted": 1794481618,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1794481750,
+        "url": "https://go.vansh.nyc/1wl",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Medpace",
+        "title": "Software Development Co-op",
+        "source": "vanshb03",
+        "id": "48f3dea5-a733-415b-a5f6-2a341028bf56",
+        "date_posted": 1794481618,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1794481750,
+        "url": "https://go.vansh.nyc/1wm",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Medpace",
+        "title": "Software QA Test Engineer Intern",
+        "source": "vanshb03",
+        "id": "b77483dd-725e-4921-88d7-31ae181dc15d",
+        "date_posted": 1794481618,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1794481750,
+        "url": "https://go.vansh.nyc/1wn",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Medpace",
+        "title": "Information Security Intern",
+        "source": "vanshb03",
+        "id": "48fcdaa0-4a0e-43ea-b269-825d56d1123a",
+        "date_posted": 1794481618,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
     }
 ]
