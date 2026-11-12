@@ -26218,13 +26218,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793022083,
+        "date_updated": 1794453050,
         "url": "https://go.vansh.nyc/JS",
         "locations": [
             "Torrance, CA"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Rivian",
         "title": "Engineering Co-op, Software Test",
         "source": "vanshb03",
@@ -62881,5 +62881,90 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1794452790,
+        "url": "https://go.vansh.nyc/1vX",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ServiceNow",
+        "title": "Associate Security Engineering & Automation Intern",
+        "source": "vanshb03",
+        "id": "8fe05674-0095-4479-80a5-16e9e10f6ad7",
+        "date_posted": 1794449190,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794452790,
+        "url": "https://go.vansh.nyc/1vY",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ServiceNow",
+        "title": "Associate Information Security Engineer Intern",
+        "source": "vanshb03",
+        "id": "347a6b27-ec19-490b-9189-2c5f45152597",
+        "date_posted": 1794449190,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794452790,
+        "url": "https://go.vansh.nyc/1vZ",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ServiceNow",
+        "title": "Associate AI Engineering Intern, Cloud Security Automation",
+        "source": "vanshb03",
+        "id": "b168acf6-a5d5-43f8-b979-cbe943b6ee35",
+        "date_posted": 1794449190,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794452790,
+        "url": "https://go.vansh.nyc/1w0",
+        "locations": [
+            "Kirkland, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ServiceNow",
+        "title": "Associate Detection Engineering Intern",
+        "source": "vanshb03",
+        "id": "d9053934-71cd-446d-9435-a6682c4d609c",
+        "date_posted": 1794449250,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794452790,
+        "url": "https://go.vansh.nyc/1w1",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hewlett Packard Enterprise",
+        "title": "Research Associate Intern, Systems Architecture Lab",
+        "source": "vanshb03",
+        "id": "27dc72d2-b44d-419b-88b9-4a8437813049",
+        "date_posted": 1794450390,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
