@@ -281,6 +281,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Viavi Solutions | Hardware Engineer Co-op | Germantown, MD | <a href="https://go.vansh.nyc/Yu?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
 | Valmont | AI and Data Engineering Intern | Omaha, NE | <a href="https://go.vansh.nyc/Yo?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
 | OpusClip | Customer Experience Test Automation Intern | Burnaby, Canada | <a href="https://go.vansh.nyc/WR?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
+| Nasdaq | Back End Software Developer Co-op | Toronto, Canada | <a href="https://go.vansh.nyc/1wb?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
 | Lila Sciences | Robot Perception & State Estimation Co-op | Cambridge, MA | <a href="https://go.vansh.nyc/VD?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
 | ACLU Kentucky | Undergraduate Software Engineer Intern, Technology and Analytics (Educate Pod) | New York, NY | <a href="https://go.vansh.nyc/1mY?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
 | Texas Instruments | Web Marketing Intern, Front-end Developer | Dallas, TX | <a href="https://go.vansh.nyc/Wf?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |

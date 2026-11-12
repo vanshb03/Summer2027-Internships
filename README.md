@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Bask | Frontend Engineering Intern | United States | <a href="https://go.vansh.nyc/1wc?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | Zotec Partners | Database Engineer Intern | Carmel, IN | <a href="https://go.vansh.nyc/1vs?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | The Marzetti Company | AI Solutions Intern, Human Resources | Columbus, OH | <a href="https://go.vansh.nyc/1uM?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | Synopsys | Engineering Documentation and AI Automation Co-op | Nepean, Canada | <a href="https://go.vansh.nyc/1uz?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
@@ -78,7 +79,9 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Bloom Energy | AI Solutions Engineer Intern | San Jose, CA | <a href="https://go.vansh.nyc/1vK?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | ↳ | RMCC Data Science Intern | San Jose, CA | <a href="https://go.vansh.nyc/1vI?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | ↳ | Data Science Intern | San Jose, CA | <a href="https://go.vansh.nyc/1vm?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
-| Bask Health | Software Engineer Intern | Remote</br>United States | <a href="https://go.vansh.nyc/1vw?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
+| Bask Health | Creative Engineering Intern | Remote</br>United States | <a href="https://go.vansh.nyc/1w8?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
+| ↳ | Frontend Engineer Intern, Frontend Engineering | Remote</br>United States | <a href="https://go.vansh.nyc/1w9?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
+| ↳ | Software Engineer Intern | Remote</br>United States | <a href="https://go.vansh.nyc/1vw?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | ↳ | Backend Engineer Intern | Remote</br>United States | <a href="https://go.vansh.nyc/1vx?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | ↳ | Product Engineering Intern | Remote</br>United States | <a href="https://go.vansh.nyc/1vy?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | Bask | Backend Engineering Intern | United States | <a href="https://go.vansh.nyc/1vi?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
@@ -273,9 +276,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | iOS Engineering Intern | New York, NY | <a href="https://go.vansh.nyc/1l8?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | ↳ | Interactive News Engineering Intern | New York, NY | <a href="https://go.vansh.nyc/1km?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | T-Mobile | AI Strategist Intern | Bellevue, WA | <a href="https://go.vansh.nyc/1l9?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
-| ↳ | Software Engineer Intern, HR Data Products | Bellevue, WA | <a href="https://go.vansh.nyc/1kD?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
-| ↳ | Software Engineering Intern | Bellevue, WA | <a href="https://go.vansh.nyc/1kB?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
-| ↳ | AI Engineering Intern | Bellevue, WA | <a href="https://go.vansh.nyc/1kC?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | Shure | Cloud Software Engineering Intern 🛂 | Niles, IL | <a href="https://go.vansh.nyc/1lx?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | ↳ | Embedded Software Intern 🛂 | Niles, IL | <a href="https://go.vansh.nyc/1ka?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | ↳ | Application Software Development Intern 🛂 | Niles, IL | <a href="https://go.vansh.nyc/1kb?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
@@ -334,8 +334,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Game Research & Development Intern, Engine Research | Bellevue, WA | <a href="https://go.vansh.nyc/1hO?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | ↳ | Hunyuan Multimodal Algorithm Researcher Intern, Omni-Modal | Palo Alto, CA | <a href="https://go.vansh.nyc/1hP?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | ↳ | Site Reliability Engineer (SRE) Intern, AI Infrastructure | Palo Alto, CA | <a href="https://go.vansh.nyc/1hQ?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
-| T-Mobile | Software Engineer Intern | Bellevue, WA | <a href="https://go.vansh.nyc/1mC?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
-| ↳ | Software Engineering Intern | Overland Park, KS | <a href="https://go.vansh.nyc/1kt?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
+| T-Mobile | Software Engineering Intern | Overland Park, KS | <a href="https://go.vansh.nyc/1kt?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | Sierra Nevada Corporation | Firmware Engineer Intern 🇺🇸 | Sparks, NV | <a href="https://go.vansh.nyc/1iR?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | Shield AI | Software Engineer Co-op | <details><summary>**4 locations**</summary>Dallas, TX</br>Washington, DC</br>Seattle, WA</br>San Diego, CA</details> | <a href="https://go.vansh.nyc/1iN?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | Shield | Software Engineer Co-op | Dallas, TX | <a href="https://go.vansh.nyc/1iW?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
@@ -1030,6 +1029,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ETC | Software Engineer Intern | Middleton, WI | <a href="https://go.vansh.nyc/Qj?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
 | Delta Dental Of Missouri | Data Science Intern | Fenton, MO | <a href="https://go.vansh.nyc/BT?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
 | CVS Health | Software Engineering Intern, Data & Intelligence | New York, NY | <a href="https://go.vansh.nyc/gu?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
+| CARIAD | Engineer 1 Intern, VLA Planning and Control Deployment | Mountain View, CA | <a href="https://go.vansh.nyc/1wa?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
 | Auto-Owners Insurance | Business Intelligence Developer Intern 🛂 | Lansing, MI | <a href="https://go.vansh.nyc/h0?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
 | ASML | Platform Software Engineer In Test Intern | San Jose, CA | <a href="https://go.vansh.nyc/hQ?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
 | ↳ | Application Software QA Engineer Intern | San Jose, CA | <a href="https://go.vansh.nyc/gY?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
@@ -1390,7 +1390,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Hewlett Packard Enterprise | HPC AI Networking Intern, Network Transport | Chippewa Falls, WI</br>Fort Collins, CO | <a href="https://go.vansh.nyc/C3?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 12 |
 | Hasbro | IT & Software Intern | Renton, WA | <a href="https://go.vansh.nyc/CV?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 12 |
 | Google | Forward Deployed Engineering Intern | Sunnyvale, CA | <a href="https://go.vansh.nyc/8e?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 12 |
-| General Motors | Research and Development Intern, AI/Machine Learning | Mountain View, CA | <a href="https://go.vansh.nyc/8d?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 12 |
 | Garmin | Data Scientist Intern | Louisville, CO | <a href="https://go.vansh.nyc/1nn?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 12 |
 | Figure AI | Deployment Engineering Intern | San Jose, CA | <a href="https://go.vansh.nyc/8a?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 12 |
 | DV Trading | Data Center Engineer Intern | Chicago, IL | <a href="https://go.vansh.nyc/89?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 12 |
@@ -2038,7 +2037,10 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | 7-Eleven | Data Engineer Intern | Irving, TX | 🔒 | Nov 08 |
 | empirical | Software Engineering Intern | Dakota Dunes, SD | 🔒 | Nov 07 |
 | TikTok | POI Content Product Manager Intern | San Jose, CA | 🔒 | Nov 06 |
-| T-Mobile | Data Engineering Intern | Frisco, TX</br>Atlanta, GA | 🔒 | Nov 06 |
+| T-Mobile | Software Engineering Intern | Bellevue, WA | 🔒 | Nov 06 |
+| ↳ | AI Engineering Intern | Bellevue, WA | 🔒 | Nov 06 |
+| ↳ | Software Engineer Intern, HR Data Products | Bellevue, WA | 🔒 | Nov 06 |
+| ↳ | Data Engineering Intern | Frisco, TX</br>Atlanta, GA | 🔒 | Nov 06 |
 | RTX | Digital Technology Intern 🇺🇸 | Andover, MA | 🔒 | Nov 06 |
 | Rambus | Digital Design Intern | Johns Creek, GA | 🔒 | Nov 06 |
 | Marmon Holdings | AI Technology Solutions Intern | Chicago, IL | 🔒 | Nov 06 |
@@ -2050,6 +2052,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Software Delivery Platform Intern | SeaTac, WA | 🔒 | Nov 06 |
 | Veryable | Platform Engineer Intern | Dallas, TX | 🔒 | Nov 05 |
 | V2X | AI Engineering Intern | Indianapolis, IN | 🔒 | Nov 05 |
+| T-Mobile | Software Engineer Intern | Bellevue, WA | 🔒 | Nov 05 |
 | RTX | Software Engineering Intern 🇺🇸 | Aurora, CO | 🔒 | Nov 05 |
 | RR Donnelley | IT Software Integration & Automation Intern | Minneapolis, MN | 🔒 | Nov 05 |
 | ↳ | Software Developer Intern | Warrenville, IL | 🔒 | Nov 05 |
@@ -2547,7 +2550,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Moog | Product Engineering Intern | Buffalo, NY | 🔒 | Oct 12 |
 | MEMX | Data Engineer Intern | New York, NY | 🔒 | Oct 12 |
 | KLA | AI/ML Software Engineer Intern | Ann Arbor, MI | 🔒 | Oct 12 |
-| General Motors | Research and Development Intern, Defense Lab Modeling and Simulation 🇺🇸 | Warren, MI | 🔒 | Oct 12 |
+| General Motors | Research and Development Intern, AI/Machine Learning | Mountain View, CA | 🔒 | Oct 12 |
+| ↳ | Research and Development Intern, Defense Lab Modeling and Simulation 🇺🇸 | Warren, MI | 🔒 | Oct 12 |
 | ↳ | Research and Development Intern, Machine Learning for Automation | Warren, MI | 🔒 | Oct 12 |
 | AtkinsRéalis | Software Developer Intern | Denver, CO | 🔒 | Oct 12 |
 | Amperesand | Technical Program Manager Intern | Reno, NV | 🔒 | Oct 12 |
