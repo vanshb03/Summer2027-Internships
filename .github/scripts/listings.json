@@ -41171,14 +41171,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793526799,
+        "date_updated": 1794463768,
         "url": "https://go.vansh.nyc/17E",
         "locations": [
             "Oakville, Canada",
             "Waterloo, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Geotab",
         "title": "Software Developer Intern, MyAdmin",
         "source": "vanshb03",
@@ -53135,14 +53135,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793986571,
+        "date_updated": 1794463768,
         "url": "https://go.vansh.nyc/1kE",
         "locations": [
             "Frisco, TX",
             "Atlanta, GA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "T-Mobile",
         "title": "Data Engineering Intern",
         "source": "vanshb03",
