@@ -61508,13 +61508,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794375552,
+        "date_updated": 1794505249,
         "url": "https://go.vansh.nyc/1tM",
         "locations": [
             "Berthoud, CO"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Ursa Major",
         "title": "IT Infrastructure & Automation Intern",
         "source": "vanshb03",
@@ -61940,13 +61940,13 @@
         "season": "Fall"
     },
     {
-        "date_updated": 1794416761,
+        "date_updated": 1794505249,
         "url": "https://go.vansh.nyc/1uO",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Brex",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -63483,5 +63483,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1794505003,
+        "url": "https://go.vansh.nyc/1wJ",
+        "locations": [
+            "Needham, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SharkNinja",
+        "title": "Digital & Website Technology Intern",
+        "source": "vanshb03",
+        "id": "b3b7a651-d596-40c1-b317-cbd7ea5a7de6",
+        "date_posted": 1794503683,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
     }
 ]
