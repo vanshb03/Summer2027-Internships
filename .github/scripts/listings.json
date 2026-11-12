@@ -39500,13 +39500,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793491587,
+        "date_updated": 1794509090,
         "url": "https://go.vansh.nyc/13f",
         "locations": [
             "Rensselaer, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "New York ISO",
         "title": "IT Software Development Intern",
         "source": "vanshb03",
@@ -51594,13 +51594,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793896576,
+        "date_updated": 1794509090,
         "url": "https://go.vansh.nyc/1iL",
         "locations": [
             "Tewksbury, MA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "RTX",
         "title": "Systems Security Engineer Intern",
         "source": "vanshb03",
@@ -63514,6 +63514,57 @@
         "source": "vanshb03",
         "id": "7ba0a667-2971-4962-af0e-2e17124b8d9a",
         "date_posted": 1794505876,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794508578,
+        "url": "https://go.vansh.nyc/1wL",
+        "locations": [
+            "Grand Rapids, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "KION Group",
+        "title": "A.I. Engineering Intern",
+        "source": "vanshb03",
+        "id": "5e714fbe-f433-4f53-adc3-0a02b8a37681",
+        "date_posted": 1794507678,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794508578,
+        "url": "https://go.vansh.nyc/1wM",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "T-Mobile",
+        "title": "Data Product Intern",
+        "source": "vanshb03",
+        "id": "795375f4-744d-4322-9838-9b85f8fef8e8",
+        "date_posted": 1794506538,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794508735,
+        "url": "https://go.vansh.nyc/1wN",
+        "locations": [
+            "Montreal, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Autodesk",
+        "title": "Software Developer Intern",
+        "source": "vanshb03",
+        "id": "a2649cec-59ab-446c-bd7f-ef900b3de72d",
+        "date_posted": 1794508606,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
