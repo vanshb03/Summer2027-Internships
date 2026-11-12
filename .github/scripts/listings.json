@@ -15829,13 +15829,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1792717232,
+        "date_updated": 1794492707,
         "url": "https://go.vansh.nyc/f2",
         "locations": [
             "Somerville, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Formlabs",
         "title": "Manufacturing Test Software Intern",
         "source": "vanshb03",
@@ -44729,14 +44729,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793662521,
+        "date_updated": 1794492707,
         "url": "https://go.vansh.nyc/1be",
         "locations": [
             "Remote",
             "United States"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Cincinnati Children\u2019s Hospital and Medical Center",
         "title": "Software Engineering Developer Intern",
         "source": "vanshb03",
@@ -58199,13 +58199,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794301513,
+        "date_updated": 1794492707,
         "url": "https://go.vansh.nyc/1qc",
         "locations": [
             "Plano, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "GlobalFoundries",
         "title": "Design Verification Engineer Intern",
         "source": "vanshb03",
@@ -62625,13 +62625,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794440119,
+        "date_updated": 1794492707,
         "url": "https://go.vansh.nyc/1vz",
         "locations": [
             "Chicago, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "McDonald's",
         "title": "Global Tech Infrastructure & Operations Intern",
         "source": "vanshb03",
