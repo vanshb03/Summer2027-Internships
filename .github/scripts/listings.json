@@ -54737,13 +54737,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794099938,
+        "date_updated": 1794456650,
         "url": "https://go.vansh.nyc/1mt",
         "locations": [
             "Johns Creek, GA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Rambus",
         "title": "Digital Design Intern",
         "source": "vanshb03",
