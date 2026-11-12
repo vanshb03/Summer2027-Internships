@@ -64675,5 +64675,158 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1794526545,
+        "url": "https://go.vansh.nyc/1xZ",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Muon Space",
+        "title": "Security Engineering Intern",
+        "source": "vanshb03",
+        "id": "54db2fea-1ec6-4b2f-be41-2f2d0cbd623f",
+        "date_posted": 1794441600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794526545,
+        "url": "https://go.vansh.nyc/1y0",
+        "locations": [
+            "Mobile, AL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Austal USA",
+        "title": "Information Technology Intern",
+        "source": "vanshb03",
+        "id": "179fd3d4-f2c9-45d5-acf3-34c67a54371d",
+        "date_posted": 1794441600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794526582,
+        "url": "https://go.vansh.nyc/1y1",
+        "locations": [
+            "Edmonton, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Capital Power",
+        "title": "Data Science Intern",
+        "source": "vanshb03",
+        "id": "ce3343bc-08a9-49ce-9310-c81db408c778",
+        "date_posted": 1794441600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794526582,
+        "url": "https://go.vansh.nyc/1y2",
+        "locations": [
+            "Calgary, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Capital Power",
+        "title": "Data Analytics Intern",
+        "source": "vanshb03",
+        "id": "fe45eb56-b7cd-4a3b-ba7a-8ab5fd2a1ed4",
+        "date_posted": 1794441600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794526582,
+        "url": "https://go.vansh.nyc/1y3",
+        "locations": [
+            "Waltham, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Wolters Kluwer",
+        "title": "Product Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "4fe5b757-b174-4eb4-aa87-808b1474dad8",
+        "date_posted": 1794441600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794526582,
+        "url": "https://go.vansh.nyc/1y4",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bank of Montreal",
+        "title": "AI Developer Co-op",
+        "source": "vanshb03",
+        "id": "99e56ba8-12c5-4b73-8da8-adf9e40b3f68",
+        "date_posted": 1794441600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1794526582,
+        "url": "https://go.vansh.nyc/1y5",
+        "locations": [
+            "Bohemia, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "North Atlantic Industries",
+        "title": "Embedded Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "2d4d449b-924e-459b-aefe-f93728c1a8ff",
+        "date_posted": 1794525336,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1794526611,
+        "url": "https://go.vansh.nyc/1y6",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Muon Space",
+        "title": "Software Engineer Intern, Information Systems",
+        "source": "vanshb03",
+        "id": "5ec8ccbe-5416-431b-a2ac-6e54820f0f07",
+        "date_posted": 1794524817,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794527051,
+        "url": "https://go.vansh.nyc/1y7",
+        "locations": [
+            "Schofield, HI"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "General Dynamics Information Technology",
+        "title": "JMSC-P Boundary Enclave Administrator Intern",
+        "source": "vanshb03",
+        "id": "c3939506-f95a-410e-97d8-28ce054d5761",
+        "date_posted": 1794526868,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
