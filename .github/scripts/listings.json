@@ -51457,13 +51457,13 @@
         "season": "Spring"
     },
     {
-        "date_updated": 1793889660,
+        "date_updated": 1794510580,
         "url": "https://go.vansh.nyc/1iA",
         "locations": [
             "Columbia, MD"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Parsons",
         "title": "Embedded Developer Intern",
         "source": "vanshb03",
@@ -63565,6 +63565,23 @@
         "source": "vanshb03",
         "id": "a2649cec-59ab-446c-bd7f-ef900b3de72d",
         "date_posted": 1794508606,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794510491,
+        "url": "https://go.vansh.nyc/1wO",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "American Electric Power",
+        "title": "Cybersecurity Intern",
+        "source": "vanshb03",
+        "id": "1b326d31-d696-4b1d-aee8-cb5f5839bf16",
+        "date_posted": 1794510372,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
