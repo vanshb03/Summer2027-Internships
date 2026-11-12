@@ -56590,13 +56590,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794238642,
+        "date_updated": 1794496283,
         "url": "https://go.vansh.nyc/1op",
         "locations": [
             "Kalamazoo, MI"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Zoetis",
         "title": "IT/OT Security Intern",
         "source": "vanshb03",
@@ -56726,13 +56726,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794240540,
+        "date_updated": 1794496283,
         "url": "https://go.vansh.nyc/1ox",
         "locations": [
             "Parsippany, NJ"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Zoetis",
         "title": "Information Security Intern",
         "source": "vanshb03",
@@ -57016,13 +57016,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794247614,
+        "date_updated": 1794496283,
         "url": "https://go.vansh.nyc/1oP",
         "locations": [
             "Parsippany, NJ"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Zoetis",
         "title": "AI Assistant Development Intern",
         "source": "vanshb03",
@@ -57340,13 +57340,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794260217,
+        "date_updated": 1794496283,
         "url": "https://go.vansh.nyc/1pf",
         "locations": [
             "Dayton, OH"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Radiance Technologies",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -57374,7 +57374,7 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794260316,
+        "date_updated": 1794496283,
         "url": "https://go.vansh.nyc/1ph",
         "locations": [
             "Remote",
@@ -57382,7 +57382,7 @@
             "Kalamazoo, MI"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Zoetis",
         "title": "AI Architecture, Enablement & Tools Intern, AI Capabilities",
         "source": "vanshb03",
@@ -57393,13 +57393,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794262015,
+        "date_updated": 1794496283,
         "url": "https://go.vansh.nyc/1pi",
         "locations": [
             "Dayton, OH"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Radiance Technologies",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -63257,5 +63257,56 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1794495919,
+        "url": "https://go.vansh.nyc/1wt",
+        "locations": [
+            "Lemont, IL"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Argonne National Laboratory",
+        "title": "Business Information Systems Intern, Enterprise Software Solutions",
+        "source": "vanshb03",
+        "id": "816e143d-a84f-45f7-8433-cc8eda834028",
+        "date_posted": 1794441600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794495919,
+        "url": "https://go.vansh.nyc/1wu",
+        "locations": [
+            "Needham, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SharkNinja",
+        "title": "Data Science Intern",
+        "source": "vanshb03",
+        "id": "39cac472-ba48-46b4-8d2e-1f4ac8a44e2a",
+        "date_posted": 1794441600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794496177,
+        "url": "https://go.vansh.nyc/1wv",
+        "locations": [
+            "Lawrence, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Fresenius Medical Care",
+        "title": "Agentic AI Analytics Co-op",
+        "source": "vanshb03",
+        "id": "aa668d2d-bb30-42b1-9e47-cef3de974bc3",
+        "date_posted": 1794496047,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
