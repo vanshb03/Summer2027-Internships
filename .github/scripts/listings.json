@@ -57581,13 +57581,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794267387,
+        "date_updated": 1794444454,
         "url": "https://go.vansh.nyc/1pt",
         "locations": [
             "San Diego, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Art of Problem Solving",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -62758,6 +62758,92 @@
         "source": "vanshb03",
         "id": "9abe8e92-dd43-4f0f-b358-79c182c31601",
         "date_posted": 1794441999,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794443723,
+        "url": "https://go.vansh.nyc/1vQ",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Arcesium",
+        "title": "Technology Operations Intern",
+        "source": "vanshb03",
+        "id": "3360f506-0d93-4e4c-be0c-afce98fd9f5a",
+        "date_posted": 1794441600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794443723,
+        "url": "https://go.vansh.nyc/1vR",
+        "locations": [
+            "Mobile, AL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Austal USA",
+        "title": "Cybersecurity Intern",
+        "source": "vanshb03",
+        "id": "a8177bc5-2141-4d5e-a3c7-4b34bd7e7fe4",
+        "date_posted": 1794441600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794443752,
+        "url": "https://go.vansh.nyc/1vS",
+        "locations": [
+            "Newton, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Panera Bread",
+        "title": "Data Science & AI Analytics Intern",
+        "source": "vanshb03",
+        "id": "e3b8e189-8355-4b7a-bea2-610374393daf",
+        "date_posted": 1794355200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794443752,
+        "url": "https://go.vansh.nyc/1vT",
+        "locations": [
+            "La Jolla, CA",
+            "San Diego, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "StepStone Group",
+        "title": "AI Quant Analyst Intern",
+        "source": "vanshb03",
+        "id": "e6625865-6c98-4eec-a9d6-64e0708e2367",
+        "date_posted": 1794426850,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794443752,
+        "url": "https://go.vansh.nyc/1vU",
+        "locations": [
+            "Iowa City, IA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Shive-Hattery",
+        "title": "Software Developer Intern",
+        "source": "vanshb03",
+        "id": "94703794-890b-4bb4-8e2f-bb71a8519b9a",
+        "date_posted": 1794440619,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
