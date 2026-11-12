@@ -62710,5 +62710,56 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1794441981,
+        "url": "https://go.vansh.nyc/1vI",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bloom Energy",
+        "title": "RMCC Data Science Intern",
+        "source": "vanshb03",
+        "id": "86d7b43b-df88-45b9-9abb-fed4f44d8bb5",
+        "date_posted": 1794440661,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794441981,
+        "url": "https://go.vansh.nyc/1vJ",
+        "locations": [
+            "Ft Wayne, IN"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "RTX",
+        "title": "Electrical Engineering Intern, Firmware",
+        "source": "vanshb03",
+        "id": "634809eb-37a0-4a68-8101-2f9ece8b877e",
+        "date_posted": 1794441261,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794442100,
+        "url": "https://go.vansh.nyc/1vK",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bloom Energy",
+        "title": "AI Solutions Engineer Intern",
+        "source": "vanshb03",
+        "id": "9abe8e92-dd43-4f0f-b358-79c182c31601",
+        "date_posted": 1794441999,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
