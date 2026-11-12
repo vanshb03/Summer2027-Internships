@@ -56675,13 +56675,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794240455,
+        "date_updated": 1794490931,
         "url": "https://go.vansh.nyc/1ou",
         "locations": [
             "Oakland, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Mettler Toledo",
         "title": "Embedded Software Engineering Intern",
         "source": "vanshb03",
