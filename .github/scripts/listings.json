@@ -63070,5 +63070,56 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1794474923,
+        "url": "https://go.vansh.nyc/1wg",
+        "locations": [
+            "Montreal, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "GIRO",
+        "title": "Software Development Intern, Algorithms and Operations Research",
+        "source": "vanshb03",
+        "id": "bd67c552-7200-4b8e-8296-300def2d479b",
+        "date_posted": 1794474797,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1794474923,
+        "url": "https://go.vansh.nyc/1wh",
+        "locations": [
+            "Montreal, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "GIRO",
+        "title": "Front-End Web Development Intern",
+        "source": "vanshb03",
+        "id": "98fa77d3-93ec-467e-925e-ff822ee00b2f",
+        "date_posted": 1794474797,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1794474923,
+        "url": "https://go.vansh.nyc/1wi",
+        "locations": [
+            "Montreal, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "GIRO",
+        "title": "Software Development, Quality Assurance and AI Intern",
+        "source": "vanshb03",
+        "id": "3d2a82c3-f425-4c33-8c12-cc169341ddfc",
+        "date_posted": 1794474797,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
