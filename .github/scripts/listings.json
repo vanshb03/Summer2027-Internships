@@ -8560,13 +8560,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792261427,
+        "date_updated": 1794471227,
         "url": "https://go.vansh.nyc/8d",
         "locations": [
             "Mountain View, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "General Motors",
         "title": "Research and Development Intern, AI/Machine Learning",
         "source": "vanshb03",
@@ -53084,13 +53084,13 @@
         "season": "Fall"
     },
     {
-        "date_updated": 1793984917,
+        "date_updated": 1794471227,
         "url": "https://go.vansh.nyc/1kB",
         "locations": [
             "Bellevue, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "T-Mobile",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
@@ -53101,13 +53101,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793984917,
+        "date_updated": 1794471227,
         "url": "https://go.vansh.nyc/1kC",
         "locations": [
             "Bellevue, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "T-Mobile",
         "title": "AI Engineering Intern",
         "source": "vanshb03",
@@ -53118,13 +53118,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793986571,
+        "date_updated": 1794471227,
         "url": "https://go.vansh.nyc/1kD",
         "locations": [
             "Bellevue, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "T-Mobile",
         "title": "Software Engineer Intern, HR Data Products",
         "source": "vanshb03",
@@ -54891,13 +54891,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794100039,
+        "date_updated": 1794471227,
         "url": "https://go.vansh.nyc/1mC",
         "locations": [
             "Bellevue, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "T-Mobile",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -62983,5 +62983,92 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1794470714,
+        "url": "https://go.vansh.nyc/1w8",
+        "locations": [
+            "Remote",
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bask Health",
+        "title": "Creative Engineering Intern",
+        "source": "vanshb03",
+        "id": "7ae518ad-cd5e-42e5-9563-1d3696bdd57c",
+        "date_posted": 1794467524,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794470714,
+        "url": "https://go.vansh.nyc/1w9",
+        "locations": [
+            "Remote",
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bask Health",
+        "title": "Frontend Engineer Intern, Frontend Engineering",
+        "source": "vanshb03",
+        "id": "d6fa99c7-5328-4b3e-8943-78f757bacf6e",
+        "date_posted": 1794467524,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794470729,
+        "url": "https://go.vansh.nyc/1wa",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CARIAD",
+        "title": "Engineer 1 Intern, VLA Planning and Control Deployment",
+        "source": "vanshb03",
+        "id": "194ad525-c8f1-45df-8af5-2e1d98ccf67f",
+        "date_posted": 1792792214,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794470729,
+        "url": "https://go.vansh.nyc/1wb",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nasdaq",
+        "title": "Back End Software Developer Co-op",
+        "source": "vanshb03",
+        "id": "ee2fc443-9ed2-4774-82bd-b152a8bd2a9f",
+        "date_posted": 1793124223,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1794470960,
+        "url": "https://go.vansh.nyc/1wc",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bask",
+        "title": "Frontend Engineering Intern",
+        "source": "vanshb03",
+        "id": "75324407-cb76-46b0-a8ac-04ec9ba0316f",
+        "date_posted": 1794470833,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
