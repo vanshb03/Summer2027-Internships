@@ -38916,13 +38916,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793491587,
+        "date_updated": 1794519467,
         "url": "https://go.vansh.nyc/12H",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Clay",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
@@ -41820,13 +41820,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793526799,
+        "date_updated": 1794519467,
         "url": "https://go.vansh.nyc/18g",
         "locations": [
             "Seattle, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "Fullstack Software Engineer Intern, Global E-Commerce",
         "source": "vanshb03",
@@ -57410,13 +57410,13 @@
         "season": "Spring"
     },
     {
-        "date_updated": 1794262015,
+        "date_updated": 1794519467,
         "url": "https://go.vansh.nyc/1pj",
         "locations": [
             "Cincinnati, OH"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "National Interstate Insurance",
         "title": "Telematics / Predictive Analytics Intern",
         "source": "vanshb03",
@@ -59689,13 +59689,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794337560,
+        "date_updated": 1794519467,
         "url": "https://go.vansh.nyc/1rQ",
         "locations": [
             "Sunnyvale, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "General Motors",
         "title": "Machine Learning Engineer Intern, Embodied AI",
         "source": "vanshb03",
@@ -63448,7 +63448,7 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794501572,
+        "date_updated": 1794519467,
         "url": "https://go.vansh.nyc/1wH",
         "locations": [
             "St. Louis, MO",
@@ -63457,7 +63457,7 @@
             "Bloomfield, CT"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Cigna",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
@@ -63553,13 +63553,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794508735,
+        "date_updated": 1794519467,
         "url": "https://go.vansh.nyc/1wN",
         "locations": [
             "Montreal, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Autodesk",
         "title": "Software Developer Intern",
         "source": "vanshb03",
