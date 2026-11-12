@@ -88,7 +88,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Kinaxis | Full Stack Developer Intern, C# | Ottawa, Canada | <a href="https://go.vansh.nyc/1mc?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 07 |
 | ↳ | Developer Intern, Back End Technologies | Ottawa, Canada | <a href="https://go.vansh.nyc/1md?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 07 |
 | CodeMettle | Associate QA Engineer Co-op | Atlanta, GA | <a href="https://go.vansh.nyc/1pT?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 07 |
-| Sun Life | Associate DevOps Engineer Intern | Waterloo, Canada | <a href="https://go.vansh.nyc/1l4?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | SharkNinja | Applied AI & Analytics Co-op, AI | Miami, FL</br>Needham, MA | <a href="https://go.vansh.nyc/1la?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | Samsara | Software Engineering Intern | San Francisco, CA | <a href="https://go.vansh.nyc/1kA?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | OLG | Analytics Engineering & Measurement Intern | Toronto, Canada</br>Sault Ste. Marie, Canada | <a href="https://go.vansh.nyc/1ld?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
@@ -348,7 +347,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | MDA | Software Engineering Intern | Brampton, Canada | <a href="https://go.vansh.nyc/Rk?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
 | ↳ | Engineering Intern, DevOps | Montreal, Canada | <a href="https://go.vansh.nyc/Rl?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
 | ↳ | Engineering Intern, Python Test Data Processing | Montreal, Canada | <a href="https://go.vansh.nyc/Rm?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
-| Manulife Financial | AI Intern | Toronto, ON, Canada | <a href="https://go.vansh.nyc/bS?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
 | Manhattan Associates | A.I. Developer Co-op | Remote</br>United States | <a href="https://go.vansh.nyc/CZ?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
 | Lockheed Martin | Software Development Co-op, Technical I | Calgary, Canada | <a href="https://go.vansh.nyc/Rj?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
 | Johns Hopkins Applied Physics Laboratory | Cybersecurity Engineer/Mathematician Intern, Constrained Cyber Solutions | Laurel, MD | <a href="https://go.vansh.nyc/R6?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
@@ -542,6 +540,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Kinaxis | Developer Co-op, Machine Learning | Remote</br>United States | 🔒 | Nov 07 |
 | Western & Southern Financial Group | Artificial Intelligence Developer Intern | Cincinnati, OH | 🔒 | Nov 06 |
 | Varian | Embedded Software Developer Co-op | Canada | 🔒 | Nov 06 |
+| Sun Life | Associate DevOps Engineer Intern | Waterloo, Canada | 🔒 | Nov 06 |
 | Hootsuite | Software Development Co-op | Vancouver, Canada</br>Toronto, Canada | 🔒 | Nov 06 |
 | ↳ | DevOps Co-op | Canada | 🔒 | Nov 06 |
 | TD Bank | Software Engineer Co-op | Toronto, Canada</br>Mississauga, Canada</br>London, Canada | 🔒 | Nov 05 |
@@ -639,7 +638,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | BMO | Data & AI Analyst Co-op | Toronto, ON, Canada | 🔒 | Oct 20 |
 | Nuovo Photography | Software Developer Intern | Montreal, QC, Canada | 🔒 | Oct 19 |
 | ABB | Integrated Motor Drive Software Co-op | Greenville, SC | 🔒 | Oct 19 |
-| Manulife Financial | AI Co-op | Toronto, ON, Canada | 🔒 | Oct 18 |
+| Manulife Financial | AI Intern | Toronto, ON, Canada | 🔒 | Oct 18 |
+| ↳ | AI Co-op | Toronto, ON, Canada | 🔒 | Oct 18 |
 | Johns Hopkins Applied Physics Laboratory | Algorithm, Software, or RF Systems Engineering Intern | Laurel, MD | 🔒 | Oct 18 |
 | ↳ | Cybersecurity Intern, Mission Engineering | Laurel, MD | 🔒 | Oct 18 |
 | CIBC | Application Developer Co-op - Enterprise Technology & Business Management | Toronto, ON, Canada | 🔒 | Oct 18 |
