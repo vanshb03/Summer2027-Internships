@@ -247,7 +247,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Site Reliability Engineer Intern, Data Infra | Seattle, WA | <a href="https://go.vansh.nyc/14p?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | ↳ | Network Security Software Engineer Intern, Security Engineering | San Jose, CA | <a href="https://go.vansh.nyc/14v?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | ↳ | Site Reliability Engineer Intern, Data Infra | San Jose, CA | <a href="https://go.vansh.nyc/14D?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
-| Seattle Seahawks / First & Goal | Information Security Intern | Renton, WA | <a href="https://go.vansh.nyc/193?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 31 |
 | NVIDIA | Developer and Performance Technology Intern | Santa Clara, CA | <a href="https://go.vansh.nyc/12i?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 31 |
 | Zus Health | Data Acquisition Software Engineering Co-op | Boston, MA | <a href="https://go.vansh.nyc/13M?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | ↳ | Platform Software Engineering Co-op | Boston, MA | <a href="https://go.vansh.nyc/13N?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
@@ -572,6 +571,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Heart Recovery Software R&D Co-op | Halethorpe, MD | 🔒 | Nov 02 |
 | Apache Industrial | AI Implementation Intern | Houston, TX | 🔒 | Nov 02 |
 | GE Aerospace | Artificial Intelligence Intern | Remote</br>United States | 🔒 | Nov 01 |
+| Seattle Seahawks / First & Goal | Information Security Intern | Renton, WA | 🔒 | Oct 31 |
 | Solink | Software Engineer Co-op, Agents | Remote</br>Canada | 🔒 | Oct 30 |
 | Klaviyo | Software Engineer Co-op | Boston, MA | 🔒 | Oct 30 |
 | Johns Hopkins APL | Robotics Engineer Intern, Maritime Systems 🇺🇸 | Laurel, MD | 🔒 | Oct 30 |
