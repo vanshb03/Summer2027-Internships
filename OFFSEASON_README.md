@@ -281,7 +281,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Valmont | AI and Data Engineering Intern | Omaha, NE | <a href="https://go.vansh.nyc/Yo?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
 | OpusClip | Customer Experience Test Automation Intern | Burnaby, Canada | <a href="https://go.vansh.nyc/WR?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
 | Lila Sciences | Robot Perception & State Estimation Co-op | Cambridge, MA | <a href="https://go.vansh.nyc/VD?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
-| Geotab | Software Developer Intern, MyAdmin | Oakville, Canada</br>Waterloo, Canada | <a href="https://go.vansh.nyc/17E?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
 | ACLU Kentucky | Undergraduate Software Engineer Intern, Technology and Analytics (Educate Pod) | New York, NY | <a href="https://go.vansh.nyc/1mY?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
 | Texas Instruments | Web Marketing Intern, Front-end Developer | Dallas, TX | <a href="https://go.vansh.nyc/Wf?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
 | SOTI | Performance Test Engineer Intern | Mississauga, Canada | <a href="https://go.vansh.nyc/SG?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
@@ -592,7 +591,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Philips | Embedded Test Engineer Co-op | Murrysville, PA | 🔒 | Oct 27 |
 | Motorola | Localization and QA Automation Developer Co-op | Vancouver, Canada | 🔒 | Oct 27 |
 | Johnson Controls | Software Engineering Co-op | Burlington, MA | 🔒 | Oct 27 |
-| Geotab | Software Developer Intern, Geotab Vitality | Oakville, Canada</br>Toronto, Canada</br>Waterloo, Canada | 🔒 | Oct 27 |
+| Geotab | Software Developer Intern, MyAdmin | Oakville, Canada</br>Waterloo, Canada | 🔒 | Oct 27 |
+| ↳ | Software Developer Intern, Geotab Vitality | Oakville, Canada</br>Toronto, Canada</br>Waterloo, Canada | 🔒 | Oct 27 |
 | Blackberry | Software Testing Development Intern, QNX | Ottawa, Canada | 🔒 | Oct 27 |
 | ASML | Data Engineer Co-op | San Diego, CA | 🔒 | Oct 27 |
 | The Walt Disney Company | Content Research Insights & Analytics Intern | Burbank, CA | 🔒 | Oct 26 |

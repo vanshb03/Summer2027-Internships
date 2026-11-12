@@ -274,7 +274,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Interactive News Engineering Intern | New York, NY | <a href="https://go.vansh.nyc/1km?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | T-Mobile | AI Strategist Intern | Bellevue, WA | <a href="https://go.vansh.nyc/1l9?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | ↳ | Software Engineer Intern, HR Data Products | Bellevue, WA | <a href="https://go.vansh.nyc/1kD?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
-| ↳ | Data Engineering Intern | Frisco, TX</br>Atlanta, GA | <a href="https://go.vansh.nyc/1kE?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | ↳ | Software Engineering Intern | Bellevue, WA | <a href="https://go.vansh.nyc/1kB?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | ↳ | AI Engineering Intern | Bellevue, WA | <a href="https://go.vansh.nyc/1kC?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | Shure | Cloud Software Engineering Intern 🛂 | Niles, IL | <a href="https://go.vansh.nyc/1lx?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
@@ -2039,6 +2038,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | 7-Eleven | Data Engineer Intern | Irving, TX | 🔒 | Nov 08 |
 | empirical | Software Engineering Intern | Dakota Dunes, SD | 🔒 | Nov 07 |
 | TikTok | POI Content Product Manager Intern | San Jose, CA | 🔒 | Nov 06 |
+| T-Mobile | Data Engineering Intern | Frisco, TX</br>Atlanta, GA | 🔒 | Nov 06 |
 | RTX | Digital Technology Intern 🇺🇸 | Andover, MA | 🔒 | Nov 06 |
 | Rambus | Digital Design Intern | Johns Creek, GA | 🔒 | Nov 06 |
 | Marmon Holdings | AI Technology Solutions Intern | Chicago, IL | 🔒 | Nov 06 |
