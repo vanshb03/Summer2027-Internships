@@ -60461,13 +60461,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794362889,
+        "date_updated": 1794488980,
         "url": "https://go.vansh.nyc/1sK",
         "locations": [
             "Boston, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Whoop",
         "title": "Software Engineer Co-op, Backend, Business Systems",
         "source": "vanshb03",
@@ -61235,13 +61235,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794375552,
+        "date_updated": 1794488980,
         "url": "https://go.vansh.nyc/1tw",
         "locations": [
             "North Chicago, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "AbbVie",
         "title": "Business Technology Solutions Intern - Data & Software Engineering",
         "source": "vanshb03",
@@ -63206,5 +63206,56 @@
         "company_url": "",
         "is_visible": true,
         "season": "Spring"
+    },
+    {
+        "date_updated": 1794488890,
+        "url": "https://go.vansh.nyc/1wq",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Honeywell Aerospace",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "d673fde3-3700-4877-8b71-aaec39165d88",
+        "date_posted": 1787875200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794488890,
+        "url": "https://go.vansh.nyc/1wr",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Honeywell Aerospace",
+        "title": "Software AI Intern",
+        "source": "vanshb03",
+        "id": "e46d8bf3-cafe-4e1b-9043-42b41aa54bb0",
+        "date_posted": 1787875200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794488890,
+        "url": "https://go.vansh.nyc/1ws",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Honeywell Aerospace",
+        "title": "Embedded Engineering Intern",
+        "source": "vanshb03",
+        "id": "de181d82-d2cf-44cb-9001-e49880c7bea8",
+        "date_posted": 1787875200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
