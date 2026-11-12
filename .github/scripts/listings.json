@@ -62966,5 +62966,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1794467111,
+        "url": "https://go.vansh.nyc/1w4",
+        "locations": [
+            "Westford, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ribbon",
+        "title": "AI Engineer Co-op",
+        "source": "vanshb03",
+        "id": "f7aded0b-1adf-4121-a5d8-8d1ddfe757d9",
+        "date_posted": 1794355200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
