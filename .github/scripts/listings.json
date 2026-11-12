@@ -46592,13 +46592,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793686189,
+        "date_updated": 1794514236,
         "url": "https://go.vansh.nyc/1d5",
         "locations": [
             "Boise, ID"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Micron Technology",
         "title": "AI Engineering Intern, SMAI TD",
         "source": "vanshb03",
@@ -64196,6 +64196,23 @@
         "source": "vanshb03",
         "id": "05c79deb-a183-4dea-bfc3-45da40208b5c",
         "date_posted": 1794511116,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794514138,
+        "url": "https://go.vansh.nyc/1xx",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "General Dynamics Information Technology",
+        "title": "Professional Programmer Intern",
+        "source": "vanshb03",
+        "id": "c7e6a21c-950d-4911-9d30-2d9677d32f46",
+        "date_posted": 1794514007,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
