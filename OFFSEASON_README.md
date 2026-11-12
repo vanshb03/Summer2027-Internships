@@ -48,6 +48,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Bose | Digital Signal Processing ML Software Development Co-op | Framingham, MA | <a href="https://go.vansh.nyc/1uN?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | Zingage | Software Engineer Co-op | New York, NY | <a href="https://go.vansh.nyc/1rB?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | Skydio | Hardware In Loop (HIL) Software Engineer Intern | San Mateo, CA | <a href="https://go.vansh.nyc/1rH?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
+| Ribbon | AI Engineer Co-op | Westford, MA | <a href="https://go.vansh.nyc/1w4?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | Peripheral | Software Engineer Intern, Infrastructure | Toronto, Canada | <a href="https://go.vansh.nyc/1ri?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | ↳ | Embedded Systems Engineering Intern, Capture Systems | Toronto, Canada | <a href="https://go.vansh.nyc/1rk?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | ↳ | ML Research Intern, Reconstruction | Toronto, Canada | <a href="https://go.vansh.nyc/1rl?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
