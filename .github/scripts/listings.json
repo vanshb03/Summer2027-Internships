@@ -17526,13 +17526,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792774401,
+        "date_updated": 1794503478,
         "url": "https://go.vansh.nyc/gC",
         "locations": [
             "Detroit, MI"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Amazon",
         "title": "Junior Software Development Engineer Intern",
         "source": "vanshb03",
@@ -63344,13 +63344,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794497938,
+        "date_updated": 1794503478,
         "url": "https://go.vansh.nyc/1wy",
         "locations": [
             "Toronto, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Altera",
         "title": "FPGA IP Design Engineer Intern, PEY",
         "source": "vanshb03",
@@ -63466,5 +63466,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1794503382,
+        "url": "https://go.vansh.nyc/1wI",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TMX Group",
+        "title": "AI Engineering Intern",
+        "source": "vanshb03",
+        "id": "fd6fadaf-50aa-430c-ba6c-1a00ec3b4cb2",
+        "date_posted": 1794503261,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
