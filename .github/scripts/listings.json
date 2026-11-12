@@ -45224,14 +45224,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793675308,
+        "date_updated": 1794494462,
         "url": "https://go.vansh.nyc/1bL",
         "locations": [
             "San Mateo, CA",
             "Dallas, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Shield",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -52265,14 +52265,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793923529,
+        "date_updated": 1794494462,
         "url": "https://go.vansh.nyc/1jD",
         "locations": [
             "Remote",
             "United States"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Molina Healthcare",
         "title": "Undergraduate Electronic Data Interchange Intern",
         "source": "vanshb03",
