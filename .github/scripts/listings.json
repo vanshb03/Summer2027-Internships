@@ -62642,7 +62642,7 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794440139,
+        "date_updated": 1794449696,
         "url": "https://go.vansh.nyc/1vA",
         "locations": [
             "Bloomfield Hills, MI",
@@ -62650,7 +62650,7 @@
             "Atlanta, GA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Bose",
         "title": "Data Engineer Co-op",
         "source": "vanshb03",
@@ -62847,5 +62847,39 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1794449194,
+        "url": "https://go.vansh.nyc/1vV",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Rhoda AI",
+        "title": "Research Intern",
+        "source": "vanshb03",
+        "id": "d2f72aa8-cb2a-47a4-94d0-8ce5dd538b87",
+        "date_posted": 1794445594,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794449619,
+        "url": "https://go.vansh.nyc/1vW",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SK hynix memory solutions America Inc.",
+        "title": "Embedded Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "8b736132-e889-49be-8071-72741bd32bd5",
+        "date_posted": 1794444721,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
