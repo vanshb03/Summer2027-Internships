@@ -423,7 +423,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Solink | Software Engineer Co-op, Apps | Ottawa, Canada | <a href="https://go.vansh.nyc/ET?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 05 |
 | Rivian | Software Engineer Co-op, Embedded Software | Palo Alto, CA | <a href="https://go.vansh.nyc/ER?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 05 |
 | Moment Energy | Software Engineering Co-op | Surrey, Canada | <a href="https://go.vansh.nyc/F8?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 05 |
-| McKesson | Pharmaceutical Distribution Developer Intern | Montreal, Canada | <a href="https://go.vansh.nyc/F3?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 05 |
 | Lumentum | Embedded Software Engineer Co-op | Ottawa, Canada | <a href="https://go.vansh.nyc/EX?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 05 |
 | Judi Health | Data Engineer Intern | New York, NY</br>Denver, CO | <a href="https://go.vansh.nyc/Fw?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 05 |
 | Found Energy | Data Engineer Co-op | Cambridge, MA | <a href="https://go.vansh.nyc/EQ?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 05 |
@@ -458,7 +457,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Software Engineering Intern | Berkeley, CA | <a href="https://go.vansh.nyc/1lv?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 25 |
 | Moment Energy | Data Scientist Co-op | Surrey, Canada | <a href="https://go.vansh.nyc/JH?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 25 |
 | First Solar (US) | Data Science Intern | Perrysburg, OH | <a href="https://go.vansh.nyc/K2?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 25 |
-| ↳ | Data Analytics Intern | Perrysburg, OH | <a href="https://go.vansh.nyc/K4?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 25 |
 | Rockwell Automation | AI Software Engineering Co-op | Mayfield Heights, OH</br>Milwaukee, WI | <a href="https://go.vansh.nyc/Jz?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 24 |
 | iRhythm Technologies | Embedded SDET Co-op | San Francisco, CA | <a href="https://go.vansh.nyc/K0?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 24 |
 | Greenheck Group | Application Developer Co-op | Schofield, WI | <a href="https://go.vansh.nyc/Jy?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 24 |
@@ -706,6 +704,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Embedded Software Engineer Co-op, Audio Tech | <details><summary>**4 locations**</summary>Bloomfield Hills, MI</br>Framingham, MA</br>Troy, MI</br>Atlanta, GA</details> | 🔒 | Oct 06 |
 | NVIDIA | PCIe Design Verification Intern | Santa Clara, CA | 🔒 | Oct 05 |
 | Moment Energy | Firmware Engineering Co-op | Surrey, Canada | 🔒 | Oct 05 |
+| McKesson | Pharmaceutical Distribution Developer Intern | Montreal, Canada | 🔒 | Oct 05 |
 | Astera Labs | Platform Applications Engineer Co-op, Tools & Validation Infrastructure | Vancouver, Canada | 🔒 | Oct 05 |
 | Semtech | Software Developer Co-op, Web/Cloud Application | Richmond, Canada | 🔒 | Oct 04 |
 | Revvity | Software Integration Co-op | Akron, OH | 🔒 | Oct 02 |
@@ -717,7 +716,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Bracco | Firmware Engineering Co-op | Pleasanton, CA | 🔒 | Sep 29 |
 | iRhythm Technologies | Firmware Quality Assurance Engineer Co-op | San Francisco, CA | 🔒 | Sep 28 |
 | Cisco | Firmware Engineer II Co-op | Maynard, MA | 🔒 | Sep 28 |
-| First Solar (US) | Data Engineering Intern | Perrysburg, OH | 🔒 | Sep 25 |
+| First Solar (US) | Data Analytics Intern | Perrysburg, OH | 🔒 | Sep 25 |
+| ↳ | Data Engineering Intern | Perrysburg, OH | 🔒 | Sep 25 |
 | Ciena | Client Co-op, ASIC IP | Rochester, NY | 🔒 | Sep 20 |
 | Together AI | Research Intern, Model Shaping | San Francisco, CA | 🔒 | Sep 18 |
 | OCC | Cyber Operations Intern | Chicago, IL | 🔒 | Sep 18 |
