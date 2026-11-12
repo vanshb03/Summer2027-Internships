@@ -9665,13 +9665,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792261427,
+        "date_updated": 1794507057,
         "url": "https://go.vansh.nyc/9g",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Monolithic Power Systems",
         "title": "Applications Engineer Intern",
         "source": "vanshb03",
@@ -35383,13 +35383,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793227189,
+        "date_updated": 1794507057,
         "url": "https://go.vansh.nyc/Yl",
         "locations": [
             "South Ogden, UT"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Gauss Management Research & Engineering",
         "title": "Web Application Developer Intern",
         "source": "vanshb03",
@@ -47617,13 +47617,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1793740130,
+        "date_updated": 1794507057,
         "url": "https://go.vansh.nyc/1ef",
         "locations": [
             "Toronto, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "EQ Bank",
         "title": "Commercial Lending AI Engineer Intern",
         "source": "vanshb03",
@@ -63500,5 +63500,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Spring"
+    },
+    {
+        "date_updated": 1794506836,
+        "url": "https://go.vansh.nyc/1wK",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "PTC",
+        "title": "Site Reliability Engineering Intern, Onshape",
+        "source": "vanshb03",
+        "id": "7ba0a667-2971-4962-af0e-2e17124b8d9a",
+        "date_posted": 1794505876,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
