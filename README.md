@@ -52,7 +52,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | CareSource | Software Engineer Intern | Remote</br>United States | <a href="https://go.vansh.nyc/1wz?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | Cardinal Health | Technology Intern | Dublin, OH | <a href="https://go.vansh.nyc/1wG?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | Bask | Frontend Engineering Intern | United States | <a href="https://go.vansh.nyc/1wc?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
-| Altera | FPGA IP Design Engineer Intern, PEY | Toronto, Canada | <a href="https://go.vansh.nyc/1wy?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | Zotec Partners | Database Engineer Intern | Carmel, IN | <a href="https://go.vansh.nyc/1vs?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | The Marzetti Company | AI Solutions Intern, Human Resources | Columbus, OH | <a href="https://go.vansh.nyc/1uM?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | Synopsys | Engineering Documentation and AI Automation Co-op | Nepean, Canada | <a href="https://go.vansh.nyc/1uz?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
@@ -1997,6 +1996,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | BlinqLABS | Java Web Development Intern | Remote</br>United States | <a href="https://go.vansh.nyc/Qw?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 2021 |
 | Barkback | Software Intern | Santa Barbara, CA | <a href="https://go.vansh.nyc/Qv?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 2016 |
 | Northwestern Mutual | Application Development Intern | Milwaukee, WI | <a href="https://go.vansh.nyc/Qu?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 2015 |
+| Altera | FPGA IP Design Engineer Intern, PEY | Toronto, Canada | 🔒 | Nov 12 |
 | McDonald's | Global Tech Infrastructure & Operations Intern | Chicago, IL | 🔒 | Nov 11 |
 | TerraByte Green | AI Engineering Intern | United States | 🔒 | Nov 10 |
 | Stealth Startup | Enterprise AI | Software Engineering Intern | Remote</br>United States</br>Canada | 🔒 | Nov 10 |

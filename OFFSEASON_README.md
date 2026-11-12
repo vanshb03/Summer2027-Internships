@@ -43,6 +43,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| TMX Group | AI Engineering Intern | Toronto, Canada | <a href="https://go.vansh.nyc/1wI?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | Medpace | Data Engineer Intern | Cincinnati, OH | <a href="https://go.vansh.nyc/1wk?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | ↳ | Software Development Co-op | Cincinnati, OH | <a href="https://go.vansh.nyc/1wl?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | ↳ | Software QA Test Engineer Intern | Cincinnati, OH | <a href="https://go.vansh.nyc/1wm?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
@@ -318,7 +319,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | KION Group | Software Analytics Co-op | Grand Rapids, MI | <a href="https://go.vansh.nyc/f3?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | Ciena | Software Developer Intern | Ottawa, Canada | <a href="https://go.vansh.nyc/f1?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | Amazon.com Services LLC | System Development Engineer Co-op, Robotics | North Reading, MA | <a href="https://go.vansh.nyc/i1?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
-| Amazon | Junior Software Development Engineer Intern | Detroit, MI | <a href="https://go.vansh.nyc/gC?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | Themis Intelligence | Software Engineer Co-op, Data | Mississauga, Canada | <a href="https://go.vansh.nyc/Da?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 21 |
 | ↳ | AI Engineer Co-op | Mississauga, Canada | <a href="https://go.vansh.nyc/Db?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 21 |
 | CIBC | Machine Learning Engineer Co-op | Toronto, ON, Canada | <a href="https://go.vansh.nyc/ep?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 21 |
@@ -623,7 +623,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Ivalua | Marketing Web Developer Intern | New York, NY | 🔒 | Oct 22 |
 | GuidePoint Security | Cybersecurity Intern | Remote</br>United States | 🔒 | Oct 22 |
 | Formlabs | Manufacturing Test Software Intern | Somerville, MA | 🔒 | Oct 22 |
-| Amazon | Hardware Development Engineer Intern | Bellevue, WA | 🔒 | Oct 22 |
+| Amazon | Junior Software Development Engineer Intern | Detroit, MI | 🔒 | Oct 22 |
+| ↳ | Hardware Development Engineer Intern | Bellevue, WA | 🔒 | Oct 22 |
 | ↳ | Embedded Firmware Co-op | North Reading, MA</br>Westborough, MA | 🔒 | Oct 22 |
 | ↳ | Systems Development Engineer Intern | Bellevue, WA | 🔒 | Oct 22 |
 | 1Password | Security Intern, Threat Operations | Remote in USA | 🔒 | Oct 22 |
