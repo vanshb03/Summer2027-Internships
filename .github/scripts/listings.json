@@ -63308,5 +63308,74 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1794497735,
+        "url": "https://go.vansh.nyc/1ww",
+        "locations": [
+            "Warrenton, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Greystone",
+        "title": "Full Stack Engineer Intern",
+        "source": "vanshb03",
+        "id": "eefea2ab-407c-4d37-84b2-9d0bf869a6f5",
+        "date_posted": 1793059200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794497796,
+        "url": "https://go.vansh.nyc/1wx",
+        "locations": [
+            "Bloomington, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Entegris",
+        "title": "Embedded Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "a830f481-215a-4724-b292-ca21deda726c",
+        "date_posted": 1794496656,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794497938,
+        "url": "https://go.vansh.nyc/1wy",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Altera",
+        "title": "FPGA IP Design Engineer Intern, PEY",
+        "source": "vanshb03",
+        "id": "70d2d048-ed16-4020-87b8-383caea02a0b",
+        "date_posted": 1794497812,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794497938,
+        "url": "https://go.vansh.nyc/1wz",
+        "locations": [
+            "Remote",
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CareSource",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "58e231db-9fb4-4ccb-ae66-f89d0a45b035",
+        "date_posted": 1794497812,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
