@@ -8526,13 +8526,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792261427,
+        "date_updated": 1794460543,
         "url": "https://go.vansh.nyc/8b",
         "locations": [
             "Warren, MI"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "General Motors",
         "title": "Research and Development Intern, Defense Lab Modeling and Simulation",
         "source": "vanshb03",
@@ -8543,13 +8543,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792261427,
+        "date_updated": 1794460543,
         "url": "https://go.vansh.nyc/8c",
         "locations": [
             "Warren, MI"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "General Motors",
         "title": "Research and Development Intern, Machine Learning for Automation",
         "source": "vanshb03",
@@ -10705,13 +10705,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792261427,
+        "date_updated": 1794460543,
         "url": "https://go.vansh.nyc/af",
         "locations": [
             "Warren, MI"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "General Motors",
         "title": "Research and Development Intern, System Safety",
         "source": "vanshb03",
@@ -12443,13 +12443,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1792511227,
+        "date_updated": 1794460543,
         "url": "https://go.vansh.nyc/bS",
         "locations": [
             "Toronto, ON, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Manulife Financial",
         "title": "AI Intern",
         "source": "vanshb03",
@@ -42850,13 +42850,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793631974,
+        "date_updated": 1794460543,
         "url": "https://go.vansh.nyc/19j",
         "locations": [
             "Deerfield Beach, FL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "JM Family Enterprises",
         "title": "AI Intern",
         "source": "vanshb03",
@@ -43089,13 +43089,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793642755,
+        "date_updated": 1794460543,
         "url": "https://go.vansh.nyc/19y",
         "locations": [
             "Deerfield Beach, FL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "JM Family Enterprises",
         "title": "Offensive Security Intern",
         "source": "vanshb03",
@@ -44934,13 +44934,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793664318,
+        "date_updated": 1794460543,
         "url": "https://go.vansh.nyc/1bt",
         "locations": [
             "Deerfield Beach, FL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "JM Family Enterprises",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -53460,13 +53460,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793995741,
+        "date_updated": 1794460543,
         "url": "https://go.vansh.nyc/1l4",
         "locations": [
             "Waterloo, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Sun Life",
         "title": "Associate DevOps Engineer Intern",
         "source": "vanshb03",
@@ -54960,13 +54960,13 @@
         "season": "Spring"
     },
     {
-        "date_updated": 1794114387,
+        "date_updated": 1794460543,
         "url": "https://go.vansh.nyc/1mJ",
         "locations": [
             "Atlanta, GA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "T-Mobile",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
