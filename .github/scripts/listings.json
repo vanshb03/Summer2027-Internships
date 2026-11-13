@@ -36928,13 +36928,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793325913,
+        "date_updated": 1794597049,
         "url": "https://go.vansh.nyc/10k",
         "locations": [
             "Des Moines, IA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Dee Zee",
         "title": "Software Development Intern",
         "source": "vanshb03",
@@ -37544,13 +37544,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793388957,
+        "date_updated": 1794597049,
         "url": "https://go.vansh.nyc/10X",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Dow Jones",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
@@ -65392,5 +65392,107 @@
         "company_url": "",
         "is_visible": true,
         "season": "Spring"
+    },
+    {
+        "date_updated": 1794596778,
+        "url": "https://go.vansh.nyc/1yU",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Carnegie Mellon University",
+        "title": "Cybersecurity Engineer Intern",
+        "source": "vanshb03",
+        "id": "157c4d93-e487-4156-810e-a8cc488f0126",
+        "date_posted": 1794595338,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1794596778,
+        "url": "https://go.vansh.nyc/1yV",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Carnegie Mellon University",
+        "title": "Cyber AI Engineering Intern",
+        "source": "vanshb03",
+        "id": "3b4f2793-d67b-4ac7-be97-fd309fd7cd32",
+        "date_posted": 1794595338,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1794596778,
+        "url": "https://go.vansh.nyc/1yW",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bloomberg Industry Group",
+        "title": "Engineering Intern",
+        "source": "vanshb03",
+        "id": "61c9001f-be4d-4223-858d-fa232dc418ca",
+        "date_posted": 1794594738,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794596943,
+        "url": "https://go.vansh.nyc/1yX",
+        "locations": [
+            "Clearwater, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "PODS",
+        "title": "Operations Data Science Intern",
+        "source": "vanshb03",
+        "id": "01fca444-fee6-42c4-aa32-e9866e779f8f",
+        "date_posted": 1794469321,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794596943,
+        "url": "https://go.vansh.nyc/1yY",
+        "locations": [
+            "Minneapolis, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Punch Through Design",
+        "title": "Cloud Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "8e895541-b506-4265-860c-c27ff6c28a77",
+        "date_posted": 1794477724,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794596943,
+        "url": "https://go.vansh.nyc/1yZ",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ASML",
+        "title": "EUV Data Science and Analytics Intern",
+        "source": "vanshb03",
+        "id": "3d325436-edf3-4c0c-9891-e349dd9ef6e2",
+        "date_posted": 1794596804,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
