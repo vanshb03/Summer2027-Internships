@@ -65051,5 +65051,39 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1794543059,
+        "url": "https://go.vansh.nyc/1ys",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bask",
+        "title": "Machine Learning Engineering Intern",
+        "source": "vanshb03",
+        "id": "0097b126-ce32-46b3-8bf5-76bcbe5796a9",
+        "date_posted": 1794542931,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794543059,
+        "url": "https://go.vansh.nyc/1yt",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bask",
+        "title": "AI Engineering Intern",
+        "source": "vanshb03",
+        "id": "b8056315-478f-43e4-88cc-87593e4a2731",
+        "date_posted": 1794542931,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
