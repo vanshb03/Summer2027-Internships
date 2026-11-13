@@ -56,7 +56,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | GIRO | Software Development Intern, Algorithms and Operations Research | Montreal, Canada | <a href="https://go.vansh.nyc/1wg?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | ↳ | Front-End Web Development Intern | Montreal, Canada | <a href="https://go.vansh.nyc/1wh?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | ↳ | Software Development, Quality Assurance and AI Intern | Montreal, Canada | <a href="https://go.vansh.nyc/1wi?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
-| Fresenius Medical Care | Agentic AI Analytics Co-op | Lawrence, MA | <a href="https://go.vansh.nyc/1wv?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | SK hynix memory solutions America Inc. | Embedded Software Engineer Intern | San Jose, CA | <a href="https://go.vansh.nyc/1vW?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | Sanofi | Data Science & Digital Transformation Co-op | Framingham, MA | <a href="https://go.vansh.nyc/1vt?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | Medpace | Clinical Informatics Co-op | Cincinnati, OH | <a href="https://go.vansh.nyc/1xk?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
@@ -545,6 +544,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Pinterest | Software Engineer Intern | Toronto, Canada | <a href="https://go.vansh.nyc/Y?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 24 |
 | Colgate-Palmolive | Software Development Intern | Piscataway, NJ | <a href="https://go.vansh.nyc/U?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
 | Shopify | Engineering and Data Intern | Remote</br>Canada | <a href="https://go.vansh.nyc/G?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 19 |
+| Fresenius Medical Care | Agentic AI Analytics Co-op | Lawrence, MA | 🔒 | Nov 12 |
 | Altice USA | Software Development Intern | Bethpage, NY | 🔒 | Nov 10 |
 | Whoop | Software Engineer Co-op, Backend, Business Systems | Boston, MA | 🔒 | Nov 09 |
 | Radiance Technologies | Software Engineer Intern 🇺🇸 | Dayton, OH | 🔒 | Nov 09 |
