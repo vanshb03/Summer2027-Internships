@@ -62027,13 +62027,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794424093,
+        "date_updated": 1794528551,
         "url": "https://go.vansh.nyc/1uV",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Astera Labs",
         "title": "Firmware Engineer Intern, DevSecOps",
         "source": "vanshb03",
