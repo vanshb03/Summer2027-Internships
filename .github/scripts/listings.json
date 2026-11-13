@@ -56002,13 +56002,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794211593,
+        "date_updated": 1794532210,
         "url": "https://go.vansh.nyc/1nR",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Affirm",
         "title": "Software Engineer Intern, Machine Learning",
         "source": "vanshb03",
@@ -64980,6 +64980,40 @@
         "source": "vanshb03",
         "id": "7e29045c-9c6b-48ca-b87a-46cf0966f84d",
         "date_posted": 1794530238,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794532119,
+        "url": "https://go.vansh.nyc/1yo",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "Security Engineer Intern",
+        "source": "vanshb03",
+        "id": "7184a794-30f0-4d1e-9ced-5926d6036948",
+        "date_posted": 1790035200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1794532119,
+        "url": "https://go.vansh.nyc/1yp",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "E2 Consulting Engineers",
+        "title": "Data Analyst Intern",
+        "source": "vanshb03",
+        "id": "03e6c8e1-b186-46dc-8d45-83d0163f4e51",
+        "date_posted": 1794531981,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
