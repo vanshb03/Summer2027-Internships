@@ -53545,13 +53545,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793997386,
+        "date_updated": 1794557685,
         "url": "https://go.vansh.nyc/1l9",
         "locations": [
             "Bellevue, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "T-Mobile",
         "title": "AI Strategist Intern",
         "source": "vanshb03",
@@ -56499,7 +56499,7 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794236831,
+        "date_updated": 1794557685,
         "url": "https://go.vansh.nyc/1ok",
         "locations": [
             "San Jose, CA",
@@ -56507,7 +56507,7 @@
             "Research Triangle Park, NC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Cisco",
         "title": "Software Engineer Intern, Full-Stack / Backend I",
         "source": "vanshb03",
@@ -65136,5 +65136,39 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1794557136,
+        "url": "https://go.vansh.nyc/1yx",
+        "locations": [
+            "Irving, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Federal Home Loan Bank of Dallas",
+        "title": "Digital Transformation Intern",
+        "source": "vanshb03",
+        "id": "8fd19c3e-fc2c-40d8-a776-fc142e511996",
+        "date_posted": 1793232000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1794557255,
+        "url": "https://go.vansh.nyc/1yy",
+        "locations": [
+            "Quincy, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "State Street",
+        "title": "Cyber Security Operations Center Analyst Intern",
+        "source": "vanshb03",
+        "id": "7586d265-119b-41c6-8d61-b1cb61fe88fc",
+        "date_posted": 1794553655,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
