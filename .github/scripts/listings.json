@@ -64828,5 +64828,160 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1794530138,
+        "url": "https://go.vansh.nyc/1ye",
+        "locations": [
+            "Washington, DC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Atalanta",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "39d59e9e-eba2-49d7-93e1-4d7c662ab512",
+        "date_posted": 1794441600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794530138,
+        "url": "https://go.vansh.nyc/1yf",
+        "locations": [
+            "Washington, DC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Atalanta",
+        "title": "Forward Deployed Engineer Intern",
+        "source": "vanshb03",
+        "id": "681cd996-dfcd-488d-9b58-afc80f42ea2c",
+        "date_posted": 1794441600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794530138,
+        "url": "https://go.vansh.nyc/1yg",
+        "locations": [
+            "Emeryville, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Octant Bio",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "52519b66-b950-4c06-912a-c48ed6af811c",
+        "date_posted": 1794524087,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794530138,
+        "url": "https://go.vansh.nyc/1yh",
+        "locations": [
+            "Remote",
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bask Health",
+        "title": "Machine Learning Engineer Intern",
+        "source": "vanshb03",
+        "id": "8c249d92-7d6a-45f0-9e9f-d177a3e0baf2",
+        "date_posted": 1794526688,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794530138,
+        "url": "https://go.vansh.nyc/1yi",
+        "locations": [
+            "Remote",
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bask Health",
+        "title": "AI Engineering Intern",
+        "source": "vanshb03",
+        "id": "7f5ba33b-edd3-49b9-a984-096500db53ba",
+        "date_posted": 1794526688,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794530138,
+        "url": "https://go.vansh.nyc/1yj",
+        "locations": [
+            "Mason, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cintas",
+        "title": "IT OT Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "b50fb2fe-35ae-48a2-997f-797f40540031",
+        "date_posted": 1794526964,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794530212,
+        "url": "https://go.vansh.nyc/1yk",
+        "locations": [
+            "Melbourne, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "RTX",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "43745b8d-0e85-4f00-b58c-71b5dcb8ffb5",
+        "date_posted": 1794529372,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794530212,
+        "url": "https://go.vansh.nyc/1yl",
+        "locations": [
+            "Wilton, CT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ASML",
+        "title": "Data Scientist Intern",
+        "source": "vanshb03",
+        "id": "26ebccd6-ae7a-49b4-8a50-e28a0e29425e",
+        "date_posted": 1794528772,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794530362,
+        "url": "https://go.vansh.nyc/1ym",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "Machine Learning Engineer Intern, Data-Global E-Commerce-Search",
+        "source": "vanshb03",
+        "id": "7e29045c-9c6b-48ca-b87a-46cf0966f84d",
+        "date_posted": 1794530238,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
