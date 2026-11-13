@@ -12834,13 +12834,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792511227,
+        "date_updated": 1794611339,
         "url": "https://go.vansh.nyc/cf",
         "locations": [
             "Kirkland, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Paccar",
         "title": "Warranty Data Analyst Intern",
         "source": "vanshb03",
@@ -13859,13 +13859,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792554309,
+        "date_updated": 1794611339,
         "url": "https://go.vansh.nyc/dd",
         "locations": [
             "Kirkland, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Paccar",
         "title": "Field Service Data Analyst Intern",
         "source": "vanshb03",
@@ -17509,13 +17509,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792774401,
+        "date_updated": 1794611339,
         "url": "https://go.vansh.nyc/gB",
         "locations": [
             "Kirkland, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Paccar",
         "title": "Aftersales Data Analyst Intern",
         "source": "vanshb03",
@@ -30327,13 +30327,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1793031368,
+        "date_updated": 1794611339,
         "url": "https://go.vansh.nyc/QT",
         "locations": [
             "Saint-Bruno, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Alstom",
         "title": "Data Engineering Intern",
         "source": "vanshb03",
@@ -30344,13 +30344,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1793031368,
+        "date_updated": 1794611339,
         "url": "https://go.vansh.nyc/QU",
         "locations": [
             "Saint-Bruno, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Alstom",
         "title": "Digital Data Engineer Intern",
         "source": "vanshb03",
@@ -30361,13 +30361,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1793031368,
+        "date_updated": 1794611339,
         "url": "https://go.vansh.nyc/QV",
         "locations": [
             "Pittsburgh, PA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Alstom",
         "title": "ATC Software Intern",
         "source": "vanshb03",
@@ -30430,13 +30430,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793031368,
+        "date_updated": 1794611339,
         "url": "https://go.vansh.nyc/QZ",
         "locations": [
             "Toronto, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Celestica",
         "title": "SCM Data Scientist Intern",
         "source": "vanshb03",
@@ -30447,13 +30447,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793031368,
+        "date_updated": 1794611339,
         "url": "https://go.vansh.nyc/R0",
         "locations": [
             "Austin, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Celestica",
         "title": "Software Testing Intern",
         "source": "vanshb03",
@@ -30464,13 +30464,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793031368,
+        "date_updated": 1794611339,
         "url": "https://go.vansh.nyc/R1",
         "locations": [
             "Toronto, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Celestica",
         "title": "SCM Data Analyst Intern",
         "source": "vanshb03",
@@ -30481,13 +30481,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793031368,
+        "date_updated": 1794611339,
         "url": "https://go.vansh.nyc/R2",
         "locations": [
             "Austin, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Celestica",
         "title": "Software & Hardware Engineer Intern",
         "source": "vanshb03",
@@ -31547,13 +31547,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1793033120,
+        "date_updated": 1794611339,
         "url": "https://go.vansh.nyc/Sn",
         "locations": [
             "Mississauga, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Bombardier",
         "title": "Developer Intern",
         "source": "vanshb03",
@@ -31564,13 +31564,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1793033120,
+        "date_updated": 1794611339,
         "url": "https://go.vansh.nyc/So",
         "locations": [
             "Dorval, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Bombardier",
         "title": "Data Science and AI Intern, Connected Aircraft",
         "source": "vanshb03",
@@ -31581,13 +31581,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1793033120,
+        "date_updated": 1794611339,
         "url": "https://go.vansh.nyc/Sp",
         "locations": [
             "St-Laurent, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Bombardier",
         "title": "Software Developer Intern",
         "source": "vanshb03",
@@ -34129,13 +34129,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793142313,
+        "date_updated": 1794611339,
         "url": "https://go.vansh.nyc/WP",
         "locations": [
             "Chillicothe, OH"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Paccar",
         "title": "Data Engineer Intern",
         "source": "vanshb03",
@@ -34231,13 +34231,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793153113,
+        "date_updated": 1794611339,
         "url": "https://go.vansh.nyc/WV",
         "locations": [
             "Chillicothe, OH"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Paccar",
         "title": "Application Developer Intern",
         "source": "vanshb03",
@@ -44815,13 +44815,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793662521,
+        "date_updated": 1794611339,
         "url": "https://go.vansh.nyc/1bj",
         "locations": [
             "Denton, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Paccar",
         "title": "AI-Driven Vehicle Definition Intern",
         "source": "vanshb03",
@@ -46968,13 +46968,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1793693134,
+        "date_updated": 1794611339,
         "url": "https://go.vansh.nyc/1dr",
         "locations": [
             "Denton, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Paccar",
         "title": "Software Developer Intern",
         "source": "vanshb03",
@@ -49697,13 +49697,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793806530,
+        "date_updated": 1794611339,
         "url": "https://go.vansh.nyc/1gB",
         "locations": [
             "Denton, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Paccar",
         "title": "Data Engineer Intern",
         "source": "vanshb03",
@@ -55404,13 +55404,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1794186425,
+        "date_updated": 1794611339,
         "url": "https://go.vansh.nyc/1ne",
         "locations": [
             "Washington, DC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Systems Planning and Analysis",
         "title": "Data Engineering & Analytics Tools Intern",
         "source": "vanshb03",
@@ -56573,13 +56573,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794238574,
+        "date_updated": 1794611339,
         "url": "https://go.vansh.nyc/1oo",
         "locations": [
             "Chillicothe, OH"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Paccar",
         "title": "Data Analyst Intern",
         "source": "vanshb03",
@@ -57976,13 +57976,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794283752,
+        "date_updated": 1794611339,
         "url": "https://go.vansh.nyc/1pV",
         "locations": [
             "Toronto, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Celestica",
         "title": "IT Business Application Development Intern",
         "source": "vanshb03",
