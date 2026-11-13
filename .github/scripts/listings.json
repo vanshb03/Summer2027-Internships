@@ -60303,13 +60303,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794357325,
+        "date_updated": 1794536177,
         "url": "https://go.vansh.nyc/1sA",
         "locations": [
             "San Diego, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Art of Problem Solving",
         "title": "Data Science Intern",
         "source": "vanshb03",
@@ -65014,6 +65014,40 @@
         "source": "vanshb03",
         "id": "03e6c8e1-b186-46dc-8d45-83d0163f4e51",
         "date_posted": 1794531981,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794535585,
+        "url": "https://go.vansh.nyc/1yq",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CoStar Group",
+        "title": "Vision & Learning Intern",
+        "source": "vanshb03",
+        "id": "c274eb38-3003-4339-9ab6-72c9a86510f4",
+        "date_posted": 1794534565,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794536089,
+        "url": "https://go.vansh.nyc/1yr",
+        "locations": [
+            "Ruston, LA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Origin Bank",
+        "title": "Cybersecurity Intern",
+        "source": "vanshb03",
+        "id": "f86ae6f7-c841-437e-8704-f5f4a57a3dc0",
+        "date_posted": 1794536085,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
