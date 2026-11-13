@@ -65187,5 +65187,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1794580516,
+        "url": "https://go.vansh.nyc/1yC",
+        "locations": [
+            "Troy, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Valeo",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "28cb9d18-1396-41f5-a786-9299d0501ab9",
+        "date_posted": 1794528000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
