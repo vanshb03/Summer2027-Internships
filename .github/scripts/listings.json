@@ -52982,13 +52982,13 @@
         "season": "Spring"
     },
     {
-        "date_updated": 1793981140,
+        "date_updated": 1794550241,
         "url": "https://go.vansh.nyc/1kt",
         "locations": [
             "Overland Park, KS"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "T-Mobile",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
@@ -58510,13 +58510,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794328627,
+        "date_updated": 1794550241,
         "url": "https://go.vansh.nyc/1qC",
         "locations": [
             "Lincolnshire, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Zebra Technologies",
         "title": "Security Intern",
         "source": "vanshb03",
@@ -60218,13 +60218,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794355576,
+        "date_updated": 1794550241,
         "url": "https://go.vansh.nyc/1ss",
         "locations": [
             "Richardson, TX"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "RTX",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
@@ -61838,13 +61838,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794407916,
+        "date_updated": 1794550241,
         "url": "https://go.vansh.nyc/1uC",
         "locations": [
             "Eagan, MN"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Unisys",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -65082,6 +65082,40 @@
         "source": "vanshb03",
         "id": "b8056315-478f-43e4-88cc-87593e4a2731",
         "date_posted": 1794542931,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794550155,
+        "url": "https://go.vansh.nyc/1yu",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Aurora Innovation",
+        "title": "Software Engineer Intern, Vehicle Platforms",
+        "source": "vanshb03",
+        "id": "b56e91ef-db7b-4b0a-bcb7-19bc013e1f4c",
+        "date_posted": 1794538186,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794550155,
+        "url": "https://go.vansh.nyc/1yv",
+        "locations": [
+            "Tredyffrin, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Jobs at UHS",
+        "title": "Information Security Analyst Intern",
+        "source": "vanshb03",
+        "id": "aad7957d-702c-4a2b-81f5-6ff539782828",
+        "date_posted": 1794550000,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
