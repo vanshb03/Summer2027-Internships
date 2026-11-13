@@ -43,7 +43,11 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| RegScale | Cyber Security Intern | Remote</br>United States | <a href="https://go.vansh.nyc/1yP?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
+| Manulife Financial | Software Engineering Co-op | Boston, MA | <a href="https://go.vansh.nyc/1yR?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 | Corteva | R&D Intern, Computer & Data Science | Indianapolis, IN | <a href="https://go.vansh.nyc/1yB?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
+| Canadian Tire Corporation, Limited | Programmer Analyst Intern | Mississauga, Canada | <a href="https://go.vansh.nyc/1yQ?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
+| CACI | Configuration Control/Data Management Co-op | Danbury, CT | <a href="https://go.vansh.nyc/1yO?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 | TMX Group | AI Engineering Intern | Toronto, Canada | <a href="https://go.vansh.nyc/1wI?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | State Street | Cyber Security Operations Center Analyst Intern | Quincy, MA | <a href="https://go.vansh.nyc/1yy?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | SharkNinja | Digital & Website Technology Intern | Needham, MA | <a href="https://go.vansh.nyc/1wJ?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
