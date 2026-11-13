@@ -44,6 +44,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | TMX Group | AI Engineering Intern | Toronto, Canada | <a href="https://go.vansh.nyc/1wI?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
+| State Street | Cyber Security Operations Center Analyst Intern | Quincy, MA | <a href="https://go.vansh.nyc/1yy?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | SharkNinja | Digital & Website Technology Intern | Needham, MA | <a href="https://go.vansh.nyc/1wJ?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | Ready to? | Quality Assurance Automation Engineer Intern | Idaho Falls, ID | <a href="https://go.vansh.nyc/1xP?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | North Atlantic Industries | Embedded Software Engineer Intern | Bohemia, NY | <a href="https://go.vansh.nyc/1y5?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
@@ -284,6 +285,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Leidos | Cybersecurity Engineer Co-op | Bethesda, MD | <a href="https://go.vansh.nyc/XZ?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | L3Harris Technologies | Software Engineering Co-op | Waterdown, Canada | <a href="https://go.vansh.nyc/YN?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | Genius AI | Software Engineer Intern | New York, NY | <a href="https://go.vansh.nyc/108?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
+| Federal Home Loan Bank of Dallas | Digital Transformation Intern | Irving, TX | <a href="https://go.vansh.nyc/1yx?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | Current Lighting Employee Co | AI Co-op | Greenville, SC | <a href="https://go.vansh.nyc/Zi?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | Ciena | Embedded Software Engineer Co-op | Ottawa, Canada | <a href="https://go.vansh.nyc/ZC?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | ↳ | Hardware Characterization Automation Co-op | Ottawa, Canada | <a href="https://go.vansh.nyc/ZD?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |

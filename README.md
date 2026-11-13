@@ -299,7 +299,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Epic Games | AI Programmer Intern | Cary, NC | <a href="https://go.vansh.nyc/1pv?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
 | DreamWorks Animation | Data Science Intern, Advertising & Partnerships | New York, NY | <a href="https://go.vansh.nyc/1pJ?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
 | Citizens Energy Group | IT Security Intern | Indianapolis, IN | <a href="https://go.vansh.nyc/1oR?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
-| Cisco | Software Engineer Intern, Full-Stack / Backend I | San Jose, CA</br>Austin, TX</br>Research Triangle Park, NC | <a href="https://go.vansh.nyc/1ok?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
 | Cirrus Logic | Applied AI Engineering Intern | Austin, TX | <a href="https://go.vansh.nyc/1pL?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
 | CesiumAstro | Embedded Software Engineer Intern | Melbourne, FL | <a href="https://go.vansh.nyc/1ov?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
 | ↳ | Electrical Engineering Intern, FPGA | Melbourne, FL | <a href="https://go.vansh.nyc/1ow?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
@@ -345,7 +344,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Full-Stack Engineering Intern | New York, NY | <a href="https://go.vansh.nyc/1l7?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | ↳ | iOS Engineering Intern | New York, NY | <a href="https://go.vansh.nyc/1l8?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | ↳ | Interactive News Engineering Intern | New York, NY | <a href="https://go.vansh.nyc/1km?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
-| T-Mobile | AI Strategist Intern | Bellevue, WA | <a href="https://go.vansh.nyc/1l9?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | Shure | Cloud Software Engineering Intern 🛂 | Niles, IL | <a href="https://go.vansh.nyc/1lx?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | ↳ | Embedded Software Intern 🛂 | Niles, IL | <a href="https://go.vansh.nyc/1ka?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | ↳ | Application Software Development Intern 🛂 | Niles, IL | <a href="https://go.vansh.nyc/1kb?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
@@ -2104,12 +2102,14 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Kudu Dynamics | Cybersecurity Analyst Intern 🇺🇸 | Odenton, MD | 🔒 | Nov 09 |
 | GlobalFoundries | Design Verification Engineer Intern | Plano, TX | 🔒 | Nov 09 |
 | CTGT | AI Evaluation Research Intern | San Francisco, CA | 🔒 | Nov 09 |
+| Cisco | Software Engineer Intern, Full-Stack / Backend I | San Jose, CA</br>Austin, TX</br>Research Triangle Park, NC | 🔒 | Nov 09 |
 | Art of Problem Solving | Software Engineer Intern | San Diego, CA | 🔒 | Nov 09 |
 | RTX | Digital Hardware Design Engineer Co-op | Cedar Rapids, IA | 🔒 | Nov 08 |
 | 7-Eleven | Data Engineer Intern | Irving, TX | 🔒 | Nov 08 |
 | empirical | Software Engineering Intern | Dakota Dunes, SD | 🔒 | Nov 07 |
 | TikTok | POI Content Product Manager Intern | San Jose, CA | 🔒 | Nov 06 |
-| T-Mobile | Software Engineering Intern | Bellevue, WA | 🔒 | Nov 06 |
+| T-Mobile | AI Strategist Intern | Bellevue, WA | 🔒 | Nov 06 |
+| ↳ | Software Engineering Intern | Bellevue, WA | 🔒 | Nov 06 |
 | ↳ | AI Engineering Intern | Bellevue, WA | 🔒 | Nov 06 |
 | ↳ | Software Engineer Intern, HR Data Products | Bellevue, WA | 🔒 | Nov 06 |
 | ↳ | Data Engineering Intern | Frisco, TX</br>Atlanta, GA | 🔒 | Nov 06 |
