@@ -65683,5 +65683,56 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1794607763,
+        "url": "https://go.vansh.nyc/1zd",
+        "locations": [
+            "Brentwood, TN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "IDEMIA North America",
+        "title": "Software Engineering Intern, Enrollment and Credentialing Services",
+        "source": "vanshb03",
+        "id": "d57fdfff-5e23-434a-ab08-5d34a501b4cf",
+        "date_posted": 1794528000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794607763,
+        "url": "https://go.vansh.nyc/1ze",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Martin Marietta",
+        "title": "Data Scientist Intern",
+        "source": "vanshb03",
+        "id": "de7d5f27-81ed-4d4b-9d32-bc3f2dc0aa2b",
+        "date_posted": 1794607614,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794607763,
+        "url": "https://go.vansh.nyc/1zf",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Martin Marietta",
+        "title": "Software Data Integration Engineer Intern",
+        "source": "vanshb03",
+        "id": "8a6adeea-78f6-4c37-9526-ceb325cec2cf",
+        "date_posted": 1794607614,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
