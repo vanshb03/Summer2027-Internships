@@ -52999,13 +52999,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793981344,
+        "date_updated": 1794553847,
         "url": "https://go.vansh.nyc/1ku",
         "locations": [
             "Greenwood Village, CO"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Invitation-charter",
         "title": "Data Science Intern",
         "source": "vanshb03",
@@ -53033,13 +53033,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793981344,
+        "date_updated": 1794553847,
         "url": "https://go.vansh.nyc/1kw",
         "locations": [
             "Greenwood Village, CO"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Invitation-charter",
         "title": "Data Developer Intern",
         "source": "vanshb03",
@@ -55166,13 +55166,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794157597,
+        "date_updated": 1794553847,
         "url": "https://go.vansh.nyc/1mX",
         "locations": [
             "Colorado Springs, CO"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Northrop Grumman",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -65116,6 +65116,23 @@
         "source": "vanshb03",
         "id": "aad7957d-702c-4a2b-81f5-6ff539782828",
         "date_posted": 1794550000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794553581,
+        "url": "https://go.vansh.nyc/1yw",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Samsung Semiconductor",
+        "title": "Compiler Engineer Intern",
+        "source": "vanshb03",
+        "id": "430bf849-7f63-416a-b80e-efd8af8e98f7",
+        "date_posted": 1794551481,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
