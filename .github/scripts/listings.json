@@ -12988,13 +12988,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792511227,
+        "date_updated": 1794593483,
         "url": "https://go.vansh.nyc/co",
         "locations": [
             "Rochester, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Constellation Brands",
         "title": "AI Enablement Intern",
         "source": "vanshb03",
@@ -27720,13 +27720,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793023513,
+        "date_updated": 1794593483,
         "url": "https://go.vansh.nyc/Mv",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Coinbase",
         "title": "Data Engineer Intern",
         "source": "vanshb03",
@@ -51628,7 +51628,7 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793900186,
+        "date_updated": 1794593483,
         "url": "https://go.vansh.nyc/1iN",
         "locations": [
             "Dallas, TX",
@@ -51637,7 +51637,7 @@
             "San Diego, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Shield AI",
         "title": "Software Engineer Co-op",
         "source": "vanshb03",
