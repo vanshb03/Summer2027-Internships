@@ -51852,13 +51852,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793909165,
+        "date_updated": 1794591633,
         "url": "https://go.vansh.nyc/1jb",
         "locations": [
             "Auburn Hills, MI"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "BorgWarner",
         "title": "Software Test Intern",
         "source": "vanshb03",
@@ -64592,13 +64592,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794525009,
+        "date_updated": 1794591633,
         "url": "https://go.vansh.nyc/1xU",
         "locations": [
             "Tewksbury, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Keysight Technologies",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
