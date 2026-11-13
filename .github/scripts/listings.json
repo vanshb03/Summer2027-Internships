@@ -13244,13 +13244,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792535294,
+        "date_updated": 1794589872,
         "url": "https://go.vansh.nyc/cD",
         "locations": [
             "Ottawa, ON"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Kinaxis",
         "title": "Cloud Developer Intern, Platform Engineering",
         "source": "vanshb03",
@@ -52026,13 +52026,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1793916521,
+        "date_updated": 1794589872,
         "url": "https://go.vansh.nyc/1jm",
         "locations": [
             "Dallas, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Western Alliance Bancorporation",
         "title": "Platform Engineering Intern",
         "source": "vanshb03",
@@ -60393,13 +60393,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794359302,
+        "date_updated": 1794589872,
         "url": "https://go.vansh.nyc/1sF",
         "locations": [
             "Bethpage, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Optimum (Altice USA)",
         "title": "DevOps Toolchain Intern",
         "source": "vanshb03",
@@ -65269,6 +65269,57 @@
         "source": "vanshb03",
         "id": "7f7527c8-518d-4600-a2ab-1386d8d7bbee",
         "date_posted": 1794584039,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794589590,
+        "url": "https://go.vansh.nyc/1yL",
+        "locations": [
+            "Boise, ID"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Micron Technology",
+        "title": "Enterprise SSD Architecture Intern",
+        "source": "vanshb03",
+        "id": "d9319a87-f8d6-43cf-bed1-2eb09f6d150a",
+        "date_posted": 1794588570,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794589590,
+        "url": "https://go.vansh.nyc/1yM",
+        "locations": [
+            "Mount Holly, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Daimler Truck",
+        "title": "IT Developer Analyst Intern",
+        "source": "vanshb03",
+        "id": "a3eb700e-11c0-4fdf-9fb2-119b123ad3fd",
+        "date_posted": 1794588570,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794589590,
+        "url": "https://go.vansh.nyc/1yN",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Trace3",
+        "title": "Security Intern",
+        "source": "vanshb03",
+        "id": "85d03dc2-9db7-43ea-8ccb-0e1a0d43585a",
+        "date_posted": 1794587550,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
