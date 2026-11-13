@@ -27216,14 +27216,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793023513,
+        "date_updated": 1794604698,
         "url": "https://go.vansh.nyc/M3",
         "locations": [
             "Bloomington, MN",
             "Chippewa Falls, WI"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Hewlett Packard Enterprise",
         "title": "ASIC Firmware and Diagnostic Intern",
         "source": "vanshb03",
@@ -30670,13 +30670,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1793031368,
+        "date_updated": 1794604698,
         "url": "https://go.vansh.nyc/Rd",
         "locations": [
             "Colorado Springs, CO"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Keysight Technologies",
         "title": "R&D Embedded Software Intern",
         "source": "vanshb03",
@@ -32375,13 +32375,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793055913,
+        "date_updated": 1794604698,
         "url": "https://go.vansh.nyc/Tf",
         "locations": [
             "Logan, UT"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Space Dynamics Laboratory",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -48686,13 +48686,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793745535,
+        "date_updated": 1794604698,
         "url": "https://go.vansh.nyc/1fj",
         "locations": [
             "Cedar Rapids, IA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "GreatAmerica Financial Services",
         "title": "Platform Engineering Intern",
         "source": "vanshb03",
@@ -60150,13 +60150,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1794353755,
+        "date_updated": 1794604698,
         "url": "https://go.vansh.nyc/1sm",
         "locations": [
             "Bethpage, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Altice USA",
         "title": "Product Analytics Intern",
         "source": "vanshb03",
@@ -65629,6 +65629,23 @@
         "source": "vanshb03",
         "id": "e58c30ca-2da0-46be-87ac-12390f19fb10",
         "date_posted": 1794602251,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794604178,
+        "url": "https://go.vansh.nyc/1za",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Reliable Robotics Corporation",
+        "title": "FPGA Engineering Intern",
+        "source": "vanshb03",
+        "id": "93b2df62-9b06-40a9-9912-0b6b1e1082e2",
+        "date_posted": 1794528000,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
