@@ -17789,7 +17789,7 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1792775105,
+        "date_updated": 1794606109,
         "url": "https://go.vansh.nyc/gR",
         "locations": [
             "Remote",
@@ -17797,7 +17797,7 @@
             "Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "1Password",
         "title": "Product Management Intern, End User Experience",
         "source": "vanshb03",
@@ -65649,5 +65649,39 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1794605817,
+        "url": "https://go.vansh.nyc/1zb",
+        "locations": [
+            "Richardson, TX"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "RTX",
+        "title": "Software Engineering Co-op",
+        "source": "vanshb03",
+        "id": "a73403c0-30ce-4961-9980-73cb517b313f",
+        "date_posted": 1794604797,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794605998,
+        "url": "https://go.vansh.nyc/1zc",
+        "locations": [
+            "North Vancouver, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Seaspan",
+        "title": "Data Engineering Intern",
+        "source": "vanshb03",
+        "id": "0129dfc3-d61b-49a5-b965-bd3f9439e174",
+        "date_posted": 1794528000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
