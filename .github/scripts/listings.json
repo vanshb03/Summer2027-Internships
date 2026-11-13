@@ -62418,13 +62418,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794434903,
+        "date_updated": 1794588032,
         "url": "https://go.vansh.nyc/1vn",
         "locations": [
             "Andover, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "MKS Instruments",
         "title": "Software Engineer Co-op",
         "source": "vanshb03",
@@ -65235,6 +65235,40 @@
         "source": "vanshb03",
         "id": "d9a8ae76-8f21-4fb9-925d-f08ce6ecfc33",
         "date_posted": 1794582864,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794587747,
+        "url": "https://go.vansh.nyc/1yJ",
+        "locations": [
+            "Montreal, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Fonds de solidarit\u00e9 FTQ",
+        "title": "Business Intelligence and M365 Solutions Intern",
+        "source": "vanshb03",
+        "id": "31aa9659-1ed1-4fbc-b36c-2813b6214cbf",
+        "date_posted": 1794528000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794587747,
+        "url": "https://go.vansh.nyc/1yK",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "WTW",
+        "title": "Data Analyst Intern",
+        "source": "vanshb03",
+        "id": "7f7527c8-518d-4600-a2ab-1386d8d7bbee",
+        "date_posted": 1794584039,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
