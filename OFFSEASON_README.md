@@ -477,6 +477,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Software Engineer Co-op, Enterprise Applications | Normal, IL | <a href="https://go.vansh.nyc/Jd?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 21 |
 | ↳ | Software Engineer Co-op, Product Development Portal | Palo Alto, CA | <a href="https://go.vansh.nyc/Je?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 21 |
 | Insulet Corporation | DevOps Engineer Co-op 🛂 | Acton, MA | <a href="https://go.vansh.nyc/JX?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 21 |
+| Amazon | Security Engineer Intern | Seattle, WA | <a href="https://go.vansh.nyc/1yo?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 21 |
 | GE Aerospace | Data Science Co-op, Flight Analytics Platform | Austin, TX | <a href="https://go.vansh.nyc/IX?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 20 |
 | OCC | Application Security Intern | Dallas, TX | <a href="https://go.vansh.nyc/JV?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 18 |
 | NERv Technology Inc. D.B.A. FluidAI Medical | Data and AI Engineering Co-op | Kitchener, Canada | <a href="https://go.vansh.nyc/1t3?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 18 |
