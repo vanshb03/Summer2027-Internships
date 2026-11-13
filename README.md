@@ -61,7 +61,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Octant Bio | Software Engineering Intern | Emeryville, CA | <a href="https://go.vansh.nyc/1yg?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | Muon Space | Software Engineer Intern, Information Systems | San Jose, CA | <a href="https://go.vansh.nyc/1y6?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | Microsoft | Data Scientist Intern, CoreAI | Redmond, WA | <a href="https://go.vansh.nyc/1wj?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
-| KION Group | A.I. Engineering Intern | Grand Rapids, MI | <a href="https://go.vansh.nyc/1wL?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | Keysight Technologies | R&D Software Engineering Intern | Atlanta, GA | <a href="https://go.vansh.nyc/1xT?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | ↳ | Software Engineer Intern | Tewksbury, MA | <a href="https://go.vansh.nyc/1xU?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | ↳ | Software Development Intern | Pleasant Grove, UT | <a href="https://go.vansh.nyc/1xV?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
@@ -551,7 +550,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Quality Assurance Automation Engineer Intern | Milwaukee, WI | <a href="https://go.vansh.nyc/1f0?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | Arrowstreet Capital | Software Engineer Intern | Boston, MA | <a href="https://go.vansh.nyc/1dK?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | Wellmark | Software Engineer Intern, AI Platform Team | Des Moines, IA | <a href="https://go.vansh.nyc/1bl?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
-| ViaSat | Digital and Programmable Logic Engineer Intern | Tempe, AZ | <a href="https://go.vansh.nyc/1hV?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | US Internships Public Careers Site | Undergraduate Software Engineering Intern | San Mateo, CA | <a href="https://go.vansh.nyc/1xC?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | ↳ | Undergraduate Software Development Engineer in Test Intern | San Mateo, CA | <a href="https://go.vansh.nyc/1xD?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | ↳ | Undergraduate Software Development Engineer in Test Intern, AI/ML | San Mateo, CA | <a href="https://go.vansh.nyc/1xE?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
@@ -2042,6 +2040,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | BlinqLABS | Java Web Development Intern | Remote</br>United States | <a href="https://go.vansh.nyc/Qw?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 2021 |
 | Barkback | Software Intern | Santa Barbara, CA | <a href="https://go.vansh.nyc/Qv?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 2016 |
 | Northwestern Mutual | Application Development Intern | Milwaukee, WI | <a href="https://go.vansh.nyc/Qu?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 2015 |
+| KION Group | A.I. Engineering Intern | Grand Rapids, MI | 🔒 | Nov 12 |
 | Cigna | Software Engineering Intern | <details><summary>**4 locations**</summary>St. Louis, MO</br>Austin, TX</br>Morris Plains, NJ</br>Bloomfield, CT</details> | 🔒 | Nov 12 |
 | CareSource | Software Engineer Intern | Remote</br>United States | 🔒 | Nov 12 |
 | Autodesk | Software Developer Intern | Montreal, Canada | 🔒 | Nov 12 |
@@ -2195,7 +2194,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | American Cancer Society Cancer Action Network | Research Intern, Cancer Risk Prediction | Atlanta, GA | 🔒 | Nov 03 |
 | Zebra Technologies | AI Intern | Lincolnshire, IL | 🔒 | Nov 02 |
 | ↳ | Software/AI Engineer Intern, Handheld Mobile Computers | Holtsville, NY | 🔒 | Nov 02 |
-| ViaSat | Software Engineer Intern | Germantown, MD | 🔒 | Nov 02 |
+| ViaSat | Digital and Programmable Logic Engineer Intern | Tempe, AZ | 🔒 | Nov 02 |
+| ↳ | Software Engineer Intern | Germantown, MD | 🔒 | Nov 02 |
 | T-Mobile | Software Engineering Intern | Philadelphia, PA | 🔒 | Nov 02 |
 | ↳ | Software Engineering Intern | New York, NY | 🔒 | Nov 02 |
 | SWBC | Application Security Intern | San Antonio, TX | 🔒 | Nov 02 |

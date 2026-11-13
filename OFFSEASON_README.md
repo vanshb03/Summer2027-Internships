@@ -102,7 +102,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Apache Industrial | AI Implementation Intern | Houston, TX | <a href="https://go.vansh.nyc/1ol?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 08 |
 | UMG Contingent Worker Company | Data Engineer Co-op | Remote</br>United States | <a href="https://go.vansh.nyc/1mF?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 07 |
 | Kinaxis | Full Stack Developer Intern, C# | Ottawa, Canada | <a href="https://go.vansh.nyc/1mc?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 07 |
-| ↳ | Developer Intern, Back End Technologies | Ottawa, Canada | <a href="https://go.vansh.nyc/1md?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 07 |
 | CodeMettle | Associate QA Engineer Co-op | Atlanta, GA | <a href="https://go.vansh.nyc/1pT?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 07 |
 | SharkNinja | Applied AI & Analytics Co-op, AI | Miami, FL</br>Needham, MA | <a href="https://go.vansh.nyc/1la?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | Samsara | Software Engineering Intern | San Francisco, CA | <a href="https://go.vansh.nyc/1kA?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
@@ -551,7 +550,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Radiance Technologies | Software Engineer Intern 🇺🇸 | Dayton, OH | 🔒 | Nov 09 |
 | ↳ | Software Engineer Intern 🇺🇸 | Dayton, OH | 🔒 | Nov 09 |
 | RTX | Digital Hardware Design Engineer Co-op | Cedar Rapids, IA | 🔒 | Nov 08 |
-| Kinaxis | Developer Co-op, Machine Learning | Remote</br>United States | 🔒 | Nov 07 |
+| Kinaxis | Developer Intern, Back End Technologies | Ottawa, Canada | 🔒 | Nov 07 |
+| ↳ | Developer Co-op, Machine Learning | Remote</br>United States | 🔒 | Nov 07 |
 | Western & Southern Financial Group | Artificial Intelligence Developer Intern | Cincinnati, OH | 🔒 | Nov 06 |
 | Varian | Embedded Software Developer Co-op | Canada | 🔒 | Nov 06 |
 | Sun Life | Associate DevOps Engineer Intern | Waterloo, Canada | 🔒 | Nov 06 |
