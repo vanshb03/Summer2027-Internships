@@ -33510,13 +33510,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793120802,
+        "date_updated": 1794609725,
         "url": "https://go.vansh.nyc/VY",
         "locations": [
             "Richardson, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Micron Technology",
         "title": "HBM Data Scientist Intern",
         "source": "vanshb03",
@@ -65731,6 +65731,23 @@
         "source": "vanshb03",
         "id": "8a6adeea-78f6-4c37-9526-ceb325cec2cf",
         "date_posted": 1794607614,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794609656,
+        "url": "https://go.vansh.nyc/1zg",
+        "locations": [
+            "Bozeman, MT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Aurora Innovation",
+        "title": "Embedded Software Engineer Intern, Lidar",
+        "source": "vanshb03",
+        "id": "572e208d-9a2e-4e34-ad0e-713d727a8680",
+        "date_posted": 1790893478,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
