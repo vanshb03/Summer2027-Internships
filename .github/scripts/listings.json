@@ -65170,5 +65170,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1794578947,
+        "url": "https://go.vansh.nyc/1yB",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Corteva",
+        "title": "R&D Intern, Computer & Data Science",
+        "source": "vanshb03",
+        "id": "eceaea53-71f1-4bdf-b394-80b39f597ef9",
+        "date_posted": 1794578797,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
