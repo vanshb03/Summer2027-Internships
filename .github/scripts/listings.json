@@ -63293,13 +63293,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794496177,
+        "date_updated": 1794575437,
         "url": "https://go.vansh.nyc/1wv",
         "locations": [
             "Lawrence, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Fresenius Medical Care",
         "title": "Agentic AI Analytics Co-op",
         "source": "vanshb03",
