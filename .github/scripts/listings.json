@@ -28696,13 +28696,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793025667,
+        "date_updated": 1794598860,
         "url": "https://go.vansh.nyc/Or",
         "locations": [
             "Cranberry Township, PA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "MSA Safety",
         "title": "Software Engineer Intern, Product Development",
         "source": "vanshb03",
@@ -53598,13 +53598,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793999327,
+        "date_updated": 1794598860,
         "url": "https://go.vansh.nyc/1lc",
         "locations": [
             "Arlington, VA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "CrowdStrike",
         "title": "Professional Services Pathfinder Intern, Red Team",
         "source": "vanshb03",
@@ -65491,6 +65491,57 @@
         "source": "vanshb03",
         "id": "3d325436-edf3-4c0c-9891-e349dd9ef6e2",
         "date_posted": 1794596804,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794598572,
+        "url": "https://go.vansh.nyc/1z0",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Samsung Semiconductor",
+        "title": "SSD Firmware Development Intern",
+        "source": "vanshb03",
+        "id": "7deb7949-8149-42fb-9d91-987cc829764f",
+        "date_posted": 1794596532,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794598737,
+        "url": "https://go.vansh.nyc/1z1",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Reliable Robotics Corporation",
+        "title": "Flight Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "00d8719d-ba6a-4333-9c93-4e5c6de20b4b",
+        "date_posted": 1794528000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794598737,
+        "url": "https://go.vansh.nyc/1z2",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NexusOne",
+        "title": "Data Engineering Intern",
+        "source": "vanshb03",
+        "id": "e3e15533-37a1-4739-861c-edf9179dbc8c",
+        "date_posted": 1794587799,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
