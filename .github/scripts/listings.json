@@ -56360,14 +56360,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794215186,
+        "date_updated": 1794584491,
         "url": "https://go.vansh.nyc/1oc",
         "locations": [
             "Madison, WI",
             "Boston, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "American Family Insurance Group",
         "title": "GenAI Intern",
         "source": "vanshb03",
@@ -62780,13 +62780,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794443723,
+        "date_updated": 1794584491,
         "url": "https://go.vansh.nyc/1vR",
         "locations": [
             "Mobile, AL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Austal USA",
         "title": "Cybersecurity Intern",
         "source": "vanshb03",
@@ -65218,6 +65218,23 @@
         "source": "vanshb03",
         "id": "e2e0354e-84d3-4e6c-90ad-f15189b4f675",
         "date_posted": 1794582424,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794584123,
+        "url": "https://go.vansh.nyc/1yF",
+        "locations": [
+            "Lehi, UT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Verisk",
+        "title": "Data Science/AI Intern",
+        "source": "vanshb03",
+        "id": "d9a8ae76-8f21-4fb9-925d-f08ce6ecfc33",
+        "date_posted": 1794582864,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
