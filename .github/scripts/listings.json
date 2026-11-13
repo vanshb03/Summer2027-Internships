@@ -37134,13 +37134,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793374570,
+        "date_updated": 1794582682,
         "url": "https://go.vansh.nyc/10x",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Barclays",
         "title": "Chief Client Office Intern, Client Data & Engineering Group",
         "source": "vanshb03",
@@ -52128,14 +52128,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793921725,
+        "date_updated": 1794582682,
         "url": "https://go.vansh.nyc/1js",
         "locations": [
             "Remote",
             "United States"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "CareSource",
         "title": "Configuration and Automation Intern",
         "source": "vanshb03",
@@ -63361,14 +63361,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794497938,
+        "date_updated": 1794582682,
         "url": "https://go.vansh.nyc/1wz",
         "locations": [
             "Remote",
             "United States"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "CareSource",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -65201,6 +65201,23 @@
         "source": "vanshb03",
         "id": "28cb9d18-1396-41f5-a786-9299d0501ab9",
         "date_posted": 1794528000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794582564,
+        "url": "https://go.vansh.nyc/1yE",
+        "locations": [
+            "Norfolk, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "IPConfigure",
+        "title": "Software Development Intern, Video Surveillance Software",
+        "source": "vanshb03",
+        "id": "e2e0354e-84d3-4e6c-90ad-f15189b4f675",
+        "date_posted": 1794582424,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
