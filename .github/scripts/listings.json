@@ -27703,13 +27703,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793023513,
+        "date_updated": 1794595569,
         "url": "https://go.vansh.nyc/Mu",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Coinbase",
         "title": "Data Science Intern, Strategy, Execution, & Analytics Platform",
         "source": "vanshb03",
@@ -31980,13 +31980,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793034433,
+        "date_updated": 1794595569,
         "url": "https://go.vansh.nyc/SN",
         "locations": [
             "Overland Park, KS"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Netsmart",
         "title": "Security Analyst Intern",
         "source": "vanshb03",
@@ -48758,13 +48758,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793747321,
+        "date_updated": 1794595569,
         "url": "https://go.vansh.nyc/1fo",
         "locations": [
             "Cedar Rapids, IA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "GreatAmerica Financial Services",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -49013,7 +49013,7 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1793749156,
+        "date_updated": 1794595569,
         "url": "https://go.vansh.nyc/1fF",
         "locations": [
             "Saint Paul, MN",
@@ -49021,7 +49021,7 @@
             "Naperville, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Ecolab",
         "title": "Digital & AI Technology Intern",
         "source": "vanshb03",
@@ -65323,5 +65323,74 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1794594977,
+        "url": "https://go.vansh.nyc/1yO",
+        "locations": [
+            "Danbury, CT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CACI",
+        "title": "Configuration Control/Data Management Co-op",
+        "source": "vanshb03",
+        "id": "e651ab1d-23fd-4196-a538-d14ea99383ee",
+        "date_posted": 1794593357,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1794595137,
+        "url": "https://go.vansh.nyc/1yP",
+        "locations": [
+            "Remote",
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "RegScale",
+        "title": "Cyber Security Intern",
+        "source": "vanshb03",
+        "id": "86ba6fa3-67b0-4a43-8e77-59cd8ac0c8bd",
+        "date_posted": 1794585134,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1794595137,
+        "url": "https://go.vansh.nyc/1yQ",
+        "locations": [
+            "Mississauga, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Canadian Tire Corporation, Limited",
+        "title": "Programmer Analyst Intern",
+        "source": "vanshb03",
+        "id": "1b5b80dc-0b90-413e-b55f-31472cfbb06b",
+        "date_posted": 1794595014,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1794595137,
+        "url": "https://go.vansh.nyc/1yR",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Manulife Financial",
+        "title": "Software Engineering Co-op",
+        "source": "vanshb03",
+        "id": "6bb5d202-72c3-4433-af30-535b92508802",
+        "date_posted": 1794595014,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
     }
 ]
