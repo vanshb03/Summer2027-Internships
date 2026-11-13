@@ -65751,5 +65751,91 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1794612916,
+        "url": "https://go.vansh.nyc/1zh",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Addepar",
+        "title": "Product Analyst Intern, Navigator",
+        "source": "vanshb03",
+        "id": "cff37a5f-37a3-4cdb-87dd-efdd13345418",
+        "date_posted": 1794528000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794612916,
+        "url": "https://go.vansh.nyc/1zi",
+        "locations": [
+            "Spokane, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TC Energy",
+        "title": "Intelligent Operations Technology Intern",
+        "source": "vanshb03",
+        "id": "4e589e10-a490-4567-9055-1297b1b2dca3",
+        "date_posted": 1794528000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794612948,
+        "url": "https://go.vansh.nyc/1zj",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "FieldPulse",
+        "title": "AI Intern",
+        "source": "vanshb03",
+        "id": "037e0524-e280-4f9d-93be-421912c14ae9",
+        "date_posted": 1794611845,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794613431,
+        "url": "https://go.vansh.nyc/1zk",
+        "locations": [
+            "Chicago, IL",
+            "West Lafayette, IN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Horizon3.ai",
+        "title": "Research Intern, Adversarial Intelligence",
+        "source": "vanshb03",
+        "id": "78167907-27ed-4747-a6e7-91133533de52",
+        "date_posted": 1794592727,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794613431,
+        "url": "https://go.vansh.nyc/1zl",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Activision Blizzard",
+        "title": "Game Systems Engineering Intern",
+        "source": "vanshb03",
+        "id": "fb45af46-5f92-486c-898a-99f8ce300988",
+        "date_posted": 1794613235,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
