@@ -65087,13 +65087,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794550155,
+        "date_updated": 1794622487,
         "url": "https://go.vansh.nyc/1yu",
         "locations": [
             "Mountain View, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Aurora Innovation",
         "title": "Software Engineer Intern, Vehicle Platforms",
         "source": "vanshb03",
