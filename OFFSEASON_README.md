@@ -43,6 +43,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Seagate Technology | Embedded Firmware Intern, Research Group | Shakopee, MN | <a href="https://go.vansh.nyc/1zt?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
+| ↳ | Embedded Firmware Intern, Research Group | Longmont, CO | <a href="https://go.vansh.nyc/1zu?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 | RegScale | Cyber Security Intern | Remote</br>United States | <a href="https://go.vansh.nyc/1yP?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 | Manulife Financial | Software Engineering Co-op | Boston, MA | <a href="https://go.vansh.nyc/1yR?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 | Corteva | R&D Intern, Computer & Data Science | Indianapolis, IN | <a href="https://go.vansh.nyc/1yB?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
