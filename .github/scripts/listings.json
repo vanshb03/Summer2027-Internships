@@ -65922,5 +65922,76 @@
         "company_url": "",
         "is_visible": true,
         "season": "Fall"
+    },
+    {
+        "date_updated": 1794625712,
+        "url": "https://go.vansh.nyc/1zx",
+        "locations": [
+            "Sioux Falls, SD"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "KBR Wyle Services",
+        "title": "Image Processing Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "b6806496-971d-484b-91c7-eebe53494791",
+        "date_posted": 1794625575,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794625712,
+        "url": "https://go.vansh.nyc/1zy",
+        "locations": [
+            "Chantilly, VA",
+            "Ann Arbor, MI",
+            "Lexington, MA",
+            "Kihei, HI",
+            "Beavercreek, OH",
+            "Lexington Park, MD",
+            "King of Prussia, PA",
+            "Colorado Springs, CO",
+            "Huntsville, AL",
+            "El Segundo, CA",
+            "Orlando, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "KBR Wyle Services",
+        "title": "Computer Science Intern, Defense & Intel (D&I)",
+        "source": "vanshb03",
+        "id": "79a8b8d8-c108-415f-8c8e-ed96f6beae1c",
+        "date_posted": 1794625575,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794625712,
+        "url": "https://go.vansh.nyc/1zz",
+        "locations": [
+            "Chantilly, VA",
+            "Ann Arbor, MI",
+            "Lexington, MA",
+            "Kihei, HI",
+            "Beavercreek, OH",
+            "Lexington Park, MD",
+            "King of Prussia, PA",
+            "Colorado Springs, CO",
+            "Huntsville, AL",
+            "El Segundo, CA",
+            "Orlando, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "KBR Wyle Services",
+        "title": "Software Engineering Intern, Defense & Intel (D&I)",
+        "source": "vanshb03",
+        "id": "017cf013-0df6-4a6a-badb-29a312b08edd",
+        "date_posted": 1794625575,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
