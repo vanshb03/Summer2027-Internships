@@ -8271,13 +8271,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792261427,
+        "date_updated": 1794629375,
         "url": "https://go.vansh.nyc/7W",
         "locations": [
             "Nanticoke, PA"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Veolia",
         "title": "Field Engineering Intern",
         "source": "vanshb03",
