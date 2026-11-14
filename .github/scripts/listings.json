@@ -62197,13 +62197,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794425939,
+        "date_updated": 1794690898,
         "url": "https://go.vansh.nyc/1v6",
         "locations": [
             "McKinney, TX"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "RTX",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
@@ -62537,13 +62537,13 @@
         "season": "Spring"
     },
     {
-        "date_updated": 1794440119,
+        "date_updated": 1794690898,
         "url": "https://go.vansh.nyc/1vu",
         "locations": [
             "East Hartford, CT"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "RTX",
         "title": "Methods Engineering Intern, Aftermarket & Sustainment Engineering",
         "source": "vanshb03",
@@ -66075,6 +66075,93 @@
         "source": "vanshb03",
         "id": "efe1a311-0acf-47e1-84ad-9a434ccc6da3",
         "date_posted": 1794589873,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794690536,
+        "url": "https://go.vansh.nyc/1zH",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cintas",
+        "title": "OT Software Engineer Intern, IT",
+        "source": "vanshb03",
+        "id": "a0ba899c-7e15-4b02-8d1e-1b9ecca3f9fd",
+        "date_posted": 1794537406,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794690536,
+        "url": "https://go.vansh.nyc/1zI",
+        "locations": [
+            "Baltimore, MD"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "State of Maryland",
+        "title": "Quantitative Analyst Intern",
+        "source": "vanshb03",
+        "id": "fda644f9-9e8e-4e5c-83ef-6b1594a172ff",
+        "date_posted": 1794556095,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794690536,
+        "url": "https://go.vansh.nyc/1zJ",
+        "locations": [
+            "Victoria, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SSI ShipConstructor",
+        "title": "Software Developer Co-op",
+        "source": "vanshb03",
+        "id": "864ef071-56cc-431a-b5d8-d7805c5aed18",
+        "date_posted": 1794562791,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1794690536,
+        "url": "https://go.vansh.nyc/1zK",
+        "locations": [
+            "Columbia, MD"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Owl Cyber Defense",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "77cf25ba-f921-4df4-b968-7aee04dc38fa",
+        "date_posted": 1794601076,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794690536,
+        "url": "https://go.vansh.nyc/1zL",
+        "locations": [
+            "San Antonio, TX",
+            "Plano, TX",
+            "Phoenix, AZ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "USAA",
+        "title": "Technology Intern",
+        "source": "vanshb03",
+        "id": "7b579be9-7f92-4e33-b2aa-df5f562ab736",
+        "date_posted": 1794616582,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
