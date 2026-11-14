@@ -58287,13 +58287,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794309090,
+        "date_updated": 1794614971,
         "url": "https://go.vansh.nyc/1qi",
         "locations": [
             "Pleasanton, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Roche",
         "title": "Assay Bioinformatics Intern, CSI",
         "source": "vanshb03",
