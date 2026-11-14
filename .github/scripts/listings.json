@@ -55148,14 +55148,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794157597,
+        "date_updated": 1794662064,
         "url": "https://go.vansh.nyc/1mW",
         "locations": [
             "Chicago, IL",
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Qube Research and Technologies",
         "title": "Technology Intern",
         "source": "vanshb03",
@@ -65990,6 +65990,23 @@
         "source": "vanshb03",
         "id": "017cf013-0df6-4a6a-badb-29a312b08edd",
         "date_posted": 1794625575,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794661768,
+        "url": "https://go.vansh.nyc/1zB",
+        "locations": [
+            "Plano, TX"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Ericsson",
+        "title": "AI Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "b9987f38-4fc1-4f41-9911-1b211820145a",
+        "date_posted": 1794661628,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
