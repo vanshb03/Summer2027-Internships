@@ -65854,5 +65854,73 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1794618495,
+        "url": "https://go.vansh.nyc/1zr",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NetApp",
+        "title": "Software Engineer Intern, Cloud",
+        "source": "vanshb03",
+        "id": "10f04304-2d16-4c81-a08b-7fd2714c8d5c",
+        "date_posted": 1794618364,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794618495,
+        "url": "https://go.vansh.nyc/1zs",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NetApp",
+        "title": "Software Engineer Intern, Systems",
+        "source": "vanshb03",
+        "id": "b0b4f421-1ea4-4e78-9207-507ac7a5d39c",
+        "date_posted": 1794618364,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794618495,
+        "url": "https://go.vansh.nyc/1zt",
+        "locations": [
+            "Shakopee, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Seagate Technology",
+        "title": "Embedded Firmware Intern, Research Group",
+        "source": "vanshb03",
+        "id": "e7053ef0-b56e-4e87-8cdb-04fcb897e619",
+        "date_posted": 1794618364,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1794618495,
+        "url": "https://go.vansh.nyc/1zu",
+        "locations": [
+            "Longmont, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Seagate Technology",
+        "title": "Embedded Firmware Intern, Research Group",
+        "source": "vanshb03",
+        "id": "01f73085-7ec1-4b27-838a-79ad62bea1d8",
+        "date_posted": 1794618364,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
     }
 ]
