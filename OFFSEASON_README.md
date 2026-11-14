@@ -281,7 +281,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Carnegie Mellon University | Full-Stack Software Development Intern 🛂 | Pittsburgh, PA | <a href="https://go.vansh.nyc/10A?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | ↳ | Cyber Range Development Intern 🛂 | Pittsburgh, PA | <a href="https://go.vansh.nyc/10C?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | ↳ | Agentic Development Intern 🛂 | Pittsburgh, PA | <a href="https://go.vansh.nyc/10D?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
-| BC Pensions | Junior Security Analyst Co-op | Victoria, Canada | <a href="https://go.vansh.nyc/13B?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | Waterworth | Computer Science Co-op | Victoria, Canada | <a href="https://go.vansh.nyc/10a?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
 | Itron | Systems Engineer Intern | West Union, SC | <a href="https://go.vansh.nyc/115?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
 | Vestmark Internship Program | Cloud Engineer Co-op | Wakefield, MA | <a href="https://go.vansh.nyc/100?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
@@ -597,6 +596,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Carnegie Mellon SEI | Full-Stack Software Development Intern 🛂 | Pittsburgh, PA | 🔒 | Oct 30 |
 | ↳ | Cyber Range Development Intern 🛂 | Pittsburgh, PA | 🔒 | Oct 30 |
 | ↳ | Agentic Development Intern 🛂 | Pittsburgh, PA | 🔒 | Oct 30 |
+| BC Pensions | Junior Security Analyst Co-op | Victoria, Canada | 🔒 | Oct 30 |
 | Qualcomm | AI Software Engineering Co-op | Toronto, Canada | 🔒 | Oct 29 |
 | ↳ | AI Software Systems Co-op | Toronto, Canada | 🔒 | Oct 29 |
 | Path Robotics | Machine Learning & Robotics Intern | Columbus, OH | 🔒 | Oct 29 |
