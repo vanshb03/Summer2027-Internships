@@ -42833,13 +42833,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793631974,
+        "date_updated": 1794676469,
         "url": "https://go.vansh.nyc/19i",
         "locations": [
             "Atlanta, GA"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "The Federal Reserve System",
         "title": "Supervision & Regulation Intern, Cybersecurity",
         "source": "vanshb03",
@@ -46412,7 +46412,7 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793686189,
+        "date_updated": 1794676469,
         "url": "https://go.vansh.nyc/1cV",
         "locations": [
             "New York, NY",
@@ -46420,7 +46420,7 @@
             "Holmdel, NJ"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Guardian Life",
         "title": "Data Engineering Intern, Digital & Technology",
         "source": "vanshb03",
@@ -46431,7 +46431,7 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793686189,
+        "date_updated": 1794676469,
         "url": "https://go.vansh.nyc/1cW",
         "locations": [
             "New York, NY",
@@ -46439,7 +46439,7 @@
             "Holmdel, NJ"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Guardian Life",
         "title": "AI & Machine Learning Intern, Digital & Technology",
         "source": "vanshb03",
@@ -46450,7 +46450,7 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793686189,
+        "date_updated": 1794676469,
         "url": "https://go.vansh.nyc/1cX",
         "locations": [
             "New York, NY",
@@ -46458,7 +46458,7 @@
             "Holmdel, NJ"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Guardian Life",
         "title": "Application Development Intern, Digital & Technology",
         "source": "vanshb03",
@@ -46469,14 +46469,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793686189,
+        "date_updated": 1794676469,
         "url": "https://go.vansh.nyc/1cY",
         "locations": [
             "Bethlehem, PA",
             "Holmdel, NJ"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Guardian Life",
         "title": "Cloud & DevOps Intern, Digital & Technology",
         "source": "vanshb03",
@@ -46487,7 +46487,7 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793686189,
+        "date_updated": 1794676469,
         "url": "https://go.vansh.nyc/1cZ",
         "locations": [
             "New York, NY",
@@ -46495,7 +46495,7 @@
             "Holmdel, NJ"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Guardian Life",
         "title": "Cybersecurity Intern, Digital & Technology",
         "source": "vanshb03",
@@ -53951,13 +53951,13 @@
         "season": "Spring"
     },
     {
-        "date_updated": 1794002933,
+        "date_updated": 1794676469,
         "url": "https://go.vansh.nyc/1lw",
         "locations": [
             "Freeport, ME"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Llbean",
         "title": "Software Developer Intern",
         "source": "vanshb03",
@@ -54908,13 +54908,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794100039,
+        "date_updated": 1794676469,
         "url": "https://go.vansh.nyc/1mD",
         "locations": [
             "Freeport, ME"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "L.L.Bean",
         "title": "Business Analyst/Data Analyst Intern",
         "source": "vanshb03",
@@ -61957,7 +61957,7 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794422337,
+        "date_updated": 1794676469,
         "url": "https://go.vansh.nyc/1uQ",
         "locations": [
             "Reston, VA",
@@ -61965,7 +61965,7 @@
             "United States"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "ICF",
         "title": "Data Analytics Intern",
         "source": "vanshb03",
@@ -66007,6 +66007,74 @@
         "source": "vanshb03",
         "id": "b9987f38-4fc1-4f41-9911-1b211820145a",
         "date_posted": 1794661628,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794675933,
+        "url": "https://go.vansh.nyc/1zC",
+        "locations": [
+            "Cary, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SAS",
+        "title": "Software Developer Intern, Go/Golang",
+        "source": "vanshb03",
+        "id": "aa0151db-14e4-48b2-b31e-250a3964aa1f",
+        "date_posted": 1794614400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794675955,
+        "url": "https://go.vansh.nyc/1zD",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Capital Group",
+        "title": "Global Technology Associate Intern",
+        "source": "vanshb03",
+        "id": "a024fe37-8329-461e-9c5d-57ea242c9909",
+        "date_posted": 1794528000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794675955,
+        "url": "https://go.vansh.nyc/1zE",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Camping World",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "91a8d22f-feea-4802-80cf-acea6652eefe",
+        "date_posted": 1794528000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794676417,
+        "url": "https://go.vansh.nyc/1zF",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Camping World",
+        "title": "AI Security Intern",
+        "source": "vanshb03",
+        "id": "efe1a311-0acf-47e1-84ad-9a434ccc6da3",
+        "date_posted": 1794589873,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
