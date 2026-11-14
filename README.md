@@ -52,6 +52,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Samsung Semiconductor | SSD Firmware Development Intern | San Jose, CA | <a href="https://go.vansh.nyc/1z0?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 | RTX | Software Engineering Co-op 🇺🇸 | Richardson, TX | <a href="https://go.vansh.nyc/1zb?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 | NexusOne | Data Engineering Intern | Atlanta, GA | <a href="https://go.vansh.nyc/1z2?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
+| NextEra Energy | Software Engineering Intern, Technical | St Paul, MN | <a href="https://go.vansh.nyc/1zq?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 | Micron Technology | Enterprise SSD Architecture Intern | Boise, ID | <a href="https://go.vansh.nyc/1yL?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 | Martin Marietta | Data Scientist Intern | Raleigh, NC | <a href="https://go.vansh.nyc/1ze?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 | ↳ | Software Data Integration Engineer Intern | Raleigh, NC | <a href="https://go.vansh.nyc/1zf?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
