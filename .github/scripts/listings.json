@@ -65837,5 +65837,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1794616519,
+        "url": "https://go.vansh.nyc/1zq",
+        "locations": [
+            "St Paul, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NextEra Energy",
+        "title": "Software Engineering Intern, Technical",
+        "source": "vanshb03",
+        "id": "7168d5e5-7b58-44e2-8af2-5d57364039ac",
+        "date_posted": 1794613564,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
