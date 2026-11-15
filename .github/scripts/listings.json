@@ -26633,13 +26633,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793023513,
+        "date_updated": 1794777277,
         "url": "https://go.vansh.nyc/Lx",
         "locations": [
             "Bridgewater, NJ"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Ingredion",
         "title": "Digital Innovation Intern",
         "source": "vanshb03",
@@ -65002,13 +65002,13 @@
         "season": "Fall"
     },
     {
-        "date_updated": 1794532119,
+        "date_updated": 1794777277,
         "url": "https://go.vansh.nyc/1yp",
         "locations": [
             "San Diego, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "E2 Consulting Engineers",
         "title": "Data Analyst Intern",
         "source": "vanshb03",
@@ -66251,6 +66251,108 @@
         "source": "vanshb03",
         "id": "c46882c7-736e-4ec8-9f08-b1f2a1fd1835",
         "date_posted": 1794762378,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794776898,
+        "url": "https://go.vansh.nyc/1zT",
+        "locations": [
+            "Calgary, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Pason & IWS Career",
+        "title": "Software Developer Intern, Datahub",
+        "source": "vanshb03",
+        "id": "0bf6e192-bd4b-4d84-b937-aa5b5d634f4c",
+        "date_posted": 1794630623,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794776898,
+        "url": "https://go.vansh.nyc/1zU",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Midrex Technologies",
+        "title": "IT Cyber Security Intern",
+        "source": "vanshb03",
+        "id": "3ab1b27c-1fe3-4083-b2ab-fa20bfcf6ec3",
+        "date_posted": 1794638327,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794776898,
+        "url": "https://go.vansh.nyc/1zV",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Paccar",
+        "title": "Software Developer Intern",
+        "source": "vanshb03",
+        "id": "f5033427-3585-40aa-983b-bac20eb7bc04",
+        "date_posted": 1794638912,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794776898,
+        "url": "https://go.vansh.nyc/1zW",
+        "locations": [
+            "Washington, DC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "House of Representatives",
+        "title": "HIR Cybersecurity Intern",
+        "source": "vanshb03",
+        "id": "c7a6b17b-0585-4ca2-8a32-cd291993d6d4",
+        "date_posted": 1794642487,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1794776898,
+        "url": "https://go.vansh.nyc/1zX",
+        "locations": [
+            "Research Triangle Park, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NetApp",
+        "title": "Data Analyst Intern",
+        "source": "vanshb03",
+        "id": "26731430-c545-4609-8c88-71a81c704712",
+        "date_posted": 1794652276,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794777168,
+        "url": "https://go.vansh.nyc/1zY",
+        "locations": [
+            "Ruston, LA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Origin Bank",
+        "title": "Salesforce Systems Development Intern",
+        "source": "vanshb03",
+        "id": "7fc0dc0d-d3ef-420c-bec3-a7eb8b0cabdc",
+        "date_posted": 1794517839,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
