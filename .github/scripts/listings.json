@@ -49955,13 +49955,13 @@
         "season": "Spring"
     },
     {
-        "date_updated": 1793819366,
+        "date_updated": 1794734043,
         "url": "https://go.vansh.nyc/1gW",
         "locations": [
             "Calgary, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TC Energy",
         "title": "Enterprise Security Intern, Detection & Response",
         "source": "vanshb03",
@@ -66184,7 +66184,7 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1794719308,
+        "date_updated": 1794734043,
         "url": "https://go.vansh.nyc/1zP",
         "locations": [
             "San Francisco, CA",
@@ -66193,12 +66193,29 @@
             "Austin, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Eight Sleep",
         "title": "Firmware Intern",
         "source": "vanshb03",
         "id": "03e2a9d7-574d-4a29-966c-1a353875b6a6",
         "date_posted": 1794699330,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794733514,
+        "url": "https://go.vansh.nyc/1zQ",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Blizzard Entertainment",
+        "title": "Animation & Cinematic Tools Engineering Intern",
+        "source": "vanshb03",
+        "id": "f2c44138-dc15-41fe-a97f-047d01f016ce",
+        "date_posted": 1794528000,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
