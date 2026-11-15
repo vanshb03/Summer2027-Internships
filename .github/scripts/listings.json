@@ -66165,5 +66165,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1794704926,
+        "url": "https://go.vansh.nyc/1zM",
+        "locations": [
+            "Bethpage, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Optimum (Altice USA)",
+        "title": "Cybersecurity Operations Intern",
+        "source": "vanshb03",
+        "id": "d37a6117-143b-4ac2-bea0-2925e48530dd",
+        "date_posted": 1794704805,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
