@@ -66219,5 +66219,40 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1794762328,
+        "url": "https://go.vansh.nyc/1zR",
+        "locations": [
+            "Newark, DE",
+            "Arlington, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Sallie Mae",
+        "title": "Data Science and Engineering Intern",
+        "source": "vanshb03",
+        "id": "5ece417b-0ae9-45c8-8538-901e3b2f4325",
+        "date_posted": 1793232000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794762489,
+        "url": "https://go.vansh.nyc/1zS",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Rodriguez Services",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "c46882c7-736e-4ec8-9f08-b1f2a1fd1835",
+        "date_posted": 1794762378,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
