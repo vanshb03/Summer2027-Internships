@@ -1490,7 +1490,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | IXL Learning | Software Engineer Intern | San Mateo, CA | <a href="https://go.vansh.nyc/17D?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 07 |
 | Happyrobot | Product Operations Engineer Intern | San Francisco, CA | <a href="https://go.vansh.nyc/FZ?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 07 |
 | General Motors | Autonomous Driving Software Engineer Intern | Sunnyvale, CA | <a href="https://go.vansh.nyc/1nt?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 07 |
-| Garmin | FPGA Engineer Intern | Olathe, KS | <a href="https://go.vansh.nyc/FV?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 07 |
 | DocuSign | Software Engineer Intern | Seattle, WA | <a href="https://go.vansh.nyc/FX?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 07 |
 | Dell Technologies | Data Science Intern | United States | <a href="https://go.vansh.nyc/QL?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 07 |
 | Badger Meter | Software Engineering Intern | Escondido, CA | <a href="https://go.vansh.nyc/G0?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 07 |
@@ -2717,6 +2716,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Technology, Product, Design & Engineering Intern 🛂 | Remote</br>United States | 🔒 | Oct 07 |
 | State Affairs | Software Engineer Intern | Washington, DC | 🔒 | Oct 07 |
 | HCSC | Security Data Classification Intern | Richardson, TX | 🔒 | Oct 07 |
+| Garmin | FPGA Engineer Intern | Olathe, KS | 🔒 | Oct 07 |
 | The Aerospace Corporation | Embedded Systems/Software Engineer Intern | Chantilly, VA</br>El Segundo, CA | 🔒 | Oct 06 |
 | RTX | Software Engineer Co-op | Cedar Rapids, IA | 🔒 | Oct 06 |
 | MEMX | Information Security Intern | New York, NY | 🔒 | Oct 06 |
