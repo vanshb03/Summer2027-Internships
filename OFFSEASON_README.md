@@ -324,7 +324,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Cisco | Software Engineer Full Stack / Backend I Co-op | San Jose, CA</br>Carlsbad, CA | <a href="https://go.vansh.nyc/gP?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
 | Twitch | Undergrad Software Engineering Intern | San Francisco, CA | <a href="https://go.vansh.nyc/f5?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | Symbotic | Machine Learning Ops Co-op | Wilmington, MA | <a href="https://go.vansh.nyc/f4?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
-| Stand Together | Data Analyst Intern, Open the Books | United States | <a href="https://go.vansh.nyc/ft?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | KION Group | Software Analytics Co-op | Grand Rapids, MI | <a href="https://go.vansh.nyc/f3?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | Ciena | Software Developer Intern | Ottawa, Canada | <a href="https://go.vansh.nyc/f1?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | Amazon.com Services LLC | System Development Engineer Co-op, Robotics | North Reading, MA | <a href="https://go.vansh.nyc/i1?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
@@ -629,6 +628,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | 1Password | Product Management Intern, End User Experience | Remote</br>United States</br>Canada | 🔒 | Oct 23 |
 | ↳ | Developer Intern, Developer Interfaces | Remote</br>United States</br>Canada | 🔒 | Oct 23 |
 | ↳ | Developer Intern, Credential Brokering | Remote</br>United States</br>Canada | 🔒 | Oct 23 |
+| Stand Together | Data Analyst Intern, Open the Books | United States | 🔒 | Oct 22 |
 | RTX | Software Engineer Co-op 🇺🇸 | Remote in USA | 🔒 | Oct 22 |
 | Nutanix | Software Developer Co-op | Vancouver, BC, Canada | 🔒 | Oct 22 |
 | Marvell | Design Verification Intern | Toronto, Canada | 🔒 | Oct 22 |
