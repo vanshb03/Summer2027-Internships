@@ -32562,13 +32562,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793066756,
+        "date_updated": 1794816769,
         "url": "https://go.vansh.nyc/UD",
         "locations": [
             "Cleveland, OH"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Sherwin-Williams",
         "title": "R&D Product Systems Intern",
         "source": "vanshb03",
