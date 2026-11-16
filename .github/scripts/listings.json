@@ -12256,13 +12256,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792511186,
+        "date_updated": 1794805985,
         "url": "https://go.vansh.nyc/bH",
         "locations": [
             "Toronto, ON"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "CIBC",
         "title": "Advanced Analytics and AI Co-op",
         "source": "vanshb03",
@@ -12341,13 +12341,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792511186,
+        "date_updated": 1794805985,
         "url": "https://go.vansh.nyc/bM",
         "locations": [
             "Toronto, ON"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "CIBC",
         "title": "Application/Software Developer Co-op, Capital Markets Technology",
         "source": "vanshb03",
@@ -12358,13 +12358,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1792511186,
+        "date_updated": 1794805985,
         "url": "https://go.vansh.nyc/bN",
         "locations": [
             "Toronto, ON"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "CIBC",
         "title": "Application/Software Developer Co-op, Enterprise Technology & Business Management",
         "source": "vanshb03",
@@ -14358,13 +14358,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792629569,
+        "date_updated": 1794805985,
         "url": "https://go.vansh.nyc/dG",
         "locations": [
             "Toronto, ON"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "CIBC",
         "title": "AI and Quantum Scientist Co-op",
         "source": "vanshb03",
@@ -15151,13 +15151,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792697616,
+        "date_updated": 1794805985,
         "url": "https://go.vansh.nyc/ep",
         "locations": [
             "Toronto, ON, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "CIBC",
         "title": "Machine Learning Engineer Co-op",
         "source": "vanshb03",
@@ -29571,13 +29571,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793027119,
+        "date_updated": 1794805985,
         "url": "https://go.vansh.nyc/Qb",
         "locations": [
             "Toronto, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Royal Bank of Canada",
         "title": "Developer Intern",
         "source": "vanshb03",
@@ -29588,13 +29588,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793027119,
+        "date_updated": 1794805985,
         "url": "https://go.vansh.nyc/Qc",
         "locations": [
             "Toronto, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Royal Bank of Canada",
         "title": "Data Engineer Intern",
         "source": "vanshb03",
@@ -29605,13 +29605,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793027119,
+        "date_updated": 1794805985,
         "url": "https://go.vansh.nyc/Qd",
         "locations": [
             "Montreal, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Royal Bank of Canada",
         "title": "Developer Intern",
         "source": "vanshb03",
@@ -32185,13 +32185,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793046997,
+        "date_updated": 1794805985,
         "url": "https://go.vansh.nyc/T1",
         "locations": [
             "Toronto, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "CIBC",
         "title": "AI Scientist Co-op",
         "source": "vanshb03",
@@ -33974,13 +33974,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793138717,
+        "date_updated": 1794805985,
         "url": "https://go.vansh.nyc/Wy",
         "locations": [
             "Toronto, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "CIBC",
         "title": "Data Analyst Co-op",
         "source": "vanshb03",
@@ -49151,13 +49151,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1793768900,
+        "date_updated": 1794805985,
         "url": "https://go.vansh.nyc/1fV",
         "locations": [
             "Toronto, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Royal Bank of Canada",
         "title": "AI Engineer Co-op, Capital Markets, Global Equities",
         "source": "vanshb03",
@@ -49853,13 +49853,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1793815720,
+        "date_updated": 1794805985,
         "url": "https://go.vansh.nyc/1gN",
         "locations": [
             "Pittsburgh, PA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Smith+Nephew",
         "title": "Data Science Intern, AI Center of Excellence",
         "source": "vanshb03",
@@ -49870,13 +49870,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793815720,
+        "date_updated": 1794805985,
         "url": "https://go.vansh.nyc/1gO",
         "locations": [
             "Pittsburgh, PA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Smith+Nephew",
         "title": "Robotics Software Engineering Intern",
         "source": "vanshb03",
@@ -49887,13 +49887,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793815720,
+        "date_updated": 1794805985,
         "url": "https://go.vansh.nyc/1gP",
         "locations": [
             "Andover, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Smith+Nephew",
         "title": "AI Engineer Intern, R&D",
         "source": "vanshb03",
@@ -52283,13 +52283,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793923529,
+        "date_updated": 1794805985,
         "url": "https://go.vansh.nyc/1jE",
         "locations": [
             "North Hollywood, CA"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Versant",
         "title": "Technology, Product, Design & Engineering Intern, GolfNow, Full Swing, Rotten Tomatoes, Fandango",
         "source": "vanshb03",
@@ -52300,13 +52300,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793923529,
+        "date_updated": 1794805985,
         "url": "https://go.vansh.nyc/1jF",
         "locations": [
             "Carlsbad, CA"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Versant",
         "title": "Technology, Product, Design & Engineering Intern, GolfNow, Full Swing, Rotten Tomatoes, Fandango",
         "source": "vanshb03",
@@ -52317,13 +52317,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793923529,
+        "date_updated": 1794805985,
         "url": "https://go.vansh.nyc/1jG",
         "locations": [
             "Orlando, FL"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Versant",
         "title": "Technology, Product, Design & Engineering Intern, GolfNow, Full Swing, Rotten Tomatoes, Fandango",
         "source": "vanshb03",
@@ -61286,13 +61286,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794375552,
+        "date_updated": 1794805985,
         "url": "https://go.vansh.nyc/1tz",
         "locations": [
             "Orlando, FL"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Versant3",
         "title": "Technology, Product, Design & Engineering Intern",
         "source": "vanshb03",
@@ -61303,14 +61303,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794375552,
+        "date_updated": 1794805985,
         "url": "https://go.vansh.nyc/1tA",
         "locations": [
             "Remote",
             "United States"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Versant3",
         "title": "Technology, Product, Design & Engineering Intern",
         "source": "vanshb03",
@@ -61338,13 +61338,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794375552,
+        "date_updated": 1794805985,
         "url": "https://go.vansh.nyc/1tC",
         "locations": [
             "North Hollywood, CA"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Versant3",
         "title": "Technology, Product, Design & Engineering Intern",
         "source": "vanshb03",
@@ -62729,13 +62729,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794441981,
+        "date_updated": 1794805985,
         "url": "https://go.vansh.nyc/1vJ",
         "locations": [
             "Ft Wayne, IN"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "RTX",
         "title": "Electrical Engineering Intern, Firmware",
         "source": "vanshb03",
@@ -64762,13 +64762,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794526582,
+        "date_updated": 1794805985,
         "url": "https://go.vansh.nyc/1y4",
         "locations": [
             "Toronto, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Bank of Montreal",
         "title": "AI Developer Co-op",
         "source": "vanshb03",
@@ -65377,13 +65377,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1794595137,
+        "date_updated": 1794805985,
         "url": "https://go.vansh.nyc/1yR",
         "locations": [
             "Boston, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Manulife Financial",
         "title": "Software Engineering Co-op",
         "source": "vanshb03",
