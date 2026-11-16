@@ -29554,13 +29554,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793027119,
+        "date_updated": 1794809389,
         "url": "https://go.vansh.nyc/Qa",
         "locations": [
             "Calgary, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Royal Bank of Canada",
         "title": "Data Engineer Intern",
         "source": "vanshb03",
@@ -29622,13 +29622,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793027119,
+        "date_updated": 1794809389,
         "url": "https://go.vansh.nyc/Qe",
         "locations": [
             "Calgary, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Royal Bank of Canada",
         "title": "Developer Intern",
         "source": "vanshb03",
@@ -54155,13 +54155,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794008824,
+        "date_updated": 1794809389,
         "url": "https://go.vansh.nyc/1lK",
         "locations": [
             "Calgary, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "PETRONAS Canada",
         "title": "Student Intern, Infrastructure Automation and Innovation",
         "source": "vanshb03",
@@ -60356,14 +60356,14 @@
         "season": "Spring"
     },
     {
-        "date_updated": 1794357354,
+        "date_updated": 1794809389,
         "url": "https://go.vansh.nyc/1sD",
         "locations": [
             "Remote",
             "United States"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "CenturyLink",
         "title": "AI & Automation Builders Intern",
         "source": "vanshb03",
@@ -66388,6 +66388,23 @@
         "source": "vanshb03",
         "id": "554f7356-3bfa-4760-859f-c78e248cb90d",
         "date_posted": 1794791244,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794809184,
+        "url": "https://go.vansh.nyc/1A3",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "RTX",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "894a0678-d486-4483-aa2a-5d69969e1df2",
+        "date_posted": 1794807624,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
