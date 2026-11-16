@@ -39191,13 +39191,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793491587,
+        "date_updated": 1794839965,
         "url": "https://go.vansh.nyc/12X",
         "locations": [
             "Brentwood, TN"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "IDEMIA",
         "title": "Software Engineering Intern, Enrollment and Credentialing Services",
         "source": "vanshb03",
@@ -47412,13 +47412,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1793733242,
+        "date_updated": 1794839965,
         "url": "https://go.vansh.nyc/1dX",
         "locations": [
             "Rockland, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Rockland Trust",
         "title": "Business Intelligence (BI) Intern",
         "source": "vanshb03",
@@ -66442,5 +66442,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1794839890,
+        "url": "https://go.vansh.nyc/1A7",
+        "locations": [
+            "Bethpage, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Optimum (Altice USA)",
+        "title": "Software Developer Intern",
+        "source": "vanshb03",
+        "id": "c7f6566b-e909-477e-9986-4fa37f3bb9bb",
+        "date_posted": 1794839765,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
