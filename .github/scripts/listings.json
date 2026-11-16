@@ -20835,13 +20835,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793015500,
+        "date_updated": 1794850746,
         "url": "https://go.vansh.nyc/DR",
         "locations": [
             "Baltimore, MD"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Constellation Energy",
         "title": "Quantitative Analytics & Data Science Intern",
         "source": "vanshb03",
@@ -61406,13 +61406,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794375552,
+        "date_updated": 1794850746,
         "url": "https://go.vansh.nyc/1tG",
         "locations": [
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Wing",
         "title": "Manufacturing Software Test Intern",
         "source": "vanshb03",
