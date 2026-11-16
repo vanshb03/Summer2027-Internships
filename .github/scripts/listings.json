@@ -62010,13 +62010,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794424093,
+        "date_updated": 1794859789,
         "url": "https://go.vansh.nyc/1uU",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Astera Labs",
         "title": "Firmware Engineer Intern, Leo",
         "source": "vanshb03",
@@ -66701,6 +66701,40 @@
         "source": "vanshb03",
         "id": "33535b98-a14b-40ef-868c-da6c3afc1df2",
         "date_posted": 1794850696,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794859579,
+        "url": "https://go.vansh.nyc/1Ao",
+        "locations": [
+            "San Leandro, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Pacific Fusion",
+        "title": "HPC/DevOps Engineering Intern",
+        "source": "vanshb03",
+        "id": "6bc42ca4-312c-4697-abd7-435735e6f247",
+        "date_posted": 1794858559,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794859579,
+        "url": "https://go.vansh.nyc/1Ap",
+        "locations": [
+            "Boise, ID"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Micron Technology",
+        "title": "Data Science Intern, SMAI",
+        "source": "vanshb03",
+        "id": "3020ebb1-b9a4-4e2e-9271-398c37bd6d6f",
+        "date_posted": 1794791179,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
