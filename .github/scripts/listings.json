@@ -16299,13 +16299,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792717375,
+        "date_updated": 1794856182,
         "url": "https://go.vansh.nyc/ft",
         "locations": [
             "United States"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Stand Together",
         "title": "Data Analyst Intern, Open the Books",
         "source": "vanshb03",
@@ -66650,6 +66650,57 @@
         "source": "vanshb03",
         "id": "ef932a9f-ae9f-4d01-8ba1-1d07eb00dc09",
         "date_posted": 1794849477,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794856100,
+        "url": "https://go.vansh.nyc/1Al",
+        "locations": [
+            "Overland Park, KS"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Quest Analytics",
+        "title": "Software Engineer Intern, C#, ASP.NET",
+        "source": "vanshb03",
+        "id": "e655a0d2-af66-4760-a902-d116f61452ab",
+        "date_posted": 1792083513,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794856100,
+        "url": "https://go.vansh.nyc/1Am",
+        "locations": [
+            "Idaho Falls, ID"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Idaho National Laboratory",
+        "title": "Cybersecurity Operations Intern",
+        "source": "vanshb03",
+        "id": "dc3e7cf4-b329-48e7-9f2a-d58312f8e949",
+        "date_posted": 1794787200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794856100,
+        "url": "https://go.vansh.nyc/1An",
+        "locations": [
+            "Lawrenceville, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "M3 USA",
+        "title": "Quality Engineering Intern, SDET",
+        "source": "vanshb03",
+        "id": "33535b98-a14b-40ef-868c-da6c3afc1df2",
+        "date_posted": 1794850696,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
