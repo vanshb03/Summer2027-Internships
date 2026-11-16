@@ -60235,13 +60235,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794357325,
+        "date_updated": 1794847149,
         "url": "https://go.vansh.nyc/1sw",
         "locations": [
             "Cary, NC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "JMP Statistical Discovery",
         "title": "Software Development Intern, C++",
         "source": "vanshb03",
