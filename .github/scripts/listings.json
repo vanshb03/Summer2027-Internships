@@ -66772,5 +66772,39 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1794870451,
+        "url": "https://go.vansh.nyc/1Aw",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Schonfeld",
+        "title": "Platform Engineering Intern",
+        "source": "vanshb03",
+        "id": "b0d26fff-1ce0-4295-bb72-a186bebfb770",
+        "date_posted": 1794856517,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794870451,
+        "url": "https://go.vansh.nyc/1Ax",
+        "locations": [
+            "State College, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Minitab",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "e8030d7e-1176-42f4-9d09-521540aceb7a",
+        "date_posted": 1794866544,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
