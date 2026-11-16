@@ -66356,5 +66356,40 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1794791312,
+        "url": "https://go.vansh.nyc/1A1",
+        "locations": [
+            "Chicago, IL",
+            "Brookfield, WI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Milliman",
+        "title": "AI Product Engineer Intern, CMH Health",
+        "source": "vanshb03",
+        "id": "40e4cb4f-2533-4fba-a815-6a7700429413",
+        "date_posted": 1794791244,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1794791312,
+        "url": "https://go.vansh.nyc/1A2",
+        "locations": [
+            "Brookfield, WI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Milliman",
+        "title": "Data Analytics Intern, IntelliScript",
+        "source": "vanshb03",
+        "id": "554f7356-3bfa-4760-859f-c78e248cb90d",
+        "date_posted": 1794791244,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
