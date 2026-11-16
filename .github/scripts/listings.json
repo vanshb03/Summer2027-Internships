@@ -24498,13 +24498,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793016276,
+        "date_updated": 1794852559,
         "url": "https://go.vansh.nyc/Hg",
         "locations": [
             "Downers Grove, IL"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Sentinel Technologies",
         "title": "SOC Intern",
         "source": "vanshb03",
@@ -30585,13 +30585,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1793031368,
+        "date_updated": 1794852559,
         "url": "https://go.vansh.nyc/R8",
         "locations": [
             "Laurel, MD"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Johns Hopkins Applied Physics Laboratory",
         "title": "Cyber Security Intern, Cyber Dominance",
         "source": "vanshb03",
@@ -33423,14 +33423,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793119022,
+        "date_updated": 1794852559,
         "url": "https://go.vansh.nyc/VT",
         "locations": [
             "Remote",
             "United States"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Galaxy",
         "title": "Cybersecurity Intern",
         "source": "vanshb03",
@@ -66582,6 +66582,40 @@
         "source": "vanshb03",
         "id": "c357a743-d4c1-4258-afd4-9cd5c44a9fd5",
         "date_posted": 1794848770,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794852484,
+        "url": "https://go.vansh.nyc/1Ag",
+        "locations": [
+            "Miami, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Carnival Corporation",
+        "title": "Data & AI Solutions Intern",
+        "source": "vanshb03",
+        "id": "7ba8d602-7df0-4e1a-b1aa-d3a69e1d9365",
+        "date_posted": 1794787200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794852484,
+        "url": "https://go.vansh.nyc/1Ah",
+        "locations": [
+            "Miami, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Carnival Corporation",
+        "title": "Revenue Data Science Intern",
+        "source": "vanshb03",
+        "id": "4ff7c703-a377-40cf-a4ac-d75893b1c3f4",
+        "date_posted": 1794787200,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
