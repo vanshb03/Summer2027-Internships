@@ -3310,13 +3310,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1783638501,
+        "date_updated": 1794865136,
         "url": "https://go.vansh.nyc/3l",
         "locations": [
             "Chicago, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Jump Trading",
         "title": "Software Engineer Intern",
         "season": "Summer",
@@ -30551,13 +30551,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793031368,
+        "date_updated": 1794865136,
         "url": "https://go.vansh.nyc/R6",
         "locations": [
             "Laurel, MD"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Johns Hopkins Applied Physics Laboratory",
         "title": "Cybersecurity Engineer/Mathematician Intern, Constrained Cyber Solutions",
         "source": "vanshb03",
@@ -30722,14 +30722,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793031368,
+        "date_updated": 1794865136,
         "url": "https://go.vansh.nyc/Rg",
         "locations": [
             "Austin, TX",
             "Raleigh, NC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Keysight Technologies",
         "title": "Engineering Software Developer Intern",
         "source": "vanshb03",
@@ -31944,13 +31944,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793034380,
+        "date_updated": 1794865136,
         "url": "https://go.vansh.nyc/SL",
         "locations": [
             "Irvine, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Trace3",
         "title": "Innovation Research & Development Lab Intern",
         "source": "vanshb03",
@@ -60167,13 +60167,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1794353755,
+        "date_updated": 1794865136,
         "url": "https://go.vansh.nyc/1sn",
         "locations": [
             "Bethpage, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Altice USA",
         "title": "Operations Data Analyst Intern",
         "source": "vanshb03",
