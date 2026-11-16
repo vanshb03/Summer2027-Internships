@@ -159,7 +159,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Aerospace Corporation | Intern Bachelors Embedded Eng | Kanata, Canada | <a href="https://go.vansh.nyc/1hl?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | Zimmer Biomet Holdings | Software Developer Co-op | Montreal, Canada | <a href="https://go.vansh.nyc/1bk?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | Viavi Solutions | Software Engineering Co-op | Germantown, MD | <a href="https://go.vansh.nyc/1c8?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
-| Toshiba Global Commerce Solutions | AI Automation & Revenue Ops Intern | Durham, NC | <a href="https://go.vansh.nyc/1bn?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | Toshiba Commerce Solutions | AI Data Science & Business Analytics Intern | Durham, NC | <a href="https://go.vansh.nyc/19U?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | Tesla | Commercial UI Software Engineer Intern, Energy Engineering | Palo Alto, CA | <a href="https://go.vansh.nyc/1b5?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | ↳ | Software Engineer Intern, Vehicle UI Development | Palo Alto, CA | <a href="https://go.vansh.nyc/1b6?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
@@ -565,6 +564,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Moderna | mRNA Design Engineering Co-op 🛂 | Cambridge, MA | 🔒 | Nov 03 |
 | Hearst | Editorial AI Development Intern | San Francisco, CA | 🔒 | Nov 03 |
 | Transamerica | Data Analytics Intern | Cedar Rapids, IA | 🔒 | Nov 02 |
+| Toshiba Global Commerce Solutions | AI Automation & Revenue Ops Intern | Durham, NC | 🔒 | Nov 02 |
 | Toshiba Commerce Solutions | Agentic Software Engineering Intern | Durham, NC | 🔒 | Nov 02 |
 | ↳ | Agentic Software Engineering Intern | Frisco, TX | 🔒 | Nov 02 |
 | ↳ | Software Engineering Intern | Durham, NC | 🔒 | Nov 02 |
