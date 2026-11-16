@@ -60410,13 +60410,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1794359302,
+        "date_updated": 1794854540,
         "url": "https://go.vansh.nyc/1sG",
         "locations": [
             "Bethpage, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Optimum (Altice USA)",
         "title": "Cloud Platform Engineering Intern",
         "source": "vanshb03",
@@ -66616,6 +66616,40 @@
         "source": "vanshb03",
         "id": "4ff7c703-a377-40cf-a4ac-d75893b1c3f4",
         "date_posted": 1794787200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794854171,
+        "url": "https://go.vansh.nyc/1Ai",
+        "locations": [
+            "Universal City, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NBCUniversal",
+        "title": "Digital Transformation AR/VR Intern",
+        "source": "vanshb03",
+        "id": "3ebfc592-4229-450e-953e-55666997ec81",
+        "date_posted": 1794851171,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794854299,
+        "url": "https://go.vansh.nyc/1Aj",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Schonfeld",
+        "title": "Cybersecurity Operations Intern",
+        "source": "vanshb03",
+        "id": "ef932a9f-ae9f-4d01-8ba1-1d07eb00dc09",
+        "date_posted": 1794849477,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
