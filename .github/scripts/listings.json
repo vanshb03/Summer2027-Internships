@@ -66738,5 +66738,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1794866752,
+        "url": "https://go.vansh.nyc/1Au",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Toyota Research Institute",
+        "title": "Robotics Intern, World Models, Multimodal Sensing",
+        "source": "vanshb03",
+        "id": "2b27e927-d0e6-46cd-bbcd-e7a96f7c3aa8",
+        "date_posted": 1794864592,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
