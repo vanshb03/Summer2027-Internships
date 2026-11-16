@@ -21483,13 +21483,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793015500,
+        "date_updated": 1794863634,
         "url": "https://go.vansh.nyc/Es",
         "locations": [
             "Rochester, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Mindex",
         "title": "Software Engineer Co-op",
         "source": "vanshb03",
@@ -40932,13 +40932,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1793525990,
+        "date_updated": 1794863634,
         "url": "https://go.vansh.nyc/15J",
         "locations": [
             "Bristol, PA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "L3Harris Technologies",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
