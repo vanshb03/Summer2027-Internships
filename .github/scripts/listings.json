@@ -27566,14 +27566,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793023513,
+        "date_updated": 1794848941,
         "url": "https://go.vansh.nyc/Mm",
         "locations": [
             "Boston, MA",
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Datadog",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -29314,14 +29314,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793027048,
+        "date_updated": 1794848941,
         "url": "https://go.vansh.nyc/PW",
         "locations": [
             "Remote",
             "United States"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Cadence Solutions",
         "title": "Product Management Intern",
         "source": "vanshb03",
@@ -64847,13 +64847,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794530138,
+        "date_updated": 1794848941,
         "url": "https://go.vansh.nyc/1yf",
         "locations": [
             "Washington, DC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Atalanta",
         "title": "Forward Deployed Engineer Intern",
         "source": "vanshb03",
@@ -66565,6 +66565,23 @@
         "source": "vanshb03",
         "id": "397624bf-a30b-498e-af65-5224c2462f24",
         "date_posted": 1794843089,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794848886,
+        "url": "https://go.vansh.nyc/1Af",
+        "locations": [
+            "Washington, DC"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "i3",
+        "title": "Embedded Systems Reverse Engineer Intern",
+        "source": "vanshb03",
+        "id": "c357a743-d4c1-4258-afd4-9cd5c44a9fd5",
+        "date_posted": 1794848770,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
