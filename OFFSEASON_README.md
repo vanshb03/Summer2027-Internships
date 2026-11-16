@@ -431,7 +431,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Lumentum | Embedded Software Developer Co-op, Optical Circuit Switch | Ottawa, Canada | <a href="https://go.vansh.nyc/EB?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 04 |
 | First Solar (US) | Software Engineer Intern | Perrysburg, OH | <a href="https://go.vansh.nyc/Vk?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 04 |
 | xAI | Software Engineering Co-op | Palo Alto, CA | <a href="https://go.vansh.nyc/1nP?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 02 |
-| Mindex | Software Engineer Co-op | Rochester, NY | <a href="https://go.vansh.nyc/Es?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 02 |
 | Stripe | Data Analyst Intern | Toronto, Canada | <a href="https://go.vansh.nyc/1nJ?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 01 |
 | Stand Together | Analytics Intern | Chicago, IL | <a href="https://go.vansh.nyc/1t9?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 01 |
 | Marvell | Firmware Engineer Intern | Ottawa, Canada | <a href="https://go.vansh.nyc/Ej?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 01 |
@@ -733,6 +732,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Semtech | Software Developer Co-op, Web/Cloud Application | Richmond, Canada | 🔒 | Oct 04 |
 | Revvity | Software Integration Co-op | Akron, OH | 🔒 | Oct 02 |
 | Regeneron Pharmaceuticals | Data Science & Computational Biology Co-op, Research | Tarrytown, NY | 🔒 | Oct 02 |
+| Mindex | Software Engineer Co-op | Rochester, NY | 🔒 | Oct 02 |
 | Regeneron Pharmaceuticals | Data Science & Digital Innovation Co-op, Preclinical Manufacturing & Research IT | Tarrytown, NY | 🔒 | Oct 01 |
 | Cisco | Software Engineer II Co-op | Maynard, MA | 🔒 | Sep 30 |
 | ↳ | Software Engineer I Co-op | Maynard, MA | 🔒 | Sep 30 |
