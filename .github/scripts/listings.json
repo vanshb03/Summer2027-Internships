@@ -44883,13 +44883,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793662810,
+        "date_updated": 1794857918,
         "url": "https://go.vansh.nyc/1bn",
         "locations": [
             "Durham, NC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Toshiba Global Commerce Solutions",
         "title": "AI Automation & Revenue Ops Intern",
         "source": "vanshb03",
@@ -49304,7 +49304,7 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793772517,
+        "date_updated": 1794857918,
         "url": "https://go.vansh.nyc/1g4",
         "locations": [
             "San Leandro, CA",
@@ -49312,7 +49312,7 @@
             "Los Lunas, NM"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Pacific Fusion",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
