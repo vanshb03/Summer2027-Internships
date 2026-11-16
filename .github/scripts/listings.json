@@ -39087,13 +39087,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793491587,
+        "date_updated": 1794843571,
         "url": "https://go.vansh.nyc/12R",
         "locations": [
             "West Des Moines, IA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Farmers Mutual Hail",
         "title": "Software Developer Intern",
         "source": "vanshb03",
@@ -66490,6 +66490,23 @@
         "source": "vanshb03",
         "id": "8080d917-f0c8-4c25-b625-9f1bcb6357bf",
         "date_posted": 1794787200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794843379,
+        "url": "https://go.vansh.nyc/1Aa",
+        "locations": [
+            "Marlborough, MA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Boston Scientific",
+        "title": "AI Acceleration Intern",
+        "source": "vanshb03",
+        "id": "69622ab8-4905-4a8f-a660-893d3001338e",
+        "date_posted": 1794839779,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
