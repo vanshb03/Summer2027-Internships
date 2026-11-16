@@ -66425,5 +66425,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1794827145,
+        "url": "https://go.vansh.nyc/1A6",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Octaura",
+        "title": "Data Engineer Intern",
+        "source": "vanshb03",
+        "id": "f09a3fbd-19b1-4959-8046-c369341f2772",
+        "date_posted": 1794825228,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
