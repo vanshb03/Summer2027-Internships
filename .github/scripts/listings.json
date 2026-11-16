@@ -9955,13 +9955,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1792261427,
+        "date_updated": 1794868738,
         "url": "https://go.vansh.nyc/9x",
         "locations": [
             "Vancouver, BC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Later",
         "title": "Data Science Co-op",
         "source": "vanshb03",
@@ -66444,13 +66444,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794839890,
+        "date_updated": 1794868738,
         "url": "https://go.vansh.nyc/1A7",
         "locations": [
             "Bethpage, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Optimum (Altice USA)",
         "title": "Software Developer Intern",
         "source": "vanshb03",
@@ -66752,6 +66752,23 @@
         "source": "vanshb03",
         "id": "2b27e927-d0e6-46cd-bbcd-e7a96f7c3aa8",
         "date_posted": 1794864592,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794868661,
+        "url": "https://go.vansh.nyc/1Av",
+        "locations": [
+            "Miami, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Carnival Corporation",
+        "title": "Data Analytics Intern",
+        "source": "vanshb03",
+        "id": "5f8bef2b-01b0-4b52-90ef-10e4144e0360",
+        "date_posted": 1794787200,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
