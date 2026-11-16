@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Octaura | Data Engineer Intern | New York, NY | <a href="https://go.vansh.nyc/1A6?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
 | RTX | Software Engineering Intern 🇺🇸 | El Segundo, CA | <a href="https://go.vansh.nyc/1A3?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 15 |
 | Rodriguez Services | Software Engineer Intern | San Francisco, CA | <a href="https://go.vansh.nyc/1zS?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 15 |
 | Milliman | Data Analytics Intern, IntelliScript | Brookfield, WI | <a href="https://go.vansh.nyc/1A2?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 15 |
