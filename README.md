@@ -1522,6 +1522,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Manitowoc | Cybersecurity Intern | Shady Grove, PA | <a href="https://go.vansh.nyc/Vt?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 05 |
 | Keysight Technologies | R&D Software Engineer Intern | Colorado Springs, CO | <a href="https://go.vansh.nyc/F9?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 05 |
 | Juniper Networks | Infrastructure Deployment Automation Intern | Bloomington, MN | <a href="https://go.vansh.nyc/H6?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 05 |
+| Hudson River Trading | Data Scientist Intern | New York, NY | <a href="https://go.vansh.nyc/1A5?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 05 |
 | Hewlett Packard Enterprise | Hardware Engineer Intern | Sunnyvale, CA | <a href="https://go.vansh.nyc/1nA?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 05 |
 | General Dynamics Mission Systems | Software Engineer Intern, CWL | Manassas, VA | <a href="https://go.vansh.nyc/1nV?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 05 |
 | F5 | Software Development Engineer Intern | Seattle, WA | <a href="https://go.vansh.nyc/F0?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 05 |
