@@ -23059,13 +23059,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793015500,
+        "date_updated": 1794838148,
         "url": "https://go.vansh.nyc/FV",
         "locations": [
             "Olathe, KS"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Garmin",
         "title": "FPGA Engineer Intern",
         "source": "vanshb03",
