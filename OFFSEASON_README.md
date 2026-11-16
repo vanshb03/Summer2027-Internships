@@ -43,6 +43,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Optimum (Altice USA) | Software Developer Intern | Bethpage, NY | <a href="https://go.vansh.nyc/1A7?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
 | Milliman | AI Product Engineer Intern, CMH Health | Chicago, IL</br>Brookfield, WI | <a href="https://go.vansh.nyc/1A1?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 15 |
 | Optimum (Altice USA) | Cybersecurity Operations Intern | Bethpage, NY | <a href="https://go.vansh.nyc/1zM?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | SSI ShipConstructor | Software Developer Co-op | Victoria, Canada | <a href="https://go.vansh.nyc/1zJ?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
