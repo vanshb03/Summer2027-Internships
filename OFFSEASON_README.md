@@ -124,8 +124,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | TechInsights | Software Development Co-op | Ottawa, Canada | <a href="https://go.vansh.nyc/1ie?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | ↳ | QA Test Automation Co-op | Ottawa, Canada | <a href="https://go.vansh.nyc/1if?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | Stellar Science | Scientific Software Developer Co-op | Albuquerque, NM | <a href="https://go.vansh.nyc/1id?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
-| Rodan Energy Solutions Inc. | Data Operations Engineer AI Co-op | Mississauga, Canada | <a href="https://go.vansh.nyc/1ib?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
-| ↳ | AI Solutions Specialist Co-op | Mississauga, Canada | <a href="https://go.vansh.nyc/1ic?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
+| Rodan Energy Solutions Inc. | AI Solutions Specialist Co-op | Mississauga, Canada | <a href="https://go.vansh.nyc/1ic?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | Omya | Data Scientist Co-op | Cincinnati, OH | <a href="https://go.vansh.nyc/1iz?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | Nelnet | Platform Engineer Intern | Mississauga, Canada | <a href="https://go.vansh.nyc/1iO?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | Montgomery Investment Technology, Inc. | Computer Programming Intern | Cinnaminson, NJ | <a href="https://go.vansh.nyc/1i3?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
@@ -557,6 +556,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | DevOps Co-op | Canada | 🔒 | Nov 06 |
 | Valley Children's Specialty Medical Group | IT Security Intern | Madera, CA | 🔒 | Nov 05 |
 | TD Bank | Software Engineer Co-op | Toronto, Canada</br>Mississauga, Canada</br>London, Canada | 🔒 | Nov 05 |
+| Rodan Energy Solutions Inc. | Data Operations Engineer AI Co-op | Mississauga, Canada | 🔒 | Nov 05 |
 | Nova-Tech | Software Development Co-op | Willmar, MN | 🔒 | Nov 05 |
 | Fresenius Medical Care | Embedded Software Co-op | Lawrence, MA | 🔒 | Nov 05 |
 | TMX Group | Security Engineering Intern | Toronto, Canada | 🔒 | Nov 04 |
