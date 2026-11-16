@@ -1393,7 +1393,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Wing | Data Infrastructure Software Engineering Intern | Palo Alto, CA | <a href="https://go.vansh.nyc/1tD?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 12 |
 | ↳ | Route Planning Software Engineering Intern | Palo Alto, CA | <a href="https://go.vansh.nyc/1tE?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 12 |
 | ↳ | Execution & Topology Software Engineering Intern | Palo Alto, CA | <a href="https://go.vansh.nyc/1tF?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 12 |
-| ↳ | Manufacturing Software Test Intern | Palo Alto, CA | <a href="https://go.vansh.nyc/1tG?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 12 |
 | Unity | Machine Learning Engineer Intern | Mountain View, CA | <a href="https://go.vansh.nyc/C5?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 12 |
 | UL Solutions | Cyber Security Intern | Northbrook, IL | <a href="https://go.vansh.nyc/CU?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 12 |
 | Schweitzer Engineering Laboratories | Software Engineer Intern | Spokane Valley, WA | <a href="https://go.vansh.nyc/C7?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 12 |
@@ -1617,7 +1616,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | LG AI Research | AI Scientist/Engineer Intern | Ann Arbor, MI | <a href="https://go.vansh.nyc/1q2?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 28 |
 | L3Harris Technologies | Software Engineer Intern | Clinton, MD</br>Clifton, NJ | <a href="https://go.vansh.nyc/DP?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 28 |
 | Hermeus | Flight Software Engineering Intern, Simulation/Hardware-In-The-Loop | Los Angeles, CA | <a href="https://go.vansh.nyc/fR?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 28 |
-| Constellation Energy | Quantitative Analytics & Data Science Intern | Baltimore, MD | <a href="https://go.vansh.nyc/DR?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 28 |
 | CACI | Software Engineer Intern | Omaha, NE | <a href="https://go.vansh.nyc/1o1?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 28 |
 | Bedrock Robotics | Simulation Engineer Intern, Neural Rendering | San Francisco, CA | <a href="https://go.vansh.nyc/1eO?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 28 |
 | Voyager Technologies | Software Engineering Intern 🇺🇸 | Long Beach, CA | <a href="https://go.vansh.nyc/fP?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 27 |
@@ -2691,6 +2689,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | CoStar Group | Product Intern | Richmond, VA | 🔒 | Oct 13 |
 | CIBC | Analyst Intern, Equity Solutions Group | New York, NY | 🔒 | Oct 13 |
 | ↳ | Analyst Intern, Equity Solutions Group | New York, NY | 🔒 | Oct 13 |
+| Wing | Manufacturing Software Test Intern | Palo Alto, CA | 🔒 | Oct 12 |
 | Versant3 | Technology, Product, Design & Engineering Intern 🛂 | North Hollywood, CA | 🔒 | Oct 12 |
 | Tencent | Data Science Intern | Palo Alto, CA | 🔒 | Oct 12 |
 | Rolls-Royce | Integrated Control Systems Engineer Intern, Software | Indianapolis, IN | 🔒 | Oct 12 |
@@ -2767,6 +2766,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Itron | Artificial Intelligence Intern | Liberty Lake, WA</br>Raleigh, NC</br>Austin, TX | 🔒 | Sep 29 |
 | Enova | Software Engineer Intern | Chicago, IL | 🔒 | Sep 29 |
 | DraftKings | Analytics Intern | Boston, MA | 🔒 | Sep 29 |
+| Constellation Energy | Quantitative Analytics & Data Science Intern | Baltimore, MD | 🔒 | Sep 28 |
 | H&R Block | Software Engineering Intern, Embark | Kansas City, MO | 🔒 | Sep 27 |
 | Western National Insurance | Data Engineering Intern, Data & Integrations | Edina, MN | 🔒 | Sep 25 |
 | Johns Hopkins Applied Physics Laboratory | Space Exploration Software Engineer Intern, Embedded Applications | Laurel, MD | 🔒 | Sep 25 |
