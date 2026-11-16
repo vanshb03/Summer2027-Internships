@@ -8764,13 +8764,13 @@
         "season": "Spring"
     },
     {
-        "date_updated": 1792261427,
+        "date_updated": 1794872954,
         "url": "https://go.vansh.nyc/8p",
         "locations": [
             "Carmel, IN"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Allegion",
         "title": "Software Operations Engineer Intern",
         "source": "vanshb03",
@@ -66803,6 +66803,40 @@
         "source": "vanshb03",
         "id": "e8030d7e-1176-42f4-9d09-521540aceb7a",
         "date_posted": 1794866544,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794872118,
+        "url": "https://go.vansh.nyc/1Ay",
+        "locations": [
+            "Redondo Beach, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Impulse Space",
+        "title": "Digital Design Engineering Intern, FPGA/ASIC",
+        "source": "vanshb03",
+        "id": "f41d8dd6-cac2-4952-9aa7-aae48195d306",
+        "date_posted": 1794851349,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794872781,
+        "url": "https://go.vansh.nyc/1Az",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Carnegie Mellon University",
+        "title": "AI Engineer Intern, Mission Innovation Lab",
+        "source": "vanshb03",
+        "id": "d72cc05f-a871-4cb0-abe1-0dd7678d4622",
+        "date_posted": 1794872627,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
