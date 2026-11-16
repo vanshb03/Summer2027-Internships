@@ -66408,5 +66408,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1794819934,
+        "url": "https://go.vansh.nyc/1A5",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hudson River Trading",
+        "title": "Data Scientist Intern",
+        "source": "vanshb03",
+        "id": "64a73297-abf8-4c26-bd5a-cefc45778dfe",
+        "date_posted": 1791239757,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
