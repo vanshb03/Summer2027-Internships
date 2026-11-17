@@ -59655,13 +59655,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794335922,
+        "date_updated": 1794899765,
         "url": "https://go.vansh.nyc/1rK",
         "locations": [
             "Greenwood Village, CO"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Invitation-charter",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
