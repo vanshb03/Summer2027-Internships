@@ -67045,5 +67045,73 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1794884721,
+        "url": "https://go.vansh.nyc/1AQ",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "HexArmor",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "c0ba5f25-2c66-495e-9477-428d247f55b8",
+        "date_posted": 1794875463,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794884732,
+        "url": "https://go.vansh.nyc/1AR",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Soros Fund Management",
+        "title": "Trading Intern, Middle and Back Office Dev",
+        "source": "vanshb03",
+        "id": "b41f4af2-96fc-469e-ac7e-d7fcc8ae8951",
+        "date_posted": 1794581212,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794885201,
+        "url": "https://go.vansh.nyc/1AS",
+        "locations": [
+            "Berkeley Heights, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Fiserv",
+        "title": "Technology Intern, Cybersecurity",
+        "source": "vanshb03",
+        "id": "731c7c5c-c589-4834-a3a5-0a6814c1606b",
+        "date_posted": 1794885048,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794885201,
+        "url": "https://go.vansh.nyc/1AT",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Fiserv",
+        "title": "Technology Intern, Cybersecurity",
+        "source": "vanshb03",
+        "id": "b3d54753-bb12-40d4-a2a7-c971fc8ea37e",
+        "date_posted": 1794885048,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
