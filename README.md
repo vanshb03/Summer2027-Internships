@@ -60,6 +60,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | National Interstate Insurance | Predictive Analytics Intern 🛂 | Cincinnati, OH | <a href="https://go.vansh.nyc/1AE?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
 | Minitab | Software Engineering Intern | State College, PA | <a href="https://go.vansh.nyc/1Ax?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
 | M3 USA | Quality Engineering Intern, SDET | Lawrenceville, GA | <a href="https://go.vansh.nyc/1An?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
+| KLA | Firmware Intern | Milpitas, CA | <a href="https://go.vansh.nyc/1AJ?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
 | Integration Innovation (i3) | Embedded Systems Reverse Engineer Intern | Washington, DC | <a href="https://go.vansh.nyc/1AB?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
 | Impulse Space | Digital Design Engineering Intern, FPGA/ASIC | Redondo Beach, CA | <a href="https://go.vansh.nyc/1Ay?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
 | i3 | Embedded Systems Reverse Engineer Intern 🇺🇸 | Washington, DC | <a href="https://go.vansh.nyc/1Af?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
