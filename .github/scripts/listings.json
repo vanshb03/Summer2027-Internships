@@ -25242,13 +25242,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793021626,
+        "date_updated": 1794921256,
         "url": "https://go.vansh.nyc/IX",
         "locations": [
             "Austin, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "GE Aerospace",
         "title": "Data Science Co-op, Flight Analytics Platform",
         "source": "vanshb03",
