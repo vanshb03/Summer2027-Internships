@@ -11722,7 +11722,7 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1792442313,
+        "date_updated": 1794882070,
         "url": "https://go.vansh.nyc/bc",
         "locations": [
             "London, UK",
@@ -11731,7 +11731,7 @@
             "Singapore"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Graviton",
         "title": "Quantitative Researcher Intern",
         "source": "vanshb03",
@@ -66991,6 +66991,57 @@
         "source": "vanshb03",
         "id": "2e6bfec5-b326-4297-88a1-578881cbe2e6",
         "date_posted": 1794877833,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794881120,
+        "url": "https://go.vansh.nyc/1AN",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Clera",
+        "title": "Full-Stack Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "e2dc806c-8758-41d2-a9b0-52583092a496",
+        "date_posted": 1794873600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794881120,
+        "url": "https://go.vansh.nyc/1AO",
+        "locations": [
+            "Fort Belvoir, VA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Leidos",
+        "title": "Cybersecurity Intern",
+        "source": "vanshb03",
+        "id": "60e4bcff-5bdb-4211-b68b-82bbe00e02dd",
+        "date_posted": 1794873600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794881473,
+        "url": "https://go.vansh.nyc/1AP",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lumentum",
+        "title": "Data Science & Analytics Intern",
+        "source": "vanshb03",
+        "id": "bb98c739-ed12-4b60-9ccf-86916dcdd597",
+        "date_posted": 1794880753,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
