@@ -60654,13 +60654,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794375106,
+        "date_updated": 1794926700,
         "url": "https://go.vansh.nyc/1sY",
         "locations": [
             "Indianapolis, IN"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "V2X",
         "title": "Artificial Intelligence Intern",
         "source": "vanshb03",
@@ -67365,6 +67365,23 @@
         "source": "vanshb03",
         "id": "6dfb261e-b4bb-40b0-80e9-06777f88247f",
         "date_posted": 1794917438,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794926488,
+        "url": "https://go.vansh.nyc/1Bf",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "Software Development Engineer Intern, Artificial General Intelligence",
+        "source": "vanshb03",
+        "id": "5f48f5fa-99cf-41f8-a755-c038a1debc45",
+        "date_posted": 1794873600,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
