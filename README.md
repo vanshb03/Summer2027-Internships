@@ -1046,7 +1046,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Cisive | Software Developer Intern | Remote</br>United States | <a href="https://go.vansh.nyc/SB?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
 | Cadence | CST Application Engineer Intern, Silicon | San Jose, CA | <a href="https://go.vansh.nyc/Sz?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
 | Assurant | AI and Data Science Intern | Atlanta, GA | <a href="https://go.vansh.nyc/WN?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
-| Amazon Development Center U.S., Inc. - B02 | Database Engineer Intern | Seattle, WA | <a href="https://go.vansh.nyc/Wb?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
 | 42dot | Foundation Models Intern | San Francisco, CA</br>Sunnyvale, CA | <a href="https://go.vansh.nyc/WM?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
 | Skydio | Autonomy Engineer Intern | San Mateo, CA | <a href="https://go.vansh.nyc/BH?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 25 |
 | ↳ | Process Engineering Intern | San Mateo, CA | <a href="https://go.vansh.nyc/BC?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 25 |
@@ -2459,6 +2458,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Cyber Security Intern 🇺🇸 | Lexington, MA | 🔒 | Oct 26 |
 | ↳ | Systems Engineer Intern, Games | Albuquerque, NM | 🔒 | Oct 26 |
 | Apple | Software Engineer Intern, Core OS | United States | 🔒 | Oct 26 |
+| Amazon Development Center U.S., Inc. - B02 | Database Engineer Intern | Seattle, WA | 🔒 | Oct 26 |
 | Altera | Undergrad Technical Intern | Toronto, Canada | 🔒 | Oct 26 |
 | AbbVie | Cybersecurity Intern, Business Technology Solutions | North Chicago, IL | 🔒 | Oct 26 |
 | Royal Bank of Canada | Data Engineer Intern | Calgary, Canada | 🔒 | Oct 25 |
