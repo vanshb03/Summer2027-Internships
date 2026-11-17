@@ -67351,5 +67351,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1794917529,
+        "url": "https://go.vansh.nyc/1Be",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Sedaro",
+        "title": "DevOps Intern",
+        "source": "vanshb03",
+        "id": "6dfb261e-b4bb-40b0-80e9-06777f88247f",
+        "date_posted": 1794917438,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
