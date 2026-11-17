@@ -49680,13 +49680,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793806530,
+        "date_updated": 1794950270,
         "url": "https://go.vansh.nyc/1gA",
         "locations": [
             "Nashville, TN"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "L3Harris Technologies",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -67556,5 +67556,73 @@
         "company_url": "",
         "is_visible": true,
         "season": "Spring"
+    },
+    {
+        "date_updated": 1794949865,
+        "url": "https://go.vansh.nyc/1Br",
+        "locations": [
+            "South San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Warp Sciences",
+        "title": "Member of Technical Staff Intern, Robotics Learning",
+        "source": "vanshb03",
+        "id": "1ef120b2-2e11-4f07-993a-51d723011efa",
+        "date_posted": 1794940066,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794949865,
+        "url": "https://go.vansh.nyc/1Bs",
+        "locations": [
+            "Chanhassen, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Garmin",
+        "title": "Software Engineer Intern, Real Time Aviation Data",
+        "source": "vanshb03",
+        "id": "123c5545-024f-43f4-ad4b-caedd02cfb62",
+        "date_posted": 1794949724,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794949865,
+        "url": "https://go.vansh.nyc/1Bt",
+        "locations": [
+            "Markham, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Qualcomm",
+        "title": "AI/Machine Learning Intern",
+        "source": "vanshb03",
+        "id": "3b433358-9858-4aef-a78d-e1ea00e5ff32",
+        "date_posted": 1794949724,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794950063,
+        "url": "https://go.vansh.nyc/1Bu",
+        "locations": [
+            "Quincy, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "State Street",
+        "title": "Full Stack Development Intern",
+        "source": "vanshb03",
+        "id": "8323bbef-7b2b-45f1-a3ea-52491eeea0a4",
+        "date_posted": 1794949897,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
