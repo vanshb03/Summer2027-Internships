@@ -53,6 +53,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Software Engineer Intern | Arlington, VA | <a href="https://go.vansh.nyc/1Bb?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | Qualcomm | AI/Machine Learning Intern | Markham, Canada | <a href="https://go.vansh.nyc/1Bt?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | Prometheus Group | Web Development Intern | Raleigh, NC | <a href="https://go.vansh.nyc/1Bh?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
+| Lumentum | SW Developer Support Intern, Program Management Office | San Jose, CA | <a href="https://go.vansh.nyc/1BA?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | Garmin | Software Engineer Intern, Real Time Aviation Data | Chanhassen, MN | <a href="https://go.vansh.nyc/1Bs?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | Birdseye Security Solutions | AI Systems Intern | Dallas, TX | <a href="https://go.vansh.nyc/1B7?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | ↳ | Computer Vision Intern | Dallas, TX | <a href="https://go.vansh.nyc/1B8?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
@@ -89,6 +90,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Constellation Brands | Data and AI Enablement Intern | Rochester, NY</br>Chicago, IL | <a href="https://go.vansh.nyc/1Bp?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
 | Clera | Full-Stack Software Engineering Intern | New York, NY | <a href="https://go.vansh.nyc/1AN?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
 | Carnegie Mellon University | AI Engineer Intern, Mission Innovation Lab 🛂 | Pittsburgh, PA | <a href="https://go.vansh.nyc/1Az?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
+| Bread Financial | Software Engineering Intern | <details><summary>**5 locations**</summary>Columbus, OH</br>Chadds Ford, PA</br>Frisco, TX</br>Draper, UT</br>Wilmington, DE</details> | <a href="https://go.vansh.nyc/1Bz?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
 | Boston Scientific | AI Acceleration Intern 🛂 | Marlborough, MA | <a href="https://go.vansh.nyc/1Aa?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
 | ↳ | AI Engineering Intern, Generative and Agentic AI 🛂 | Marlborough, MA | <a href="https://go.vansh.nyc/1A8?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
 | Bloomberg Industry Group | Data Analyst Intern | Arlington, VA | <a href="https://go.vansh.nyc/1AF?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
