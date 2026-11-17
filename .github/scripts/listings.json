@@ -22602,14 +22602,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793015500,
+        "date_updated": 1794874603,
         "url": "https://go.vansh.nyc/Fv",
         "locations": [
             "Remote",
             "United States"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Cadence Solutions",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -31496,13 +31496,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793033120,
+        "date_updated": 1794874603,
         "url": "https://go.vansh.nyc/Sk",
         "locations": [
             "South San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Zipline",
         "title": "Software Systems Validation Intern",
         "source": "vanshb03",
@@ -31683,13 +31683,13 @@
         "season": "Spring"
     },
     {
-        "date_updated": 1793033120,
+        "date_updated": 1794874603,
         "url": "https://go.vansh.nyc/Sv",
         "locations": [
             "South San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Zipline",
         "title": "System Test Automation Intern",
         "source": "vanshb03",
@@ -66837,6 +66837,109 @@
         "source": "vanshb03",
         "id": "d72cc05f-a871-4cb0-abe1-0dd7678d4622",
         "date_posted": 1794872627,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794873921,
+        "url": "https://go.vansh.nyc/1AA",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Reliable Robotics Corporation",
+        "title": "Displays Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "14201ef9-6077-4234-b364-85f879ef6623",
+        "date_posted": 1794787200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794873921,
+        "url": "https://go.vansh.nyc/1AB",
+        "locations": [
+            "Washington, DC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Integration Innovation (i3)",
+        "title": "Embedded Systems Reverse Engineer Intern",
+        "source": "vanshb03",
+        "id": "e3851a8d-6503-4747-8509-7cbda29f5e22",
+        "date_posted": 1794842040,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794873921,
+        "url": "https://go.vansh.nyc/1AC",
+        "locations": [
+            "Santa Clara, CA",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ServiceNow",
+        "title": "Associate Forward Deployed Solution Engineer Intern",
+        "source": "vanshb03",
+        "id": "174cf41e-e150-4ae2-96cc-0581f93659fb",
+        "date_posted": 1794872241,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794873921,
+        "url": "https://go.vansh.nyc/1AD",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zurich Insurance",
+        "title": "Data Analytics & AI Intern",
+        "source": "vanshb03",
+        "id": "00d0c9ec-4a4a-4dd8-82af-39e3fb72d376",
+        "date_posted": 1794872939,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794874257,
+        "url": "https://go.vansh.nyc/1AE",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "National Interstate Insurance",
+        "title": "Predictive Analytics Intern",
+        "source": "vanshb03",
+        "id": "5aebdf41-da06-4464-baec-f2be59d3ef75",
+        "date_posted": 1794872217,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794874257,
+        "url": "https://go.vansh.nyc/1AF",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bloomberg Industry Group",
+        "title": "Data Analyst Intern",
+        "source": "vanshb03",
+        "id": "4063d879-6580-4007-a733-5927487c156a",
+        "date_posted": 1794872217,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
