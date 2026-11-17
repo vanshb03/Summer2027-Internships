@@ -67283,5 +67283,73 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1794913556,
+        "url": "https://go.vansh.nyc/1Ba",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Sedaro",
+        "title": "Compiler Intern, Simulator",
+        "source": "vanshb03",
+        "id": "3155084f-44de-4fc9-9c7b-96b39e4cfd76",
+        "date_posted": 1794910061,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794913556,
+        "url": "https://go.vansh.nyc/1Bb",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Sedaro",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "2ecf34b9-c814-4880-b49d-88d701a08804",
+        "date_posted": 1794910061,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794913836,
+        "url": "https://go.vansh.nyc/1Bc",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "GlobalFoundries",
+        "title": "Tapeout Engineering Business Products & Engineering Intern",
+        "source": "vanshb03",
+        "id": "b597f00e-3144-467a-a58f-517af70f4dbb",
+        "date_posted": 1794885036,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794914018,
+        "url": "https://go.vansh.nyc/1Bd",
+        "locations": [
+            "Ottawa, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Q-Block Computing",
+        "title": "Embedded Systems Developer Intern",
+        "source": "vanshb03",
+        "id": "96271aff-c3f2-4d25-8307-4b242cd78fcf",
+        "date_posted": 1793831875,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
