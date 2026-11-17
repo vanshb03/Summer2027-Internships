@@ -45156,13 +45156,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1793668081,
+        "date_updated": 1794892644,
         "url": "https://go.vansh.nyc/1bH",
         "locations": [
             "Toronto, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "American Express",
         "title": "Undergraduate Program AI Engineer Intern, Enterprise Technology Services",
         "source": "vanshb03",
@@ -67110,6 +67110,23 @@
         "source": "vanshb03",
         "id": "b3d54753-bb12-40d4-a2a7-c971fc8ea37e",
         "date_posted": 1794885048,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794892423,
+        "url": "https://go.vansh.nyc/1AV",
+        "locations": [
+            "Wilmington, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Analog Devices",
+        "title": "Software Engineering Intern, Medical Device & Healthcare Integration",
+        "source": "vanshb03",
+        "id": "4607ba77-b215-44da-9d44-1cd5bc94ceec",
+        "date_posted": 1794892329,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
