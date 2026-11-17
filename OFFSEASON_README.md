@@ -238,7 +238,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Full-Stack Software Engineer Co-op | San Francisco, CA | <a href="https://go.vansh.nyc/1fy?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | ↳ | Machine Learning Engineer Co-op | San Francisco, CA | <a href="https://go.vansh.nyc/1fz?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | Clio | Software Developer Co-op | Toronto, Canada</br>Vancouver, Canada</br>Calgary, Canada | <a href="https://go.vansh.nyc/1co?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
-| Charter Manufacturing | Automation & Analytics Intern | Milwaukee, WI | <a href="https://go.vansh.nyc/1cf?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | Arlo Technologies | Firmware Developer Co-op | Richmond, Canada | <a href="https://go.vansh.nyc/1fB?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | TikTok | Software Engineer Project Intern, Model Infrastructure | San Jose, CA | <a href="https://go.vansh.nyc/18Z?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | ↳ | Software Engineer Project Intern, Platform Efficiency | San Jose, CA | <a href="https://go.vansh.nyc/190?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
@@ -410,7 +409,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Cybersecurity Intern, Solutions | Irvine, CA</br>Fairfax, VA | <a href="https://go.vansh.nyc/V9?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 05 |
 | ↳ | Cybersecurity Intern, Threat | Irvine, CA</br>Fairfax, VA | <a href="https://go.vansh.nyc/Va?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 05 |
 | ↳ | Cybersecurity Intern, Systems and Organizations Controls (SOC) | Irvine, CA</br>Fairfax, VA | <a href="https://go.vansh.nyc/H9?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 05 |
-| Solink | Software Engineer Co-op, Apps | Ottawa, Canada | <a href="https://go.vansh.nyc/ET?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 05 |
 | Rivian | Software Engineer Co-op, Embedded Software | Palo Alto, CA | <a href="https://go.vansh.nyc/ER?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 05 |
 | Moment Energy | Software Engineering Co-op | Surrey, Canada | <a href="https://go.vansh.nyc/F8?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 05 |
 | Lumentum | Embedded Software Engineer Co-op | Ottawa, Canada | <a href="https://go.vansh.nyc/EX?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 05 |
@@ -571,6 +569,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Johnson & Johnson | Software Engineering Co-op | Danvers, MA | 🔒 | Nov 02 |
 | ↳ | Software Test Engineering Co-op | Danvers, MA | 🔒 | Nov 02 |
 | ↳ | Heart Recovery Software R&D Co-op | Halethorpe, MD | 🔒 | Nov 02 |
+| Charter Manufacturing | Automation & Analytics Intern | Milwaukee, WI | 🔒 | Nov 02 |
 | Apache Industrial | AI Implementation Intern | Houston, TX | 🔒 | Nov 02 |
 | GE Aerospace | Artificial Intelligence Intern | Remote</br>United States | 🔒 | Nov 01 |
 | Seattle Seahawks / First & Goal | Information Security Intern | Renton, WA | 🔒 | Oct 31 |
@@ -725,6 +724,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Clēnera | Data Engineer Intern | Boise, ID | 🔒 | Oct 06 |
 | Bose | Data Engineer Co-op | Bloomfield Hills, MI</br>Framingham, MA</br>Atlanta, GA | 🔒 | Oct 06 |
 | ↳ | Embedded Software Engineer Co-op, Audio Tech | <details><summary>**4 locations**</summary>Bloomfield Hills, MI</br>Framingham, MA</br>Troy, MI</br>Atlanta, GA</details> | 🔒 | Oct 06 |
+| Solink | Software Engineer Co-op, Apps | Ottawa, Canada | 🔒 | Oct 05 |
 | NVIDIA | PCIe Design Verification Intern | Santa Clara, CA | 🔒 | Oct 05 |
 | Moment Energy | Firmware Engineering Co-op | Surrey, Canada | 🔒 | Oct 05 |
 | McKesson | Pharmaceutical Distribution Developer Intern | Montreal, Canada | 🔒 | Oct 05 |
