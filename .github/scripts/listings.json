@@ -39310,13 +39310,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793491587,
+        "date_updated": 1794944683,
         "url": "https://go.vansh.nyc/134",
         "locations": [
             "Jacksonville, FL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Intercontinental Exchange",
         "title": "Agentic AI Data Science Intern",
         "source": "vanshb03",
@@ -47945,14 +47945,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793743743,
+        "date_updated": 1794944683,
         "url": "https://go.vansh.nyc/1ey",
         "locations": [
             "New York, NY",
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Valon",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -67504,5 +67504,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Spring"
+    },
+    {
+        "date_updated": 1794944498,
+        "url": "https://go.vansh.nyc/1Bo",
+        "locations": [
+            "Santa Ana, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Anduril",
+        "title": "Machine Learning Engineer Intern",
+        "source": "vanshb03",
+        "id": "1af331ba-e480-4f07-ab54-58c66c97a662",
+        "date_posted": 1794943065,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
