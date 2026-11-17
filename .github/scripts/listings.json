@@ -62661,13 +62661,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1794440139,
+        "date_updated": 1794953764,
         "url": "https://go.vansh.nyc/1vB",
         "locations": [
             "Wyoming, MI"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Gordon Food Service",
         "title": "Digital Product Management Intern",
         "source": "vanshb03",
@@ -67621,6 +67621,40 @@
         "source": "vanshb03",
         "id": "8323bbef-7b2b-45f1-a3ea-52491eeea0a4",
         "date_posted": 1794949897,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1794953404,
+        "url": "https://go.vansh.nyc/1Bx",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "T-Mobile",
+        "title": "Software Engineering AI Intern",
+        "source": "vanshb03",
+        "id": "58b2f5fb-9c1d-43a8-aaff-8cc7e9908963",
+        "date_posted": 1794867004,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794953404,
+        "url": "https://go.vansh.nyc/1By",
+        "locations": [
+            "Office, IN"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Cloudflare",
+        "title": "AI & Automation Intern, Communications",
+        "source": "vanshb03",
+        "id": "e9691a08-0a4d-44aa-ad9d-14c47ac9e94e",
+        "date_posted": 1794946204,
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
