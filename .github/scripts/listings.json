@@ -66943,5 +66943,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1794876020,
+        "url": "https://go.vansh.nyc/1AJ",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "KLA",
+        "title": "Firmware Intern",
+        "source": "vanshb03",
+        "id": "4dda1130-99b0-4a05-b863-78c660a93adf",
+        "date_posted": 1794872420,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
