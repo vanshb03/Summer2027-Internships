@@ -49921,13 +49921,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793817727,
+        "date_updated": 1794930288,
         "url": "https://go.vansh.nyc/1gR",
         "locations": [
             "Toronto, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Plusgrade",
         "title": "Data Science Intern",
         "source": "vanshb03",
@@ -51990,13 +51990,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793916521,
+        "date_updated": 1794930288,
         "url": "https://go.vansh.nyc/1jk",
         "locations": [
             "Minneapolis, MN"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Nordson",
         "title": "Software Intern",
         "source": "vanshb03",
@@ -64405,13 +64405,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794525009,
+        "date_updated": 1794930288,
         "url": "https://go.vansh.nyc/1xJ",
         "locations": [
             "Boston, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "CarGurus",
         "title": "Site Reliability Engineer Intern",
         "source": "vanshb03",
@@ -67370,18 +67370,52 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794926488,
+        "date_updated": 1794930288,
         "url": "https://go.vansh.nyc/1Bf",
         "locations": [
             "Sunnyvale, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Amazon",
         "title": "Software Development Engineer Intern, Artificial General Intelligence",
         "source": "vanshb03",
         "id": "5f48f5fa-99cf-41f8-a755-c038a1debc45",
         "date_posted": 1794873600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794929713,
+        "url": "https://go.vansh.nyc/1Bg",
+        "locations": [
+            "Farmington Hills, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Robert Bosch LLC",
+        "title": "AI Application Intern",
+        "source": "vanshb03",
+        "id": "5895cd37-a41b-46c3-95d5-154309c6cd6a",
+        "date_posted": 1794922500,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1794929713,
+        "url": "https://go.vansh.nyc/1Bh",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Prometheus Group",
+        "title": "Web Development Intern",
+        "source": "vanshb03",
+        "id": "39f337bc-9c01-4e0c-8744-37c2b46683bb",
+        "date_posted": 1794928349,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
