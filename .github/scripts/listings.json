@@ -65325,13 +65325,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794594977,
+        "date_updated": 1794906945,
         "url": "https://go.vansh.nyc/1yO",
         "locations": [
             "Danbury, CT"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "CACI",
         "title": "Configuration Control/Data Management Co-op",
         "source": "vanshb03",
@@ -67232,5 +67232,56 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1794906733,
+        "url": "https://go.vansh.nyc/1B6",
+        "locations": [
+            "Idaho Falls, ID"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Idaho National Laboratory",
+        "title": "Electric Vehicle Charging Data Analysis Intern",
+        "source": "vanshb03",
+        "id": "0188f1a9-46d2-42be-a9dd-cfd43dc5f8c7",
+        "date_posted": 1794873600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794906733,
+        "url": "https://go.vansh.nyc/1B7",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Birdseye Security Solutions",
+        "title": "AI Systems Intern",
+        "source": "vanshb03",
+        "id": "2e896b46-78aa-4628-b4e4-908b5d185751",
+        "date_posted": 1794906580,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794906733,
+        "url": "https://go.vansh.nyc/1B8",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Birdseye Security Solutions",
+        "title": "Computer Vision Intern",
+        "source": "vanshb03",
+        "id": "59724bb6-dabb-469d-9d4b-e3d3a9a3f07d",
+        "date_posted": 1794906580,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
