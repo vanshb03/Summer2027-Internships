@@ -264,7 +264,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | TribalScale | Agile Software Engineer Co-op | Toronto, Canada | <a href="https://go.vansh.nyc/13L?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | TikTok | Product Manager Project Intern, Global Monetization Product and Technology | San Jose, CA | <a href="https://go.vansh.nyc/11x?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | ↳ | Product Manager Intern, Global Monetization Product and Technology | Seattle, WA | <a href="https://go.vansh.nyc/11y?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
-| New York ISO | Software Engineering Co-op, IT | Rensselaer, NY | <a href="https://go.vansh.nyc/13J?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | MDA | FPGA Designer Intern | Montreal, Canada | <a href="https://go.vansh.nyc/126?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | ↳ | FPGA Verification Intern | Montreal, Canada | <a href="https://go.vansh.nyc/127?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | Keysight Technologies | FPGA Design Intern | Calabasas, CA | <a href="https://go.vansh.nyc/11u?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
@@ -577,6 +576,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Seattle Seahawks / First & Goal | Information Security Intern | Renton, WA | 🔒 | Oct 31 |
 | Zus Health | Platform Software Engineering Co-op | Boston, MA | 🔒 | Oct 30 |
 | Solink | Software Engineer Co-op, Agents | Remote</br>Canada | 🔒 | Oct 30 |
+| New York ISO | Software Engineering Co-op, IT | Rensselaer, NY | 🔒 | Oct 30 |
 | Klaviyo | Software Engineer Co-op | Boston, MA | 🔒 | Oct 30 |
 | Johns Hopkins APL | Robotics Engineer Intern, Maritime Systems 🇺🇸 | Laurel, MD | 🔒 | Oct 30 |
 | GITAI | Field-Deployed Software Engineering Intern 🇺🇸 | Los Angeles, CA | 🔒 | Oct 30 |
