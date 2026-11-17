@@ -30032,13 +30032,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793031368,
+        "date_updated": 1794924868,
         "url": "https://go.vansh.nyc/QC",
         "locations": [
             "Beavercreek, OH"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Awetomaton",
         "title": "Platform Engineering Intern",
         "source": "vanshb03",
@@ -40012,13 +40012,13 @@
         "season": "Fall"
     },
     {
-        "date_updated": 1793491587,
+        "date_updated": 1794924868,
         "url": "https://go.vansh.nyc/13J",
         "locations": [
             "Rensselaer, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "New York ISO",
         "title": "Software Engineering Co-op, IT",
         "source": "vanshb03",
@@ -54840,13 +54840,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794100039,
+        "date_updated": 1794924868,
         "url": "https://go.vansh.nyc/1mz",
         "locations": [
             "Lakewood, OH"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "General Dynamics Mission Systems",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
