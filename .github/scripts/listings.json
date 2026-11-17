@@ -66960,5 +66960,39 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1794877808,
+        "url": "https://go.vansh.nyc/1AK",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Highmark Health",
+        "title": "Technical Analyst Intern, enGen Undergraduate",
+        "source": "vanshb03",
+        "id": "6f39518a-a91d-4f35-a87d-89beeee9c704",
+        "date_posted": 1794867008,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794878013,
+        "url": "https://go.vansh.nyc/1AL",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Disney",
+        "title": "Data Engineering Intern",
+        "source": "vanshb03",
+        "id": "2e6bfec5-b326-4297-88a1-578881cbe2e6",
+        "date_posted": 1794877833,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
