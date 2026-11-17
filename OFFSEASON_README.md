@@ -363,7 +363,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Entrust | Software Engineering Co-op | Shakopee, MN | <a href="https://go.vansh.nyc/au?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 16 |
 | AgZen | Software Engineer Co-op | Somerville, MA | <a href="https://go.vansh.nyc/aV?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 16 |
 | AbbVie | Associate Engineer Intern, Technical Development Program | Worcester, MA | <a href="https://go.vansh.nyc/at?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 16 |
-| Zipline | Software Systems Validation Intern | South San Francisco, CA | <a href="https://go.vansh.nyc/Sk?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
 | Wikimedia Foundation | Software Engineering Intern | Remote</br>United States | <a href="https://go.vansh.nyc/CK?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
 | Symbotic | Robot Manipulation Co-op | Wilmington, MA | <a href="https://go.vansh.nyc/a7?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
 | ↳ | System Engineer Co-op | Brooksville, FL | <a href="https://go.vansh.nyc/a8?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
@@ -684,6 +683,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Cisco | Software Developer Embedded Systems I Co-op | <details><summary>**6 locations**</summary>Kanata, Canada</br>Saint-Laurent, Canada</br>Calgary, Canada</br>Toronto, Canada</br>Montreal, Canada</br>Ottawa, Canada</details> | 🔒 | Oct 16 |
 | Behaviour Interactive | Product Management Intern, 7 Days to Die | Montreal, QC, Canada | 🔒 | Oct 16 |
 | Assort Health | Software Engineer Intern | SF | 🔒 | Oct 16 |
+| Zipline | Software Systems Validation Intern | South San Francisco, CA | 🔒 | Oct 15 |
 | TD Bank | Portfolio Analytics Data Analyst Intern/Co-op | Toronto, ON | 🔒 | Oct 15 |
 | ↳ | Portfolio Analytics Developer Intern/Co-op | Toronto, ON | 🔒 | Oct 15 |
 | RTX | Software Engineering Co-op 🇺🇸 | Cedar Rapids, IA | 🔒 | Oct 15 |
