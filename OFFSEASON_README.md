@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Robert Bosch LLC | AI Application Intern | Farmington Hills, MI | <a href="https://go.vansh.nyc/1Bg?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | Falcomm | AI/ML Software Engineer Undergraduate Intern, AI/CAD Integration | Atlanta, GA | <a href="https://go.vansh.nyc/1Bn?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | Xradar | Software Engineer Co-op | Burnaby, Canada | <a href="https://go.vansh.nyc/1AW?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
+| Exowatt | Robotics & Physical AI Intern | Miami, FL | <a href="https://go.vansh.nyc/1Bq?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
 | Critical Environment Technologies | Computer Science Co-op | Delta, Canada | <a href="https://go.vansh.nyc/1B1?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
 | Angel Host | AI Product Engineer Co-op | Montreal, Canada | <a href="https://go.vansh.nyc/1B0?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
 | Milliman | AI Product Engineer Intern, CMH Health | Chicago, IL</br>Brookfield, WI | <a href="https://go.vansh.nyc/1A1?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 15 |
@@ -358,7 +359,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Johns Hopkins Applied Physics Laboratory | Military Systems Cybersecurity Engineer Intern | Laurel, MD | <a href="https://go.vansh.nyc/R7?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
 | ↳ | Reverse Engineer Intern, Offensive Cyber Capabilities | Laurel, MD | <a href="https://go.vansh.nyc/R9?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
 | ↳ | Cybersecurity Engineer Intern, Critical Infrastructure Protection | Laurel, MD | <a href="https://go.vansh.nyc/Rc?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
-| HeyGen | Software Engineer Intern | <details><summary>**4 locations**</summary>Toronto, ON, Canada</br>SF</br>LA</br>Singapore</details> | <a href="https://go.vansh.nyc/bb?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
 | Foresters Financial | Quality Assurance Engineer Co-op | Toronto, Canada | <a href="https://go.vansh.nyc/QP?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
 | Ciena | Services Business Intelligence & Analytics Intern | Montreal, QC, Canada</br>Ottawa, ON, Canada | <a href="https://go.vansh.nyc/cx?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
 | W.R. Berkley | Enterprise Architecture Co-op | Urbandale, IA | <a href="https://go.vansh.nyc/ax?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 16 |
@@ -669,6 +669,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Cyber Security Intern, Cyber Dominance | Laurel, MD | 🔒 | Oct 18 |
 | ↳ | Algorithm, Software, or RF Systems Engineering Intern | Laurel, MD | 🔒 | Oct 18 |
 | ↳ | Cybersecurity Intern, Mission Engineering | Laurel, MD | 🔒 | Oct 18 |
+| HeyGen | Software Engineer Intern | <details><summary>**4 locations**</summary>Toronto, ON, Canada</br>SF</br>LA</br>Singapore</details> | 🔒 | Oct 18 |
 | CIBC | Application Developer Co-op - Enterprise Technology & Business Management | Toronto, ON, Canada | 🔒 | Oct 18 |
 | ↳ | Application/Software Developer Co-op - Capital Markets Technology | Toronto, ON, Canada | 🔒 | Oct 18 |
 | Bombardier | Developer Intern | Mississauga, Canada | 🔒 | Oct 18 |

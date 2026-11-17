@@ -82,6 +82,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Fiserv | Technology Intern, Cybersecurity | Berkeley Heights, NJ | <a href="https://go.vansh.nyc/1AS?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
 | ↳ | Technology Intern, Cybersecurity | Columbus, OH | <a href="https://go.vansh.nyc/1AT?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
 | Disney | Data Engineering Intern | New York, NY | <a href="https://go.vansh.nyc/1AL?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
+| Constellation Brands | Data and AI Enablement Intern | Rochester, NY</br>Chicago, IL | <a href="https://go.vansh.nyc/1Bp?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
 | Clera | Full-Stack Software Engineering Intern | New York, NY | <a href="https://go.vansh.nyc/1AN?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
 | Carnegie Mellon University | AI Engineer Intern, Mission Innovation Lab 🛂 | Pittsburgh, PA | <a href="https://go.vansh.nyc/1Az?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
 | Boston Scientific | AI Acceleration Intern 🛂 | Marlborough, MA | <a href="https://go.vansh.nyc/1Aa?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
