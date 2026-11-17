@@ -3595,13 +3595,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1784878917,
+        "date_updated": 1794932282,
         "url": "https://go.vansh.nyc/3A",
         "locations": [
             "Chicago, IL"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Akuna Capital",
         "title": "Platform Engineer Intern",
         "source": "vanshb03",
@@ -11062,13 +11062,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792261427,
+        "date_updated": 1794932282,
         "url": "https://go.vansh.nyc/aA",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Together AI",
         "title": "Research Intern, Frontier Speculative Decoding",
         "source": "vanshb03",
@@ -13551,13 +13551,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792536445,
+        "date_updated": 1794932282,
         "url": "https://go.vansh.nyc/cV",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Humble Robotics",
         "title": "Embedded Software Engineer Intern",
         "source": "vanshb03",
@@ -57289,13 +57289,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1794258434,
+        "date_updated": 1794932282,
         "url": "https://go.vansh.nyc/1pb",
         "locations": [
             "Pittsburgh, PA"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Carnegie Mellon University",
         "title": "Advanced Computing Lab Intern",
         "source": "vanshb03",
@@ -60601,7 +60601,7 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794375106,
+        "date_updated": 1794932282,
         "url": "https://go.vansh.nyc/1sV",
         "locations": [
             "Remote",
@@ -60609,7 +60609,7 @@
             "Minneapolis, MN"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Elire",
         "title": "AI Data Science Consulting Intern - Knowledge Graphs & Enterprise Data",
         "source": "vanshb03",
@@ -67416,6 +67416,23 @@
         "source": "vanshb03",
         "id": "39f337bc-9c01-4e0c-8744-37c2b46683bb",
         "date_posted": 1794928349,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794931541,
+        "url": "https://go.vansh.nyc/1Bj",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Soros Fund Management",
+        "title": "Quantitative Strategist Intern",
+        "source": "vanshb03",
+        "id": "686c5ac1-b62e-4a1c-8d05-218230733fc4",
+        "date_posted": 1794925226,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
