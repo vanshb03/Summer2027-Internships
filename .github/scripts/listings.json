@@ -33702,13 +33702,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793128003,
+        "date_updated": 1794937392,
         "url": "https://go.vansh.nyc/Wb",
         "locations": [
             "Seattle, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Amazon Development Center U.S., Inc. - B02",
         "title": "Database Engineer Intern",
         "source": "vanshb03",
