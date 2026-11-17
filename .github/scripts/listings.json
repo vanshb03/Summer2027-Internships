@@ -36772,13 +36772,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793315160,
+        "date_updated": 1794946442,
         "url": "https://go.vansh.nyc/103",
         "locations": [
             "Houston, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Axiom Space",
         "title": "Enterprise Data Analyst Intern, Power BI & Data Quality",
         "source": "vanshb03",
@@ -52197,13 +52197,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793921725,
+        "date_updated": 1794946442,
         "url": "https://go.vansh.nyc/1jw",
         "locations": [
             "Mason, OH"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Cintas",
         "title": "IT Engineer Intern, Customer Channels",
         "source": "vanshb03",
@@ -67064,13 +67064,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794884732,
+        "date_updated": 1794946442,
         "url": "https://go.vansh.nyc/1AR",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Soros Fund Management",
         "title": "Trading Intern, Middle and Back Office Dev",
         "source": "vanshb03",
