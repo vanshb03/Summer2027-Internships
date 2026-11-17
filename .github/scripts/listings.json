@@ -21955,13 +21955,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793015500,
+        "date_updated": 1794888916,
         "url": "https://go.vansh.nyc/ET",
         "locations": [
             "Ottawa, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Solink",
         "title": "Software Engineer Co-op, Apps",
         "source": "vanshb03",
@@ -45689,13 +45689,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793682523,
+        "date_updated": 1794888916,
         "url": "https://go.vansh.nyc/1cf",
         "locations": [
             "Milwaukee, WI"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Charter Manufacturing",
         "title": "Automation & Analytics Intern",
         "source": "vanshb03",
