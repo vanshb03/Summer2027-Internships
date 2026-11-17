@@ -16088,13 +16088,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792717375,
+        "date_updated": 1794959394,
         "url": "https://go.vansh.nyc/fh",
         "locations": [
             "Hartford, CT"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "CVS Health",
         "title": "Medicaid Data Analytics Intern",
         "source": "vanshb03",
@@ -17982,13 +17982,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792811877,
+        "date_updated": 1794959394,
         "url": "https://go.vansh.nyc/h2",
         "locations": [
             "Milpitas, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "KLA",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
@@ -48323,14 +48323,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793743743,
+        "date_updated": 1794959394,
         "url": "https://go.vansh.nyc/1eU",
         "locations": [
             "Los Angeles, CA",
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Revel",
         "title": "Full Stack Software Engineer Intern",
         "source": "vanshb03",
@@ -67693,6 +67693,76 @@
         "source": "vanshb03",
         "id": "22d1581f-95e5-46a3-83fd-108cc3426ab8",
         "date_posted": 1794954340,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794958793,
+        "url": "https://go.vansh.nyc/1BB",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CrowdStrike",
+        "title": "AI Research Launch Intern",
+        "source": "vanshb03",
+        "id": "8c645c1f-719d-4827-ab6e-6d656dbe59af",
+        "date_posted": 1794957113,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794958949,
+        "url": "https://go.vansh.nyc/1BC",
+        "locations": [
+            "Missoula, MT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Pathlabs",
+        "title": "Software and AI Engineering Intern",
+        "source": "vanshb03",
+        "id": "cb42b98f-0f5c-400a-a64f-48fa382493ef",
+        "date_posted": 1794958813,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794959161,
+        "url": "https://go.vansh.nyc/1BD",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Draper",
+        "title": "Software Engineering & DevOps Intern",
+        "source": "vanshb03",
+        "id": "9e071ae1-f8c0-4840-8cc8-fe13c29df925",
+        "date_posted": 1794958969,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794959162,
+        "url": "https://go.vansh.nyc/1BE",
+        "locations": [
+            "Chattanooga, TN",
+            "Portland, ME",
+            "Columbia, SC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Unum",
+        "title": "IT Intern",
+        "source": "vanshb03",
+        "id": "79dfe832-a725-45b6-b408-f7a5051c8453",
+        "date_posted": 1794959141,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
