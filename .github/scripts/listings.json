@@ -67421,18 +67421,35 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794931541,
+        "date_updated": 1794941291,
         "url": "https://go.vansh.nyc/1Bj",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Soros Fund Management",
         "title": "Quantitative Strategist Intern",
         "source": "vanshb03",
         "id": "686c5ac1-b62e-4a1c-8d05-218230733fc4",
         "date_posted": 1794925226,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794941113,
+        "url": "https://go.vansh.nyc/1Bk",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Toyota Research Institute",
+        "title": "Robotics Intern, Agentic Robotics",
+        "source": "vanshb03",
+        "id": "9b8a0b93-991c-435d-b194-456c6c7eb62a",
+        "date_posted": 1794936499,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
