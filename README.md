@@ -290,7 +290,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Ixana | Embedded Software Engineer Intern, Wearables and IoT | West Lafayette, IN | <a href="https://go.vansh.nyc/1qR?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | ↳ | Embedded Hardware Engineer Intern, FPGA Design | West Lafayette, IN | <a href="https://go.vansh.nyc/1qS?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | ISO New England | Cyber Adversary Defense Optimization Intern 🛂 | Holyoke, MA | <a href="https://go.vansh.nyc/1wY?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
-| Invitation-charter | Software Engineer Intern | Greenwood Village, CO | <a href="https://go.vansh.nyc/1rK?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | International | Artificial Intelligence/Machine Learning Intern | Lisle, IL | <a href="https://go.vansh.nyc/1sz?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | Hook Music | Machine Learning Engineering Intern, Recommendation Systems | Remote</br>United States | <a href="https://go.vansh.nyc/1sf?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | Hewlett Packard (HP) | Performance Engineering Co-op | Fort Collins, CO | <a href="https://go.vansh.nyc/1rR?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
@@ -2054,6 +2053,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Maincode | AI Research Residency Intern | Remote</br>United States</br>Canada | 🔒 | Nov 10 |
 | Klatch AI | Full Stack Engineer Intern | Remote</br>United States</br>Canada | 🔒 | Nov 10 |
 | Jabil | AI Agent Developer Intern, Supply Chain IT - AI & Enablement | St. Petersburg, FL</br>Tampa, FL | 🔒 | Nov 10 |
+| Invitation-charter | Software Engineer Intern | Greenwood Village, CO | 🔒 | Nov 10 |
 | Intelura | Backend Engineering & Security Intern | Remote</br>United States</br>Canada | 🔒 | Nov 10 |
 | ↳ | Mobile Application Developer Intern | Remote</br>United States</br>Canada | 🔒 | Nov 10 |
 | Holiday World | Software Engineer Intern | Remote</br>United States</br>Canada | 🔒 | Nov 10 |
