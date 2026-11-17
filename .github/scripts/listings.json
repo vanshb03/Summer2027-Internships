@@ -4618,13 +4618,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1784884047,
+        "date_updated": 1794933867,
         "url": "https://go.vansh.nyc/4y",
         "locations": [
             "Chicago"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Akuna Capital",
         "title": "Quantitative Development & Strategy Intern",
         "source": "vanshb03",
@@ -63310,13 +63310,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1794497735,
+        "date_updated": 1794933867,
         "url": "https://go.vansh.nyc/1ww",
         "locations": [
             "Warrenton, VA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Greystone",
         "title": "Full Stack Engineer Intern",
         "source": "vanshb03",
