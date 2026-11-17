@@ -29297,13 +29297,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793027048,
+        "date_updated": 1794942891,
         "url": "https://go.vansh.nyc/PV",
         "locations": [
             "Washington, DC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "American Bankers Association",
         "title": "Quantitative Research Intern",
         "source": "vanshb03",
@@ -67453,5 +67453,56 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1794942550,
+        "url": "https://go.vansh.nyc/1Bl",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "PTC",
+        "title": "Onshape Performance Engineering Intern",
+        "source": "vanshb03",
+        "id": "2469b8fe-5bf9-4470-968a-a5dfa0ca28a0",
+        "date_posted": 1794856150,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794942550,
+        "url": "https://go.vansh.nyc/1Bm",
+        "locations": [
+            "Wilmington, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Analog Devices",
+        "title": "Embedded Hardware & Firmware Intern, Health Solutions",
+        "source": "vanshb03",
+        "id": "4b6d6654-23d0-401b-a053-779693b07316",
+        "date_posted": 1794856150,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794942714,
+        "url": "https://go.vansh.nyc/1Bn",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Falcomm",
+        "title": "AI/ML Software Engineer Undergraduate Intern, AI/CAD Integration",
+        "source": "vanshb03",
+        "id": "f2c263ed-ffbf-451e-8333-3e2ebddea99c",
+        "date_posted": 1794942571,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
     }
 ]
