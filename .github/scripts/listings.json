@@ -18885,13 +18885,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792812489,
+        "date_updated": 1794903544,
         "url": "https://go.vansh.nyc/hS",
         "locations": [
             "Santa Clara, CA"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Texas Instruments",
         "title": "Digital Design Verification Engineering Intern",
         "source": "vanshb03",
@@ -67130,5 +67130,107 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1794902734,
+        "url": "https://go.vansh.nyc/1AW",
+        "locations": [
+            "Burnaby, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Xradar",
+        "title": "Software Engineer Co-op",
+        "source": "vanshb03",
+        "id": "0f039c8d-7f99-458f-b223-eb297872d6c3",
+        "date_posted": 1794899291,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1794902734,
+        "url": "https://go.vansh.nyc/1AX",
+        "locations": [
+            "Mississauga, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Birdseye Security Solutions",
+        "title": "AI Systems Intern",
+        "source": "vanshb03",
+        "id": "d2fadd10-b392-4e92-a3a5-f21097d2aa7e",
+        "date_posted": 1794899634,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794902734,
+        "url": "https://go.vansh.nyc/1AY",
+        "locations": [
+            "Mississauga, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Birdseye Security Solutions",
+        "title": "Computer Vision Intern",
+        "source": "vanshb03",
+        "id": "62c25e2e-7c8f-4e4a-bde4-ce05fb203ce7",
+        "date_posted": 1794899634,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794902734,
+        "url": "https://go.vansh.nyc/1AZ",
+        "locations": [
+            "Mississauga, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Birdseye Security Solutions",
+        "title": "Software Developer Intern",
+        "source": "vanshb03",
+        "id": "67d485cd-fa93-439c-a03d-f4f087f87a50",
+        "date_posted": 1794899635,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794902734,
+        "url": "https://go.vansh.nyc/1B0",
+        "locations": [
+            "Montreal, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Angel Host",
+        "title": "AI Product Engineer Co-op",
+        "source": "vanshb03",
+        "id": "e49044c8-5b01-45a7-ad1f-9395dc13b28d",
+        "date_posted": 1794900400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1794902734,
+        "url": "https://go.vansh.nyc/1B1",
+        "locations": [
+            "Delta, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Critical Environment Technologies",
+        "title": "Computer Science Co-op",
+        "source": "vanshb03",
+        "id": "1fc87853-88be-4d79-be3e-74d4761d21dc",
+        "date_posted": 1794901595,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
