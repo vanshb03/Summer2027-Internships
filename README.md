@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Vibrantz Technologies | Applied AI & Automation Intern | Houston, TX | <a href="https://go.vansh.nyc/1Ct?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
 | Viavi Solutions | Robotics Intern | Bothell, WA | <a href="https://go.vansh.nyc/1Ci?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
 | Syngenta Group | Data Science Intern | Greensboro, NC | <a href="https://go.vansh.nyc/1Co?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
 | Scotiabank | Global Analytic Financial Engineering (GAFE) Co-op, Global Banking and Markets | Toronto, Canada | <a href="https://go.vansh.nyc/1Ch?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
@@ -1256,7 +1257,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Micron Technology | Machine Learning Engineering Intern | Richardson, TX | <a href="https://go.vansh.nyc/d6?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
 | ↳ | Design Engineer Intern, Pathfinding | San Jose, CA</br>Folsom, CA | <a href="https://go.vansh.nyc/d7?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
 | Lyft | Software Engineer Intern, Test Automation | Montreal, Canada | <a href="https://go.vansh.nyc/RT?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
-| Lumentum | Optical Algorithms and Analytics Engineering Co-op | Ottawa, ON | <a href="https://go.vansh.nyc/dy?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
 | LLNL | Predictive Science Academic Alliance Program IV Student Intern | Livermore, CA | <a href="https://go.vansh.nyc/bw?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
 | Legend Biotech | Data Intern | Bridgewater, NJ | <a href="https://go.vansh.nyc/bz?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
 | Keysight Technologies | Software Engineer Intern, R&D | Santa Clara, CA | <a href="https://go.vansh.nyc/cK?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
@@ -1653,7 +1653,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Itron | Data Science Intern, Distributed Intelligence | Liberty Lake, WA | <a href="https://go.vansh.nyc/JJ?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 27 |
 | IAT Insurance Group | Data Engineering & Visualization Intern | Raleigh, NC | <a href="https://go.vansh.nyc/JL?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 27 |
 | General Motors | Data Governance Engineer Intern | Warren, MI | <a href="https://go.vansh.nyc/Q1?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 27 |
-| General Dynamics Mission Systems, Inc. | EE/Computer Engineer Intern 🇺🇸 | Manassas, VA | <a href="https://go.vansh.nyc/PZ?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 27 |
 | AVARINT | Software Engineer Intern, DIADS | United States | <a href="https://go.vansh.nyc/fN?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 27 |
 | Red Ventures | Launch Program Data Science Intern | Charlotte, NC | <a href="https://go.vansh.nyc/1og?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 25 |
 | onsemi | Validation Engineer Intern | Nampa, ID | <a href="https://go.vansh.nyc/1nW?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 25 |
@@ -2629,6 +2628,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Paccar | Warranty Data Analyst Intern | Kirkland, WA | 🔒 | Oct 19 |
 | NetApp | Software Engineer Intern | Wichita, KS | 🔒 | Oct 19 |
 | Micron Technology | Design Engineer Intern, HBM | Richardson, TX | 🔒 | Oct 19 |
+| Lumentum | Optical Algorithms and Analytics Engineering Co-op | Ottawa, ON | 🔒 | Oct 19 |
 | L3Harris Technologies | Software Engineering Intern | Salt Lake City, UT | 🔒 | Oct 19 |
 | Johnson & Johnson | Quality Data Science Co-op | Cincinnati, OH | 🔒 | Oct 19 |
 | Inmar Intelligence | Data Science Intern | Raleigh, NC</br>Winston-Salem, NC | 🔒 | Oct 19 |
@@ -2840,6 +2840,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | DraftKings | Analytics Intern | Boston, MA | 🔒 | Sep 29 |
 | Constellation Energy | Quantitative Analytics & Data Science Intern | Baltimore, MD | 🔒 | Sep 28 |
 | H&R Block | Software Engineering Intern, Embark | Kansas City, MO | 🔒 | Sep 27 |
+| General Dynamics Mission Systems, Inc. | EE/Computer Engineer Intern 🇺🇸 | Manassas, VA | 🔒 | Sep 27 |
 | Western National Insurance | Data Engineering Intern, Data & Integrations | Edina, MN | 🔒 | Sep 25 |
 | Johns Hopkins Applied Physics Laboratory | Space Exploration Software Engineer Intern, Embedded Applications | Laurel, MD | 🔒 | Sep 25 |
 | ↳ | Artificial Intelligence and Machine Learning Research Assistant Intern | Laurel, MD | 🔒 | Sep 25 |
