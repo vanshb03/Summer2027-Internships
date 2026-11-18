@@ -1525,8 +1525,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | AI Software Intern, Cloud, Infrastructure & Data Centre Deployment | Austin, TX</br>Santa Clara, CA | <a href="https://go.vansh.nyc/g7?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
 | Skyband Systems | Software Engineer Intern | Kirkland, WA | <a href="https://go.vansh.nyc/1nF?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
 | Sigma Computing | Software Engineer Intern | San Francisco, CA</br>New York, NY | <a href="https://go.vansh.nyc/1nG?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
-| Revel | Embedded Software Engineer Intern | Los Angeles, CA</br>San Francisco, CA | <a href="https://go.vansh.nyc/1eS?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
-| ↳ | Forward Deployed Engineer Intern, Software | Los Angeles, CA</br>San Francisco, CA | <a href="https://go.vansh.nyc/1eT?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
+| Revel | Forward Deployed Engineer Intern, Software | Los Angeles, CA</br>San Francisco, CA | <a href="https://go.vansh.nyc/1eT?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
 | ↳ | Software Engineer Intern, Test | Los Angeles, CA</br>San Francisco, CA | <a href="https://go.vansh.nyc/1eV?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
 | Qube Research and Technologies | Security Engineer Intern | New York, NY | <a href="https://go.vansh.nyc/QJ?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
 | Pure Storage | Software Engineer Intern | Santa Clara, CA | <a href="https://go.vansh.nyc/FC?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
@@ -2786,7 +2785,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Garmin | FPGA Engineer Intern | Olathe, KS | 🔒 | Oct 07 |
 | The Aerospace Corporation | Embedded Systems/Software Engineer Intern | Chantilly, VA</br>El Segundo, CA | 🔒 | Oct 06 |
 | RTX | Software Engineer Co-op | Cedar Rapids, IA | 🔒 | Oct 06 |
-| Revel | Full Stack Software Engineer Intern | Los Angeles, CA</br>San Francisco, CA | 🔒 | Oct 06 |
+| Revel | Embedded Software Engineer Intern | Los Angeles, CA</br>San Francisco, CA | 🔒 | Oct 06 |
+| ↳ | Full Stack Software Engineer Intern | Los Angeles, CA</br>San Francisco, CA | 🔒 | Oct 06 |
 | MEMX | Information Security Intern | New York, NY | 🔒 | Oct 06 |
 | McKesson | Software Engineer Intern | Pittsburgh, PA</br>Columbus, OH</br>Irving, TX | 🔒 | Oct 06 |
 | ICF International | Data Engineer Intern | Remote</br>United States</br>Reston, VA | 🔒 | Oct 06 |
