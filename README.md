@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Scotiabank | Global Analytic Financial Engineering (GAFE) Co-op, Global Banking and Markets | Toronto, Canada | <a href="https://go.vansh.nyc/1Ch?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
 | Warp Sciences | Member of Technical Staff Intern, Robotics Learning | South San Francisco, CA | <a href="https://go.vansh.nyc/1Br?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | Unum | IT Intern | Chattanooga, TN</br>Portland, ME</br>Columbia, SC | <a href="https://go.vansh.nyc/1BE?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | Toyota Research Institute | Robotics Intern, Agentic Robotics | Cambridge, MA | <a href="https://go.vansh.nyc/1Bk?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
@@ -422,7 +423,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Philadelphia Gas Works | Data and Analytics Intern | Philadelphia, PA | <a href="https://go.vansh.nyc/1ti?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 08 |
 | NBCUniversal | Technology Intern, NBC News Group | New York, NY | <a href="https://go.vansh.nyc/1os?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 08 |
 | National Interstate Insurance | Data Scientist Intern 🛂 | Lakeland, FL | <a href="https://go.vansh.nyc/1ni?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 08 |
-| Kensington | BI/Data Analyst Intern | Toronto, Canada | <a href="https://go.vansh.nyc/1or?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 08 |
 | General Dynamics Mission Systems | Software Engineer Intern | Manassas, VA | <a href="https://go.vansh.nyc/1pI?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 08 |
 | ↳ | Full-Stack Software Engineer Intern | Chantilly, VA</br>Pittsfield, MA</br>Scottsdale, AZ | <a href="https://go.vansh.nyc/1om?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 08 |
 | ↳ | Full-Stack Application Development Intern | Chantilly, VA</br>Pittsfield, MA</br>Scottsdale, AZ | <a href="https://go.vansh.nyc/1on?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 08 |
@@ -2104,6 +2104,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | CACI | Cyber Security Intern | Sterling, VA | 🔒 | Nov 09 |
 | Art of Problem Solving | Software Engineer Intern | San Diego, CA | 🔒 | Nov 09 |
 | RTX | Digital Hardware Design Engineer Co-op | Cedar Rapids, IA | 🔒 | Nov 08 |
+| Kensington | BI/Data Analyst Intern | Toronto, Canada | 🔒 | Nov 08 |
 | 7-Eleven | Data Engineer Intern | Irving, TX | 🔒 | Nov 08 |
 | empirical | Software Engineering Intern | Dakota Dunes, SD | 🔒 | Nov 07 |
 | TikTok | POI Content Product Manager Intern | San Jose, CA | 🔒 | Nov 06 |
