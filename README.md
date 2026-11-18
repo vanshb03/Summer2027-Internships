@@ -69,6 +69,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Nightwing | Vulnerability Researcher Intern 🇺🇸 | Palm Bay, FL | <a href="https://go.vansh.nyc/1C8?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | Motorola Solutions | RFIC Design Engineer Intern 🇺🇸 | Plantation, FL</br>Schaumburg, IL | <a href="https://go.vansh.nyc/1Cl?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | Microsoft | Research Intern, Firmware Security | Redmond, WA | <a href="https://go.vansh.nyc/1BR?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
+| Marvell | MS AI Infrastructure Engineer Intern | Santa Clara, CA | <a href="https://go.vansh.nyc/1Cp?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | Lumentum | SW Developer Support Intern, Program Management Office | San Jose, CA | <a href="https://go.vansh.nyc/1BA?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | GEI Consultants | Web Developer Intern | Rancho Cordova, CA | <a href="https://go.vansh.nyc/1BP?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | Garmin | Software Engineer Intern, Real Time Aviation Data | Chanhassen, MN | <a href="https://go.vansh.nyc/1Bs?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
