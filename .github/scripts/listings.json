@@ -48287,14 +48287,14 @@
         "season": "Spring"
     },
     {
-        "date_updated": 1793743743,
+        "date_updated": 1795025726,
         "url": "https://go.vansh.nyc/1eS",
         "locations": [
             "Los Angeles, CA",
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Revel",
         "title": "Embedded Software Engineer Intern",
         "source": "vanshb03",
