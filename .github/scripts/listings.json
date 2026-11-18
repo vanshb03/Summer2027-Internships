@@ -58389,14 +58389,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794325315,
+        "date_updated": 1795040311,
         "url": "https://go.vansh.nyc/1qv",
         "locations": [
             "Frisco, TX",
             "Atlanta, GA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "T-Mobile",
         "title": "Site Reliability Engineering Intern",
         "source": "vanshb03",
@@ -58458,13 +58458,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794328513,
+        "date_updated": 1795040311,
         "url": "https://go.vansh.nyc/1qz",
         "locations": [
             "Philadelphia, PA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "T-Mobile",
         "title": "Software Engineer Intern, T-Ads",
         "source": "vanshb03",
@@ -61634,13 +61634,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1794377169,
+        "date_updated": 1795040311,
         "url": "https://go.vansh.nyc/1uo",
         "locations": [
             "Detroit, MI"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Daimler Truck",
         "title": "Governance, Risk, and Compliance (GRC) Analyst Intern, Cybersecurity",
         "source": "vanshb03",
@@ -62797,13 +62797,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794443752,
+        "date_updated": 1795040311,
         "url": "https://go.vansh.nyc/1vS",
         "locations": [
             "Newton, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Panera Bread",
         "title": "Data Science & AI Analytics Intern",
         "source": "vanshb03",
