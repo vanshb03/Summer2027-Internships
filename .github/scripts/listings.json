@@ -53756,14 +53756,14 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1794002933,
+        "date_updated": 1795038457,
         "url": "https://go.vansh.nyc/1ll",
         "locations": [
             "Austin, TX",
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "fab2",
         "title": "Infrastructure Software Engineering Intern",
         "source": "vanshb03",
@@ -63021,13 +63021,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794470729,
+        "date_updated": 1795038457,
         "url": "https://go.vansh.nyc/1wa",
         "locations": [
             "Mountain View, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "CARIAD",
         "title": "Engineer 1 Intern, VLA Planning and Control Deployment",
         "source": "vanshb03",
@@ -68265,5 +68265,39 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1795038048,
+        "url": "https://go.vansh.nyc/1Cq",
+        "locations": [
+            "Framingham, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bose",
+        "title": "Software Engineer Co-op",
+        "source": "vanshb03",
+        "id": "e256e3b2-3efd-4ec9-a059-cfebe67b46eb",
+        "date_posted": 1795034568,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1795038048,
+        "url": "https://go.vansh.nyc/1Cr",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Amentum",
+        "title": "Immersive Imagery SW/HW Lab Development Intern",
+        "source": "vanshb03",
+        "id": "e7a8ff02-3c0a-46d7-92cd-9b41dda2f6cc",
+        "date_posted": 1795036428,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
     }
 ]
