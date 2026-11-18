@@ -25548,13 +25548,13 @@
         "season": "Spring"
     },
     {
-        "date_updated": 1793021626,
+        "date_updated": 1795029421,
         "url": "https://go.vansh.nyc/Jf",
         "locations": [
             "Vancouver, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Electronic Arts",
         "title": "AI Engineer Intern, Creative Innovations, Character Pipelines",
         "source": "vanshb03",
@@ -48202,13 +48202,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793743743,
+        "date_updated": 1795029421,
         "url": "https://go.vansh.nyc/1eN",
         "locations": [
             "Rochester, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "MegazoneCloud",
         "title": "Cloud Operations Co-op",
         "source": "vanshb03",
@@ -68140,6 +68140,60 @@
         "source": "vanshb03",
         "id": "eb792e8f-34e4-45f8-8688-fa38d4cae7e7",
         "date_posted": 1795026406,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795029032,
+        "url": "https://go.vansh.nyc/1Cj",
+        "locations": [
+            "Remote",
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Motorola Solutions",
+        "title": "Software Engineer Co-op",
+        "source": "vanshb03",
+        "id": "7d34e50a-474a-41ea-9111-cd1c39354293",
+        "date_posted": 1794942632,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1795029032,
+        "url": "https://go.vansh.nyc/1Ck",
+        "locations": [
+            "Remote",
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bristol Myers Squibb",
+        "title": "Undergrad Data Science Intern",
+        "source": "vanshb03",
+        "id": "b2e5670e-51e2-42a7-90d5-4ccaa28aed3e",
+        "date_posted": 1795027532,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795029032,
+        "url": "https://go.vansh.nyc/1Cl",
+        "locations": [
+            "Plantation, FL",
+            "Schaumburg, IL"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Motorola Solutions",
+        "title": "RFIC Design Engineer Intern",
+        "source": "vanshb03",
+        "id": "18d4ef57-a542-4f00-9935-8d62cd2c6572",
+        "date_posted": 1794942632,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
