@@ -68248,5 +68248,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1795036259,
+        "url": "https://go.vansh.nyc/1Cp",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Marvell",
+        "title": "MS AI Infrastructure Engineer Intern",
+        "source": "vanshb03",
+        "id": "2d3e4416-a4c6-40d4-aa01-3eeab7e11b91",
+        "date_posted": 1794949859,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
