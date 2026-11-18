@@ -50,8 +50,11 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Viavi Solutions | Robotics Intern | Bothell, WA | <a href="https://go.vansh.nyc/1Ci?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
 | Syngenta Group | Data Science Intern | Greensboro, NC | <a href="https://go.vansh.nyc/1Co?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
 | Scotiabank | Global Analytic Financial Engineering (GAFE) Co-op, Global Banking and Markets | Toronto, Canada | <a href="https://go.vansh.nyc/1Ch?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
-| Samsung Semiconductor | Architecture Research Engineer Intern, MoE Placement for Serving at Scale | San Jose, CA | <a href="https://go.vansh.nyc/1Cm?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
+| Samsung Semiconductor | SSD Firmware Engineer Intern | San Jose, CA | <a href="https://go.vansh.nyc/1Cu?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
+| ↳ | LLM Inference Acceleration Architecture Intern, Distributed Memory-Centric Accelerators | San Jose, CA | <a href="https://go.vansh.nyc/1Cw?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
+| ↳ | Architecture Research Engineer Intern, MoE Placement for Serving at Scale | San Jose, CA | <a href="https://go.vansh.nyc/1Cm?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
 | Roblox | Software Engineer Intern, Engine | Vancouver, Canada | <a href="https://go.vansh.nyc/1Cn?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
+| Microsoft | Research Intern, Computer Vision and Deep Learning | Redmond, WA | <a href="https://go.vansh.nyc/1Cv?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
 | Bristol Myers Squibb | Undergrad Data Science Intern | Remote</br>United States | <a href="https://go.vansh.nyc/1Ck?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
 | Warp Sciences | Member of Technical Staff Intern, Robotics Learning | South San Francisco, CA | <a href="https://go.vansh.nyc/1Br?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | Unum | IT Intern | Chattanooga, TN</br>Portland, ME</br>Columbia, SC | <a href="https://go.vansh.nyc/1BE?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
