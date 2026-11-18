@@ -56624,13 +56624,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794240330,
+        "date_updated": 1795023947,
         "url": "https://go.vansh.nyc/1or",
         "locations": [
             "Toronto, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Kensington",
         "title": "BI/Data Analyst Intern",
         "source": "vanshb03",
@@ -68089,6 +68089,40 @@
         "source": "vanshb03",
         "id": "99d706ca-01ac-4184-98ee-9ae14079e99f",
         "date_posted": 1794931782,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795023618,
+        "url": "https://go.vansh.nyc/1Cg",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Western Digital",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "001129d7-4f1a-437e-a389-925251e8d50e",
+        "date_posted": 1795021038,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1795023774,
+        "url": "https://go.vansh.nyc/1Ch",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Scotiabank",
+        "title": "Global Analytic Financial Engineering (GAFE) Co-op, Global Banking and Markets",
+        "source": "vanshb03",
+        "id": "6241b7c4-485a-4501-9b08-68ef218c882c",
+        "date_posted": 1795023633,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
