@@ -44,6 +44,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Western Digital | Software Engineering Intern | Irvine, CA | <a href="https://go.vansh.nyc/1Cg?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
+| Bose | Software Engineer Co-op | Framingham, MA | <a href="https://go.vansh.nyc/1Cq?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
+| Amentum | Immersive Imagery SW/HW Lab Development Intern 🇺🇸 | Huntsville, AL | <a href="https://go.vansh.nyc/1Cr?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
 | State Street | Software Engineering Intern | Quincy, MA | <a href="https://go.vansh.nyc/1C0?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | ↳ | Full Stack Development Intern | Quincy, MA | <a href="https://go.vansh.nyc/1Bu?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | Ross Video | Research Assistant Co-op, AI Focus | Ottawa, Canada | <a href="https://go.vansh.nyc/1BN?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
@@ -486,7 +488,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | SK Hynix Memory Solution | SSD Firmware Development Engineer Intern | San Jose, CA | <a href="https://go.vansh.nyc/OS?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 30 |
 | fab2 | Automation Software Engineering Intern | Austin, TX</br>San Francisco, CA | <a href="https://go.vansh.nyc/1lj?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 27 |
 | ↳ | Rust Software Engineering Intern, Chip Design Tools | Austin, TX</br>San Francisco, CA | <a href="https://go.vansh.nyc/1lk?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 27 |
-| ↳ | Infrastructure Software Engineering Intern | Austin, TX</br>San Francisco, CA | <a href="https://go.vansh.nyc/1ll?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 27 |
 | ↳ | Fab Software Engineering Intern | Austin, TX</br>San Francisco, CA | <a href="https://go.vansh.nyc/1lm?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 27 |
 | ↳ | Embedded Software Engineer Intern | San Francisco, CA</br>Austin, TX | <a href="https://go.vansh.nyc/OC?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 27 |
 | Verkada | Embedded Software Engineer Intern | San Mateo, CA | <a href="https://go.vansh.nyc/Ot?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
@@ -782,6 +783,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Compiler Engineer Co-op | <details><summary>**5 locations**</summary>Austin, TX</br>Longmont, CO</br>Fishkill, NY</br>Fort Collins, CO</br>Boxborough, MA</details> | 🔒 | Sep 01 |
 | ↳ | Compiler Engineer Co-op | San Jose, CA</br>Santa Clara, CA | 🔒 | Sep 01 |
 | CACI | Embedded Software Engineer Co-op | Danbury, CT | 🔒 | Aug 31 |
+| fab2 | Infrastructure Software Engineering Intern | Austin, TX</br>San Francisco, CA | 🔒 | Aug 27 |
 | Medpace | Python Intern | Cincinnati, OH | 🔒 | Aug 24 |
 | Kodiak Robotics | Planning Intern, Mission Planning | Mountain View, CA | 🔒 | Aug 24 |
 | Philips | Software Systems Engineering Co-op, Image Guided Therapy Devices - IVUS Clinical Imaging Software Application | Plymouth, MN | 🔒 | Aug 23 |
