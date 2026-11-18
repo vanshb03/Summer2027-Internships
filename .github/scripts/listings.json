@@ -18448,13 +18448,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792812208,
+        "date_updated": 1795045917,
         "url": "https://go.vansh.nyc/ht",
         "locations": [
             "Jacksonville, FL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Citi",
         "title": "Technology Analyst Intern, Application Development",
         "source": "vanshb03",
@@ -18465,13 +18465,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792812208,
+        "date_updated": 1795045917,
         "url": "https://go.vansh.nyc/hu",
         "locations": [
             "Mississauga, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Citi",
         "title": "Technology Analyst Intern, Application Development",
         "source": "vanshb03",
@@ -61542,13 +61542,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794375552,
+        "date_updated": 1795045917,
         "url": "https://go.vansh.nyc/1tO",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "SeatGeek",
         "title": "Data Analyst - Internship",
         "source": "vanshb03",
@@ -66012,13 +66012,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794675933,
+        "date_updated": 1795045917,
         "url": "https://go.vansh.nyc/1zC",
         "locations": [
             "Cary, NC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "SAS",
         "title": "Software Developer Intern, Go/Golang",
         "source": "vanshb03",
@@ -68364,6 +68364,74 @@
         "source": "vanshb03",
         "id": "0c4a0afa-5ec8-411e-aaca-ed19a844c342",
         "date_posted": 1795042320,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795044941,
+        "url": "https://go.vansh.nyc/1Cx",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Kira Learning",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "666a712b-bb73-4464-95dc-d40f749a22cd",
+        "date_posted": 1794960000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1795044941,
+        "url": "https://go.vansh.nyc/1Cy",
+        "locations": [
+            "Markham, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Qualcomm",
+        "title": "GPU Compiler Development Intern, HW",
+        "source": "vanshb03",
+        "id": "0fe0d6bf-476e-4a79-a0cd-c863cd1bec88",
+        "date_posted": 1795043367,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795044962,
+        "url": "https://go.vansh.nyc/1Cz",
+        "locations": [
+            "Cary, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Epic Games",
+        "title": "Tools Programmer Intern, Graphics",
+        "source": "vanshb03",
+        "id": "35ca3748-a29a-43c1-8294-fce6c0f59192",
+        "date_posted": 1792780820,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795045705,
+        "url": "https://go.vansh.nyc/1CA",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Camping World",
+        "title": "Junior AI Engineering Intern",
+        "source": "vanshb03",
+        "id": "2f6a7a7e-abdb-413a-b179-7bdf33975af8",
+        "date_posted": 1795045513,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
