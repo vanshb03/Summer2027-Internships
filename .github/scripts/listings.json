@@ -67987,5 +67987,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1794974758,
+        "url": "https://go.vansh.nyc/1C4",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Sallie Mae",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "cc2b9319-5608-4789-8035-54a450a3dd4b",
+        "date_posted": 1794873600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
