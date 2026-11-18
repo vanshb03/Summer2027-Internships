@@ -67766,5 +67766,175 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1794960346,
+        "url": "https://go.vansh.nyc/1BI",
+        "locations": [
+            "Johnston, IA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lean TECHniques",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "5ba311fd-c329-46ff-9029-ae2fdd59668e",
+        "date_posted": 1794873600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794960346,
+        "url": "https://go.vansh.nyc/1BJ",
+        "locations": [
+            "Grand Rapids, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bissell",
+        "title": "AI & Automation Intern",
+        "source": "vanshb03",
+        "id": "47c6019e-3e14-4c5f-8eea-d52fad41e703",
+        "date_posted": 1794930660,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794960346,
+        "url": "https://go.vansh.nyc/1BK",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Starwood Capital Group",
+        "title": "Data Intern",
+        "source": "vanshb03",
+        "id": "ce725491-ba87-40b4-964f-acc74380e0b6",
+        "date_posted": 1794956646,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794960346,
+        "url": "https://go.vansh.nyc/1BL",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Starwood Capital Group",
+        "title": "Agentic Engineering Intern",
+        "source": "vanshb03",
+        "id": "fe13878f-b4ae-40f4-b537-44789273ecfa",
+        "date_posted": 1794956647,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794960346,
+        "url": "https://go.vansh.nyc/1BM",
+        "locations": [
+            "Monroeville, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Compunetix",
+        "title": "Software Engineer Co-op",
+        "source": "vanshb03",
+        "id": "e039745c-9974-4917-91d2-5368fda5fc6a",
+        "date_posted": 1794956856,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1794960346,
+        "url": "https://go.vansh.nyc/1BN",
+        "locations": [
+            "Ottawa, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ross Video",
+        "title": "Research Assistant Co-op, AI Focus",
+        "source": "vanshb03",
+        "id": "090cac9f-dc67-4557-bd57-1129753156a5",
+        "date_posted": 1794956980,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1794960346,
+        "url": "https://go.vansh.nyc/1BO",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Falcomm",
+        "title": "Undergraduate AI/ML Software Engineer Intern, AI/CAD Integration",
+        "source": "vanshb03",
+        "id": "c4191151-1b40-4e56-8b9e-4443e52de9ba",
+        "date_posted": 1794957272,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1794960346,
+        "url": "https://go.vansh.nyc/1BP",
+        "locations": [
+            "Rancho Cordova, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "GEI Consultants",
+        "title": "Web Developer Intern",
+        "source": "vanshb03",
+        "id": "fe845301-cfb3-4ffb-9ff3-ca7aa17ba34d",
+        "date_posted": 1794959161,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794960346,
+        "url": "https://go.vansh.nyc/1BQ",
+        "locations": [
+            "Denton, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Paccar",
+        "title": "Data Scientist Intern",
+        "source": "vanshb03",
+        "id": "4b17583f-8d1d-4453-9b0c-dd617e8d0a30",
+        "date_posted": 1794959432,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794961137,
+        "url": "https://go.vansh.nyc/1BR",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Research Intern, Firmware Security",
+        "source": "vanshb03",
+        "id": "7716e502-00f2-4ecc-bf91-d3549bbd0b4e",
+        "date_posted": 1794957750,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
