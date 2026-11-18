@@ -39381,13 +39381,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793491587,
+        "date_updated": 1794989880,
         "url": "https://go.vansh.nyc/138",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Ixian Robotics",
         "title": "Software Intern",
         "source": "vanshb03",
