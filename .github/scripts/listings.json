@@ -49904,13 +49904,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793817399,
+        "date_updated": 1795014935,
         "url": "https://go.vansh.nyc/1gQ",
         "locations": [
             "Gresham, OR"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Microchip Technology",
         "title": "Data Analyst Intern",
         "source": "vanshb03",
