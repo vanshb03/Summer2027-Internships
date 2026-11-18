@@ -67936,5 +67936,56 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1794968011,
+        "url": "https://go.vansh.nyc/1BZ",
+        "locations": [
+            "Arlington, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "GM Financial",
+        "title": "Software Development Engineer Intern",
+        "source": "vanshb03",
+        "id": "d8d4ec64-44c3-44e2-b81c-20336eed8952",
+        "date_posted": 1794873600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794968228,
+        "url": "https://go.vansh.nyc/1C0",
+        "locations": [
+            "Quincy, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "State Street",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "be997878-bdf9-4c8a-88e0-1b521ca9de9e",
+        "date_posted": 1794968027,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1794968229,
+        "url": "https://go.vansh.nyc/1C1",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "State Street",
+        "title": "Data Scientist Intern",
+        "source": "vanshb03",
+        "id": "7af3dd1f-8a8c-448d-a258-ccbc7636f839",
+        "date_posted": 1794968211,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
