@@ -41939,13 +41939,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793526799,
+        "date_updated": 1794993311,
         "url": "https://go.vansh.nyc/18n",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "Software Engineer Intern, Search Data Infra",
         "source": "vanshb03",
@@ -68036,6 +68036,23 @@
         "source": "vanshb03",
         "id": "dade3977-fb29-41fa-bc02-f8381c2e4ce0",
         "date_posted": 1794978608,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794992993,
+        "url": "https://go.vansh.nyc/1C8",
+        "locations": [
+            "Palm Bay, FL"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Nightwing",
+        "title": "Vulnerability Researcher Intern",
+        "source": "vanshb03",
+        "id": "1eb27f15-a077-4bea-a3a9-bf2c12d9f77d",
+        "date_posted": 1794906593,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
