@@ -13107,13 +13107,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792511227,
+        "date_updated": 1795027787,
         "url": "https://go.vansh.nyc/cv",
         "locations": [
             "Sugar Land, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Texas Instruments",
         "title": "Software Engineer Intern, Compiler",
         "source": "vanshb03",
@@ -47685,13 +47685,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793740337,
+        "date_updated": 1795027787,
         "url": "https://go.vansh.nyc/1ej",
         "locations": [
             "Vancouver, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Global Relay",
         "title": "Java Developer Co-op",
         "source": "vanshb03",
@@ -49236,13 +49236,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793772517,
+        "date_updated": 1795027787,
         "url": "https://go.vansh.nyc/1g0",
         "locations": [
             "Vancouver, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Apera AI",
         "title": "Machine Learning Applied Scientist Co-op",
         "source": "vanshb03",
@@ -68123,6 +68123,23 @@
         "source": "vanshb03",
         "id": "6241b7c4-485a-4501-9b08-68ef218c882c",
         "date_posted": 1795023633,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795027246,
+        "url": "https://go.vansh.nyc/1Ci",
+        "locations": [
+            "Bothell, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Viavi Solutions",
+        "title": "Robotics Intern",
+        "source": "vanshb03",
+        "id": "eb792e8f-34e4-45f8-8688-fa38d4cae7e7",
+        "date_posted": 1795026406,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
