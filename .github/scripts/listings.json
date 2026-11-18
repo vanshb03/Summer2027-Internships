@@ -9631,13 +9631,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792261427,
+        "date_updated": 1795018671,
         "url": "https://go.vansh.nyc/9e",
         "locations": [
             "Toronto, ON"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Kensington",
         "title": "Analytics Intern",
         "source": "vanshb03",
@@ -10569,13 +10569,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1792261427,
+        "date_updated": 1795018671,
         "url": "https://go.vansh.nyc/a7",
         "locations": [
             "Wilmington, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Symbotic",
         "title": "Robot Manipulation Co-op",
         "source": "vanshb03",
@@ -59757,13 +59757,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794337713,
+        "date_updated": 1795018671,
         "url": "https://go.vansh.nyc/1rU",
         "locations": [
             "United States"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "SRC, Inc",
         "title": "Machine Learning Engineer Intern",
         "source": "vanshb03",
@@ -68070,6 +68070,25 @@
         "source": "vanshb03",
         "id": "78c0c619-0e5f-4ef0-ab00-f60bbf1b1f3d",
         "date_posted": 1794869669,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795018182,
+        "url": "https://go.vansh.nyc/1Cd",
+        "locations": [
+            "Remote",
+            "United States",
+            "Stafford, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CACI",
+        "title": "Cybersecurity Intern",
+        "source": "vanshb03",
+        "id": "99d706ca-01ac-4184-98ee-9ae14079e99f",
+        "date_posted": 1794931782,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
