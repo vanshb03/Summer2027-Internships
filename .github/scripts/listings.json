@@ -68004,5 +68004,40 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1794982223,
+        "url": "https://go.vansh.nyc/1C6",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Airbnb",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "73863aac-542c-4b1b-a529-014e8b839a56",
+        "date_posted": 1794978623,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1794982396,
+        "url": "https://go.vansh.nyc/1C7",
+        "locations": [
+            "Cambridge, MA",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "S&P Global",
+        "title": "Machine Learning Engineer Intern",
+        "source": "vanshb03",
+        "id": "dade3977-fb29-41fa-bc02-f8381c2e4ce0",
+        "date_posted": 1794978608,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
