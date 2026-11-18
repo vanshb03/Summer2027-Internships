@@ -44,8 +44,11 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | State Street | Full Stack Development Intern | Quincy, MA | <a href="https://go.vansh.nyc/1Bu?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
+| Ross Video | Research Assistant Co-op, AI Focus | Ottawa, Canada | <a href="https://go.vansh.nyc/1BN?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | Robert Bosch LLC | AI Application Intern | Farmington Hills, MI | <a href="https://go.vansh.nyc/1Bg?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
-| Falcomm | AI/ML Software Engineer Undergraduate Intern, AI/CAD Integration | Atlanta, GA | <a href="https://go.vansh.nyc/1Bn?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
+| Falcomm | Undergraduate AI/ML Software Engineer Intern, AI/CAD Integration | Atlanta, GA | <a href="https://go.vansh.nyc/1BO?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
+| ↳ | AI/ML Software Engineer Undergraduate Intern, AI/CAD Integration | Atlanta, GA | <a href="https://go.vansh.nyc/1Bn?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
+| Compunetix | Software Engineer Co-op | Monroeville, PA | <a href="https://go.vansh.nyc/1BM?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | Cloudflare | AI & Automation Intern, Communications 🛂 | Office, IN | <a href="https://go.vansh.nyc/1By?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | Xradar | Software Engineer Co-op | Burnaby, Canada | <a href="https://go.vansh.nyc/1AW?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
 | Exowatt | Robotics & Physical AI Intern | Miami, FL | <a href="https://go.vansh.nyc/1Bq?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
