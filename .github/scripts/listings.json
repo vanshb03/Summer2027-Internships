@@ -54925,13 +54925,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794100178,
+        "date_updated": 1795033057,
         "url": "https://go.vansh.nyc/1mE",
         "locations": [
             "Dallas, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Conifer Health Solutions",
         "title": "BI Developer Intern",
         "source": "vanshb03",
@@ -68194,6 +68194,23 @@
         "source": "vanshb03",
         "id": "18d4ef57-a542-4f00-9935-8d62cd2c6572",
         "date_posted": 1794942632,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795032658,
+        "url": "https://go.vansh.nyc/1Cm",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Samsung Semiconductor",
+        "title": "Architecture Research Engineer Intern, MoE Placement for Serving at Scale",
+        "source": "vanshb03",
+        "id": "536a4ca7-9a09-4489-b4c6-fc2520a9244d",
+        "date_posted": 1795031518,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
