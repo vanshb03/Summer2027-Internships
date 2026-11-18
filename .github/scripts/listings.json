@@ -68214,5 +68214,39 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1795034588,
+        "url": "https://go.vansh.nyc/1Cn",
+        "locations": [
+            "Vancouver, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Roblox",
+        "title": "Software Engineer Intern, Engine",
+        "source": "vanshb03",
+        "id": "0f1ce92c-d9dd-44eb-a263-8abec9bab838",
+        "date_posted": 1795030623,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795034588,
+        "url": "https://go.vansh.nyc/1Co",
+        "locations": [
+            "Greensboro, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Syngenta Group",
+        "title": "Data Science Intern",
+        "source": "vanshb03",
+        "id": "ebf5b307-1c25-41f4-ad75-5764eea0df72",
+        "date_posted": 1795031579,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
