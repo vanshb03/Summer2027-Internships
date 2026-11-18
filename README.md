@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Viavi Solutions | Robotics Intern | Bothell, WA | <a href="https://go.vansh.nyc/1Ci?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
 | Scotiabank | Global Analytic Financial Engineering (GAFE) Co-op, Global Banking and Markets | Toronto, Canada | <a href="https://go.vansh.nyc/1Ch?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
 | Warp Sciences | Member of Technical Staff Intern, Robotics Learning | South San Francisco, CA | <a href="https://go.vansh.nyc/1Br?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | Unum | IT Intern | Chattanooga, TN</br>Portland, ME</br>Columbia, SC | <a href="https://go.vansh.nyc/1BE?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
@@ -1215,7 +1216,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Digital Communication Intern 🇺🇸 | El Segundo, CA | <a href="https://go.vansh.nyc/dx?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 21 |
 | Zillow | Software Development Engineer Intern | Seattle, WA</br>Remote in USA | <a href="https://go.vansh.nyc/dP?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 20 |
 | Uber | Software Engineer Intern | Seattle, WA</br>SF</br>Sunnyvale, CA | <a href="https://go.vansh.nyc/dg?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 20 |
-| Texas Instruments | Software Engineer Intern, Compiler | Sugar Land, TX | <a href="https://go.vansh.nyc/cv?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 20 |
 | SOTI | Cloud Administrator Intern | Mississauga, ON | <a href="https://go.vansh.nyc/cI?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 20 |
 | Sony | Research Engineer Intern, Ethical Creative and Protective AI Lab | Remote in USA | <a href="https://go.vansh.nyc/cP?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 20 |
 | Skydio | Mobile Software Engineer Intern | San Mateo, CA | <a href="https://go.vansh.nyc/cH?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 20 |
@@ -2576,6 +2576,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Verizon Communications | Data Science Intern, Verizon Consumer Group | Basking Ridge, NJ | 🔒 | Oct 20 |
 | ↳ | Call Routing Optimization Engineering Intern, Verizon Consumer Group | Basking Ridge, NJ | 🔒 | Oct 20 |
 | The Aerospace Corporation | Embedded Software Engineer Intern, Multiple Teams | El Segundo, CA | 🔒 | Oct 20 |
+| Texas Instruments | Software Engineer Intern, Compiler | Sugar Land, TX | 🔒 | Oct 20 |
 | T-Mobile | Software Engineer Intern, Cloud Security | Atlanta, GA</br>Frisco, TX | 🔒 | Oct 20 |
 | Sycamore | Member of Technical Staff Intern, Infrastructure | Palo Alto, CA | 🔒 | Oct 20 |
 | Stifel | Data Analyst Intern | Saint Louis, MO | 🔒 | Oct 20 |

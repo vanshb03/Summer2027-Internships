@@ -159,7 +159,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Software Development Engineer in Test Co-op | Halifax, Canada | <a href="https://go.vansh.nyc/1tQ?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | ↳ | DevOps Co-op | Halifax, Canada | <a href="https://go.vansh.nyc/1tR?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | ↳ | Java Developer Co-op | Halifax, Canada | <a href="https://go.vansh.nyc/1fE?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
-| ↳ | Java Developer Co-op | Vancouver, Canada | <a href="https://go.vansh.nyc/1ej?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | Etched | IA Research Engineer Intern, Kernels | San Jose, CA | <a href="https://go.vansh.nyc/1fS?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | DuCharme, McMillen & Associates | IT Quality Assurance Intern | Lisle, IL | <a href="https://go.vansh.nyc/1f2?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | Ciena | Software Developer Co-op | Quebec, Canada</br>Remote</br>Canada | <a href="https://go.vansh.nyc/1fg?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
@@ -474,7 +473,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Nuclear Promise X | Software Developer Intern | Canada | <a href="https://go.vansh.nyc/1kV?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
 | Vanguard | Co-op, Multiple Teams | Dallas, TX | <a href="https://go.vansh.nyc/IB?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 16 |
 | Insulet Corporation | Embedded Software Test Engineering Co-op 🛂 | Acton, MA | <a href="https://go.vansh.nyc/Ne?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 15 |
-| Apera AI | Machine Learning Applied Scientist Co-op | Vancouver, Canada | <a href="https://go.vansh.nyc/1g0?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 15 |
 | Google | Student Researcher Intern | Montreal, Canada | <a href="https://go.vansh.nyc/18W?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 14 |
 | ↳ | Student Researcher Intern | <details><summary>**25 locations**</summary>Mountain View, CA</br>Ann Arbor, MI</br>Atlanta, GA</br>Austin, TX</br>Boulder, CO</br>Cambridge, MA</br>Chicago, IL</br>Houston, TX</br>Irvine, CA</br>Kirkland, WA</br>Los Angeles, CA</br>Madison, WI</br>New York, NY</br>Palo Alto, CA</br>Princeton, NJ</br>Pittsburgh, PA</br>Raleigh, NC</br>Durham, NC</br>Goleta, CA</br>San Bruno, CA</br>Seattle, WA</br>San Francisco, CA</br>San Jose, CA</br>Sunnyvale, CA</br>Washington, DC</details> | <a href="https://go.vansh.nyc/18X?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 14 |
 | ↳ | Student Researcher Intern | Waterloo, Canada</br>Toronto, Canada | <a href="https://go.vansh.nyc/15I?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 14 |
@@ -564,6 +562,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Samsung Research America Internship | Agentic AI Solutions Intern | Mountain View, CA | 🔒 | Nov 03 |
 | Moderna | mRNA Design Engineering Co-op 🛂 | Cambridge, MA | 🔒 | Nov 03 |
 | Hearst | Editorial AI Development Intern | San Francisco, CA | 🔒 | Nov 03 |
+| Global Relay | Java Developer Co-op | Vancouver, Canada | 🔒 | Nov 03 |
 | Transamerica | Data Analytics Intern | Cedar Rapids, IA | 🔒 | Nov 02 |
 | Toshiba Global Commerce Solutions | AI Automation & Revenue Ops Intern | Durham, NC | 🔒 | Nov 02 |
 | Toshiba Commerce Solutions | Agentic Software Engineering Intern | Durham, NC | 🔒 | Nov 02 |
@@ -764,6 +763,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Apera AI | Software Developer Co-op, Full Stack | Vancouver, Canada | 🔒 | Sep 16 |
 | ↳ | Software Developer Co-op, Cloud Infrastructure | Vancouver, Canada | 🔒 | Sep 16 |
 | Kenvue | Tech & Data Co-op | Summit, NJ | 🔒 | Sep 15 |
+| Apera AI | Machine Learning Applied Scientist Co-op | Vancouver, Canada | 🔒 | Sep 15 |
 | EQ Bank | Commercial Lending AI Engineer Intern | Toronto, Canada | 🔒 | Sep 14 |
 | ↳ | Retail Lending AI Engineer Intern | Toronto, Canada | 🔒 | Sep 14 |
 | Geotab | Embedded Developer Intern, Engine Data Reliability | Oakville, Canada | 🔒 | Sep 10 |
