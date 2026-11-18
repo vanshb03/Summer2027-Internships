@@ -68316,5 +68316,56 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1795043460,
+        "url": "https://go.vansh.nyc/1Cu",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Samsung Semiconductor",
+        "title": "SSD Firmware Engineer Intern",
+        "source": "vanshb03",
+        "id": "5246dcfb-4db5-4a2a-86e3-28dc296279ae",
+        "date_posted": 1795042320,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795043460,
+        "url": "https://go.vansh.nyc/1Cv",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Research Intern, Computer Vision and Deep Learning",
+        "source": "vanshb03",
+        "id": "e529c65c-8dcb-4357-b569-f601c04b1677",
+        "date_posted": 1795040940,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795043460,
+        "url": "https://go.vansh.nyc/1Cw",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Samsung Semiconductor",
+        "title": "LLM Inference Acceleration Architecture Intern, Distributed Memory-Centric Accelerators",
+        "source": "vanshb03",
+        "id": "0c4a0afa-5ec8-411e-aaca-ed19a844c342",
+        "date_posted": 1795042320,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
