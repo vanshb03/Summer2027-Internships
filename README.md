@@ -445,9 +445,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | United Wholesale Mortgage | Technology Intern Program | Remote</br>United States | <a href="https://go.vansh.nyc/1mx?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | Trimble | AI Automation Intern | Dayton, OH</br>Westminster, CO | <a href="https://go.vansh.nyc/1lh?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | TikTok | GEO Content Product Manager Intern | San Jose, CA | <a href="https://go.vansh.nyc/1lW?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
-| The New York Times | Android Engineering Intern | New York, NY | <a href="https://go.vansh.nyc/1l6?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
-| ↳ | iOS Engineering Intern | New York, NY | <a href="https://go.vansh.nyc/1l8?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
-| ↳ | Interactive News Engineering Intern | New York, NY | <a href="https://go.vansh.nyc/1km?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
+| The New York Times | Interactive News Engineering Intern | New York, NY | <a href="https://go.vansh.nyc/1km?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | Shure | Cloud Software Engineering Intern 🛂 | Niles, IL | <a href="https://go.vansh.nyc/1lx?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | ↳ | Embedded Software Intern 🛂 | Niles, IL | <a href="https://go.vansh.nyc/1ka?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | ↳ | Application Software Development Intern 🛂 | Niles, IL | <a href="https://go.vansh.nyc/1kb?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
@@ -1413,7 +1411,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Tenstorrent | Systems Intern, Validation, Software, Design, Architecture & Packaging | Austin, TX</br>Santa Clara, CA | <a href="https://go.vansh.nyc/gg?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 13 |
 | SOTI | Software Developer Intern, SOTI MobiControl Apple HQ | Mississauga, ON | <a href="https://go.vansh.nyc/8O?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 13 |
 | ServiceNow | Associate Software Engineer Intern, AI Engineering | Santa Clara, CA | <a href="https://go.vansh.nyc/8N?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 13 |
-| Medpace | Python Developer Intern | Cincinnati, OH | <a href="https://go.vansh.nyc/Ca?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 13 |
 | Mary Free Bed Rehabilitation Hospital | IT Intern | Grand Rapids, MI | <a href="https://go.vansh.nyc/8I?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 13 |
 | Marsh | Intern | Dallas, TX | <a href="https://go.vansh.nyc/8H?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 13 |
 | Manulife Financial | Software Engineer Intern | Waterloo, Canada | <a href="https://go.vansh.nyc/Ci?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 13 |
@@ -2113,7 +2110,9 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | 7-Eleven | Data Engineer Intern | Irving, TX | 🔒 | Nov 08 |
 | empirical | Software Engineering Intern | Dakota Dunes, SD | 🔒 | Nov 07 |
 | TikTok | POI Content Product Manager Intern | San Jose, CA | 🔒 | Nov 06 |
-| The New York Times | Frontend Engineering Intern | New York, NY | 🔒 | Nov 06 |
+| The New York Times | Android Engineering Intern | New York, NY | 🔒 | Nov 06 |
+| ↳ | iOS Engineering Intern | New York, NY | 🔒 | Nov 06 |
+| ↳ | Frontend Engineering Intern | New York, NY | 🔒 | Nov 06 |
 | ↳ | Full-Stack Engineering Intern | New York, NY | 🔒 | Nov 06 |
 | ↳ | Backend Engineering Intern | New York, NY | 🔒 | Nov 06 |
 | T-Mobile | AI Strategist Intern | Bellevue, WA | 🔒 | Nov 06 |
@@ -2738,6 +2737,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Sparse Linear Algebra Libraries Intern | Santa Clara, CA | 🔒 | Oct 13 |
 | Northrop Grumman | Computer Engineer Intern 🇺🇸 | Manhattan Beach, CA | 🔒 | Oct 13 |
 | ↳ | Engineer Intern, Product Support 🇺🇸 | Oklahoma City, OK | 🔒 | Oct 13 |
+| Medpace | Python Developer Intern | Cincinnati, OH | 🔒 | Oct 13 |
 | LSEG | Finance Engineer Intern | New York, NY | 🔒 | Oct 13 |
 | ↳ | Software Engineer Intern | New York, NY | 🔒 | Oct 13 |
 | KLA | Software Engineer Intern, AI | Ann Arbor, MI | 🔒 | Oct 13 |
