@@ -68056,5 +68056,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1795000344,
+        "url": "https://go.vansh.nyc/1C9",
+        "locations": [
+            "Madison, WI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "State of Wisconsin Investment Board",
+        "title": "Information Security Intern",
+        "source": "vanshb03",
+        "id": "78c0c619-0e5f-4ef0-ab00-f60bbf1b1f3d",
+        "date_posted": 1794869669,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
