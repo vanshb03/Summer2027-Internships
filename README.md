@@ -216,7 +216,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Embedded Software Engineering Intern | Bloomington, MN | <a href="https://go.vansh.nyc/1wx?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | Encore Global | IT Data Analyst Intern | Schiller Park, IL | <a href="https://go.vansh.nyc/1xN?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | ↳ | IT Application Development Intern | Schiller Park, IL | <a href="https://go.vansh.nyc/1xO?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
-| CoStar Group | Vision & Learning Intern | Sunnyvale, CA | <a href="https://go.vansh.nyc/1yq?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | Clyde Companies | Application Development Intern | Orem, UT | <a href="https://go.vansh.nyc/1xW?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | ↳ | Cybersecurity Intern | Orem, UT | <a href="https://go.vansh.nyc/1xX?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | ↳ | Cyber Security Intern | Orem, UT | <a href="https://go.vansh.nyc/1xY?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
@@ -2016,6 +2015,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | KION Group | A.I. Engineering Intern | Grand Rapids, MI | 🔒 | Nov 12 |
 | Keysight Technologies | Software Engineer Intern | Tewksbury, MA | 🔒 | Nov 12 |
 | E2 Consulting Engineers | Data Analyst Intern | San Diego, CA | 🔒 | Nov 12 |
+| CoStar Group | Vision & Learning Intern | Sunnyvale, CA | 🔒 | Nov 12 |
 | Cigna | Software Engineering Intern | <details><summary>**4 locations**</summary>St. Louis, MO</br>Austin, TX</br>Morris Plains, NJ</br>Bloomfield, CT</details> | 🔒 | Nov 12 |
 | CareSource | Software Engineer Intern | Remote</br>United States | 🔒 | Nov 12 |
 | Autodesk | Software Developer Intern | Montreal, Canada | 🔒 | Nov 12 |
