@@ -25395,13 +25395,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793021626,
+        "date_updated": 1795047410,
         "url": "https://go.vansh.nyc/J6",
         "locations": [
             "Dallas, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "GuideStone",
         "title": "Software Developer Intern, Software Development",
         "source": "vanshb03",
@@ -35108,13 +35108,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793226913,
+        "date_updated": 1795047410,
         "url": "https://go.vansh.nyc/Y5",
         "locations": [
             "Mountain View, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "LinkedIn",
         "title": "Software Engineer Intern, First Play",
         "source": "vanshb03",
@@ -68432,6 +68432,40 @@
         "source": "vanshb03",
         "id": "2f6a7a7e-abdb-413a-b179-7bdf33975af8",
         "date_posted": 1795045513,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795046729,
+        "url": "https://go.vansh.nyc/1CB",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "HERE Technologies",
+        "title": "Data Science Intern",
+        "source": "vanshb03",
+        "id": "296e2371-019d-4a3a-bcf0-9276f913e41e",
+        "date_posted": 1795046400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795046729,
+        "url": "https://go.vansh.nyc/1CC",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "HERE Technologies",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "c5232636-e2ad-443f-8c79-60a8adc6eca8",
+        "date_posted": 1795046400,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
