@@ -65257,13 +65257,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794587747,
+        "date_updated": 1795108584,
         "url": "https://go.vansh.nyc/1yK",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "WTW",
         "title": "Data Analyst Intern",
         "source": "vanshb03",
