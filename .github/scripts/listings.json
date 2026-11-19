@@ -69103,5 +69103,142 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1795131342,
+        "url": "https://go.vansh.nyc/1Dt",
+        "locations": [
+            "Montreal, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Horizon Trading Solutions",
+        "title": "Java Developer Intern",
+        "source": "vanshb03",
+        "id": "3e8f3f7d-05af-48ae-b9a3-3c72437bfeb2",
+        "date_posted": 1795106817,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795131342,
+        "url": "https://go.vansh.nyc/1Du",
+        "locations": [
+            "Beaverton, OR"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ralliant",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "5022348d-ce09-4978-a574-91b7eac36cf5",
+        "date_posted": 1795129504,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795131342,
+        "url": "https://go.vansh.nyc/1Dv",
+        "locations": [
+            "Newark, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lucid Motors",
+        "title": "Embedded Software Intern",
+        "source": "vanshb03",
+        "id": "d38539d8-2fc6-4745-ace1-7956fb476a84",
+        "date_posted": 1795130066,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795131814,
+        "url": "https://go.vansh.nyc/1Dw",
+        "locations": [
+            "Newark, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lucid Motors",
+        "title": "Software Engineer Intern, SDET",
+        "source": "vanshb03",
+        "id": "d7fcce10-ad3b-469a-86e4-8cbb5df3a52a",
+        "date_posted": 1795046400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795131814,
+        "url": "https://go.vansh.nyc/1Dx",
+        "locations": [
+            "Redmond, WA",
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Research Intern, AI/Machine Learning Numerics & Efficiency",
+        "source": "vanshb03",
+        "id": "bea86153-9907-43c5-afce-d4d63988acef",
+        "date_posted": 1795128875,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795131814,
+        "url": "https://go.vansh.nyc/1Dy",
+        "locations": [
+            "Cary, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SAS",
+        "title": "Cybersecurity Compliance and AI Automation Intern",
+        "source": "vanshb03",
+        "id": "7c706d4b-7268-4a9a-8694-75bbeeae5a65",
+        "date_posted": 1795131676,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795132001,
+        "url": "https://go.vansh.nyc/1Dz",
+        "locations": [
+            "Idaho Falls, ID"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Idaho National Laboratory",
+        "title": "PSION Development Intern",
+        "source": "vanshb03",
+        "id": "57664f2a-5f88-42c1-aa43-9b198b7b1150",
+        "date_posted": 1795046400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795132002,
+        "url": "https://go.vansh.nyc/1DA",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Compassion International",
+        "title": "Data and Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "16d9a23e-0411-48ab-a603-0881117dfe0f",
+        "date_posted": 1795131985,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
