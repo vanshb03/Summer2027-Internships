@@ -54857,13 +54857,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794100039,
+        "date_updated": 1795115805,
         "url": "https://go.vansh.nyc/1mA",
         "locations": [
             "Manassas, VA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "General Dynamics Mission Systems",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
@@ -60427,13 +60427,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1794359302,
+        "date_updated": 1795115805,
         "url": "https://go.vansh.nyc/1sH",
         "locations": [
             "Bethpage, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Optimum (Altice USA)",
         "title": "QA Automation Engineering Intern",
         "source": "vanshb03",
