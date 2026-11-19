@@ -87,7 +87,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Software Development, Quality Assurance and AI Intern | Montreal, Canada | <a href="https://go.vansh.nyc/1wi?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | SK hynix memory solutions America Inc. | Embedded Software Engineer Intern | San Jose, CA | <a href="https://go.vansh.nyc/1vW?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | Sanofi | Data Science & Digital Transformation Co-op | Framingham, MA | <a href="https://go.vansh.nyc/1vt?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
-| Medpace | Clinical Informatics Co-op | Cincinnati, OH | <a href="https://go.vansh.nyc/1xk?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | Lynco Products | Full Stack Software Development Intern | West Milan, IL | <a href="https://go.vansh.nyc/1xd?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | Bose | Digital Signal Processing ML Software Development Co-op | Framingham, MA | <a href="https://go.vansh.nyc/1uN?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | Zingage | Software Engineer Co-op | New York, NY | <a href="https://go.vansh.nyc/1rB?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
@@ -532,6 +531,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Corteva | R&D Intern, Computer & Data Science | Indianapolis, IN | 🔒 | Nov 13 |
 | CACI | Configuration Control/Data Management Co-op | Danbury, CT | 🔒 | Nov 13 |
 | Fresenius Medical Care | Agentic AI Analytics Co-op | Lawrence, MA | 🔒 | Nov 12 |
+| Medpace | Clinical Informatics Co-op | Cincinnati, OH | 🔒 | Nov 11 |
 | Bank of Montreal | AI Developer Co-op | Toronto, Canada | 🔒 | Nov 11 |
 | Optimum (Altice USA) | QA Automation Engineering Intern | Bethpage, NY | 🔒 | Nov 10 |
 | ↳ | Cloud Platform Engineering Intern | Bethpage, NY | 🔒 | Nov 10 |

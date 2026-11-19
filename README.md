@@ -1960,7 +1960,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Product Manager Intern 🛂 | McLean, VA | <a href="https://go.vansh.nyc/4G?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | Akuna Capital | Quantitative Research Intern 🇺🇸 | Chicago | <a href="https://go.vansh.nyc/4z?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | Quantiq | Software Developer Intern | Austin, TX | <a href="https://go.vansh.nyc/1gf?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 15 |
-| Old Mission | Software Engineer Intern | Chicago, IL | <a href="https://go.vansh.nyc/QB?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 15 |
 | Serval | Software Engineer Intern | San Francisco, CA | <a href="https://go.vansh.nyc/1kU?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 13 |
 | Jump Trading Group | Campus UI Software Engineer Intern | Chicago, IL | <a href="https://go.vansh.nyc/3m?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 09 |
 | Jump Trading | Campus Systems Engineer Intern | Chicago, IL | <a href="https://go.vansh.nyc/3t?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 09 |
@@ -3030,6 +3029,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Software Engineer Intern, C++ 🇺🇸 | Chicago, IL | 🔒 | Jul 24 |
 | ↳ | Hardware Engineer Intern 🇺🇸 | Chicago, IL | 🔒 | Jul 24 |
 | ↳ | Python Software Engineer Intern 🇺🇸 | Chicago, IL | 🔒 | Jul 24 |
+| Old Mission | Software Engineer Intern | Chicago, IL | 🔒 | Jul 15 |
 | Rakuten International | Software Engineer Intern | San Mateo, California | 🔒 | Jul 09 |
 | Jump Trading | Software Engineer Intern | Chicago, IL | 🔒 | Jul 09 |
 | Susquehanna Investment Group | Quantitative Strategy Developer Intern | Bala Cynwyd, PA | 🔒 | Jul 07 |
