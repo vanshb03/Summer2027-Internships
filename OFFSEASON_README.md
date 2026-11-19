@@ -246,7 +246,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Full-Stack Life Sciences Engineer Co-op | Durham, NC | <a href="https://go.vansh.nyc/19C?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | Johnson & Johnson | Software Engineering Co-op | Cincinnati, OH | <a href="https://go.vansh.nyc/1cz?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | Insulet Corporation | Embedded Software Test Engineering Co-op 🛂 | Acton, MA | <a href="https://go.vansh.nyc/1dp?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
-| Flextronics International | Manufacturing Data & Analytics Co-op | Libertyville, IL | <a href="https://go.vansh.nyc/1dl?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | Engramme | Back-End Software Engineer Co-op | San Francisco, CA | <a href="https://go.vansh.nyc/1fx?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | ↳ | Full-Stack Software Engineer Co-op | San Francisco, CA | <a href="https://go.vansh.nyc/1fy?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | ↳ | Machine Learning Engineer Co-op | San Francisco, CA | <a href="https://go.vansh.nyc/1fz?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
@@ -577,6 +576,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Johnson & Johnson | Software Engineering Co-op | Danvers, MA | 🔒 | Nov 02 |
 | ↳ | Software Test Engineering Co-op | Danvers, MA | 🔒 | Nov 02 |
 | ↳ | Heart Recovery Software R&D Co-op | Halethorpe, MD | 🔒 | Nov 02 |
+| Flextronics International | Manufacturing Data & Analytics Co-op | Libertyville, IL | 🔒 | Nov 02 |
 | Charter Manufacturing | Automation & Analytics Intern | Milwaukee, WI | 🔒 | Nov 02 |
 | Apache Industrial | AI Implementation Intern | Houston, TX | 🔒 | Nov 02 |
 | TikTok | Software Engineer Intern, Search Data Infra | San Jose, CA | 🔒 | Nov 01 |
