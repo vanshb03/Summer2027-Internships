@@ -120,7 +120,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | i3 | Embedded Systems Reverse Engineer Intern 🇺🇸 | Washington, DC | <a href="https://go.vansh.nyc/1Af?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
 | Highmark Health | Technical Analyst Intern, enGen Undergraduate | Pittsburgh, PA | <a href="https://go.vansh.nyc/1AK?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
 | HexArmor | Software Engineer Intern | Atlanta, GA | <a href="https://go.vansh.nyc/1AQ?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
-| GM Financial | Software Development Engineer Intern | Arlington, TX | <a href="https://go.vansh.nyc/1BZ?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
 | GlobalFoundries | Tapeout Engineering Business Products & Engineering Intern | Austin, TX | <a href="https://go.vansh.nyc/1Bc?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
 | Fiserv | Technology Intern, Cybersecurity | Berkeley Heights, NJ | <a href="https://go.vansh.nyc/1AS?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
 | ↳ | Technology Intern, Cybersecurity | Columbus, OH | <a href="https://go.vansh.nyc/1AT?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
@@ -2009,6 +2008,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Barkback | Software Intern | Santa Barbara, CA | <a href="https://go.vansh.nyc/Qv?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 2016 |
 | Northwestern Mutual | Application Development Intern | Milwaukee, WI | <a href="https://go.vansh.nyc/Qu?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 2015 |
 | Soros Fund Management | Quantitative Strategist Intern | New York, NY | 🔒 | Nov 17 |
+| GM Financial | Software Development Engineer Intern | Arlington, TX | 🔒 | Nov 16 |
 | Amazon | Software Development Engineer Intern, Artificial General Intelligence | Sunnyvale, CA | 🔒 | Nov 16 |
 | Eight Sleep | Firmware Intern | <details><summary>**4 locations**</summary>San Francisco, CA</br>New York, NY</br>Washington, DC</br>Austin, TX</details> | 🔒 | Nov 14 |
 | Soros Fund Management | Trading Intern, Middle and Back Office Dev | New York, NY | 🔒 | Nov 13 |
