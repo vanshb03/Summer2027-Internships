@@ -64456,13 +64456,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794525009,
+        "date_updated": 1795072632,
         "url": "https://go.vansh.nyc/1xM",
         "locations": [
             "Idaho Falls, ID"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Idaho National Laboratory",
         "title": "Cybersecurity Vulnerability Assessment Intern",
         "source": "vanshb03",
@@ -66672,13 +66672,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794856100,
+        "date_updated": 1795072632,
         "url": "https://go.vansh.nyc/1Am",
         "locations": [
             "Idaho Falls, ID"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Idaho National Laboratory",
         "title": "Cybersecurity Operations Intern",
         "source": "vanshb03",
