@@ -584,8 +584,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Legrand | Firmware Engineering Intern | Reno, NV | <a href="https://go.vansh.nyc/1iV?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
 | Keysight Technologies | R&D DSP/FPGA Design Automation Intern | Santa Rosa, CA | <a href="https://go.vansh.nyc/1hn?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
 | John Deere | Product Engineering Student Intern | Urbandale, IA | <a href="https://go.vansh.nyc/1hv?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
-| General Dynamics Mission Systems | Software Engineering Intern | Manassas, VA | <a href="https://go.vansh.nyc/1mA?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
-| ↳ | FPGA Engineer Intern | Manassas, VA | <a href="https://go.vansh.nyc/1i0?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
+| General Dynamics Mission Systems | FPGA Engineer Intern | Manassas, VA | <a href="https://go.vansh.nyc/1i0?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
 | Ericsson | Technology and AI Intern 🛂 | Plano, TX | <a href="https://go.vansh.nyc/1gz?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
 | Constellation Energy | Renewable Energy Intern | Houston, TX | <a href="https://go.vansh.nyc/1hY?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
 | Constellation Brands | AI & Automation Engineering Intern | Rochester, NY | <a href="https://go.vansh.nyc/1h2?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
@@ -2193,7 +2192,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Kudu Dynamics | Software Engineering & AI Intern 🇺🇸 | <details><summary>**4 locations**</summary>Remote</br>United States</br>Odenton, MD</br>Shiloh, IL</details> | 🔒 | Nov 04 |
 | JM Family Enterprises | Software Engineer Intern | Deerfield Beach, FL | 🔒 | Nov 04 |
 | ↳ | Software Analyst Intern | Deerfield Beach, FL | 🔒 | Nov 04 |
-| General Dynamics Mission Systems | Software Engineering Intern | Lakewood, OH | 🔒 | Nov 04 |
+| General Dynamics Mission Systems | Software Engineering Intern | Manassas, VA | 🔒 | Nov 04 |
+| ↳ | Software Engineering Intern | Lakewood, OH | 🔒 | Nov 04 |
 | Cigna | Cybersecurity Intern, Technology Development Program | Bloomfield, CT</br>St. Louis, MO | 🔒 | Nov 04 |
 | CareSource | Configuration and Automation Intern | Remote</br>United States | 🔒 | Nov 04 |
 | BorgWarner | Software Engineering Intern | Auburn Hills, MI | 🔒 | Nov 04 |
