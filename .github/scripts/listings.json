@@ -54360,13 +54360,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794056958,
+        "date_updated": 1795105185,
         "url": "https://go.vansh.nyc/1m2",
         "locations": [
             "Overland Park, KS"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Aechelon Technology",
         "title": "Junior Software Engineer Intern",
         "source": "vanshb03",
@@ -68568,6 +68568,40 @@
         "source": "vanshb03",
         "id": "4ef3d500-94f8-4e07-a2f8-06c6f977e774",
         "date_posted": 1795086663,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795104346,
+        "url": "https://go.vansh.nyc/1CS",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "RTX",
+        "title": "Software Security Intern",
+        "source": "vanshb03",
+        "id": "792e6008-5f19-4b62-a0e1-99806e1a1292",
+        "date_posted": 1795046400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795104996,
+        "url": "https://go.vansh.nyc/1CT",
+        "locations": [
+            "Colorado Springs, CO"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Leidos",
+        "title": "Software Developer Intern, AI Project",
+        "source": "vanshb03",
+        "id": "2d8fc763-f359-488d-bbff-92010fe8d3fb",
+        "date_posted": 1795018474,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
