@@ -68469,5 +68469,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1795057534,
+        "url": "https://go.vansh.nyc/1CE",
+        "locations": [
+            "Vancouver, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Workstream",
+        "title": "Full Stack Engineer Intern",
+        "source": "vanshb03",
+        "id": "031bd30e-e960-4ee9-88b3-43963bb145f2",
+        "date_posted": 1795053901,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
