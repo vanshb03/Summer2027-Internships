@@ -29211,13 +29211,13 @@
         "season": "Fall"
     },
     {
-        "date_updated": 1793025930,
+        "date_updated": 1795090656,
         "url": "https://go.vansh.nyc/OT",
         "locations": [
             "Cincinnati, OH"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Procter & Gamble (P&G)",
         "title": "IT Security Intern",
         "source": "vanshb03",
@@ -29417,14 +29417,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793027048,
+        "date_updated": 1795090656,
         "url": "https://go.vansh.nyc/Q2",
         "locations": [
             "Wilmington, MA",
             "Camas, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Analog Devices",
         "title": "Information Technology Intern",
         "source": "vanshb03",
