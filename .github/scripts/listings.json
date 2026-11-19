@@ -28480,13 +28480,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793024036,
+        "date_updated": 1795128760,
         "url": "https://go.vansh.nyc/Nd",
         "locations": [
             "Lakeville, MN"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Compeer Financial",
         "title": "Infrastructure Engineering Intern",
         "source": "vanshb03",
@@ -63413,14 +63413,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794501328,
+        "date_updated": 1795128760,
         "url": "https://go.vansh.nyc/1wF",
         "locations": [
             "Waltham, MA",
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Trinity Life Sciences",
         "title": "Data Science Intern",
         "source": "vanshb03",
@@ -64422,13 +64422,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794525009,
+        "date_updated": 1795128760,
         "url": "https://go.vansh.nyc/1xK",
         "locations": [
             "Tucson, AZ"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Kudu Dynamics",
         "title": "Junior Software Engineer/Data Scientist Intern",
         "source": "vanshb03",
@@ -69032,5 +69032,76 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1795128551,
+        "url": "https://go.vansh.nyc/1Dp",
+        "locations": [
+            "Menlo Park, CA",
+            "Bellevue, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Snowflake",
+        "title": "Software Engineer Intern, Database Engineering",
+        "source": "vanshb03",
+        "id": "f7292ae6-b467-4ecf-b1be-ce2df3d65e34",
+        "date_posted": 1795046400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795128551,
+        "url": "https://go.vansh.nyc/1Dq",
+        "locations": [
+            "Menlo Park, CA",
+            "Bellevue, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Snowflake",
+        "title": "Software Engineer Intern, Core Infrastructure & Security",
+        "source": "vanshb03",
+        "id": "3cc9c507-1a42-4de3-b0c0-093e952dace4",
+        "date_posted": 1795046400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795128551,
+        "url": "https://go.vansh.nyc/1Dr",
+        "locations": [
+            "Menlo Park, CA",
+            "Bellevue, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Snowflake",
+        "title": "Software Engineer Intern, AI/ML",
+        "source": "vanshb03",
+        "id": "363d73ec-815f-4c95-bb0f-b34587572a05",
+        "date_posted": 1795046400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795128551,
+        "url": "https://go.vansh.nyc/1Ds",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "HeartFlow",
+        "title": "Platform Engineering Intern",
+        "source": "vanshb03",
+        "id": "a59d1d0b-dbd5-4de7-985b-16a785472771",
+        "date_posted": 1795117465,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
