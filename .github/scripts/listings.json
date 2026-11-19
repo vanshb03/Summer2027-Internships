@@ -37510,13 +37510,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793385742,
+        "date_updated": 1795054867,
         "url": "https://go.vansh.nyc/10V",
         "locations": [
             "Toronto, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Altera",
         "title": "FPGA Development Tools Intern",
         "source": "vanshb03",
