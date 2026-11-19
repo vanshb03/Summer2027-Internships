@@ -8458,13 +8458,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792261427,
+        "date_updated": 1795119394,
         "url": "https://go.vansh.nyc/87",
         "locations": [
             "Lincolnshire, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Bosch",
         "title": "ERP/IT Intern",
         "source": "vanshb03",
@@ -46866,13 +46866,13 @@
         "season": "Spring"
     },
     {
-        "date_updated": 1793689722,
+        "date_updated": 1795119394,
         "url": "https://go.vansh.nyc/1dl",
         "locations": [
             "Libertyville, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Flextronics International",
         "title": "Manufacturing Data & Analytics Co-op",
         "source": "vanshb03",
@@ -68689,6 +68689,40 @@
         "source": "vanshb03",
         "id": "39f0c00e-e4b7-4ced-92ff-e5f60c0a4ad4",
         "date_posted": 1795109173,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795119187,
+        "url": "https://go.vansh.nyc/1D1",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Allied Consultants",
+        "title": "AI/ML Engineer Intern",
+        "source": "vanshb03",
+        "id": "addfb4a4-e8fa-4a5b-b0eb-8a6990541269",
+        "date_posted": 1795119035,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795119187,
+        "url": "https://go.vansh.nyc/1D2",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "DocuSign",
+        "title": "Product Data Science Intern",
+        "source": "vanshb03",
+        "id": "938da458-d67c-4fda-95c1-c1301d682c80",
+        "date_posted": 1795119035,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
