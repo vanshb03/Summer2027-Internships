@@ -383,7 +383,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Definity Financial | Cloud Engineer Co-op | Waterloo, ON | <a href="https://go.vansh.nyc/9Y?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
 | CACI | Software Test Engineer Intern | Remote</br>United States | <a href="https://go.vansh.nyc/CX?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
 | Anduril | Research Engineer Co-op | Santa Ana, CA | <a href="https://go.vansh.nyc/9W?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
-| Susquehanna International Group | Technology Co-op | Remote (US) | <a href="https://go.vansh.nyc/9A?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
 | Skydio | Manufacturing Software Engineer Intern | San Mateo, CA | <a href="https://go.vansh.nyc/9y?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
 | Hitachi | ITV Automation Specialist Intern | Toronto, ON | <a href="https://go.vansh.nyc/9v?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
 | Atoms | Software Engineer Intern | Seattle, WA | <a href="https://go.vansh.nyc/Cp?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
@@ -707,6 +706,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | BC Pensions | Application Developer Co-op | Victoria, BC, Canada | 🔒 | Oct 15 |
 | Abridge | Member of Technical Staff Intern | SF | 🔒 | Oct 15 |
 | Tessera Labs | Full Stack Software Engineer Intern | <details><summary>**4 locations**</summary>San Jose, CA</br>Remote</br>United States</br>New York, NY</details> | 🔒 | Oct 14 |
+| Susquehanna International Group | Technology Co-op | Remote (US) | 🔒 | Oct 14 |
 | Sony Pictures Entertainment | Current Programming Intern, Sony Pictures Television | Culver City, CA | 🔒 | Oct 14 |
 | Later | Data Science Co-op | Vancouver, BC | 🔒 | Oct 14 |
 | Johnson & Johnson | Technical Operations Co-op | West Chester, PA | 🔒 | Oct 14 |
