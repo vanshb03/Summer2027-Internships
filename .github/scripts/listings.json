@@ -69015,5 +69015,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1795126431,
+        "url": "https://go.vansh.nyc/1Do",
+        "locations": [
+            "Sudbury, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Gentuity",
+        "title": "Software Engineer Co-op",
+        "source": "vanshb03",
+        "id": "257ec1ee-8999-4991-88e4-8ec356662ce8",
+        "date_posted": 1795046400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
