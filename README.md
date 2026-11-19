@@ -141,7 +141,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Reliable Robotics Corporation | Displays Software Engineer Intern | Mountain View, CA | <a href="https://go.vansh.nyc/1AA?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 15 |
 | Milliman | Data Analytics Intern, IntelliScript | Brookfield, WI | <a href="https://go.vansh.nyc/1A2?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 15 |
 | Micron Technology | Data Science Intern, SMAI | Boise, ID | <a href="https://go.vansh.nyc/1Ap?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 15 |
-| Idaho National Laboratory | Cybersecurity Operations Intern | Idaho Falls, ID | <a href="https://go.vansh.nyc/1Am?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 15 |
 | Carnival Corporation | Data Analytics Intern | Miami, FL | <a href="https://go.vansh.nyc/1Av?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 15 |
 | ↳ | Data & AI Solutions Intern | Miami, FL | <a href="https://go.vansh.nyc/1Ag?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 15 |
 | ↳ | Revenue Data Science Intern | Miami, FL | <a href="https://go.vansh.nyc/1Ah?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 15 |
@@ -274,7 +273,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | International Motors | IT Security Intern | Lisle, IL | <a href="https://go.vansh.nyc/1xa?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | Ingersoll Rand | AI Engineer Intern | United States | <a href="https://go.vansh.nyc/1x4?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | ↳ | Cybersecurity Intern | United States | <a href="https://go.vansh.nyc/1x6?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
-| Idaho National Laboratory | Cybersecurity Vulnerability Assessment Intern | Idaho Falls, ID | <a href="https://go.vansh.nyc/1xM?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | HUB International | Security Architect Intern | Chicago, IL | <a href="https://go.vansh.nyc/1vD?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | ↳ | AI Engineering Intern | Chicago, IL | <a href="https://go.vansh.nyc/1vr?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | Hewlett Packard Enterprise | Research Associate Intern, Systems Architecture Lab | Milpitas, CA | <a href="https://go.vansh.nyc/1w1?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
@@ -2010,6 +2008,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Soros Fund Management | Quantitative Strategist Intern | New York, NY | 🔒 | Nov 17 |
 | GM Financial | Software Development Engineer Intern | Arlington, TX | 🔒 | Nov 16 |
 | Amazon | Software Development Engineer Intern, Artificial General Intelligence | Sunnyvale, CA | 🔒 | Nov 16 |
+| Idaho National Laboratory | Cybersecurity Operations Intern | Idaho Falls, ID | 🔒 | Nov 15 |
 | Eight Sleep | Firmware Intern | <details><summary>**4 locations**</summary>San Francisco, CA</br>New York, NY</br>Washington, DC</br>Austin, TX</details> | 🔒 | Nov 14 |
 | Soros Fund Management | Trading Intern, Middle and Back Office Dev | New York, NY | 🔒 | Nov 13 |
 | SAS | Software Developer Intern, Go/Golang | Cary, NC | 🔒 | Nov 13 |
@@ -2026,6 +2025,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Software Engineering Intern 🇺🇸 | McKinney, TX | 🔒 | Nov 11 |
 | MKS Instruments | Software Engineer Co-op | Andover, MA | 🔒 | Nov 11 |
 | McDonald's | Global Tech Infrastructure & Operations Intern | Chicago, IL | 🔒 | Nov 11 |
+| Idaho National Laboratory | Cybersecurity Vulnerability Assessment Intern | Idaho Falls, ID | 🔒 | Nov 11 |
 | ICF | Data Analytics Intern | Reston, VA</br>Remote</br>United States | 🔒 | Nov 11 |
 | CarGurus | Site Reliability Engineer Intern | Boston, MA | 🔒 | Nov 11 |
 | Brex | Software Engineer Intern | San Francisco, CA | 🔒 | Nov 11 |
