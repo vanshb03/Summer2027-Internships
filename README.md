@@ -1851,7 +1851,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Honeywell | Embedded Engineer Intern | United States | <a href="https://go.vansh.nyc/Ou?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
 | DV Trading | Futures & Options Trading Analyst Intern | New York, NY | <a href="https://go.vansh.nyc/Ow?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
 | Compeer Financial | Engineering Intern | Sun Prairie, WI</br>Mankato, MN</br>Bloomington, IL | <a href="https://go.vansh.nyc/Ov?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
-| AQR Capital Management | Arbitrage Research Analyst Intern, Arbitrage | Greenwich, CT | <a href="https://go.vansh.nyc/Qr?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
 | Garmin | Software Engineer Intern | Olathe, KS | <a href="https://go.vansh.nyc/Oq?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 24 |
 | Vertiv | Product Management Intern, MBA 🛂 | Delaware, OH | <a href="https://go.vansh.nyc/7y?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 21 |
 | The Nuclear Company | AI Applied Research Intern 🛂 | Washington, DC | <a href="https://go.vansh.nyc/6N?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 21 |
@@ -1947,7 +1946,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Tools and Compilers Research and Development Intern | New York, NY | <a href="https://go.vansh.nyc/48?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | ↳ | Sales and Trading Intern | New York, NY | <a href="https://go.vansh.nyc/47?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | ↳ | Linux Engineer Intern | New York, NY | <a href="https://go.vansh.nyc/45?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
-| ↳ | Hardware Engineer (FPGA/ASIC) Intern | New York, NY | <a href="https://go.vansh.nyc/44?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | ↳ | Fundamental Research Analyst Intern | New York, NY | <a href="https://go.vansh.nyc/43?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | ↳ | Data Engineer Intern | New York, NY | <a href="https://go.vansh.nyc/42?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | ↳ | Cybersecurity Analyst Intern | New York, NY | <a href="https://go.vansh.nyc/41?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
@@ -2949,6 +2947,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | American Express | Data Engineer Intern, Enterprise Technology Services | Sunrise, FL | 🔒 | Aug 31 |
 | IMC Trading | Performance Engineer Intern | Chicago, IL | 🔒 | Aug 27 |
 | Booz Allen Hamilton | Software Developer Intern | San Diego, CA | 🔒 | Aug 26 |
+| AQR Capital Management | Arbitrage Research Analyst Intern, Arbitrage | Greenwich, CT | 🔒 | Aug 25 |
 | MSA Safety | Software Engineer Intern, Product Development | Cranberry Township, PA | 🔒 | Aug 24 |
 | AMD | Software Test Engineering Co-op | Austin, TX | 🔒 | Aug 24 |
 | ↳ | Software Test Engineering Co-op | San Jose, CA | 🔒 | Aug 24 |
@@ -3013,7 +3012,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Technology Intern | New York, NY | 🔒 | Jul 24 |
 | ↳ | Investment Data Science Intern | New York, NY | 🔒 | Jul 24 |
 | Schweitzer Engineering Laboratories | Software Engineer Intern | Boise, ID | 🔒 | Jul 24 |
-| Jane Street | Network Engineer Intern | New York, NY | 🔒 | Jul 24 |
+| Jane Street | Hardware Engineer (FPGA/ASIC) Intern | New York, NY | 🔒 | Jul 24 |
+| ↳ | Network Engineer Intern | New York, NY | 🔒 | Jul 24 |
 | IMC | Quantitative Research Intern (PHD) | Chicago | 🔒 | Jul 24 |
 | ↳ | Quantitative Research Intern | Chicago, IL | 🔒 | Jul 24 |
 | ↳ | Hardware Engineer Intern | Chicago, IL | 🔒 | Jul 24 |
