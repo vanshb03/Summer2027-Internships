@@ -68726,5 +68726,56 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1795122815,
+        "url": "https://go.vansh.nyc/1D6",
+        "locations": [
+            "Idaho Falls, ID"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Idaho National Laboratory",
+        "title": "Software Engineering Intern, Java/API Development for Neutronics Code",
+        "source": "vanshb03",
+        "id": "3839596b-91de-48e4-8f95-06c341099144",
+        "date_posted": 1795046400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795122815,
+        "url": "https://go.vansh.nyc/1D7",
+        "locations": [
+            "Oakville, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "EUNA Solutions",
+        "title": "Associate AI-Enablement Developer Co-op",
+        "source": "vanshb03",
+        "id": "730a5a8e-d62a-4ba8-afd5-42b33db19ad6",
+        "date_posted": 1795122661,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1795122815,
+        "url": "https://go.vansh.nyc/1D8",
+        "locations": [
+            "Minneapolis, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Piper Sandler",
+        "title": "Data Engineering Intern",
+        "source": "vanshb03",
+        "id": "6a71eb8f-5f8c-446b-8e5d-d6978d0a6d33",
+        "date_posted": 1795122661,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
