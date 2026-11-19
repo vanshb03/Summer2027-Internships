@@ -47070,13 +47070,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793714725,
+        "date_updated": 1795061905,
         "url": "https://go.vansh.nyc/1dz",
         "locations": [
             "Southern Pines, NC"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Sierra Nevada Corporation",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -68483,6 +68483,40 @@
         "source": "vanshb03",
         "id": "031bd30e-e960-4ee9-88b3-43963bb145f2",
         "date_posted": 1795053901,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795061450,
+        "url": "https://go.vansh.nyc/1CF",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bread Financial",
+        "title": "Cybersecurity Intern",
+        "source": "vanshb03",
+        "id": "9ca8d15f-44a9-4f44-b818-0cd8e3d4190c",
+        "date_posted": 1795059890,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795061697,
+        "url": "https://go.vansh.nyc/1CG",
+        "locations": [
+            "Owego, NY"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Lockheed Martin",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "e8e42bcd-a526-4545-82f0-048d3c972115",
+        "date_posted": 1795061517,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
