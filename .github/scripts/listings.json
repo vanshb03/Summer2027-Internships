@@ -64934,13 +64934,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794530212,
+        "date_updated": 1795076366,
         "url": "https://go.vansh.nyc/1yk",
         "locations": [
             "Melbourne, FL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "RTX",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
@@ -65172,13 +65172,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1794578947,
+        "date_updated": 1795076366,
         "url": "https://go.vansh.nyc/1yB",
         "locations": [
             "Indianapolis, IN"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Corteva",
         "title": "R&D Intern, Computer & Data Science",
         "source": "vanshb03",
