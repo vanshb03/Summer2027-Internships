@@ -17026,13 +17026,13 @@
         "season": "Spring"
     },
     {
-        "date_updated": 1792731778,
+        "date_updated": 1795099590,
         "url": "https://go.vansh.nyc/g9",
         "locations": [
             "Boulder, CO"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Viget",
         "title": "Project & Product Manager Intern",
         "source": "vanshb03",
@@ -23345,13 +23345,13 @@
         "season": "Spring"
     },
     {
-        "date_updated": 1793015500,
+        "date_updated": 1795099590,
         "url": "https://go.vansh.nyc/Gb",
         "locations": [
             "Boulder, CO"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Viget",
         "title": "Software Developer Intern",
         "source": "vanshb03",
@@ -68517,6 +68517,23 @@
         "source": "vanshb03",
         "id": "e8e42bcd-a526-4545-82f0-048d3c972115",
         "date_posted": 1795061517,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795099403,
+        "url": "https://go.vansh.nyc/1CN",
+        "locations": [
+            "Manhattan, KS"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Garmin",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "a5318c81-fc5b-47e7-b118-833733cf0933",
+        "date_posted": 1795099234,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
