@@ -10006,13 +10006,13 @@
         "season": "Spring"
     },
     {
-        "date_updated": 1792261427,
+        "date_updated": 1795096109,
         "url": "https://go.vansh.nyc/9A",
         "locations": [
             "Remote (US)"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Susquehanna International Group",
         "title": "Technology Co-op",
         "source": "vanshb03",
