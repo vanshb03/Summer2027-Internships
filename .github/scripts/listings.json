@@ -4108,13 +4108,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1784881826,
+        "date_updated": 1795110410,
         "url": "https://go.vansh.nyc/44",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Jane Street",
         "title": "Hardware Engineer (FPGA/ASIC) Intern",
         "source": "vanshb03",
@@ -29843,13 +29843,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793028574,
+        "date_updated": 1795110410,
         "url": "https://go.vansh.nyc/Qr",
         "locations": [
             "Greenwich, CT"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "AQR Capital Management",
         "title": "Arbitrage Research Analyst Intern, Arbitrage",
         "source": "vanshb03",
