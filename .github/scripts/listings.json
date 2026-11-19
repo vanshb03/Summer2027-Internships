@@ -67938,13 +67938,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794968011,
+        "date_updated": 1795068987,
         "url": "https://go.vansh.nyc/1BZ",
         "locations": [
             "Arlington, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "GM Financial",
         "title": "Software Development Engineer Intern",
         "source": "vanshb03",
