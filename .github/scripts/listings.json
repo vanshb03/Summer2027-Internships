@@ -55285,13 +55285,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794172003,
+        "date_updated": 1795114095,
         "url": "https://go.vansh.nyc/1n4",
         "locations": [
             "Burlingame, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Quadric",
         "title": "Deep Learning Compiler Intern",
         "source": "vanshb03",
@@ -68621,6 +68621,74 @@
         "source": "vanshb03",
         "id": "70ca090b-486c-46d4-a92b-e2f167c3d4c0",
         "date_posted": 1795046400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795113792,
+        "url": "https://go.vansh.nyc/1CV",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Carnival Corporation",
+        "title": "BI Report Developer Intern, Crew Operations",
+        "source": "vanshb03",
+        "id": "cb02d7d4-de41-4f5f-9a71-1b35e5b23cdc",
+        "date_posted": 1795046400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795113792,
+        "url": "https://go.vansh.nyc/1CW",
+        "locations": [
+            "Beaverton, OR"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ralliant",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "6bf59b6b-2422-4505-97e4-d24696990429",
+        "date_posted": 1795046400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795113792,
+        "url": "https://go.vansh.nyc/1CX",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Peripheral",
+        "title": "Software Engineering Intern, Viewer",
+        "source": "vanshb03",
+        "id": "c39516f2-0c01-49b0-bfb7-20fe3fe0ae50",
+        "date_posted": 1795113645,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1795113913,
+        "url": "https://go.vansh.nyc/1CY",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amperity",
+        "title": "Software Development Engineer Intern",
+        "source": "vanshb03",
+        "id": "39f0c00e-e4b7-4ced-92ff-e5f60c0a4ad4",
+        "date_posted": 1795109173,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
