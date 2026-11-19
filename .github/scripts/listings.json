@@ -27635,13 +27635,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793023513,
+        "date_updated": 1795112227,
         "url": "https://go.vansh.nyc/Mq",
         "locations": [
             "Schaumburg, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Motorola",
         "title": "FPGA Design Engineering Intern",
         "source": "vanshb03",
@@ -43055,13 +43055,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793642755,
+        "date_updated": 1795112227,
         "url": "https://go.vansh.nyc/19w",
         "locations": [
             "Sunnyvale, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Intuitive",
         "title": "Data Science Intern",
         "source": "vanshb03",
@@ -43123,13 +43123,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793646357,
+        "date_updated": 1795112227,
         "url": "https://go.vansh.nyc/19B",
         "locations": [
             "Sunnyvale, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Intuitive",
         "title": "AI/ML Engineer Intern",
         "source": "vanshb03",
@@ -68602,6 +68602,25 @@
         "source": "vanshb03",
         "id": "2d8fc763-f359-488d-bbff-92010fe8d3fb",
         "date_posted": 1795018474,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795112042,
+        "url": "https://go.vansh.nyc/1CU",
+        "locations": [
+            "Reston, VA",
+            "Remote",
+            "United States"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Scout Space",
+        "title": "Embedded Firmware Engineering Intern",
+        "source": "vanshb03",
+        "id": "70ca090b-486c-46d4-a92b-e2f167c3d4c0",
+        "date_posted": 1795046400,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
