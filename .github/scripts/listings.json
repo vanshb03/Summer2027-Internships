@@ -33355,13 +33355,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793117176,
+        "date_updated": 1795051062,
         "url": "https://go.vansh.nyc/VP",
         "locations": [
             "Boise, ID"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Micron Technology",
         "title": "Product Yield Software Engineer Intern",
         "source": "vanshb03",
@@ -34814,14 +34814,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793205400,
+        "date_updated": 1795051062,
         "url": "https://go.vansh.nyc/XD",
         "locations": [
             "Arlington, VA",
             "Austin, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "CrowdStrike",
         "title": "Overwatch Intern, Research",
         "source": "vanshb03",
@@ -35091,13 +35091,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793226913,
+        "date_updated": 1795051062,
         "url": "https://go.vansh.nyc/Y4",
         "locations": [
             "Fort Belvoir, VA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Leidos",
         "title": "Data Engineer Intern",
         "source": "vanshb03",
