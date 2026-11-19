@@ -65019,13 +65019,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794535585,
+        "date_updated": 1795106802,
         "url": "https://go.vansh.nyc/1yq",
         "locations": [
             "Sunnyvale, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "CoStar Group",
         "title": "Vision & Learning Intern",
         "source": "vanshb03",
