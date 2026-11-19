@@ -30015,13 +30015,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1793031368,
+        "date_updated": 1795117631,
         "url": "https://go.vansh.nyc/QB",
         "locations": [
             "Chicago, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Old Mission",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -63996,13 +63996,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794512365,
+        "date_updated": 1795117631,
         "url": "https://go.vansh.nyc/1xk",
         "locations": [
             "Cincinnati, OH"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Medpace",
         "title": "Clinical Informatics Co-op",
         "source": "vanshb03",
