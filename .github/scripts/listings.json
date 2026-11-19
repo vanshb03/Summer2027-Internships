@@ -56760,13 +56760,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794242234,
+        "date_updated": 1795125186,
         "url": "https://go.vansh.nyc/1oz",
         "locations": [
             "Needham, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Warner Bros. Discovery",
         "title": "Software Engineering Co-op, WB Games",
         "source": "vanshb03",
@@ -68023,14 +68023,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794982396,
+        "date_updated": 1795125186,
         "url": "https://go.vansh.nyc/1C7",
         "locations": [
             "Cambridge, MA",
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "S&P Global",
         "title": "Machine Learning Engineer Intern",
         "source": "vanshb03",
@@ -68233,13 +68233,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1795034588,
+        "date_updated": 1795125186,
         "url": "https://go.vansh.nyc/1Co",
         "locations": [
             "Greensboro, NC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Syngenta Group",
         "title": "Data Science Intern",
         "source": "vanshb03",
@@ -68774,6 +68774,244 @@
         "source": "vanshb03",
         "id": "6a71eb8f-5f8c-446b-8e5d-d6978d0a6d33",
         "date_posted": 1795122661,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795124967,
+        "url": "https://go.vansh.nyc/1Da",
+        "locations": [
+            "Edmonton, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Alberta Investment Management Corporation",
+        "title": "Test Automation Intern",
+        "source": "vanshb03",
+        "id": "11c4e750-f5e2-403f-8961-e679caf51855",
+        "date_posted": 1795119035,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1795124967,
+        "url": "https://go.vansh.nyc/1Db",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lutron",
+        "title": "Embedded Firmware Engineering Intern",
+        "source": "vanshb03",
+        "id": "55597e1a-0e55-4520-aae7-02b1cc302841",
+        "date_posted": 1795124808,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795124967,
+        "url": "https://go.vansh.nyc/1Dc",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lutron",
+        "title": "Embedded Firmware Engineering Intern",
+        "source": "vanshb03",
+        "id": "169759f6-490f-41e5-91fc-156d9486c709",
+        "date_posted": 1795124808,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795124967,
+        "url": "https://go.vansh.nyc/1Dd",
+        "locations": [
+            "Boynton Beach, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lutron",
+        "title": "Embedded Firmware Engineering Intern",
+        "source": "vanshb03",
+        "id": "890ba6c6-a910-4003-aa30-b951f39f25fd",
+        "date_posted": 1795124808,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795124967,
+        "url": "https://go.vansh.nyc/1De",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lutron",
+        "title": "Embedded Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "087931c9-390b-4a7d-af34-5267fa08ac2c",
+        "date_posted": 1795124808,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795124967,
+        "url": "https://go.vansh.nyc/1Df",
+        "locations": [
+            "Coopersburg, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lutron",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "6b49b6fe-f3b7-4a93-8d08-ee5a9862f8ca",
+        "date_posted": 1795124808,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795124967,
+        "url": "https://go.vansh.nyc/1Dg",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lutron",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "63af27a3-5a8b-40af-8a37-6a10a6d5ef97",
+        "date_posted": 1795124808,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795124967,
+        "url": "https://go.vansh.nyc/1Dh",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lutron",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "6d23119e-7203-409d-86a7-13f61f3e406e",
+        "date_posted": 1795124808,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795124967,
+        "url": "https://go.vansh.nyc/1Di",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lutron",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "0abeb879-0867-4ada-8365-53d8b9f216b5",
+        "date_posted": 1795124808,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795124967,
+        "url": "https://go.vansh.nyc/1Dj",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lutron",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "b6d027a2-70fc-4d98-8bd1-d50255cf2049",
+        "date_posted": 1795124808,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795124967,
+        "url": "https://go.vansh.nyc/1Dk",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lutron",
+        "title": "Data Engineering Intern",
+        "source": "vanshb03",
+        "id": "ba9cf9e1-7f14-405d-8bb1-b400a17fcf40",
+        "date_posted": 1795124808,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795124967,
+        "url": "https://go.vansh.nyc/1Dl",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lutron",
+        "title": "Data Science and Machine Learning Intern",
+        "source": "vanshb03",
+        "id": "d0c10545-55e4-4abf-a19f-fdcd9945b7b4",
+        "date_posted": 1795124808,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795124967,
+        "url": "https://go.vansh.nyc/1Dm",
+        "locations": [
+            "Coopersburg, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lutron",
+        "title": "Data Engineering Intern",
+        "source": "vanshb03",
+        "id": "80d4ce41-11eb-4646-a486-6370ed0da32d",
+        "date_posted": 1795124808,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795124967,
+        "url": "https://go.vansh.nyc/1Dn",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lutron",
+        "title": "Data Science and Machine Learning Intern",
+        "source": "vanshb03",
+        "id": "954d4bc6-112d-4cb2-98b7-c1425d9d9dc9",
+        "date_posted": 1795124808,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
