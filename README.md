@@ -54,6 +54,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Machine Learning Engineer Intern | Salt Lake City, UT | <a href="https://go.vansh.nyc/1En?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 | ↳ | Research Engineer Intern | Salt Lake City, UT | <a href="https://go.vansh.nyc/1Eo?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 | Rockwell Automation | Firmware Engineering Intern 🛂 | Milwaukee, WI | <a href="https://go.vansh.nyc/1Ey?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
+| Renesas Electronics | Firmware Engineering Intern | Austin, TX | <a href="https://go.vansh.nyc/1ET?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 | Marias Technology | Software Tester Intern | Covington, OH | <a href="https://go.vansh.nyc/1Ei?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 | Lucid Motors | AI/ML Intern, Vehicle Infotainment | Newark, CA | <a href="https://go.vansh.nyc/1EM?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 | Illinois Tool Works | Software Engineering Intern | Appleton, WI | <a href="https://go.vansh.nyc/1EF?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
@@ -104,6 +105,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Kudu Dynamics | Software Developer Intern 🇺🇸 | Fort Belvoir, VA | <a href="https://go.vansh.nyc/1Eu?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | Horizon Trading Solutions | Java Developer Intern | Montreal, Canada | <a href="https://go.vansh.nyc/1Dt?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | Honeywell Aerospace | Semiconductor Engineer Intern | United States | <a href="https://go.vansh.nyc/1E3?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
+| Hewlett Packard Enterprise | AI Engineering Technical Intern | Sunnyvale, CA | <a href="https://go.vansh.nyc/1ER?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | HeartFlow | Platform Engineering Intern | San Francisco, CA | <a href="https://go.vansh.nyc/1Ds?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | Garmin | Software Engineering Intern | Manhattan, KS | <a href="https://go.vansh.nyc/1CN?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | Formlabs | API & Automation Intern | Somerville, MA | <a href="https://go.vansh.nyc/1DS?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
@@ -119,6 +121,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Technology Intern, Application Technology | Columbus, OH | <a href="https://go.vansh.nyc/1E7?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | ↳ | Technology Intern, Databases | Columbus, OH | <a href="https://go.vansh.nyc/1E8?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | ↳ | Technology Intern, Software Engineering | Columbus, OH | <a href="https://go.vansh.nyc/1E9?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
+| Caesars Entertainment | IAM Cybersecurity Intern | Las Vegas, NV | <a href="https://go.vansh.nyc/1ES?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | Blue Cross Blue Shield of Michigan | Object Oriented Programming Intern | Detroit, MI | <a href="https://go.vansh.nyc/1DG?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | Amperity | Software Development Engineer Intern | Seattle, WA | <a href="https://go.vansh.nyc/1CY?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | Altera | FPGA Software Engineer Intern | Toronto, Canada | <a href="https://go.vansh.nyc/1Et?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
