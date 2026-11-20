@@ -70096,5 +70096,39 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1795188949,
+        "url": "https://go.vansh.nyc/1EC",
+        "locations": [
+            "Montreal, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "AON3D",
+        "title": "Software Developer Intern",
+        "source": "vanshb03",
+        "id": "c115994c-509b-4478-95f0-182a1ccf4af5",
+        "date_posted": 1795181407,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1795188949,
+        "url": "https://go.vansh.nyc/1ED",
+        "locations": [
+            "Montreal, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Flare",
+        "title": "Software Developer Intern",
+        "source": "vanshb03",
+        "id": "dd5d5296-9831-4956-af05-2945da3e069d",
+        "date_posted": 1795188134,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
