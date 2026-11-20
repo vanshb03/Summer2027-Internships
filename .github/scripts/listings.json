@@ -3544,13 +3544,13 @@
         "season": "Fall"
     },
     {
-        "date_updated": 1784878899,
+        "date_updated": 1795155496,
         "url": "https://go.vansh.nyc/3x",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Netic",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -3955,13 +3955,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1784880689,
+        "date_updated": 1795155496,
         "url": "https://go.vansh.nyc/3V",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Netic",
         "title": "Full-Stack Software Engineer Intern",
         "source": "vanshb03",
@@ -3972,13 +3972,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1784880696,
+        "date_updated": 1795155496,
         "url": "https://go.vansh.nyc/3W",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Netic",
         "title": "Forward Deployed Engineer Intern",
         "source": "vanshb03",
@@ -57870,13 +57870,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794276325,
+        "date_updated": 1795155496,
         "url": "https://go.vansh.nyc/1pP",
         "locations": [
             "Fort Wayne, IN"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Steel Dynamics",
         "title": "Information Security Intern",
         "source": "vanshb03",
@@ -69583,5 +69583,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1795155053,
+        "url": "https://go.vansh.nyc/1E2",
+        "locations": [
+            "Newark, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lucid Motors",
+        "title": "Infotainment SW Validation Automation Intern",
+        "source": "vanshb03",
+        "id": "e55f0ed2-de6b-41b5-8465-bbcdfaa3af6e",
+        "date_posted": 1795137053,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
