@@ -1443,8 +1443,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Software Engineer Intern | New York, NY | <a href="https://go.vansh.nyc/9m?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
 | onsemi | Manufacturing AI Intern | Hopewell Junction, NY | <a href="https://go.vansh.nyc/9k?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
 | National Laboratory of the Rockies | AI/ML for Cybersecurity Intern | Golden, CO | <a href="https://go.vansh.nyc/CB?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
-| National Bank of Canada | Artificial Intelligence Developer Intern | Canada | <a href="https://go.vansh.nyc/Cr?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
-| ↳ | Artificial Intelligence Scientist Intern | Canada | <a href="https://go.vansh.nyc/Cs?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
 | Macy's | Software Engineer Intern | Johns Creek, GA | <a href="https://go.vansh.nyc/Co?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
 | Lawrence Livermore National Laboratory (LLNL) | Power Systems Undergraduate Intern, Cyber and Critical Infrastructure | Livermore, CA | <a href="https://go.vansh.nyc/gj?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
 | KLA | Computer Vision/Machine Learning Intern | Milpitas, CA | <a href="https://go.vansh.nyc/9f?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
@@ -2802,6 +2800,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | QTS | Information Security Operations Analyst Intern 🇺🇸 | US GA Atlanta Suwanee 1 DC1 | 🔒 | Oct 14 |
 | Northrop Grumman | Tech Publications & Training Intern, Product Support 🇺🇸 | Saint Augustine, FL | 🔒 | Oct 14 |
 | National Life | Data Science Intern 🛂 | Addison, TX</br>Montpelier, VT | 🔒 | Oct 14 |
+| National Bank of Canada | Artificial Intelligence Developer Intern | Canada | 🔒 | Oct 14 |
+| ↳ | Artificial Intelligence Scientist Intern | Canada | 🔒 | Oct 14 |
 | Nasdaq | Intelligent Automation Intern | New York, NY | 🔒 | Oct 14 |
 | Monolithic Power Systems | Applications Engineer Intern | San Jose, CA | 🔒 | Oct 14 |
 | Leidos | Performance Enablement AI/ML Intern | Remote</br>United States | 🔒 | Oct 14 |
