@@ -70232,5 +70232,56 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1795202194,
+        "url": "https://go.vansh.nyc/1ER",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hewlett Packard Enterprise",
+        "title": "AI Engineering Technical Intern",
+        "source": "vanshb03",
+        "id": "7d81146c-605d-41cc-916b-b8b37f5a1e03",
+        "date_posted": 1795115794,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795202493,
+        "url": "https://go.vansh.nyc/1ES",
+        "locations": [
+            "Las Vegas, NV"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Caesars Entertainment",
+        "title": "IAM Cybersecurity Intern",
+        "source": "vanshb03",
+        "id": "df8ecbea-40ad-48e1-bdfe-aa4f35d18e07",
+        "date_posted": 1795132800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795202493,
+        "url": "https://go.vansh.nyc/1ET",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Renesas Electronics",
+        "title": "Firmware Engineering Intern",
+        "source": "vanshb03",
+        "id": "be51d9b7-733f-454e-a77b-cac1e50508e0",
+        "date_posted": 1795195425,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
