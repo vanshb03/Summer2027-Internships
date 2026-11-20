@@ -519,7 +519,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Netic | Forward Deployed Engineer Intern | San Francisco, CA | <a href="https://go.vansh.nyc/3W?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | ↳ | Full-Stack Software Engineer Intern | San Francisco, CA | <a href="https://go.vansh.nyc/3V?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | ↳ | Software Engineer Intern | San Francisco, CA | <a href="https://go.vansh.nyc/3x?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
-| GeoComply | Browser Security Engineer Intern | Vancouver, Canada | <a href="https://go.vansh.nyc/QA?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 09 |
 | Pinterest | Machine Learning Intern, PhD | <details><summary>**4 locations**</summary>San Francisco, CA</br>Palo Alto, CA</br>Seattle, WA</br>New York, NY</details> | <a href="https://go.vansh.nyc/1C?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 20 |
 | ↳ | Software Engineer Intern | Toronto, Canada | <a href="https://go.vansh.nyc/1s?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 20 |
 | Mesh Optical Technologies | Associate Software Engineer Co-op | Gardena, CA | <a href="https://go.vansh.nyc/BQ?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 16 |
@@ -866,6 +865,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Fullscript | Software Developer Co-op | Ottawa, Canada | 🔒 | Jul 22 |
 | VITAL LYFE | Software Engineering Intern | Los Angeles, CA | 🔒 | Jul 09 |
 | NVIDIA | Performance Engineer Intern, Systems Software | St. Louis, MO | 🔒 | Jul 09 |
+| GeoComply | Browser Security Engineer Intern | Vancouver, Canada | 🔒 | Jul 09 |
 | Datasite | Forward Deployed Engineer Intern | New York, NY | 🔒 | Jul 09 |
 | CACI | Software Engineering Intern 🛂 | Jessup, MD | 🔒 | Jul 09 |
 | Amgen | Software Engineer Intern | Burnaby, Canada | 🔒 | Jul 09 |
