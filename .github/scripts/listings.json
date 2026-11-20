@@ -15812,13 +15812,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1792717232,
+        "date_updated": 1795207721,
         "url": "https://go.vansh.nyc/f1",
         "locations": [
             "Ottawa, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Ciena",
         "title": "Software Developer Intern",
         "source": "vanshb03",
@@ -50578,13 +50578,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793866378,
+        "date_updated": 1795207721,
         "url": "https://go.vansh.nyc/1hJ",
         "locations": [
             "Toronto, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Genesys",
         "title": "Web Software Developer Intern, WFM",
         "source": "vanshb03",
@@ -53391,13 +53391,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793993919,
+        "date_updated": 1795207721,
         "url": "https://go.vansh.nyc/1kZ",
         "locations": [
             "Arlington, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "GM Financial",
         "title": "Software Development Engineer Intern",
         "source": "vanshb03",
@@ -67643,13 +67643,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794953404,
+        "date_updated": 1795207721,
         "url": "https://go.vansh.nyc/1By",
         "locations": [
             "Office, IN"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Cloudflare",
         "title": "AI & Automation Intern, Communications",
         "source": "vanshb03",
@@ -70297,6 +70297,44 @@
         "source": "vanshb03",
         "id": "aba70f49-538d-4ab5-9e60-29ed5318fce4",
         "date_posted": 1795132800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795207214,
+        "url": "https://go.vansh.nyc/1EX",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "PTC",
+        "title": "Full-Stack Engineering Intern, Cloud Data Management (CAD)",
+        "source": "vanshb03",
+        "id": "ca8ae719-7a5c-496f-8a5b-e55ca3e41152",
+        "date_posted": 1795120814,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795207506,
+        "url": "https://go.vansh.nyc/1EY",
+        "locations": [
+            "Centennial, CO",
+            "Louisville, CO",
+            "Durham, NC",
+            "Madison, WI",
+            "Broomfield, CO"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Sierra Space",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "d2080a4c-0ee7-4f0e-b3dd-367ea8d184b4",
+        "date_posted": 1795151436,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
