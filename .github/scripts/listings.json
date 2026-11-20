@@ -29998,13 +29998,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793031368,
+        "date_updated": 1795135660,
         "url": "https://go.vansh.nyc/QA",
         "locations": [
             "Vancouver, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "GeoComply",
         "title": "Browser Security Engineer Intern",
         "source": "vanshb03",
@@ -69290,6 +69290,108 @@
         "source": "vanshb03",
         "id": "420a9aea-78c0-4fca-a4c2-d172957bdd37",
         "date_posted": 1795132588,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795134922,
+        "url": "https://go.vansh.nyc/1DI",
+        "locations": [
+            "Newark, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lucid Motors",
+        "title": "AI & Data Intern, Applied AI/Machine Learning",
+        "source": "vanshb03",
+        "id": "02b002ed-3eb7-4ff4-99c7-dc11da9ffd6f",
+        "date_posted": 1795132800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795134922,
+        "url": "https://go.vansh.nyc/1DJ",
+        "locations": [
+            "Newark, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lucid Motors",
+        "title": "OTA Test and Validation Automation Intern",
+        "source": "vanshb03",
+        "id": "de1362f5-9bd6-413e-9ea0-262775af97ad",
+        "date_posted": 1795132800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795134922,
+        "url": "https://go.vansh.nyc/1DK",
+        "locations": [
+            "Newark, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lucid Motors",
+        "title": "Software QA Engineer Intern, Infotainment",
+        "source": "vanshb03",
+        "id": "f672e76e-4bf5-43d6-ae2e-3fcd30855994",
+        "date_posted": 1795132800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795134922,
+        "url": "https://go.vansh.nyc/1DL",
+        "locations": [
+            "Livermore, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "LLNL",
+        "title": "Computing Undergraduate Student Intern",
+        "source": "vanshb03",
+        "id": "a340c2be-2af8-4c8e-a8ae-d191c820457d",
+        "date_posted": 1795132800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795134922,
+        "url": "https://go.vansh.nyc/1DM",
+        "locations": [
+            "Livermore, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "LLNL",
+        "title": "Computing Undergraduate Student Intern, DevOps",
+        "source": "vanshb03",
+        "id": "d36a4791-8da1-4a26-94d5-03a390e55abe",
+        "date_posted": 1795132800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795134995,
+        "url": "https://go.vansh.nyc/1DN",
+        "locations": [
+            "Allen Park, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ford Motor Company",
+        "title": "Vehicle Access System Engineering Intern, Advanced EV",
+        "source": "vanshb03",
+        "id": "2feefae8-cae0-4a68-b3f4-bccace9804c6",
+        "date_posted": 1795132633,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
