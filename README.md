@@ -67,7 +67,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Data Science and Machine Learning Intern | Philadelphia, PA | <a href="https://go.vansh.nyc/1Dl?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | ↳ | Data Engineering Intern | Coopersburg, PA | <a href="https://go.vansh.nyc/1Dm?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | ↳ | Data Science and Machine Learning Intern | Boston, MA | <a href="https://go.vansh.nyc/1Dn?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
-| Lucid Motors | Product Security Engineering Intern | Newark, CA | <a href="https://go.vansh.nyc/1DW?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
+| Lucid Motors | Infotainment SW Validation Automation Intern | Newark, CA | <a href="https://go.vansh.nyc/1E2?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
+| ↳ | Product Security Engineering Intern | Newark, CA | <a href="https://go.vansh.nyc/1DW?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | ↳ | Embedded Software Intern, BSP/Platform, ADAS/Autonomous Driving | Newark, CA | <a href="https://go.vansh.nyc/1DT?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | ↳ | Infotainment Software Intern | Newark, CA | <a href="https://go.vansh.nyc/1DU?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | ↳ | AI & Data Intern, Applied AI/Machine Learning | Newark, CA | <a href="https://go.vansh.nyc/1DI?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
@@ -429,7 +430,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Trilogy Health Services | Information Systems Developer of AI and Automated Solutions Intern | Louisville, KY | <a href="https://go.vansh.nyc/1qb?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
 | Toyota Research Institute | Robotics Intern, Teleoperation and Spatial Computing | Cambridge, MA | <a href="https://go.vansh.nyc/1oI?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
 | T-Mobile | Software Engineer Intern | Philadelphia, PA | <a href="https://go.vansh.nyc/1qA?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
-| Steel Dynamics | Information Security Intern | Fort Wayne, IN | <a href="https://go.vansh.nyc/1pP?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
 | Scout Motors Inc. | Digital Products Intern | Charlotte, NC | <a href="https://go.vansh.nyc/1oV?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
 | ↳ | IT Intern | Charlotte, NC | <a href="https://go.vansh.nyc/1oW?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
 | Ryan | Application Development Intern | United States | <a href="https://go.vansh.nyc/1oM?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
@@ -2122,6 +2122,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | The New York Times | Data Analyst Intern | New York, NY | 🔒 | Nov 09 |
 | ↳ | ML Scientist Intern | New York, NY | 🔒 | Nov 09 |
 | T-Mobile | Software Engineer Intern, T-Ads | Philadelphia, PA | 🔒 | Nov 09 |
+| Steel Dynamics | Information Security Intern | Fort Wayne, IN | 🔒 | Nov 09 |
 | RTX | Software Engineering Intern 🇺🇸 | Largo, FL | 🔒 | Nov 09 |
 | Roche | Assay Bioinformatics Intern, CSI | Pleasanton, CA | 🔒 | Nov 09 |
 | Paccar | Data Analyst Intern | Chillicothe, OH | 🔒 | Nov 09 |

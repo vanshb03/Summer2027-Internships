@@ -517,9 +517,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Software Engineer Intern | Denver, CO | <a href="https://go.vansh.nyc/4m?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | ↳ | Forward Deployed Software Engineer Intern | Chicago, IL | <a href="https://go.vansh.nyc/4h?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | ↳ | Forward Deployed Software Engineer Intern | New York, NY | <a href="https://go.vansh.nyc/4g?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
-| Netic | Forward Deployed Engineer Intern | San Francisco, CA | <a href="https://go.vansh.nyc/3W?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
-| ↳ | Full-Stack Software Engineer Intern | San Francisco, CA | <a href="https://go.vansh.nyc/3V?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
-| ↳ | Software Engineer Intern | San Francisco, CA | <a href="https://go.vansh.nyc/3x?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | Pinterest | Machine Learning Intern, PhD | <details><summary>**4 locations**</summary>San Francisco, CA</br>Palo Alto, CA</br>Seattle, WA</br>New York, NY</details> | <a href="https://go.vansh.nyc/1C?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 20 |
 | ↳ | Software Engineer Intern | Toronto, Canada | <a href="https://go.vansh.nyc/1s?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 20 |
 | Mesh Optical Technologies | Associate Software Engineer Co-op | Gardena, CA | <a href="https://go.vansh.nyc/BQ?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 16 |
@@ -857,6 +854,9 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Forward Deployed Infrastructure Engineer Intern 🇺🇸 | New York, NY | 🔒 | Jul 24 |
 | ↳ | Forward Deployed Infrastructure Engineer Intern | Palo Alto, CA | 🔒 | Jul 24 |
 | Netic | Software Engineer Intern | San Francisco, CA | 🔒 | Jul 24 |
+| ↳ | Full-Stack Software Engineer Intern | San Francisco, CA | 🔒 | Jul 24 |
+| ↳ | Forward Deployed Engineer Intern | San Francisco, CA | 🔒 | Jul 24 |
+| ↳ | Software Engineer Intern | San Francisco, CA | 🔒 | Jul 24 |
 | NeoSigma | Member of Technical Staff Intern | San Francisco, CA | 🔒 | Jul 24 |
 | Moon | Software Engineer Intern, Backend & API | Glendale, CA | 🔒 | Jul 24 |
 | Mobius Renewables | Software Engineer Intern 🛂 | Houston, TX | 🔒 | Jul 24 |
