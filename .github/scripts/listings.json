@@ -10943,13 +10943,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792261427,
+        "date_updated": 1795195171,
         "url": "https://go.vansh.nyc/at",
         "locations": [
             "Worcester, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "AbbVie",
         "title": "Associate Engineer Intern, Technical Development Program",
         "source": "vanshb03",
@@ -28903,14 +28903,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793025667,
+        "date_updated": 1795195171,
         "url": "https://go.vansh.nyc/OC",
         "locations": [
             "San Francisco, CA",
             "Austin, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "fab2",
         "title": "Embedded Software Engineer Intern",
         "source": "vanshb03",
