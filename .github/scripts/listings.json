@@ -68145,14 +68145,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1795029032,
+        "date_updated": 1795180814,
         "url": "https://go.vansh.nyc/1Cj",
         "locations": [
             "Remote",
             "United States"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Motorola Solutions",
         "title": "Software Engineer Co-op",
         "source": "vanshb03",
