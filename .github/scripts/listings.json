@@ -70283,5 +70283,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1795203920,
+        "url": "https://go.vansh.nyc/1EU",
+        "locations": [
+            "Beaverton, OR"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ralliant",
+        "title": "Software Engineering Intern, AI Building",
+        "source": "vanshb03",
+        "id": "aba70f49-538d-4ab5-9e60-29ed5318fce4",
+        "date_posted": 1795132800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
