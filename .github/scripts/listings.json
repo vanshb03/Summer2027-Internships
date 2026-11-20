@@ -16402,13 +16402,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792717375,
+        "date_updated": 1795209720,
         "url": "https://go.vansh.nyc/fz",
         "locations": [
             "Warrendale, PA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Westinghouse Electric Company",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
@@ -17163,13 +17163,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792731778,
+        "date_updated": 1795209720,
         "url": "https://go.vansh.nyc/gh",
         "locations": [
             "Bedford, NH"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Auto-Owners Insurance",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -18033,13 +18033,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792811877,
+        "date_updated": 1795209720,
         "url": "https://go.vansh.nyc/h5",
         "locations": [
             "El Segundo, CA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Aerospace Corporation",
         "title": "Defensive Cyber Operations Intern",
         "source": "vanshb03",
@@ -50716,13 +50716,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793866378,
+        "date_updated": 1795209720,
         "url": "https://go.vansh.nyc/1hR",
         "locations": [
             "Bossier City, LA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "General Dynamics Information Technology",
         "title": "Cybersecurity Associate Intern",
         "source": "vanshb03",
@@ -51315,14 +51315,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793876953,
+        "date_updated": 1795209720,
         "url": "https://go.vansh.nyc/1is",
         "locations": [
             "Remote",
             "United States"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Trilogy Innovations",
         "title": "Technical Intern",
         "source": "vanshb03",
@@ -68250,13 +68250,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1795036259,
+        "date_updated": 1795209720,
         "url": "https://go.vansh.nyc/1Cp",
         "locations": [
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Marvell",
         "title": "MS AI Infrastructure Engineer Intern",
         "source": "vanshb03",
@@ -69550,14 +69550,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1795151659,
+        "date_updated": 1795209720,
         "url": "https://go.vansh.nyc/1DY",
         "locations": [
             "Remote",
             "United States"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Centene Corporation",
         "title": "Undergraduate Analytics Engineering Intern",
         "source": "vanshb03",
