@@ -46054,13 +46054,13 @@
         "season": "Spring"
     },
     {
-        "date_updated": 1793686189,
+        "date_updated": 1795182717,
         "url": "https://go.vansh.nyc/1cA",
         "locations": [
             "Cincinnati, OH"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Johnson & Johnson",
         "title": "Software Engineering Co-op",
         "source": "vanshb03",
@@ -46071,13 +46071,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793686189,
+        "date_updated": 1795182717,
         "url": "https://go.vansh.nyc/1cB",
         "locations": [
             "Cincinnati, OH"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Johnson & Johnson",
         "title": "Data Science Co-op",
         "source": "vanshb03",
@@ -69921,6 +69921,24 @@
         "source": "vanshb03",
         "id": "0727e9d7-eb48-4b96-9a1b-fdc3be2c774d",
         "date_posted": 1795171905,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795182404,
+        "url": "https://go.vansh.nyc/1Es",
+        "locations": [
+            "Remote",
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Sezzle",
+        "title": "A.I. Engineering Intern",
+        "source": "vanshb03",
+        "id": "c0be10eb-bb77-4801-ab75-7b0b616f0444",
+        "date_posted": 1795093763,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
