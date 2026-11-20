@@ -44832,13 +44832,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793662521,
+        "date_updated": 1795177069,
         "url": "https://go.vansh.nyc/1bk",
         "locations": [
             "Montreal, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Zimmer Biomet Holdings",
         "title": "Software Developer Co-op",
         "source": "vanshb03",
@@ -69903,6 +69903,24 @@
         "source": "vanshb03",
         "id": "6f175a17-24eb-4db5-b122-9e1021cdf06c",
         "date_posted": 1795171743,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795176906,
+        "url": "https://go.vansh.nyc/1Ep",
+        "locations": [
+            "Remote",
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Wurl",
+        "title": "Data Engineering Intern",
+        "source": "vanshb03",
+        "id": "0727e9d7-eb48-4b96-9a1b-fdc3be2c774d",
+        "date_posted": 1795171905,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
