@@ -39225,13 +39225,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793491587,
+        "date_updated": 1795196888,
         "url": "https://go.vansh.nyc/12Z",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Intercontinental Exchange",
         "title": "Data Science Intern",
         "source": "vanshb03",
@@ -39242,13 +39242,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793491587,
+        "date_updated": 1795196888,
         "url": "https://go.vansh.nyc/130",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Intercontinental Exchange",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
@@ -55319,13 +55319,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794172003,
+        "date_updated": 1795196888,
         "url": "https://go.vansh.nyc/1n6",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Intercontinental Exchange",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -70178,6 +70178,23 @@
         "source": "vanshb03",
         "id": "176e62f9-693b-4494-beca-fddf6ea1c99e",
         "date_posted": 1795176601,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795196426,
+        "url": "https://go.vansh.nyc/1EM",
+        "locations": [
+            "Newark, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lucid Motors",
+        "title": "AI/ML Intern, Vehicle Infotainment",
+        "source": "vanshb03",
+        "id": "888345de-f530-4363-85a3-12f97c0872b5",
+        "date_posted": 1795195046,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
