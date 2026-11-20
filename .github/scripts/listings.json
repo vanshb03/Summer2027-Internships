@@ -8492,13 +8492,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792261427,
+        "date_updated": 1795191733,
         "url": "https://go.vansh.nyc/89",
         "locations": [
             "Chicago, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "DV Trading",
         "title": "Data Center Engineer Intern",
         "source": "vanshb03",
@@ -70130,5 +70130,56 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1795190728,
+        "url": "https://go.vansh.nyc/1EE",
+        "locations": [
+            "Boca Raton, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "The SilverLogic",
+        "title": "AI Engineer/Consultant Intern",
+        "source": "vanshb03",
+        "id": "85854201-e297-4195-86c7-5ecc6fadd350",
+        "date_posted": 1795189720,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795191316,
+        "url": "https://go.vansh.nyc/1EF",
+        "locations": [
+            "Appleton, WI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Illinois Tool Works",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "48a22fb4-a8f1-42f1-b904-21970ad7ca9a",
+        "date_posted": 1795176601,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795191316,
+        "url": "https://go.vansh.nyc/1EG",
+        "locations": [
+            "Rogers, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Illinois Tool Works",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "176e62f9-693b-4494-beca-fddf6ea1c99e",
+        "date_posted": 1795176601,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
