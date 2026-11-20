@@ -17335,13 +17335,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792731778,
+        "date_updated": 1795216682,
         "url": "https://go.vansh.nyc/gr",
         "locations": [
             "Reston, VA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "IDEMIA North America",
         "title": "Cloud Software Engineering Intern",
         "source": "vanshb03",
@@ -37852,13 +37852,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793403332,
+        "date_updated": 1795216682,
         "url": "https://go.vansh.nyc/11u",
         "locations": [
             "Calabasas, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Keysight Technologies",
         "title": "FPGA Design Intern",
         "source": "vanshb03",
@@ -55200,13 +55200,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1794172003,
+        "date_updated": 1795216682,
         "url": "https://go.vansh.nyc/1mZ",
         "locations": [
             "San Diego, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "SDSU Research Foundation",
         "title": "Computer Science Intern",
         "source": "vanshb03",
@@ -65617,13 +65617,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794602387,
+        "date_updated": 1795216682,
         "url": "https://go.vansh.nyc/1z9",
         "locations": [
             "Eden Prairie, MN"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "IDEMIA North America",
         "title": "Full Stack Software Engineering Intern",
         "source": "vanshb03",
