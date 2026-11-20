@@ -172,7 +172,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Bose | Software/DSP Research Engineer Co-op | Framingham, MA | <a href="https://go.vansh.nyc/1es?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | ↳ | Electrical Engineering Co-op, FPGA and Audio Research Platforms | Framingham, MA | <a href="https://go.vansh.nyc/1dW?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | Aerospace Corporation | Intern Bachelors Embedded Eng | Kanata, Canada | <a href="https://go.vansh.nyc/1hl?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
-| Zimmer Biomet Holdings | Software Developer Co-op | Montreal, Canada | <a href="https://go.vansh.nyc/1bk?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | Viavi Solutions | Software Engineering Co-op | Germantown, MD | <a href="https://go.vansh.nyc/1c8?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | Toshiba Commerce Solutions | AI Data Science & Business Analytics Intern | Durham, NC | <a href="https://go.vansh.nyc/19U?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | Tesla | Commercial UI Software Engineer Intern, Energy Engineering | Palo Alto, CA | <a href="https://go.vansh.nyc/1b5?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
@@ -565,6 +564,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Moderna | mRNA Design Engineering Co-op 🛂 | Cambridge, MA | 🔒 | Nov 03 |
 | Hearst | Editorial AI Development Intern | San Francisco, CA | 🔒 | Nov 03 |
 | Global Relay | Java Developer Co-op | Vancouver, Canada | 🔒 | Nov 03 |
+| Zimmer Biomet Holdings | Software Developer Co-op | Montreal, Canada | 🔒 | Nov 02 |
 | Transamerica | Data Analytics Intern | Cedar Rapids, IA | 🔒 | Nov 02 |
 | Toshiba Global Commerce Solutions | AI Automation & Revenue Ops Intern | Durham, NC | 🔒 | Nov 02 |
 | Toshiba Commerce Solutions | Agentic Software Engineering Intern | Durham, NC | 🔒 | Nov 02 |
