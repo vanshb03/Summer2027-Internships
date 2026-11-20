@@ -57666,13 +57666,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794267838,
+        "date_updated": 1795133889,
         "url": "https://go.vansh.nyc/1py",
         "locations": [
             "United States"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Nokia",
         "title": "Defense Software Test & AI Co-op",
         "source": "vanshb03",
@@ -69237,6 +69237,59 @@
         "source": "vanshb03",
         "id": "16d9a23e-0411-48ab-a603-0881117dfe0f",
         "date_posted": 1795131985,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795133139,
+        "url": "https://go.vansh.nyc/1DE",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Pivotal Software",
+        "title": "Autonomy Intern, Path Planning",
+        "source": "vanshb03",
+        "id": "0a998a91-b8b4-4c32-85af-8843cbb2cb09",
+        "date_posted": 1795131223,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795133139,
+        "url": "https://go.vansh.nyc/1DF",
+        "locations": [
+            "Westerville, OH",
+            "Fort Lauderdale, FL",
+            "Huntsville, AL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Vertiv",
+        "title": "AI Intern",
+        "source": "vanshb03",
+        "id": "2196d074-827b-4e98-b4fc-7086af06e940",
+        "date_posted": 1795132015,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795133139,
+        "url": "https://go.vansh.nyc/1DG",
+        "locations": [
+            "Detroit, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Blue Cross Blue Shield of Michigan",
+        "title": "Object Oriented Programming Intern",
+        "source": "vanshb03",
+        "id": "420a9aea-78c0-4fca-a4c2-d172957bdd37",
+        "date_posted": 1795132588,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
