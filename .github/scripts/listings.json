@@ -48341,14 +48341,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793743743,
+        "date_updated": 1795200585,
         "url": "https://go.vansh.nyc/1eV",
         "locations": [
             "Los Angeles, CA",
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Revel",
         "title": "Software Engineer Intern, Test",
         "source": "vanshb03",
@@ -70195,6 +70195,40 @@
         "source": "vanshb03",
         "id": "888345de-f530-4363-85a3-12f97c0872b5",
         "date_posted": 1795195046,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795200044,
+        "url": "https://go.vansh.nyc/1EO",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Gusto",
+        "title": "Insights Intern",
+        "source": "vanshb03",
+        "id": "fa62c7fc-9fd8-4fa8-aac0-57eb1274e6b5",
+        "date_posted": 1795199504,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795200340,
+        "url": "https://go.vansh.nyc/1EP",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cadence",
+        "title": "Software Engineering Intern, Circuit Simulation Infrastructure",
+        "source": "vanshb03",
+        "id": "180c89f7-8e1d-44bb-8b04-efe171cbfe27",
+        "date_posted": 1795169500,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
