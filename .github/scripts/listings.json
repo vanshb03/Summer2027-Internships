@@ -60773,13 +60773,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794375106,
+        "date_updated": 1795187954,
         "url": "https://go.vansh.nyc/1t5",
         "locations": [
             "Cary, NC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Epic Games",
         "title": "Data Science Intern",
         "source": "vanshb03",
@@ -62316,13 +62316,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794432984,
+        "date_updated": 1795187954,
         "url": "https://go.vansh.nyc/1vf",
         "locations": [
             "Boston, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Lightmatter",
         "title": "Laser Firmware Intern",
         "source": "vanshb03",
@@ -62469,13 +62469,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794436716,
+        "date_updated": 1795187954,
         "url": "https://go.vansh.nyc/1vq",
         "locations": [
             "West Des Moines, IA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Farmers Mutual Hail",
         "title": "AI Intern",
         "source": "vanshb03",
@@ -67802,13 +67802,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794960346,
+        "date_updated": 1795187954,
         "url": "https://go.vansh.nyc/1BK",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Starwood Capital Group",
         "title": "Data Intern",
         "source": "vanshb03",
@@ -67819,13 +67819,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794960346,
+        "date_updated": 1795187954,
         "url": "https://go.vansh.nyc/1BL",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Starwood Capital Group",
         "title": "Agentic Engineering Intern",
         "source": "vanshb03",
@@ -70041,6 +70041,58 @@
         "source": "vanshb03",
         "id": "93e5fd53-a49e-48da-a76d-e5ef3246d50c",
         "date_posted": 1795176601,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795187440,
+        "url": "https://go.vansh.nyc/1Ez",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Symbotic",
+        "title": "Software Engineer Intern, Front-End",
+        "source": "vanshb03",
+        "id": "09e7f30d-2423-4bc0-8e78-e70233d2485f",
+        "date_posted": 1795187020,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795187440,
+        "url": "https://go.vansh.nyc/1EA",
+        "locations": [
+            "New York, NY",
+            "Malta, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "GlobalFoundries",
+        "title": "AI/ML Analytics Intern, Digital Manufacturing",
+        "source": "vanshb03",
+        "id": "372ba627-a784-425a-95a6-e3edfb15e158",
+        "date_posted": 1795184500,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795187440,
+        "url": "https://go.vansh.nyc/1EB",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "KLA",
+        "title": "Software Applications Engineering Intern",
+        "source": "vanshb03",
+        "id": "ea70798b-c129-4a2b-8541-1d50a9cff732",
+        "date_posted": 1795014640,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
