@@ -8849,13 +8849,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792261427,
+        "date_updated": 1795137422,
         "url": "https://go.vansh.nyc/8u",
         "locations": [
             "CAN Kanata, ON"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Aptiv",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
@@ -36653,13 +36653,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793315116,
+        "date_updated": 1795137422,
         "url": "https://go.vansh.nyc/ZW",
         "locations": [
             "Bentonville, AR"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Walmart",
         "title": "Data & Tech Transformation Intern",
         "source": "vanshb03",
@@ -69395,5 +69395,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1795137223,
+        "url": "https://go.vansh.nyc/1DO",
+        "locations": [
+            "Richmond, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "MDA",
+        "title": "Engineering Student Intern, AI/ML Specialist",
+        "source": "vanshb03",
+        "id": "d3d59fa6-0e91-4c1b-9d24-68a8ebab5712",
+        "date_posted": 1795137071,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
