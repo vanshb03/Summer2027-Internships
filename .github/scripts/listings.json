@@ -53934,13 +53934,13 @@
         "season": "Spring"
     },
     {
-        "date_updated": 1794002933,
+        "date_updated": 1795141346,
         "url": "https://go.vansh.nyc/1lv",
         "locations": [
             "Berkeley, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Terranova",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
@@ -69412,5 +69412,39 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1795140837,
+        "url": "https://go.vansh.nyc/1DP",
+        "locations": [
+            "Livermore, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lawrence Livermore National Laboratory (LLNL)",
+        "title": "Cybersecurity Undergraduate Intern, Cyber and Critical Infrastructure",
+        "source": "vanshb03",
+        "id": "bb3924f6-9fa0-4c0f-841b-44944682f4c7",
+        "date_posted": 1795132726,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795141134,
+        "url": "https://go.vansh.nyc/1DQ",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "enGen",
+        "title": "Data Engineer & Analyst Undergraduate Intern",
+        "source": "vanshb03",
+        "id": "1d958402-479f-44d3-84ec-318e9e22d242",
+        "date_posted": 1795140952,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
