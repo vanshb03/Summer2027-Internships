@@ -69753,5 +69753,73 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1795165527,
+        "url": "https://go.vansh.nyc/1Eg",
+        "locations": [
+            "Middleborough, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "REXA",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "208295df-fc90-4263-9674-a3e711c0c8fa",
+        "date_posted": 1795161554,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1795165869,
+        "url": "https://go.vansh.nyc/1Eh",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "Finance AI Engineering Intern",
+        "source": "vanshb03",
+        "id": "31696991-a4b3-4db0-bcd5-ffb5343ab3a7",
+        "date_posted": 1795079469,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795166125,
+        "url": "https://go.vansh.nyc/1Ei",
+        "locations": [
+            "Covington, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Marias Technology",
+        "title": "Software Tester Intern",
+        "source": "vanshb03",
+        "id": "12d9782c-9289-4231-a915-a4f0f3940ddf",
+        "date_posted": 1795165883,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795166125,
+        "url": "https://go.vansh.nyc/1Ej",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CAS",
+        "title": "Infrastructure Engineer Intern, Technology",
+        "source": "vanshb03",
+        "id": "0e7ebf2a-e998-4cfe-8473-6bd58290a04d",
+        "date_posted": 1795165883,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
