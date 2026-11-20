@@ -63,7 +63,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | AI/ML Software Engineer Undergraduate Intern, AI/CAD Integration | Atlanta, GA | <a href="https://go.vansh.nyc/1Bn?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | Elk Valley Resources | Mining and Geology Systems Co-op | Calgary, Canada | <a href="https://go.vansh.nyc/1DZ?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | Compunetix | Software Engineer Co-op | Monroeville, PA | <a href="https://go.vansh.nyc/1BM?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
-| Cloudflare | AI & Automation Intern, Communications 🛂 | Office, IN | <a href="https://go.vansh.nyc/1By?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | Xradar | Software Engineer Co-op | Burnaby, Canada | <a href="https://go.vansh.nyc/1AW?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
 | Exowatt | Robotics & Physical AI Intern | Miami, FL | <a href="https://go.vansh.nyc/1Bq?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
 | Critical Environment Technologies | Computer Science Co-op | Delta, Canada | <a href="https://go.vansh.nyc/1B1?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
@@ -335,7 +334,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Twitch | Undergrad Software Engineering Intern | San Francisco, CA | <a href="https://go.vansh.nyc/f5?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | Symbotic | Machine Learning Ops Co-op | Wilmington, MA | <a href="https://go.vansh.nyc/f4?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | KION Group | Software Analytics Co-op | Grand Rapids, MI | <a href="https://go.vansh.nyc/f3?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
-| Ciena | Software Developer Intern | Ottawa, Canada | <a href="https://go.vansh.nyc/f1?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | Amazon.com Services LLC | System Development Engineer Co-op, Robotics | North Reading, MA | <a href="https://go.vansh.nyc/i1?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | Themis Intelligence | Software Engineer Co-op, Data | Mississauga, Canada | <a href="https://go.vansh.nyc/Da?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 21 |
 | ↳ | AI Engineer Co-op | Mississauga, Canada | <a href="https://go.vansh.nyc/Db?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 21 |
@@ -523,6 +521,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Colgate-Palmolive | Software Development Intern | Piscataway, NJ | <a href="https://go.vansh.nyc/U?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
 | Shopify | Engineering and Data Intern | Remote</br>Canada | <a href="https://go.vansh.nyc/G?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 19 |
 | Motorola Solutions | Software Engineer Co-op | Remote</br>United States | 🔒 | Nov 17 |
+| Cloudflare | AI & Automation Intern, Communications 🛂 | Office, IN | 🔒 | Nov 17 |
 | Optimum (Altice USA) | Software Developer Intern | Bethpage, NY | 🔒 | Nov 16 |
 | Manulife Financial | Software Engineering Co-op | Boston, MA | 🔒 | Nov 13 |
 | Corteva | R&D Intern, Computer & Data Science | Indianapolis, IN | 🔒 | Nov 13 |
@@ -641,6 +640,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Ivalua | Marketing Web Developer Intern | New York, NY | 🔒 | Oct 22 |
 | GuidePoint Security | Cybersecurity Intern | Remote</br>United States | 🔒 | Oct 22 |
 | Formlabs | Manufacturing Test Software Intern | Somerville, MA | 🔒 | Oct 22 |
+| Ciena | Software Developer Intern | Ottawa, Canada | 🔒 | Oct 22 |
 | Amazon | Junior Software Development Engineer Intern | Detroit, MI | 🔒 | Oct 22 |
 | ↳ | Hardware Development Engineer Intern | Bellevue, WA | 🔒 | Oct 22 |
 | ↳ | Embedded Firmware Co-op | North Reading, MA</br>Westborough, MA | 🔒 | Oct 22 |
