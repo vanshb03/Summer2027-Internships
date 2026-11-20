@@ -69855,5 +69855,56 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1795172732,
+        "url": "https://go.vansh.nyc/1Em",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Smule",
+        "title": "Applied Research Scientist Intern",
+        "source": "vanshb03",
+        "id": "7264671b-de39-4a67-9cfe-b5aa967279a6",
+        "date_posted": 1795171743,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795172732,
+        "url": "https://go.vansh.nyc/1En",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Smule",
+        "title": "Machine Learning Engineer Intern",
+        "source": "vanshb03",
+        "id": "d5a2dab0-057c-4999-a84e-bf9b56bb2baa",
+        "date_posted": 1795171743,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795172732,
+        "url": "https://go.vansh.nyc/1Eo",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Smule",
+        "title": "Research Engineer Intern",
+        "source": "vanshb03",
+        "id": "6f175a17-24eb-4db5-b122-9e1021cdf06c",
+        "date_posted": 1795171743,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
