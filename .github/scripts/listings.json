@@ -69600,5 +69600,158 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1795161936,
+        "url": "https://go.vansh.nyc/1E3",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Honeywell Aerospace",
+        "title": "Semiconductor Engineer Intern",
+        "source": "vanshb03",
+        "id": "39a4e436-a524-48cf-97eb-003bfc8cc235",
+        "date_posted": 1795159700,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795161936,
+        "url": "https://go.vansh.nyc/1E4",
+        "locations": [
+            "Covington, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Marias Technology",
+        "title": "Software Developer Intern",
+        "source": "vanshb03",
+        "id": "5c0daa45-3354-448c-9d6c-df58432a8a71",
+        "date_posted": 1795159863,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795161936,
+        "url": "https://go.vansh.nyc/1E5",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CAS",
+        "title": "Business Data Analytics Intern, AI/ML Focus",
+        "source": "vanshb03",
+        "id": "9e1940ac-7156-43ed-9d20-64813b5f608f",
+        "date_posted": 1795160574,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795161936,
+        "url": "https://go.vansh.nyc/1E6",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CAS",
+        "title": "Technology Intern, Business Data Governance",
+        "source": "vanshb03",
+        "id": "c4f630fe-e485-4304-9b86-807440cc0821",
+        "date_posted": 1795160574,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795161936,
+        "url": "https://go.vansh.nyc/1E7",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CAS",
+        "title": "Technology Intern, Application Technology",
+        "source": "vanshb03",
+        "id": "de7ac5d4-3878-47de-8472-f46412e233c7",
+        "date_posted": 1795160574,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795161936,
+        "url": "https://go.vansh.nyc/1E8",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CAS",
+        "title": "Technology Intern, Databases",
+        "source": "vanshb03",
+        "id": "b78d2eb9-f41f-497c-8ab9-855352924f59",
+        "date_posted": 1795160574,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795161936,
+        "url": "https://go.vansh.nyc/1E9",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CAS",
+        "title": "Technology Intern, Software Engineering",
+        "source": "vanshb03",
+        "id": "22288cec-cf9f-4ef3-9faf-44f21fa39077",
+        "date_posted": 1795160574,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795162310,
+        "url": "https://go.vansh.nyc/1Ea",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TransUnion",
+        "title": "Data Science & Analytics Intern",
+        "source": "vanshb03",
+        "id": "902cdc95-6ceb-45b7-8be0-83bd7705c76e",
+        "date_posted": 1795160810,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795162310,
+        "url": "https://go.vansh.nyc/1Eb",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cisco",
+        "title": "AI Researcher II Intern",
+        "source": "vanshb03",
+        "id": "ce817c44-8a73-4150-ba28-afce53e3f469",
+        "date_posted": 1795158950,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
