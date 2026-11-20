@@ -25010,13 +25010,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793021626,
+        "date_updated": 1795214923,
         "url": "https://go.vansh.nyc/IK",
         "locations": [
             "Mountain View, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Waymo",
         "title": "Scenes Intern",
         "source": "vanshb03",
@@ -65138,13 +65138,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794557136,
+        "date_updated": 1795214923,
         "url": "https://go.vansh.nyc/1yx",
         "locations": [
             "Irving, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Federal Home Loan Bank of Dallas",
         "title": "Digital Transformation Intern",
         "source": "vanshb03",
