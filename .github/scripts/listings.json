@@ -25429,13 +25429,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793021626,
+        "date_updated": 1795218731,
         "url": "https://go.vansh.nyc/J8",
         "locations": [
             "Fort Wayne, IN"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Stryker",
         "title": "Data Analytics Intern",
         "source": "vanshb03",
@@ -31462,13 +31462,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793033059,
+        "date_updated": 1795218731,
         "url": "https://go.vansh.nyc/Si",
         "locations": [
             "San Mateo, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Skydio",
         "title": "Autonomy Engineer Intern, Simulation & Robotics",
         "source": "vanshb03",
@@ -31479,13 +31479,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793033059,
+        "date_updated": 1795218731,
         "url": "https://go.vansh.nyc/Sj",
         "locations": [
             "San Mateo, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Skydio",
         "title": "Autonomy Engineer Intern, Autonomy Infrastructure, Systems and Tools",
         "source": "vanshb03",
@@ -70421,6 +70421,231 @@
         "source": "vanshb03",
         "id": "4a46cd93-2828-4d43-a132-195d96e38ec2",
         "date_posted": 1794428003,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795217744,
+        "url": "https://go.vansh.nyc/1F8",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Mackenzie Investments",
+        "title": "AI Program Intern",
+        "source": "vanshb03",
+        "id": "ae331067-531d-47fb-bc92-2b0b9dafbc72",
+        "date_posted": 1795132800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1795217744,
+        "url": "https://go.vansh.nyc/1F9",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microchip Technology",
+        "title": "ASIC Verification Engineer Intern",
+        "source": "vanshb03",
+        "id": "a04c9300-7c6d-40f9-b5a4-c9314199f57f",
+        "date_posted": 1795132800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795217744,
+        "url": "https://go.vansh.nyc/1Fa",
+        "locations": [
+            "Yarmouth, ME"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Garmin",
+        "title": "Software Engineer Intern, Web/Mobile",
+        "source": "vanshb03",
+        "id": "1408d9d9-9a75-4350-a2c1-1cf347978f2a",
+        "date_posted": 1795210560,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795217744,
+        "url": "https://go.vansh.nyc/1Fb",
+        "locations": [
+            "Des Moines, IA",
+            "Waterloo, IA",
+            "Moline, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "John Deere",
+        "title": "Data Analytics Student Intern",
+        "source": "vanshb03",
+        "id": "6ff556ef-9371-4172-839a-a166bb8439a5",
+        "date_posted": 1795215976,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795217744,
+        "url": "https://go.vansh.nyc/1Fc",
+        "locations": [
+            "Waller, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Daikin Comfort",
+        "title": "Data Analyst Intern",
+        "source": "vanshb03",
+        "id": "1c247df3-49b9-4659-93c8-5c6cdf82e31d",
+        "date_posted": 1795216190,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795217744,
+        "url": "https://go.vansh.nyc/1Fd",
+        "locations": [
+            "Duncan, SC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "AFL",
+        "title": "Web Design/Development Intern",
+        "source": "vanshb03",
+        "id": "177a6a59-8220-4a9e-9e50-dea89cf89989",
+        "date_posted": 1795216421,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1795217744,
+        "url": "https://go.vansh.nyc/1Fe",
+        "locations": [
+            "Neenah, WI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Jewelers Mutual Group",
+        "title": "Data Science Intern",
+        "source": "vanshb03",
+        "id": "c9eca8f7-5a89-457c-937c-6582af960ce6",
+        "date_posted": 1795216675,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795217744,
+        "url": "https://go.vansh.nyc/1Ff",
+        "locations": [
+            "Beaverton, OR"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ralliant",
+        "title": "Software Design Engineer Intern",
+        "source": "vanshb03",
+        "id": "417c6a19-cc26-4192-8551-4cc7cd0d042b",
+        "date_posted": 1795216676,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795217744,
+        "url": "https://go.vansh.nyc/1Fg",
+        "locations": [
+            "Etobicoke, Canada",
+            "St. Catharines, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Meridian Credit Union",
+        "title": "Data and Artificial Intelligence Student Intern",
+        "source": "vanshb03",
+        "id": "b8b1c89b-15af-4394-b821-695395adc979",
+        "date_posted": 1795216913,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795217744,
+        "url": "https://go.vansh.nyc/1Fh",
+        "locations": [
+            "Little Rock, AR"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Southwest Power Pool",
+        "title": "Operations Developer Intern",
+        "source": "vanshb03",
+        "id": "659ed369-17e3-4b60-8200-bb670e4a2efd",
+        "date_posted": 1795216930,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795217744,
+        "url": "https://go.vansh.nyc/1Fi",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "GCI",
+        "title": "Software Developer Intern",
+        "source": "vanshb03",
+        "id": "5ac128ad-04ff-496c-b150-30867cd0a503",
+        "date_posted": 1795217118,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795218423,
+        "url": "https://go.vansh.nyc/1Fj",
+        "locations": [
+            "Santa Clara, CA",
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "RosaicLabs",
+        "title": "CPU Architecture & Performance Engineer Intern",
+        "source": "vanshb03",
+        "id": "5777c641-b6be-4561-a7c2-002136f8537a",
+        "date_posted": 1791244271,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795218423,
+        "url": "https://go.vansh.nyc/1Fk",
+        "locations": [
+            "Ankeny, IA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Mom's Meals",
+        "title": "Software Quality Assurance (QA) Intern",
+        "source": "vanshb03",
+        "id": "ac40b019-e197-4f5e-bd71-13abefa7b2e1",
+        "date_posted": 1794960000,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
