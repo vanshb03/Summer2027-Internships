@@ -19939,13 +19939,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793013503,
+        "date_updated": 1795193260,
         "url": "https://go.vansh.nyc/Cr",
         "locations": [
             "Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "National Bank of Canada",
         "title": "Artificial Intelligence Developer Intern",
         "source": "vanshb03",
@@ -19956,13 +19956,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793013503,
+        "date_updated": 1795193260,
         "url": "https://go.vansh.nyc/Cs",
         "locations": [
             "Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "National Bank of Canada",
         "title": "Artificial Intelligence Scientist Intern",
         "source": "vanshb03",
