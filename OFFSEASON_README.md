@@ -59,6 +59,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Kira Learning | Software Engineer Intern | San Francisco, CA | <a href="https://go.vansh.nyc/1Cx?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | Falcomm | Undergraduate AI/ML Software Engineer Intern, AI/CAD Integration | Atlanta, GA | <a href="https://go.vansh.nyc/1BO?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | ↳ | AI/ML Software Engineer Undergraduate Intern, AI/CAD Integration | Atlanta, GA | <a href="https://go.vansh.nyc/1Bn?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
+| Elk Valley Resources | Mining and Geology Systems Co-op | Calgary, Canada | <a href="https://go.vansh.nyc/1DZ?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | Compunetix | Software Engineer Co-op | Monroeville, PA | <a href="https://go.vansh.nyc/1BM?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | Cloudflare | AI & Automation Intern, Communications 🛂 | Office, IN | <a href="https://go.vansh.nyc/1By?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | Xradar | Software Engineer Co-op | Burnaby, Canada | <a href="https://go.vansh.nyc/1AW?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
