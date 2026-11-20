@@ -69821,5 +69821,39 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1795169480,
+        "url": "https://go.vansh.nyc/1Ek",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "National Interstate Insurance",
+        "title": "Data Engineer Developer Intern",
+        "source": "vanshb03",
+        "id": "1af3ed27-2b3f-451c-aa6b-a8ba652a77d4",
+        "date_posted": 1794996680,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795169752,
+        "url": "https://go.vansh.nyc/1El",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cadence",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "664874cf-5a9c-49bc-b435-300a795ca9f0",
+        "date_posted": 1795169500,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
