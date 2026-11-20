@@ -16884,13 +16884,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792731778,
+        "date_updated": 1795184424,
         "url": "https://go.vansh.nyc/g1",
         "locations": [
             "Omaha, NE"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Election Systems & Software",
         "title": "Information Systems Software Developer Intern",
         "source": "vanshb03",
@@ -69939,6 +69939,108 @@
         "source": "vanshb03",
         "id": "c0be10eb-bb77-4801-ab75-7b0b616f0444",
         "date_posted": 1795093763,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795184183,
+        "url": "https://go.vansh.nyc/1Et",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Altera",
+        "title": "FPGA Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "7f971ab1-5c85-41fb-84e6-5e9a5483cd7e",
+        "date_posted": 1795133515,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795184183,
+        "url": "https://go.vansh.nyc/1Eu",
+        "locations": [
+            "Fort Belvoir, VA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Kudu Dynamics",
+        "title": "Software Developer Intern",
+        "source": "vanshb03",
+        "id": "a9cc599f-f82d-4953-8a49-4e2801864851",
+        "date_posted": 1795147849,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795184183,
+        "url": "https://go.vansh.nyc/1Ev",
+        "locations": [
+            "Lincoln, NE"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nelnet",
+        "title": "Data Analytics Intern",
+        "source": "vanshb03",
+        "id": "1d3440b4-fad0-434e-957f-c7831831aeb3",
+        "date_posted": 1795147849,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795184183,
+        "url": "https://go.vansh.nyc/1Ew",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "White Cap Supply Holdings",
+        "title": "Information Security Intern, Corporate",
+        "source": "vanshb03",
+        "id": "81caf68f-d96a-4b84-873c-7dc92c78c917",
+        "date_posted": 1795176601,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795184183,
+        "url": "https://go.vansh.nyc/1Ex",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "DraftKings",
+        "title": "Data Engineer Intern",
+        "source": "vanshb03",
+        "id": "5263d3d7-feec-4d4b-a7e1-7e61459def0c",
+        "date_posted": 1795176601,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795184183,
+        "url": "https://go.vansh.nyc/1Ey",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Rockwell Automation",
+        "title": "Firmware Engineering Intern",
+        "source": "vanshb03",
+        "id": "93e5fd53-a49e-48da-a76d-e5ef3246d50c",
+        "date_posted": 1795176601,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
