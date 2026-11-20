@@ -374,7 +374,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | W.R. Berkley | Enterprise Architecture Co-op | Urbandale, IA | <a href="https://go.vansh.nyc/ax?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 16 |
 | Entrust | Software Engineering Co-op | Shakopee, MN | <a href="https://go.vansh.nyc/au?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 16 |
 | AgZen | Software Engineer Co-op | Somerville, MA | <a href="https://go.vansh.nyc/aV?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 16 |
-| AbbVie | Associate Engineer Intern, Technical Development Program | Worcester, MA | <a href="https://go.vansh.nyc/at?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 16 |
 | Wikimedia Foundation | Software Engineering Intern | Remote</br>United States | <a href="https://go.vansh.nyc/CK?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
 | Symbotic | System Engineer Co-op | Brooksville, FL | <a href="https://go.vansh.nyc/a8?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
 | Susquehanna International Group | Business Analytics AI Co-op | Remote (US) | <a href="https://go.vansh.nyc/a5?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
@@ -489,7 +488,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | fab2 | Automation Software Engineering Intern | Austin, TX</br>San Francisco, CA | <a href="https://go.vansh.nyc/1lj?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 27 |
 | ↳ | Rust Software Engineering Intern, Chip Design Tools | Austin, TX</br>San Francisco, CA | <a href="https://go.vansh.nyc/1lk?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 27 |
 | ↳ | Fab Software Engineering Intern | Austin, TX</br>San Francisco, CA | <a href="https://go.vansh.nyc/1lm?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 27 |
-| ↳ | Embedded Software Engineer Intern | San Francisco, CA</br>Austin, TX | <a href="https://go.vansh.nyc/OC?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 27 |
 | Verkada | Embedded Software Engineer Intern | San Mateo, CA | <a href="https://go.vansh.nyc/Ot?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
 | Verition Fund Management LLC | Software Engineer Intern | Remote | <a href="https://go.vansh.nyc/7e?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 21 |
 | Millennium | Applied AI Engineer Intern | New York, NY | <a href="https://go.vansh.nyc/7h?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 21 |
@@ -696,6 +694,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Cisco | Software Developer Embedded Systems I Co-op | <details><summary>**6 locations**</summary>Kanata, Canada</br>Saint-Laurent, Canada</br>Calgary, Canada</br>Toronto, Canada</br>Montreal, Canada</br>Ottawa, Canada</details> | 🔒 | Oct 16 |
 | Behaviour Interactive | Product Management Intern, 7 Days to Die | Montreal, QC, Canada | 🔒 | Oct 16 |
 | Assort Health | Software Engineer Intern | SF | 🔒 | Oct 16 |
+| AbbVie | Associate Engineer Intern, Technical Development Program | Worcester, MA | 🔒 | Oct 16 |
 | Zipline | Software Systems Validation Intern | South San Francisco, CA | 🔒 | Oct 15 |
 | TD Bank | Portfolio Analytics Data Analyst Intern/Co-op | Toronto, ON | 🔒 | Oct 15 |
 | ↳ | Portfolio Analytics Developer Intern/Co-op | Toronto, ON | 🔒 | Oct 15 |
@@ -789,7 +788,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Compiler Engineer Co-op | <details><summary>**5 locations**</summary>Austin, TX</br>Longmont, CO</br>Fishkill, NY</br>Fort Collins, CO</br>Boxborough, MA</details> | 🔒 | Sep 01 |
 | ↳ | Compiler Engineer Co-op | San Jose, CA</br>Santa Clara, CA | 🔒 | Sep 01 |
 | CACI | Embedded Software Engineer Co-op | Danbury, CT | 🔒 | Aug 31 |
-| fab2 | Infrastructure Software Engineering Intern | Austin, TX</br>San Francisco, CA | 🔒 | Aug 27 |
+| fab2 | Embedded Software Engineer Intern | San Francisco, CA</br>Austin, TX | 🔒 | Aug 27 |
+| ↳ | Infrastructure Software Engineering Intern | Austin, TX</br>San Francisco, CA | 🔒 | Aug 27 |
 | Medpace | Python Intern | Cincinnati, OH | 🔒 | Aug 24 |
 | Kodiak Robotics | Planning Intern, Mission Planning | Mountain View, CA | 🔒 | Aug 24 |
 | Philips | Software Systems Engineering Co-op, Image Guided Therapy Devices - IVUS Clinical Imaging Software Application | Plymouth, MN | 🔒 | Aug 23 |
