@@ -71,7 +71,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Sezzle | A.I. Engineering Intern | Remote</br>United States | <a href="https://go.vansh.nyc/1Es?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | Scout Space | Computer Vision Engineer Intern, AI/ML | Reston, VA | <a href="https://go.vansh.nyc/1CQ?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | SAS | Cybersecurity Compliance and AI Automation Intern | Cary, NC | <a href="https://go.vansh.nyc/1Dy?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
-| Ralliant | Software Engineer Intern | Beaverton, OR | <a href="https://go.vansh.nyc/1Du?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
+| Ralliant | Software Engineering Intern, AI Building | Beaverton, OR | <a href="https://go.vansh.nyc/1EU?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
+| ↳ | Software Engineer Intern | Beaverton, OR | <a href="https://go.vansh.nyc/1Du?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | Pivotal Software | Autonomy Intern, Path Planning | Palo Alto, CA | <a href="https://go.vansh.nyc/1DE?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | Piper Sandler | Data Engineering Intern | Minneapolis, MN | <a href="https://go.vansh.nyc/1D8?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | NVIDIA | Finance AI Engineering Intern | Santa Clara, CA | <a href="https://go.vansh.nyc/1Eh?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
