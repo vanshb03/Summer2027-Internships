@@ -69548,5 +69548,40 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1795151659,
+        "url": "https://go.vansh.nyc/1DY",
+        "locations": [
+            "Remote",
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Centene Corporation",
+        "title": "Undergraduate Analytics Engineering Intern",
+        "source": "vanshb03",
+        "id": "8e9b26b2-7db4-4ca2-a7b5-9c924381bff7",
+        "date_posted": 1795147849,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795151779,
+        "url": "https://go.vansh.nyc/1DZ",
+        "locations": [
+            "Calgary, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Elk Valley Resources",
+        "title": "Mining and Geology Systems Co-op",
+        "source": "vanshb03",
+        "id": "85549cdc-809d-47de-a57a-1088b9141a36",
+        "date_posted": 1794923332,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
