@@ -46,6 +46,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Marias Technology | Software Tester Intern | Covington, OH | <a href="https://go.vansh.nyc/1Ei?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
+| CAS | Infrastructure Engineer Intern, Technology | Columbus, OH | <a href="https://go.vansh.nyc/1Ej?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 | Vertiv | AI Intern | Westerville, OH</br>Fort Lauderdale, FL</br>Huntsville, AL | <a href="https://go.vansh.nyc/1DF?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | TransUnion | Data Science & Analytics Intern | Chicago, IL | <a href="https://go.vansh.nyc/1Ea?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | Southern Mississippi Trading | AI and Business Analytics Intern | Waynesboro, MS | <a href="https://go.vansh.nyc/1DV?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
@@ -54,6 +56,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Ralliant | Software Engineer Intern | Beaverton, OR | <a href="https://go.vansh.nyc/1Du?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | Pivotal Software | Autonomy Intern, Path Planning | Palo Alto, CA | <a href="https://go.vansh.nyc/1DE?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | Piper Sandler | Data Engineering Intern | Minneapolis, MN | <a href="https://go.vansh.nyc/1D8?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
+| NVIDIA | Finance AI Engineering Intern | Santa Clara, CA | <a href="https://go.vansh.nyc/1Eh?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | Microsoft | Research Intern, AI/Machine Learning Numerics & Efficiency | Redmond, WA</br>Mountain View, CA | <a href="https://go.vansh.nyc/1Dx?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | Marias Technology | Software Developer Intern | Covington, OH | <a href="https://go.vansh.nyc/1E4?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | Lutron | Embedded Firmware Engineering Intern | Boston, MA | <a href="https://go.vansh.nyc/1Db?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |

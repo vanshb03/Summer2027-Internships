@@ -43,6 +43,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| REXA | Software Engineer Intern | Middleborough, MA | <a href="https://go.vansh.nyc/1Eg?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | Peripheral | Software Engineering Intern, Viewer | Toronto, Canada | <a href="https://go.vansh.nyc/1CX?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | MDA | Engineering Student Intern, AI/ML Specialist | Richmond, Canada | <a href="https://go.vansh.nyc/1DO?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | EUNA Solutions | Associate AI-Enablement Developer Co-op | Oakville, Canada | <a href="https://go.vansh.nyc/1D7?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
