@@ -36980,13 +36980,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793329593,
+        "date_updated": 1795144685,
         "url": "https://go.vansh.nyc/10n",
         "locations": [
             "Waterdown, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "L3Harris Technologies",
         "title": "FPGA Software Tool Developer Co-op",
         "source": "vanshb03",
@@ -47565,14 +47565,14 @@
         "season": "Spring"
     },
     {
-        "date_updated": 1793736537,
+        "date_updated": 1795144685,
         "url": "https://go.vansh.nyc/1e9",
         "locations": [
             "Remote",
             "United States"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Highmark Health",
         "title": "Vulnerability Management Analyst Undergraduate Intern",
         "source": "vanshb03",
@@ -69443,6 +69443,91 @@
         "source": "vanshb03",
         "id": "1d958402-479f-44d3-84ec-318e9e22d242",
         "date_posted": 1795140952,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795143950,
+        "url": "https://go.vansh.nyc/1DS",
+        "locations": [
+            "Somerville, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Formlabs",
+        "title": "API & Automation Intern",
+        "source": "vanshb03",
+        "id": "7b060456-2245-4078-ac1e-3f2e91a4f937",
+        "date_posted": 1795134860,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795143950,
+        "url": "https://go.vansh.nyc/1DT",
+        "locations": [
+            "Newark, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lucid Motors",
+        "title": "Embedded Software Intern, BSP/Platform, ADAS/Autonomous Driving",
+        "source": "vanshb03",
+        "id": "2f12a729-6964-43d7-b78d-fe6be0b654f0",
+        "date_posted": 1795135259,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795143950,
+        "url": "https://go.vansh.nyc/1DU",
+        "locations": [
+            "Newark, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lucid Motors",
+        "title": "Infotainment Software Intern",
+        "source": "vanshb03",
+        "id": "67f7b75c-d701-4114-ac49-84a12ee0e643",
+        "date_posted": 1795138046,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795143950,
+        "url": "https://go.vansh.nyc/1DV",
+        "locations": [
+            "Waynesboro, MS"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Southern Mississippi Trading",
+        "title": "AI and Business Analytics Intern",
+        "source": "vanshb03",
+        "id": "05757636-1b40-469c-bc35-f63014c383cc",
+        "date_posted": 1795142351,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795144478,
+        "url": "https://go.vansh.nyc/1DW",
+        "locations": [
+            "Newark, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lucid Motors",
+        "title": "Product Security Engineering Intern",
+        "source": "vanshb03",
+        "id": "f8551ec2-490d-4347-86af-5874da0771df",
+        "date_posted": 1795137123,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
