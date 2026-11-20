@@ -18363,13 +18363,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792812208,
+        "date_updated": 1795211325,
         "url": "https://go.vansh.nyc/ho",
         "locations": [
             "Milpitas, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "KLA",
         "title": "Software Engineer Intern, C++, Linux",
         "source": "vanshb03",
@@ -56965,13 +56965,13 @@
         "season": "Spring"
     },
     {
-        "date_updated": 1794245880,
+        "date_updated": 1795211325,
         "url": "https://go.vansh.nyc/1oM",
         "locations": [
             "United States"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Ryan",
         "title": "Application Development Intern",
         "source": "vanshb03",
@@ -70335,6 +70335,57 @@
         "source": "vanshb03",
         "id": "d2080a4c-0ee7-4f0e-b3dd-367ea8d184b4",
         "date_posted": 1795151436,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795211098,
+        "url": "https://go.vansh.nyc/1F1",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cisco",
+        "title": "Data Science Analyst II Intern",
+        "source": "vanshb03",
+        "id": "b907c0d8-ab64-44cd-9692-1f30af844981",
+        "date_posted": 1795132800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795211098,
+        "url": "https://go.vansh.nyc/1F2",
+        "locations": [
+            "Victor, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Gorbel",
+        "title": "Front-End Web Developer Co-op",
+        "source": "vanshb03",
+        "id": "7ba4f5bd-39af-4101-b412-e693000e48ed",
+        "date_posted": 1795209034,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1795211098,
+        "url": "https://go.vansh.nyc/1F3",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Rivian",
+        "title": "Software Engineering Intern, AI Platform, Autonomy",
+        "source": "vanshb03",
+        "id": "c1f70d5f-5bf6-460b-a8da-482ccf71c649",
+        "date_posted": 1795210836,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
