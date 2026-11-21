@@ -51,7 +51,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Loblaw Companies | Software Development Co-op | Toronto, Canada | <a href="https://go.vansh.nyc/1FG?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 | Gorbel | Front-End Web Developer Co-op | Victor, NY | <a href="https://go.vansh.nyc/1F2?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 | Flare | Software Developer Intern | Montreal, Canada | <a href="https://go.vansh.nyc/1ED?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
-| AON3D | Software Developer Intern | Montreal, Canada | <a href="https://go.vansh.nyc/1EC?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 | AFL | Web Design/Development Intern | Duncan, SC | <a href="https://go.vansh.nyc/1Fd?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 | TMX Group | DevOps Analyst Intern | Montreal, Canada | <a href="https://go.vansh.nyc/1FF?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | ↳ | Junior Vulnerability Management Analyst Intern | Toronto, Canada | <a href="https://go.vansh.nyc/1Fp?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
@@ -528,6 +527,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Pinterest | Software Engineer Intern | Toronto, Canada | <a href="https://go.vansh.nyc/Y?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 24 |
 | Colgate-Palmolive | Software Development Intern | Piscataway, NJ | <a href="https://go.vansh.nyc/U?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
 | Shopify | Engineering and Data Intern | Remote</br>Canada | <a href="https://go.vansh.nyc/G?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 19 |
+| AON3D | Software Developer Intern | Montreal, Canada | 🔒 | Nov 20 |
 | Motorola Solutions | Software Engineer Co-op | Remote</br>United States | 🔒 | Nov 17 |
 | Cloudflare | AI & Automation Intern, Communications 🛂 | Office, IN | 🔒 | Nov 17 |
 | Optimum (Altice USA) | Software Developer Intern | Bethpage, NY | 🔒 | Nov 16 |
