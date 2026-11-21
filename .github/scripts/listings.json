@@ -59380,13 +59380,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1794328802,
+        "date_updated": 1795267233,
         "url": "https://go.vansh.nyc/1ro",
         "locations": [
             "Toronto, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Hitachi",
         "title": "DevOps Analyst Intern",
         "source": "vanshb03",
@@ -59672,13 +59672,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794337560,
+        "date_updated": 1795267233,
         "url": "https://go.vansh.nyc/1rP",
         "locations": [
             "Knoxville, TN"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Trimble",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
@@ -65668,13 +65668,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794605998,
+        "date_updated": 1795267233,
         "url": "https://go.vansh.nyc/1zc",
         "locations": [
             "North Vancouver, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Seaspan",
         "title": "Data Engineering Intern",
         "source": "vanshb03",
@@ -65890,13 +65890,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794618495,
+        "date_updated": 1795267233,
         "url": "https://go.vansh.nyc/1zt",
         "locations": [
             "Shakopee, MN"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Seagate Technology",
         "title": "Embedded Firmware Intern, Research Group",
         "source": "vanshb03",
@@ -65907,13 +65907,13 @@
         "season": "Fall"
     },
     {
-        "date_updated": 1794618495,
+        "date_updated": 1795267233,
         "url": "https://go.vansh.nyc/1zu",
         "locations": [
             "Longmont, CO"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Seagate Technology",
         "title": "Embedded Firmware Intern, Research Group",
         "source": "vanshb03",
@@ -71369,5 +71369,39 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1795266624,
+        "url": "https://go.vansh.nyc/1Gd",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "Technical Marketing Engineering Intern, Digital Biology and Scientific Computing",
+        "source": "vanshb03",
+        "id": "d2b0822f-d8c6-47c4-a20a-f4253d119fd1",
+        "date_posted": 1795245024,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795266956,
+        "url": "https://go.vansh.nyc/1Ge",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Activision Blizzard",
+        "title": "Data Platform Engineering Intern",
+        "source": "vanshb03",
+        "id": "73e6ad9a-7961-4c4e-a4a6-4a357fb33dea",
+        "date_posted": 1795223480,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
