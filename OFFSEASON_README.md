@@ -43,10 +43,15 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Southern Farm Bureau Life Insurance | Applications Development Co-op | Jackson, MS | <a href="https://go.vansh.nyc/1Fv?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
+| Milliman | AI Product Engineer Intern | Brookfield, WI</br>Chicago, IL | <a href="https://go.vansh.nyc/1Fz?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
+| Loblaw Companies | Software Development Co-op | Toronto, Canada | <a href="https://go.vansh.nyc/1FG?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 | Gorbel | Front-End Web Developer Co-op | Victor, NY | <a href="https://go.vansh.nyc/1F2?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 | Flare | Software Developer Intern | Montreal, Canada | <a href="https://go.vansh.nyc/1ED?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 | AON3D | Software Developer Intern | Montreal, Canada | <a href="https://go.vansh.nyc/1EC?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 | AFL | Web Design/Development Intern | Duncan, SC | <a href="https://go.vansh.nyc/1Fd?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
+| TMX Group | DevOps Analyst Intern | Montreal, Canada | <a href="https://go.vansh.nyc/1FF?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
+| ↳ | Junior Vulnerability Management Analyst Intern | Toronto, Canada | <a href="https://go.vansh.nyc/1Fp?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | REXA | Software Engineer Intern | Middleborough, MA | <a href="https://go.vansh.nyc/1Eg?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | Peripheral | Software Engineering Intern, Viewer | Toronto, Canada | <a href="https://go.vansh.nyc/1CX?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | MDA | Engineering Student Intern, AI/ML Specialist | Richmond, Canada | <a href="https://go.vansh.nyc/1DO?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
