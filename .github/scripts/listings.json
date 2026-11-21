@@ -71335,5 +71335,39 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1795251923,
+        "url": "https://go.vansh.nyc/1G9",
+        "locations": [
+            "Cleveland, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nottingham Spirk",
+        "title": "Firmware Co-op",
+        "source": "vanshb03",
+        "id": "0e2ba984-14d6-4435-ba52-f1b61aa14fb6",
+        "date_posted": 1795244655,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1795251923,
+        "url": "https://go.vansh.nyc/1Ga",
+        "locations": [
+            "Calgary, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Convverge",
+        "title": "Junior Developer Co-op",
+        "source": "vanshb03",
+        "id": "3a11ba75-7630-46c3-84c8-aa3de56e476f",
+        "date_posted": 1795246991,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
