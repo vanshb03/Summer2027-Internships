@@ -71301,5 +71301,39 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1795237869,
+        "url": "https://go.vansh.nyc/1G7",
+        "locations": [
+            "Mayfield Heights, OH"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Rockwell Automation",
+        "title": "ISM, Cyber Security and AI Intern",
+        "source": "vanshb03",
+        "id": "450fa451-a70f-4663-9a67-346f2cc5201b",
+        "date_posted": 1795234269,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795238221,
+        "url": "https://go.vansh.nyc/1G8",
+        "locations": [
+            "Kitchener, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Canadian Solar",
+        "title": "Data Engineering Intern",
+        "source": "vanshb03",
+        "id": "935a1b1f-6155-4d73-929a-122993d8f875",
+        "date_posted": 1795237891,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
