@@ -509,7 +509,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Rendezvous Robotics | Software Engineering Intern, Spring 2027 🇺🇸 | Golden, CO | <a href="https://go.vansh.nyc/5h?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 28 |
 | Mathtech | Web Application Developer Intern 🇺🇸 | Falls Church, VA | <a href="https://go.vansh.nyc/53?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
 | GRITT ROBOTICS INC | ML & Cloud Infrastructure Engineer Intern | South San Francisco, CA | <a href="https://go.vansh.nyc/54?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
-| Pony.ai | Research Intern - Deep Learning | Fremont, CA | <a href="https://go.vansh.nyc/4S?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 26 |
 | Anthelion Capital | Quant Developer / Quant Research Intern 🇺🇸 | New York City, NY | <a href="https://go.vansh.nyc/4L?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 26 |
 | TransMarket Group | DevOps/SRE Intern | Chicago, IL | <a href="https://go.vansh.nyc/4B?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | ↳ | Quantitative Trader Intern | Chicago, IL | <a href="https://go.vansh.nyc/4A?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
@@ -858,7 +857,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Infrastructure Software Engineering Intern | San Francisco, CA</br>Austin, TX | 🔒 | Jul 27 |
 | Tenstorrent | Software Engineering Intern, Power Modeling & AI Tools | Santa Clara, CA | 🔒 | Jul 26 |
 | Sentara Health | Data & AI Finance Strategy Intern | Virginia Beach, VA | 🔒 | Jul 26 |
-| Pony.ai | Software Engineer Intern | Fremont, CA | 🔒 | Jul 26 |
+| Pony.ai | Research Intern - Deep Learning | Fremont, CA | 🔒 | Jul 26 |
+| ↳ | Software Engineer Intern | Fremont, CA | 🔒 | Jul 26 |
 | Moog | Software Engineer Intern | Buffalo, NY | 🔒 | Jul 26 |
 | Tesla | Localization Specialist Intern | Fremont, CA | 🔒 | Jul 24 |
 | SPREEAI | Software Engineer Intern, AI Infrastructure / Training / Inference | San Francisco, CA | 🔒 | Jul 24 |
