@@ -71403,5 +71403,39 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1795280754,
+        "url": "https://go.vansh.nyc/1Gf",
+        "locations": [
+            "Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ribbon",
+        "title": "Software Developer Co-op, Common Cloud Services",
+        "source": "vanshb03",
+        "id": "1c8568f5-b1a8-49f9-bb58-c2ee2766d892",
+        "date_posted": 1795046400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1795281431,
+        "url": "https://go.vansh.nyc/1Gg",
+        "locations": [
+            "Sioux Falls, SD"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "First PREMIER Bank",
+        "title": "Information Security Intern",
+        "source": "vanshb03",
+        "id": "4a85bc7c-4c91-49e2-abab-8eda35362286",
+        "date_posted": 1795209034,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
