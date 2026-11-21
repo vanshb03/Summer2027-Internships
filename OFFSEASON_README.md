@@ -63,6 +63,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | EUNA Solutions | Associate AI-Enablement Developer Co-op | Oakville, Canada | <a href="https://go.vansh.nyc/1D7?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | Alberta Investment Management Corporation | Test Automation Intern | Edmonton, Canada | <a href="https://go.vansh.nyc/1Da?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | Western Digital | Software Engineering Intern | Irvine, CA | <a href="https://go.vansh.nyc/1Cg?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
+| Ribbon | Software Developer Co-op, Common Cloud Services | Canada | <a href="https://go.vansh.nyc/1Gf?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
 | Gentuity | Software Engineer Co-op | Sudbury, MA | <a href="https://go.vansh.nyc/1Do?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
 | Bose | Software Engineer Co-op | Framingham, MA | <a href="https://go.vansh.nyc/1Cq?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
 | Amentum | Immersive Imagery SW/HW Lab Development Intern 🇺🇸 | Huntsville, AL | <a href="https://go.vansh.nyc/1Cr?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
