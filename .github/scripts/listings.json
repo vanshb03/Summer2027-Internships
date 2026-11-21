@@ -42415,7 +42415,7 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793538336,
+        "date_updated": 1795223965,
         "url": "https://go.vansh.nyc/18P",
         "locations": [
             "Burbank, CA",
@@ -42423,7 +42423,7 @@
             "United States"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Insomniac Games",
         "title": "Undergraduate Gameplay Programming Intern",
         "source": "vanshb03",
@@ -42434,13 +42434,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793538336,
+        "date_updated": 1795223965,
         "url": "https://go.vansh.nyc/18Q",
         "locations": [
             "Burbank, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Insomniac Games",
         "title": "Undergraduate Tech Art Intern",
         "source": "vanshb03",
@@ -63672,13 +63672,13 @@
         "season": "Spring"
     },
     {
-        "date_updated": 1794512365,
+        "date_updated": 1795223965,
         "url": "https://go.vansh.nyc/1x1",
         "locations": [
             "San Diego, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "US Internships Public Careers Site",
         "title": "Undergraduate Software Engineering Intern",
         "source": "vanshb03",
@@ -63689,13 +63689,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794512365,
+        "date_updated": 1795223965,
         "url": "https://go.vansh.nyc/1x2",
         "locations": [
             "Aliso Viejo, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "US Internships Public Careers Site",
         "title": "Undergraduate Software Engineering Intern",
         "source": "vanshb03",
@@ -63842,14 +63842,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794512365,
+        "date_updated": 1795223965,
         "url": "https://go.vansh.nyc/1xb",
         "locations": [
             "Los Angeles, CA",
             "San Mateo, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "US Internships Public Careers Site",
         "title": "Undergraduate Frontend Software Engineering Intern",
         "source": "vanshb03",
@@ -64286,13 +64286,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794525009,
+        "date_updated": 1795223965,
         "url": "https://go.vansh.nyc/1xC",
         "locations": [
             "San Mateo, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "US Internships Public Careers Site",
         "title": "Undergraduate Software Engineering Intern",
         "source": "vanshb03",
@@ -64303,13 +64303,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794525009,
+        "date_updated": 1795223965,
         "url": "https://go.vansh.nyc/1xD",
         "locations": [
             "San Mateo, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "US Internships Public Careers Site",
         "title": "Undergraduate Software Development Engineer in Test Intern",
         "source": "vanshb03",
@@ -64320,13 +64320,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794525009,
+        "date_updated": 1795223965,
         "url": "https://go.vansh.nyc/1xE",
         "locations": [
             "San Mateo, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "US Internships Public Careers Site",
         "title": "Undergraduate Software Development Engineer in Test Intern, AI/ML",
         "source": "vanshb03",
@@ -64337,13 +64337,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794525009,
+        "date_updated": 1795223965,
         "url": "https://go.vansh.nyc/1xF",
         "locations": [
             "San Mateo, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "US Internships Public Careers Site",
         "title": "Undergraduate Backend Software Engineering Intern",
         "source": "vanshb03",
@@ -64371,13 +64371,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794525009,
+        "date_updated": 1795223965,
         "url": "https://go.vansh.nyc/1xH",
         "locations": [
             "San Mateo, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "US Internships Public Careers Site",
         "title": "Undergraduate Software Engineering Intern, Compilers",
         "source": "vanshb03",
@@ -71230,6 +71230,23 @@
         "source": "vanshb03",
         "id": "17bab9c0-d9e6-47fd-bfac-7f4b5dc4bec6",
         "date_posted": 1795221705,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795223467,
+        "url": "https://go.vansh.nyc/1G2",
+        "locations": [
+            "Portsmouth, NH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Trimble",
+        "title": "QA Engineer Intern",
+        "source": "vanshb03",
+        "id": "2b2e4fb1-8125-48a6-b26f-c077b503466a",
+        "date_posted": 1795050667,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
