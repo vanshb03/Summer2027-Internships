@@ -48668,14 +48668,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793745535,
+        "date_updated": 1795234799,
         "url": "https://go.vansh.nyc/1fi",
         "locations": [
             "Cedar Rapids, IA",
             "Des Moines, IA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "GreatAmerica Financial Services",
         "title": "Quality Assurance Analyst Intern",
         "source": "vanshb03",
@@ -71263,6 +71263,40 @@
         "title": "Equities Trading Technology Intern",
         "source": "vanshb03",
         "id": "85eefcc4-39f0-4bf8-8a85-500435f5a3e6",
+        "date_posted": 1795132800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795234254,
+        "url": "https://go.vansh.nyc/1G5",
+        "locations": [
+            "Research Triangle Park, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cisco",
+        "title": "AI Cybersecurity Engineer I Intern",
+        "source": "vanshb03",
+        "id": "64809d4b-436f-4ace-8c60-42ae2ff98bc5",
+        "date_posted": 1795147854,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795234616,
+        "url": "https://go.vansh.nyc/1G6",
+        "locations": [
+            "Idaho Falls, ID"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Idaho National Laboratory",
+        "title": "Spatial Computing Intern",
+        "source": "vanshb03",
+        "id": "eb1216ec-828e-418e-9881-b0366b01104d",
         "date_posted": 1795132800,
         "company_url": "",
         "is_visible": true,
