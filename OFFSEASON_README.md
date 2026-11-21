@@ -82,8 +82,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Milliman | AI Product Engineer Intern, CMH Health | Chicago, IL</br>Brookfield, WI | <a href="https://go.vansh.nyc/1A1?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 15 |
 | Optimum (Altice USA) | Cybersecurity Operations Intern | Bethpage, NY | <a href="https://go.vansh.nyc/1zM?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | SSI ShipConstructor | Software Developer Co-op | Victoria, Canada | <a href="https://go.vansh.nyc/1zJ?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
-| Seagate Technology | Embedded Firmware Intern, Research Group | Shakopee, MN | <a href="https://go.vansh.nyc/1zt?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
-| ↳ | Embedded Firmware Intern, Research Group | Longmont, CO | <a href="https://go.vansh.nyc/1zu?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 | RegScale | Cyber Security Intern | Remote</br>United States | <a href="https://go.vansh.nyc/1yP?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 | House of Representatives | HIR Cybersecurity Intern | Washington, DC | <a href="https://go.vansh.nyc/1zW?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 | Carnegie Mellon University | Cybersecurity Engineer Intern | Pittsburgh, PA | <a href="https://go.vansh.nyc/1yU?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
@@ -92,7 +90,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | TMX Group | AI Engineering Intern | Toronto, Canada | <a href="https://go.vansh.nyc/1wI?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | State Street | Cyber Security Operations Center Analyst Intern | Quincy, MA | <a href="https://go.vansh.nyc/1yy?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | SharkNinja | Digital & Website Technology Intern | Needham, MA | <a href="https://go.vansh.nyc/1wJ?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
-| Seaspan | Data Engineering Intern | North Vancouver, Canada | <a href="https://go.vansh.nyc/1zc?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | Ready to? | Quality Assurance Automation Engineer Intern | Idaho Falls, ID | <a href="https://go.vansh.nyc/1xP?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | North Atlantic Industries | Embedded Software Engineer Intern | Bohemia, NY | <a href="https://go.vansh.nyc/1y5?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | Medpace | Data Engineer Intern | Cincinnati, OH | <a href="https://go.vansh.nyc/1wk?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
@@ -116,7 +113,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | NVIDIA | Performance Engineering Intern, Platform Performance and Power | Santa Clara, CA | <a href="https://go.vansh.nyc/1sd?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | Mantlebio | Computational Biology Research Engineer Intern | San Francisco, CA | <a href="https://go.vansh.nyc/1qV?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | Magnet Forensics | Information Security Analyst Co-op | Waterloo, Canada</br>Ottawa, Canada | <a href="https://go.vansh.nyc/1se?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
-| Hitachi | DevOps Analyst Intern | Toronto, Canada | <a href="https://go.vansh.nyc/1ro?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | Gastronomous Technologies | Full Stack Developer Co-op | Oakville, Canada | <a href="https://go.vansh.nyc/1vb?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | ↳ | Embedded Software Engineer Co-op | Oakville, Canada | <a href="https://go.vansh.nyc/1vc?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | Formlabs | Desktop Software Intern | Somerville, MA | <a href="https://go.vansh.nyc/1v2?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
@@ -533,15 +529,19 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Motorola Solutions | Software Engineer Co-op | Remote</br>United States | 🔒 | Nov 17 |
 | Cloudflare | AI & Automation Intern, Communications 🛂 | Office, IN | 🔒 | Nov 17 |
 | Optimum (Altice USA) | Software Developer Intern | Bethpage, NY | 🔒 | Nov 16 |
+| Seagate Technology | Embedded Firmware Intern, Research Group | Shakopee, MN | 🔒 | Nov 13 |
+| ↳ | Embedded Firmware Intern, Research Group | Longmont, CO | 🔒 | Nov 13 |
 | Manulife Financial | Software Engineering Co-op | Boston, MA | 🔒 | Nov 13 |
 | Corteva | R&D Intern, Computer & Data Science | Indianapolis, IN | 🔒 | Nov 13 |
 | CACI | Configuration Control/Data Management Co-op | Danbury, CT | 🔒 | Nov 13 |
+| Seaspan | Data Engineering Intern | North Vancouver, Canada | 🔒 | Nov 12 |
 | Fresenius Medical Care | Agentic AI Analytics Co-op | Lawrence, MA | 🔒 | Nov 12 |
 | Medpace | Clinical Informatics Co-op | Cincinnati, OH | 🔒 | Nov 11 |
 | Bank of Montreal | AI Developer Co-op | Toronto, Canada | 🔒 | Nov 11 |
 | Optimum (Altice USA) | QA Automation Engineering Intern | Bethpage, NY | 🔒 | Nov 10 |
 | ↳ | Cloud Platform Engineering Intern | Bethpage, NY | 🔒 | Nov 10 |
 | ↳ | DevOps Toolchain Intern | Bethpage, NY | 🔒 | Nov 10 |
+| Hitachi | DevOps Analyst Intern | Toronto, Canada | 🔒 | Nov 10 |
 | Altice USA | Operations Data Analyst Intern | Bethpage, NY | 🔒 | Nov 10 |
 | ↳ | Product Analytics Intern | Bethpage, NY | 🔒 | Nov 10 |
 | ↳ | Software Development Intern | Bethpage, NY | 🔒 | Nov 10 |
