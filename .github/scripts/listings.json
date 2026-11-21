@@ -70098,13 +70098,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1795188949,
+        "date_updated": 1795231145,
         "url": "https://go.vansh.nyc/1EC",
         "locations": [
             "Montreal, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "AON3D",
         "title": "Software Developer Intern",
         "source": "vanshb03",
