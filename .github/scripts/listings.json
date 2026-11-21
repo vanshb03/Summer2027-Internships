@@ -9512,13 +9512,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792261427,
+        "date_updated": 1795222222,
         "url": "https://go.vansh.nyc/97",
         "locations": [
             "Bellevue, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "GE Vernova",
         "title": "AI Post-Training and Model Alignment Intern, AGI",
         "source": "vanshb03",
@@ -23790,13 +23790,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793015500,
+        "date_updated": 1795222222,
         "url": "https://go.vansh.nyc/GB",
         "locations": [
             "Vancouver, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Electronic Arts",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -71026,6 +71026,210 @@
         "source": "vanshb03",
         "id": "74f0bdcf-2728-4897-953c-77faf6e27f15",
         "date_posted": 1795220047,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795221352,
+        "url": "https://go.vansh.nyc/1FQ",
+        "locations": [
+            "Calgary, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Mawer Investment Management",
+        "title": "AI Engineer Student Intern",
+        "source": "vanshb03",
+        "id": "963d018c-3e53-4225-b185-26960dec33a8",
+        "date_posted": 1795219070,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1795221352,
+        "url": "https://go.vansh.nyc/1FR",
+        "locations": [
+            "Calgary, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Mawer Investment Management",
+        "title": "AI Orchestrator Student Intern",
+        "source": "vanshb03",
+        "id": "0233ba57-3a60-4d0a-9c92-395f444affa5",
+        "date_posted": 1795219070,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1795222014,
+        "url": "https://go.vansh.nyc/1FS",
+        "locations": [
+            "Wichita, KS"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bombardier",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "db8f94f1-00ac-4915-8ca5-97f9bfb510b5",
+        "date_posted": 1795221705,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795222014,
+        "url": "https://go.vansh.nyc/1FT",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Celestica",
+        "title": "Salesforce Developer 1 Intern",
+        "source": "vanshb03",
+        "id": "7cb1abde-324e-47e4-86ee-9e38eff76880",
+        "date_posted": 1795221705,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795222014,
+        "url": "https://go.vansh.nyc/1FU",
+        "locations": [
+            "Baton Rouge, LA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Applied Research Associates",
+        "title": "Software Quality Assurance Intern",
+        "source": "vanshb03",
+        "id": "f6fd8b7d-c559-4014-8056-1686cd29cc56",
+        "date_posted": 1795221705,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795222014,
+        "url": "https://go.vansh.nyc/1FV",
+        "locations": [
+            "Naperville, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Calamos Investments",
+        "title": "Information Security Intern",
+        "source": "vanshb03",
+        "id": "6b66f46a-3436-49d8-8d8c-a18ccf4ea702",
+        "date_posted": 1795221705,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795222014,
+        "url": "https://go.vansh.nyc/1FW",
+        "locations": [
+            "Naperville, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Calamos Investments",
+        "title": "Application Development Intern",
+        "source": "vanshb03",
+        "id": "79d4e48d-c80d-41dd-9449-6f3152bc9726",
+        "date_posted": 1795221705,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795222014,
+        "url": "https://go.vansh.nyc/1FX",
+        "locations": [
+            "Naperville, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Calamos Investments",
+        "title": "Cloud Engineer Intern",
+        "source": "vanshb03",
+        "id": "7c71dc9a-4e4c-4d27-8b54-6f1a758c3ecb",
+        "date_posted": 1795221705,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795222014,
+        "url": "https://go.vansh.nyc/1FY",
+        "locations": [
+            "Naperville, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Calamos Investments",
+        "title": "Data Engineering Intern",
+        "source": "vanshb03",
+        "id": "83705f99-31db-4d65-a781-300ef9d154b6",
+        "date_posted": 1795221705,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795222014,
+        "url": "https://go.vansh.nyc/1FZ",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Mesirow",
+        "title": "Cloud Engineering Intern, IT",
+        "source": "vanshb03",
+        "id": "12839c94-f21d-493b-b175-e76992fe28c0",
+        "date_posted": 1795221705,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795222014,
+        "url": "https://go.vansh.nyc/1G0",
+        "locations": [
+            "Jackson, MS"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Southern Farm Bureau Life Insurance",
+        "title": "Cyber Security Co-op",
+        "source": "vanshb03",
+        "id": "4bf8bc1c-7b21-4eb0-8164-0718ff52658e",
+        "date_posted": 1795221705,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1795222014,
+        "url": "https://go.vansh.nyc/1G1",
+        "locations": [
+            "Jackson, MS"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Southern Farm Bureau Life Insurance",
+        "title": "Cyber Security Intern",
+        "source": "vanshb03",
+        "id": "17bab9c0-d9e6-47fd-bfac-7f4b5dc4bec6",
+        "date_posted": 1795221705,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
