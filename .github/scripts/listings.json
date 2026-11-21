@@ -4961,13 +4961,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1785124738,
+        "date_updated": 1795227661,
         "url": "https://go.vansh.nyc/4S",
         "locations": [
             "Fremont, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Pony.ai",
         "title": "Research Intern - Deep Learning",
         "source": "vanshb03",
@@ -65736,13 +65736,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794609656,
+        "date_updated": 1795227661,
         "url": "https://go.vansh.nyc/1zg",
         "locations": [
             "Bozeman, MT"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Aurora Innovation",
         "title": "Embedded Software Engineer Intern, Lidar",
         "source": "vanshb03",
@@ -71247,6 +71247,23 @@
         "source": "vanshb03",
         "id": "2b2e4fb1-8125-48a6-b26f-c077b503466a",
         "date_posted": 1795050667,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795226712,
+        "url": "https://go.vansh.nyc/1G3",
+        "locations": [
+            "Greenwich, CT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Piper Sandler",
+        "title": "Equities Trading Technology Intern",
+        "source": "vanshb03",
+        "id": "85eefcc4-39f0-4bf8-8a85-500435f5a3e6",
+        "date_posted": 1795132800,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
