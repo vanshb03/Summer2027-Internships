@@ -71539,5 +71539,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1795323983,
+        "url": "https://go.vansh.nyc/1Go",
+        "locations": [
+            "Torrance, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Neros Technologies",
+        "title": "Firmware/Embedded Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "ba82d23f-76af-4ca2-bb20-2bb31edef199",
+        "date_posted": 1795311965,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
