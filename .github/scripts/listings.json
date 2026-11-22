@@ -14016,13 +14016,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792602840,
+        "date_updated": 1795368039,
         "url": "https://go.vansh.nyc/dm",
         "locations": [
             "Plano, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Toyota",
         "title": "Data Science Intern, TFS",
         "source": "vanshb03",
@@ -20266,14 +20266,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793013503,
+        "date_updated": 1795368039,
         "url": "https://go.vansh.nyc/CK",
         "locations": [
             "Remote",
             "United States"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Wikimedia Foundation",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
@@ -44642,13 +44642,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1793662521,
+        "date_updated": 1795368039,
         "url": "https://go.vansh.nyc/1b9",
         "locations": [
             "Austin, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "KLA",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -67047,13 +67047,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794884721,
+        "date_updated": 1795368039,
         "url": "https://go.vansh.nyc/1AQ",
         "locations": [
             "Atlanta, GA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "HexArmor",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -71553,6 +71553,23 @@
         "source": "vanshb03",
         "id": "ba82d23f-76af-4ca2-bb20-2bb31edef199",
         "date_posted": 1795311965,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795367154,
+        "url": "https://go.vansh.nyc/1Gp",
+        "locations": [
+            "Oakdale, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Neogen",
+        "title": "Embedded Systems Engineer Intern",
+        "source": "vanshb03",
+        "id": "57e0856a-6874-4dad-9d80-9b886ae14eef",
+        "date_posted": 1795360645,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
