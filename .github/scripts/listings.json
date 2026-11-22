@@ -23654,13 +23654,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793015500,
+        "date_updated": 1795310434,
         "url": "https://go.vansh.nyc/Gt",
         "locations": [
             "Pleasanton, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Workday",
         "title": "Software Application Development Engineer Intern",
         "source": "vanshb03",
@@ -23671,13 +23671,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793015500,
+        "date_updated": 1795310434,
         "url": "https://go.vansh.nyc/Gu",
         "locations": [
             "Pleasanton, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Workday",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -65223,13 +65223,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794584123,
+        "date_updated": 1795310434,
         "url": "https://go.vansh.nyc/1yF",
         "locations": [
             "Lehi, UT"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Verisk",
         "title": "Data Science/AI Intern",
         "source": "vanshb03",
@@ -66876,14 +66876,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794873921,
+        "date_updated": 1795310434,
         "url": "https://go.vansh.nyc/1AC",
         "locations": [
             "Santa Clara, CA",
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "ServiceNow",
         "title": "Associate Forward Deployed Solution Engineer Intern",
         "source": "vanshb03",
@@ -71488,5 +71488,56 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1795309570,
+        "url": "https://go.vansh.nyc/1Gl",
+        "locations": [
+            "Torrance, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Neros Technologies",
+        "title": "Autonomy Intern",
+        "source": "vanshb03",
+        "id": "0215d5bc-fc2d-4b6d-bf0c-279ab9840202",
+        "date_posted": 1795219200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795309570,
+        "url": "https://go.vansh.nyc/1Gm",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "WGU",
+        "title": "Technical Intern",
+        "source": "vanshb03",
+        "id": "7e808230-0069-40bd-bfcf-6d0a97bc43ca",
+        "date_posted": 1795219200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795309570,
+        "url": "https://go.vansh.nyc/1Gn",
+        "locations": [
+            "Ottawa, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lumentum",
+        "title": "AI Engineer Co-op",
+        "source": "vanshb03",
+        "id": "9bc17fca-c076-4b8d-b41d-dac29dd61d3f",
+        "date_posted": 1795219200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
