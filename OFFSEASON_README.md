@@ -49,6 +49,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Milliman | AI Product Engineer Intern | Brookfield, WI</br>Chicago, IL | <a href="https://go.vansh.nyc/1Fz?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 | Mawer Investment Management | AI Engineer Student Intern | Calgary, Canada | <a href="https://go.vansh.nyc/1FQ?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 | ↳ | AI Orchestrator Student Intern | Calgary, Canada | <a href="https://go.vansh.nyc/1FR?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
+| Lumentum | AI Engineer Co-op | Ottawa, Canada | <a href="https://go.vansh.nyc/1Gn?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 | Loblaw Companies | Software Development Co-op | Toronto, Canada | <a href="https://go.vansh.nyc/1FG?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 | Gorbel | Front-End Web Developer Co-op | Victor, NY | <a href="https://go.vansh.nyc/1F2?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 | Flare | Software Developer Intern | Montreal, Canada | <a href="https://go.vansh.nyc/1ED?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
