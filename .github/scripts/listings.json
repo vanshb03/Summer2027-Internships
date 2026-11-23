@@ -54019,13 +54019,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1794008153,
+        "date_updated": 1795466804,
         "url": "https://go.vansh.nyc/1lC",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Intercontinental Exchange",
         "title": "Trading System Development Intern",
         "source": "vanshb03",
@@ -72218,6 +72218,57 @@
         "title": "Software Engineering Intern",
         "source": "vanshb03",
         "id": "b72d4a88-7995-4127-a291-df6f6205a88d",
+        "date_posted": 1795464600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795466582,
+        "url": "https://go.vansh.nyc/1Hi",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "State Street",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "ae53501c-389e-4b8b-9aa5-43799b0b2def",
+        "date_posted": 1795338676,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1795466582,
+        "url": "https://go.vansh.nyc/1Hj",
+        "locations": [
+            "East Syracuse, NY"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Saab",
+        "title": "Software Engineering Co-op",
+        "source": "vanshb03",
+        "id": "42a0ac6f-b944-4b6a-b20a-0e47934c8023",
+        "date_posted": 1795464600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795466582,
+        "url": "https://go.vansh.nyc/1Hk",
+        "locations": [
+            "East Syracuse, NY"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Saab",
+        "title": "Software Engineer Co-op",
+        "source": "vanshb03",
+        "id": "3919afc6-50a1-4081-ba9d-168c3fd4ceb5",
         "date_posted": 1795464600,
         "company_url": "",
         "is_visible": true,
