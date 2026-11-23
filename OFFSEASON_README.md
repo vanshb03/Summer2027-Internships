@@ -88,7 +88,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Milliman | AI Product Engineer Intern, CMH Health | Chicago, IL</br>Brookfield, WI | <a href="https://go.vansh.nyc/1A1?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 15 |
 | Optimum (Altice USA) | Cybersecurity Operations Intern | Bethpage, NY | <a href="https://go.vansh.nyc/1zM?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | SSI ShipConstructor | Software Developer Co-op | Victoria, Canada | <a href="https://go.vansh.nyc/1zJ?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
-| RegScale | Cyber Security Intern | Remote</br>United States | <a href="https://go.vansh.nyc/1yP?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 | House of Representatives | HIR Cybersecurity Intern | Washington, DC | <a href="https://go.vansh.nyc/1zW?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 | Carnegie Mellon University | Cybersecurity Engineer Intern | Pittsburgh, PA | <a href="https://go.vansh.nyc/1yU?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 | ↳ | Cyber AI Engineering Intern 🛂 | Pittsburgh, PA | <a href="https://go.vansh.nyc/1yV?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
@@ -146,7 +145,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Samsara | Software Engineering Intern | San Francisco, CA | <a href="https://go.vansh.nyc/1kA?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | OLG | Analytics Engineering & Measurement Intern | Toronto, Canada</br>Sault Ste. Marie, Canada | <a href="https://go.vansh.nyc/1ld?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | Moss | Intern, ML / Perception / Robotics | San Francisco, CA | <a href="https://go.vansh.nyc/1ut?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
-| Globus Medical | Software Co-op | Methuen, MA | <a href="https://go.vansh.nyc/1kn?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | Danaher Corporation | Firmware Engineer Co-op | Indianapolis, IN | <a href="https://go.vansh.nyc/1kG?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | Cisco | Software Developer Co-op - Full Stack / Backend | <details><summary>**8 locations**</summary>Kanata, Canada</br>Saint-Laurent, Canada</br>Calgary, Canada</br>Toronto, Canada</br>Montreal, Canada</br>Vancouver, Canada</br>Halifax, Canada</br>Ottawa, Canada</details> | <a href="https://go.vansh.nyc/1tS?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | Astranis | Embedded Software Developer Intern, Network/Payload 🇺🇸 | San Francisco, CA | <a href="https://go.vansh.nyc/1lz?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
@@ -530,6 +528,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Optimum (Altice USA) | Software Developer Intern | Bethpage, NY | 🔒 | Nov 16 |
 | Seagate Technology | Embedded Firmware Intern, Research Group | Shakopee, MN | 🔒 | Nov 13 |
 | ↳ | Embedded Firmware Intern, Research Group | Longmont, CO | 🔒 | Nov 13 |
+| RegScale | Cyber Security Intern | Remote</br>United States | 🔒 | Nov 13 |
 | Manulife Financial | Software Engineering Co-op | Boston, MA | 🔒 | Nov 13 |
 | Corteva | R&D Intern, Computer & Data Science | Indianapolis, IN | 🔒 | Nov 13 |
 | CACI | Configuration Control/Data Management Co-op | Danbury, CT | 🔒 | Nov 13 |
@@ -557,6 +556,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Sun Life | Associate DevOps Engineer Intern | Waterloo, Canada | 🔒 | Nov 06 |
 | Hootsuite | Software Development Co-op | Vancouver, Canada</br>Toronto, Canada | 🔒 | Nov 06 |
 | ↳ | DevOps Co-op | Canada | 🔒 | Nov 06 |
+| Globus Medical | Software Co-op | Methuen, MA | 🔒 | Nov 06 |
 | Valley Children's Specialty Medical Group | IT Security Intern | Madera, CA | 🔒 | Nov 05 |
 | TD Bank | Software Engineer Co-op | Toronto, Canada</br>Mississauga, Canada</br>London, Canada | 🔒 | Nov 05 |
 | Rodan Energy Solutions Inc. | Data Operations Engineer AI Co-op | Mississauga, Canada | 🔒 | Nov 05 |
