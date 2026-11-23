@@ -47,7 +47,10 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Neogen | Embedded Systems Engineer Intern | Oakdale, MN | <a href="https://go.vansh.nyc/1Gp?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 22 |
-| MITRE | Generative and Agentic AI Intern | McLean, VA | <a href="https://go.vansh.nyc/1GB?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 22 |
+| MITRE | Cybersecurity and Information Security Intern | McLean, VA | <a href="https://go.vansh.nyc/1GC?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 22 |
+| ↳ | Generative and Agentic AI Intern | McLean, VA | <a href="https://go.vansh.nyc/1GB?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 22 |
+| First Resonance | Software Engineering Intern, Platform | Los Angeles, CA | <a href="https://go.vansh.nyc/1GE?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 22 |
+| ↳ | Forward Deployed Engineering Intern | Los Angeles, CA | <a href="https://go.vansh.nyc/1GF?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 22 |
 | Artefact | AI Engineer Intern | New York, NY | <a href="https://go.vansh.nyc/1Gz?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 22 |
 | Neros Technologies | Firmware/Embedded Software Engineer Intern | Torrance, CA | <a href="https://go.vansh.nyc/1Go?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 21 |
 | MITRE | Embedded Security Intern, Electronics Prototype | Bedford, MA | <a href="https://go.vansh.nyc/1GA?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 21 |
@@ -127,6 +130,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Piper Sandler | Equities Trading Technology Intern | Greenwich, CT | <a href="https://go.vansh.nyc/1G3?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | ↳ | Data Engineering Intern | Minneapolis, MN | <a href="https://go.vansh.nyc/1D8?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | NVIDIA | Finance AI Engineering Intern | Santa Clara, CA | <a href="https://go.vansh.nyc/1Eh?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
+| Northrop Grumman | AI/ML Engineering Intern 🇺🇸 | Morrisville, NC | <a href="https://go.vansh.nyc/1GD?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | Nelnet | Data Analytics Intern | Lincoln, NE | <a href="https://go.vansh.nyc/1Ev?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | Microsoft | Research Intern, AI/Machine Learning Numerics & Efficiency | Redmond, WA</br>Mountain View, CA | <a href="https://go.vansh.nyc/1Dx?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | Microchip Technology | ASIC Verification Engineer Intern | San Jose, CA | <a href="https://go.vansh.nyc/1F9?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
