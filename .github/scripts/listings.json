@@ -71658,5 +71658,73 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1795417807,
+        "url": "https://go.vansh.nyc/1GC",
+        "locations": [
+            "McLean, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "MITRE",
+        "title": "Cybersecurity and Information Security Intern",
+        "source": "vanshb03",
+        "id": "08084926-190d-4da8-8bc3-8bca16fd15b8",
+        "date_posted": 1795392607,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795418064,
+        "url": "https://go.vansh.nyc/1GD",
+        "locations": [
+            "Morrisville, NC"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Northrop Grumman",
+        "title": "AI/ML Engineering Intern",
+        "source": "vanshb03",
+        "id": "8a55ee75-657d-4061-9cd9-e72672f6bbe5",
+        "date_posted": 1795146633,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795418064,
+        "url": "https://go.vansh.nyc/1GE",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "First Resonance",
+        "title": "Software Engineering Intern, Platform",
+        "source": "vanshb03",
+        "id": "187a9a48-6267-44d4-bca2-527a820bf614",
+        "date_posted": 1795392000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795418064,
+        "url": "https://go.vansh.nyc/1GF",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "First Resonance",
+        "title": "Forward Deployed Engineering Intern",
+        "source": "vanshb03",
+        "id": "f4a75c58-ab4f-49ca-8b80-52b3dbcb54b8",
+        "date_posted": 1795412917,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
