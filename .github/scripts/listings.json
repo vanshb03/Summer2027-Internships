@@ -38745,13 +38745,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793477197,
+        "date_updated": 1795461327,
         "url": "https://go.vansh.nyc/12v",
         "locations": [
             "United States"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Hendler Family Brewing Co.",
         "title": "Software Engineering and IT Co-op",
         "source": "vanshb03",
@@ -72014,6 +72014,40 @@
         "title": "CNO Developer Intern",
         "source": "vanshb03",
         "id": "56cc2419-bef9-4ed5-abe8-3749eed604a8",
+        "date_posted": 1795392000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795460948,
+        "url": "https://go.vansh.nyc/1H6",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Oscar Health",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "702ca102-d18c-4331-b692-8cade110162c",
+        "date_posted": 1795458608,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795461157,
+        "url": "https://go.vansh.nyc/1H7",
+        "locations": [
+            "Lincoln, NE"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Don't Panic Labs",
+        "title": "Software Engineering Intern 2",
+        "source": "vanshb03",
+        "id": "c4f7def9-7ff5-41ab-9f3c-ae6badca9401",
         "date_posted": 1795392000,
         "company_url": "",
         "is_visible": true,
