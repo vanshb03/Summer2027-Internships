@@ -49527,13 +49527,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793801347,
+        "date_updated": 1795396760,
         "url": "https://go.vansh.nyc/1gq",
         "locations": [
             "Toronto, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Plusgrade",
         "title": "Applied AI Engineer Intern",
         "source": "vanshb03",
@@ -49595,13 +49595,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1793803195,
+        "date_updated": 1795396760,
         "url": "https://go.vansh.nyc/1gu",
         "locations": [
             "Toronto, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Plusgrade",
         "title": "Applied AI Test Engineer Intern",
         "source": "vanshb03",
@@ -65839,13 +65839,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794616519,
+        "date_updated": 1795396760,
         "url": "https://go.vansh.nyc/1zq",
         "locations": [
             "St Paul, MN"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "NextEra Energy",
         "title": "Software Engineering Intern, Technical",
         "source": "vanshb03",
@@ -68471,13 +68471,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1795057534,
+        "date_updated": 1795396760,
         "url": "https://go.vansh.nyc/1CE",
         "locations": [
             "Vancouver, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Workstream",
         "title": "Full Stack Engineer Intern",
         "source": "vanshb03",
@@ -71570,6 +71570,40 @@
         "source": "vanshb03",
         "id": "57e0856a-6874-4dad-9d80-9b886ae14eef",
         "date_posted": 1795360645,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795395942,
+        "url": "https://go.vansh.nyc/1Gx",
+        "locations": [
+            "Newark, DE"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Sallie Mae",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "956a66e0-01c2-4a58-9d2d-0f6182ece32a",
+        "date_posted": 1794960000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795396470,
+        "url": "https://go.vansh.nyc/1Gy",
+        "locations": [
+            "Tulsa, OK"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "T.D. Williamson",
+        "title": "Engineering Intern",
+        "source": "vanshb03",
+        "id": "c5ea981a-b11a-4f96-ac83-755f50562897",
+        "date_posted": 1794930114,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
