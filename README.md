@@ -289,7 +289,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Analog Devices | Embedded Hardware & Firmware Intern, Health Solutions | Wilmington, MA | <a href="https://go.vansh.nyc/1Bm?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
 | ↳ | Software Engineering Intern, Medical Device & Healthcare Integration | Wilmington, MA | <a href="https://go.vansh.nyc/1AV?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
 | RTX | Software Engineering Intern 🇺🇸 | El Segundo, CA | <a href="https://go.vansh.nyc/1A3?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 15 |
-| Rodriguez Services | Software Engineer Intern | San Francisco, CA | <a href="https://go.vansh.nyc/1zS?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 15 |
 | Reliable Robotics Corporation | Displays Software Engineer Intern | Mountain View, CA | <a href="https://go.vansh.nyc/1AA?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 15 |
 | Milliman | Data Analytics Intern, IntelliScript | Brookfield, WI | <a href="https://go.vansh.nyc/1A2?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 15 |
 | Micron Technology | Data Science Intern, SMAI | Boise, ID | <a href="https://go.vansh.nyc/1Ap?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 15 |
@@ -2082,6 +2081,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | HexArmor | Software Engineer Intern | Atlanta, GA | 🔒 | Nov 16 |
 | GM Financial | Software Development Engineer Intern | Arlington, TX | 🔒 | Nov 16 |
 | Amazon | Software Development Engineer Intern, Artificial General Intelligence | Sunnyvale, CA | 🔒 | Nov 16 |
+| Rodriguez Services | Software Engineer Intern | San Francisco, CA | 🔒 | Nov 15 |
 | Idaho National Laboratory | Cybersecurity Operations Intern | Idaho Falls, ID | 🔒 | Nov 15 |
 | Eight Sleep | Firmware Intern | <details><summary>**4 locations**</summary>San Francisco, CA</br>New York, NY</br>Washington, DC</br>Austin, TX</details> | 🔒 | Nov 14 |
 | WTW | Data Analyst Intern | New York, NY | 🔒 | Nov 13 |
