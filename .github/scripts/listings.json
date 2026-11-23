@@ -62832,13 +62832,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794443752,
+        "date_updated": 1795450691,
         "url": "https://go.vansh.nyc/1vU",
         "locations": [
             "Iowa City, IA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Shive-Hattery",
         "title": "Software Developer Intern",
         "source": "vanshb03",
@@ -71830,5 +71830,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1795449983,
+        "url": "https://go.vansh.nyc/1GQ",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "CesiumAstro",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "5295960c-3091-46b1-8e74-2491201d9677",
+        "date_posted": 1795392000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
     }
 ]
