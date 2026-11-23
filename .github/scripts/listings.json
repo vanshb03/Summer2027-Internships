@@ -71777,5 +71777,24 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1795432348,
+        "url": "https://go.vansh.nyc/1GM",
+        "locations": [
+            "Westborough, MA",
+            "Remote",
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "LabCorp",
+        "title": "Bioinformatics Intern",
+        "source": "vanshb03",
+        "id": "05042f19-f41b-4719-9fa1-da6832e4605d",
+        "date_posted": 1795309908,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
