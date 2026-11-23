@@ -47,6 +47,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Neogen | Embedded Systems Engineer Intern | Oakdale, MN | <a href="https://go.vansh.nyc/1Gp?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 22 |
+| MITRE | Generative and Agentic AI Intern | McLean, VA | <a href="https://go.vansh.nyc/1GB?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 22 |
 | Artefact | AI Engineer Intern | New York, NY | <a href="https://go.vansh.nyc/1Gz?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 22 |
 | Neros Technologies | Firmware/Embedded Software Engineer Intern | Torrance, CA | <a href="https://go.vansh.nyc/1Go?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 21 |
 | MITRE | Embedded Security Intern, Electronics Prototype | Bedford, MA | <a href="https://go.vansh.nyc/1GA?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 21 |
