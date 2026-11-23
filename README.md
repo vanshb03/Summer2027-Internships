@@ -47,6 +47,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Zebra Technologies | WWAN Cellular Engineer Intern | Holtsville, NY | <a href="https://go.vansh.nyc/1GV?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
+| Oscar Health | Software Engineering Intern | New York, NY | <a href="https://go.vansh.nyc/1H6?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | Micron Technology | Advanced Modeling and AI Solutions Intern | Boise, ID | <a href="https://go.vansh.nyc/1GW?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | Benchling | Software Engineer Intern | San Francisco, CA | <a href="https://go.vansh.nyc/1GP?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | Stantec | Data Scientist Intern, Water | San Diego, CA | <a href="https://go.vansh.nyc/1GO?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 22 |
@@ -63,6 +64,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Software Engineer Intern, Automotive OEM | Novi, MI | <a href="https://go.vansh.nyc/1H2?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 22 |
 | First Resonance | Software Engineering Intern, Platform | Los Angeles, CA | <a href="https://go.vansh.nyc/1GE?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 22 |
 | ↳ | Forward Deployed Engineering Intern | Los Angeles, CA | <a href="https://go.vansh.nyc/1GF?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 22 |
+| Don't Panic Labs | Software Engineering Intern 2 | Lincoln, NE | <a href="https://go.vansh.nyc/1H7?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 22 |
 | CAS | Technology Intern, Development Operations | Columbus, OH | <a href="https://go.vansh.nyc/1GH?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 22 |
 | Artefact | AI Engineer Intern | New York, NY | <a href="https://go.vansh.nyc/1Gz?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 22 |
 | Aon | IT / Cybersecurity Engineer Intern | Chicago, IL | <a href="https://go.vansh.nyc/1H4?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 22 |

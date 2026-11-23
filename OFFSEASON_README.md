@@ -290,7 +290,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Product Manager Intern, Global Monetization Product and Technology | Seattle, WA | <a href="https://go.vansh.nyc/11y?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | MDA | FPGA Designer Intern | Montreal, Canada | <a href="https://go.vansh.nyc/126?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | ↳ | FPGA Verification Intern | Montreal, Canada | <a href="https://go.vansh.nyc/127?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
-| Hendler Family Brewing Co. | Software Engineering and IT Co-op | United States | <a href="https://go.vansh.nyc/12v?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | Fussball Club Cincinnati LLC (“FC Cincinnati”) | Data Analyst Intern | Cincinnati, OH | <a href="https://go.vansh.nyc/10v?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | Foresters Financial | Software Engineer Co-op, AI | Toronto, Canada | <a href="https://go.vansh.nyc/13D?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | ↳ | Software Engineer Co-op | Toronto, Canada | <a href="https://go.vansh.nyc/13E?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
@@ -597,6 +596,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Klaviyo | Software Engineer Co-op | Boston, MA | 🔒 | Oct 30 |
 | Keysight Technologies | FPGA Design Intern | Calabasas, CA | 🔒 | Oct 30 |
 | Johns Hopkins APL | Robotics Engineer Intern, Maritime Systems 🇺🇸 | Laurel, MD | 🔒 | Oct 30 |
+| Hendler Family Brewing Co. | Software Engineering and IT Co-op | United States | 🔒 | Oct 30 |
 | GITAI | Field-Deployed Software Engineering Intern 🇺🇸 | Los Angeles, CA | 🔒 | Oct 30 |
 | General Magic | AI Engineer Co-op | Toronto, Canada | 🔒 | Oct 30 |
 | ↳ | Backend Engineer Co-op | Toronto, Canada | 🔒 | Oct 30 |
