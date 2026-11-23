@@ -34351,13 +34351,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793171118,
+        "date_updated": 1795457754,
         "url": "https://go.vansh.nyc/X7",
         "locations": [
             "San Diego, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Shield AI",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -68522,13 +68522,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1795099403,
+        "date_updated": 1795457754,
         "url": "https://go.vansh.nyc/1CN",
         "locations": [
             "Manhattan, KS"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Garmin",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
@@ -71979,6 +71979,41 @@
         "title": "Software Engineer Intern, Automotive OEM",
         "source": "vanshb03",
         "id": "3ec76641-0307-4af2-b8d9-95ef1c5dd046",
+        "date_posted": 1795392000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795457138,
+        "url": "https://go.vansh.nyc/1H4",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Aon",
+        "title": "IT / Cybersecurity Engineer Intern",
+        "source": "vanshb03",
+        "id": "c36314d4-5af3-407a-98f9-746871d22aa4",
+        "date_posted": 1795392000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795457138,
+        "url": "https://go.vansh.nyc/1H5",
+        "locations": [
+            "Remote",
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ManTech",
+        "title": "CNO Developer Intern",
+        "source": "vanshb03",
+        "id": "56cc2419-bef9-4ed5-abe8-3749eed604a8",
         "date_posted": 1795392000,
         "company_url": "",
         "is_visible": true,
