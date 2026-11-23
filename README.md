@@ -224,7 +224,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Microsoft | Research Intern, Computer Vision and Deep Learning | Redmond, WA | <a href="https://go.vansh.nyc/1Cv?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
 | Lucid Motors | Software Engineer Intern, SDET | Newark, CA | <a href="https://go.vansh.nyc/1Dw?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
 | Lockheed Martin | Software Engineer Intern 🇺🇸 | Owego, NY | <a href="https://go.vansh.nyc/1CG?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
-| Leidos | Software Developer Intern, AI Project 🇺🇸 | Colorado Springs, CO | <a href="https://go.vansh.nyc/1CT?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
 | KLA | Software Applications Engineering Intern | Milpitas, CA | <a href="https://go.vansh.nyc/1EB?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
 | Idaho National Laboratory | PSION Development Intern | Idaho Falls, ID | <a href="https://go.vansh.nyc/1Dz?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
 | ↳ | Software Engineering Intern, Java/API Development for Neutronics Code | Idaho Falls, ID | <a href="https://go.vansh.nyc/1D6?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
@@ -1044,7 +1043,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Emerson Electric | Software Engineering Intern 🛂 | Austin, TX | <a href="https://go.vansh.nyc/10L?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
 | Benchmark Space Systems | Software Engineering Intern | Burlington, VT | <a href="https://go.vansh.nyc/11X?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
 | Amazon | Software Development Engineer Intern, Machine Learning/Automated Reasoning | Seattle, WA | <a href="https://go.vansh.nyc/10y?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
-| Zoox | Autonomy and Geofence Expansion Intern | Foster City, CA | <a href="https://go.vansh.nyc/ZX?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | Verition Group | AI Associate Intern, Equity Long/Short | <details><summary>**5 locations**</summary>New York, NY</br>Miami, FL</br>Greenwich, CT</br>Norwalk, CT</br>San Francisco, CA</details> | <a href="https://go.vansh.nyc/11S?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | Systems Planning and Analysis | Data Engineer Intern | Alexandria, VA | <a href="https://go.vansh.nyc/128?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | Syntiant | DevOps Machine Learning Infrastructure Intern | Irvine, CA | <a href="https://go.vansh.nyc/11V?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
@@ -2077,6 +2075,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Snowflake | Software Engineer Intern, Database Engineering | Menlo Park, CA</br>Bellevue, WA | 🔒 | Nov 18 |
 | ↳ | Software Engineer Intern, Core Infrastructure & Security | Menlo Park, CA</br>Bellevue, WA | 🔒 | Nov 18 |
 | ↳ | Software Engineer Intern, AI/ML | Menlo Park, CA</br>Bellevue, WA | 🔒 | Nov 18 |
+| Leidos | Software Developer Intern, AI Project 🇺🇸 | Colorado Springs, CO | 🔒 | Nov 18 |
 | Starwood Capital Group | Data Intern | New York, NY | 🔒 | Nov 17 |
 | ↳ | Agentic Engineering Intern | New York, NY | 🔒 | Nov 17 |
 | Soros Fund Management | Quantitative Strategist Intern | New York, NY | 🔒 | Nov 17 |
@@ -2513,7 +2512,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Research Intern, Oncology Biomarker - AI | Foster City, CA | 🔒 | Oct 29 |
 | Cisco | Security Consulting Engineer I Intern | Research Triangle Park, NC | 🔒 | Oct 29 |
 | Axon | Software Engineer Intern | Seattle, WA</br>Arlington, VA | 🔒 | Oct 29 |
-| Zoox | Software Engineer Intern | Foster City, CA | 🔒 | Oct 28 |
+| Zoox | Autonomy and Geofence Expansion Intern | Foster City, CA | 🔒 | Oct 28 |
+| ↳ | Software Engineer Intern | Foster City, CA | 🔒 | Oct 28 |
 | Walmart | Data & Tech Transformation Intern | Bentonville, AR | 🔒 | Oct 28 |
 | T-Mobile | Associate Product Manager Intern | Overland Park, KS | 🔒 | Oct 28 |
 | Sonos | Software Engineering Intern 🛂 | Boston, MA | 🔒 | Oct 28 |
