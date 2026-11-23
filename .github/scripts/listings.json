@@ -11011,13 +11011,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1792261427,
+        "date_updated": 1795454210,
         "url": "https://go.vansh.nyc/ax",
         "locations": [
             "Urbandale, IA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "W.R. Berkley",
         "title": "Enterprise Architecture Co-op",
         "source": "vanshb03",
@@ -66341,13 +66341,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794777168,
+        "date_updated": 1795454210,
         "url": "https://go.vansh.nyc/1zY",
         "locations": [
             "Ruston, LA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Origin Bank",
         "title": "Salesforce Systems Development Intern",
         "source": "vanshb03",
@@ -66911,13 +66911,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794874257,
+        "date_updated": 1795454210,
         "url": "https://go.vansh.nyc/1AE",
         "locations": [
             "Cincinnati, OH"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "National Interstate Insurance",
         "title": "Predictive Analytics Intern",
         "source": "vanshb03",
@@ -71878,6 +71878,23 @@
         "source": "vanshb03",
         "id": "7af1b32d-38ea-4b6f-bfb2-70614a556bbe",
         "date_posted": 1795449939,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795453757,
+        "url": "https://go.vansh.nyc/1GW",
+        "locations": [
+            "Boise, ID"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Micron Technology",
+        "title": "Advanced Modeling and AI Solutions Intern",
+        "source": "vanshb03",
+        "id": "1768e59a-bd6e-40d7-8749-6b202cd874cc",
+        "date_posted": 1795453157,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
