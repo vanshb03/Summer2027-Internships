@@ -56982,13 +56982,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794247614,
+        "date_updated": 1795473999,
         "url": "https://go.vansh.nyc/1oN",
         "locations": [
             "Bellevue, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "UiPath",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -64201,13 +64201,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794514138,
+        "date_updated": 1795473999,
         "url": "https://go.vansh.nyc/1xx",
         "locations": [
             "Raleigh, NC"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "General Dynamics Information Technology",
         "title": "Professional Programmer Intern",
         "source": "vanshb03",
