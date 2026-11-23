@@ -36670,13 +36670,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793315116,
+        "date_updated": 1795472132,
         "url": "https://go.vansh.nyc/ZX",
         "locations": [
             "Foster City, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Zoox",
         "title": "Autonomy and Geofence Expansion Intern",
         "source": "vanshb03",
@@ -68590,13 +68590,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1795104996,
+        "date_updated": 1795472132,
         "url": "https://go.vansh.nyc/1CT",
         "locations": [
             "Colorado Springs, CO"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Leidos",
         "title": "Software Developer Intern, AI Project",
         "source": "vanshb03",
