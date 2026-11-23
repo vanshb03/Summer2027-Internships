@@ -71641,5 +71641,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1795414171,
+        "url": "https://go.vansh.nyc/1GB",
+        "locations": [
+            "McLean, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "MITRE",
+        "title": "Generative and Agentic AI Intern",
+        "source": "vanshb03",
+        "id": "ede41367-75d1-4668-bcf9-fe3ec71ad547",
+        "date_posted": 1795392571,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
