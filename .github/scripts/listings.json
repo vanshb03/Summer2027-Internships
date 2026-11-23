@@ -12171,13 +12171,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792511186,
+        "date_updated": 1795411082,
         "url": "https://go.vansh.nyc/bC",
         "locations": [
             "Vienna, VA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Navy Federal",
         "title": "AI Engineering Intern",
         "source": "vanshb03",
@@ -51577,13 +51577,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793894826,
+        "date_updated": 1795411082,
         "url": "https://go.vansh.nyc/1iJ",
         "locations": [
             "Atlanta, GA"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "The Federal Reserve System",
         "title": "Information Security Intern",
         "source": "vanshb03",
@@ -71604,6 +71604,40 @@
         "source": "vanshb03",
         "id": "c5ea981a-b11a-4f96-ac83-755f50562897",
         "date_posted": 1794930114,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795410326,
+        "url": "https://go.vansh.nyc/1Gz",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Artefact",
+        "title": "AI Engineer Intern",
+        "source": "vanshb03",
+        "id": "edaf1bda-3466-44b2-9383-0fdc355bdc8a",
+        "date_posted": 1795393389,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795410614,
+        "url": "https://go.vansh.nyc/1GA",
+        "locations": [
+            "Bedford, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "MITRE",
+        "title": "Embedded Security Intern, Electronics Prototype",
+        "source": "vanshb03",
+        "id": "2a02e815-aab7-4105-a2c6-1338e02b2755",
+        "date_posted": 1795324214,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
