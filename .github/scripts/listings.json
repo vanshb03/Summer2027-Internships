@@ -50091,13 +50091,13 @@
         "season": "Spring"
     },
     {
-        "date_updated": 1793830142,
+        "date_updated": 1795443329,
         "url": "https://go.vansh.nyc/1h7",
         "locations": [
             "Pittsburgh, PA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Howmet Aerospace",
         "title": "Cybersecurity Intern",
         "source": "vanshb03",
@@ -71793,6 +71793,23 @@
         "source": "vanshb03",
         "id": "05042f19-f41b-4719-9fa1-da6832e4605d",
         "date_posted": 1795309908,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795442904,
+        "url": "https://go.vansh.nyc/1GO",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Stantec",
+        "title": "Data Scientist Intern, Water",
+        "source": "vanshb03",
+        "id": "e3d4d4ac-3be3-45f0-99bb-274bb45712d3",
+        "date_posted": 1795392504,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
