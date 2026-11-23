@@ -16918,13 +16918,13 @@
         "season": "Spring"
     },
     {
-        "date_updated": 1792731778,
+        "date_updated": 1795459711,
         "url": "https://go.vansh.nyc/g3",
         "locations": [
             "Eagan, MN"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Ergotron",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
