@@ -66239,13 +66239,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794762489,
+        "date_updated": 1795436103,
         "url": "https://go.vansh.nyc/1zS",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Rodriguez Services",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
