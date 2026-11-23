@@ -44,6 +44,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Canadian Tire Corporation, Limited | Software Development Intern | Toronto, Canada | <a href="https://go.vansh.nyc/1Hf?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
+| State Street | Software Engineering Intern | Boston, MA | <a href="https://go.vansh.nyc/1Hi?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 22 |
 | MDA | Junior Security Administrator Intern | Sainte-Anne-de-Bellevue, Canada | <a href="https://go.vansh.nyc/1GI?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 22 |
 | CesiumAstro | Software Engineering Intern 🇺🇸 | Austin, TX | <a href="https://go.vansh.nyc/1GQ?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 22 |
 | Southern Farm Bureau Life Insurance | Cyber Security Co-op | Jackson, MS | <a href="https://go.vansh.nyc/1G0?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
