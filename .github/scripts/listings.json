@@ -14564,13 +14564,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792629614,
+        "date_updated": 1795465053,
         "url": "https://go.vansh.nyc/dS",
         "locations": [
             "Quincy, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Anduril",
         "title": "Robotics Engineer Co-op",
         "source": "vanshb03",
@@ -72188,5 +72188,39 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1795464841,
+        "url": "https://go.vansh.nyc/1Hg",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Electric Power Engineers",
+        "title": "Product Management Intern",
+        "source": "vanshb03",
+        "id": "63b1710a-7613-4021-9b2e-ad9f4a6fa755",
+        "date_posted": 1795392000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795464841,
+        "url": "https://go.vansh.nyc/1Hh",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Kudu Dynamics",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "b72d4a88-7995-4127-a291-df6f6205a88d",
+        "date_posted": 1795464600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
