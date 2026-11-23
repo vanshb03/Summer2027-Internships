@@ -18782,13 +18782,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792812208,
+        "date_updated": 1795477749,
         "url": "https://go.vansh.nyc/hM",
         "locations": [
             "Princeton, NJ"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Siemens",
         "title": "Python Backend Developer Intern, Energy Flexibility Platform",
         "source": "vanshb03",
@@ -22415,13 +22415,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793015500,
+        "date_updated": 1795477749,
         "url": "https://go.vansh.nyc/Fk",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Astera Labs",
         "title": "Firmware Engineer Intern",
         "source": "vanshb03",
@@ -56412,13 +56412,13 @@
         "season": "Spring"
     },
     {
-        "date_updated": 1794215347,
+        "date_updated": 1795477749,
         "url": "https://go.vansh.nyc/1of",
         "locations": [
             "Vancouver, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Astera Labs",
         "title": "Firmware Engineer Intern",
         "source": "vanshb03",
@@ -61993,13 +61993,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794424093,
+        "date_updated": 1795477749,
         "url": "https://go.vansh.nyc/1uT",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Astera Labs",
         "title": "Firmware Engineer Intern, SCO2",
         "source": "vanshb03",
@@ -72339,6 +72339,126 @@
         "source": "vanshb03",
         "id": "d82bc72d-32c1-446f-9418-f305bfcf54c9",
         "date_posted": 1795473104,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795476966,
+        "url": "https://go.vansh.nyc/1Hq",
+        "locations": [
+            "Charlottesville, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CornerStone Partners",
+        "title": "AI and Automation Intern",
+        "source": "vanshb03",
+        "id": "a4638e6e-20fe-433e-b1be-d259d6ec12f7",
+        "date_posted": 1795475105,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795476966,
+        "url": "https://go.vansh.nyc/1Hr",
+        "locations": [
+            "Denton, TX",
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Paccar",
+        "title": "Vehicle Software Integration Engineer Intern",
+        "source": "vanshb03",
+        "id": "298383c2-10d7-4a09-adf2-a6da4ccc8b8b",
+        "date_posted": 1795476087,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1795477392,
+        "url": "https://go.vansh.nyc/1Hs",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Exowatt",
+        "title": "Software & AI Intern",
+        "source": "vanshb03",
+        "id": "7a1d4eb5-bad6-45c1-955e-135acfe48c96",
+        "date_posted": 1795465493,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1795477392,
+        "url": "https://go.vansh.nyc/1Ht",
+        "locations": [
+            "Silver Spring, MD"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Capital Technology Group",
+        "title": "Software Development Intern",
+        "source": "vanshb03",
+        "id": "d1e228b2-a9bb-492e-aafa-1f302ea641ca",
+        "date_posted": 1795469548,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795477392,
+        "url": "https://go.vansh.nyc/1Hu",
+        "locations": [
+            "Silver Spring, MD"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Capital Technology Group",
+        "title": "Data Engineering and Data Science Intern",
+        "source": "vanshb03",
+        "id": "c5662f77-8599-47b4-9a13-97ed002f3180",
+        "date_posted": 1795469563,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795477392,
+        "url": "https://go.vansh.nyc/1Hv",
+        "locations": [
+            "Fairmont, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Illinois Tool Works",
+        "title": "Software or Computer Engineer Intern",
+        "source": "vanshb03",
+        "id": "5cb47a8c-b22d-46e1-9558-2b72d5af95f7",
+        "date_posted": 1795477207,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795477534,
+        "url": "https://go.vansh.nyc/1Hw",
+        "locations": [
+            "Idaho Falls, ID"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Idaho National Laboratory",
+        "title": "Digital Engineering Intern",
+        "source": "vanshb03",
+        "id": "34cab51b-9133-4106-b76b-ecb05509edfe",
+        "date_posted": 1795392000,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
