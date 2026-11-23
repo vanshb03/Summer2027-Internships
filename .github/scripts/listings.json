@@ -12971,13 +12971,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1792511227,
+        "date_updated": 1795421871,
         "url": "https://go.vansh.nyc/cn",
         "locations": [
             "Orlando, FL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Electronic Arts",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -63536,13 +63536,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794508578,
+        "date_updated": 1795421871,
         "url": "https://go.vansh.nyc/1wM",
         "locations": [
             "Bellevue, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "T-Mobile",
         "title": "Data Product Intern",
         "source": "vanshb03",
@@ -71726,5 +71726,56 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1795421137,
+        "url": "https://go.vansh.nyc/1GG",
+        "locations": [
+            "Jackson, MS"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Southern Farm Bureau Life Insurance",
+        "title": "Applications Development Intern",
+        "source": "vanshb03",
+        "id": "9f738209-d8e0-4c2f-bfed-8660d2d35bfe",
+        "date_posted": 1795392000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795421137,
+        "url": "https://go.vansh.nyc/1GH",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CAS",
+        "title": "Technology Intern, Development Operations",
+        "source": "vanshb03",
+        "id": "3af30593-5aa8-4b94-84b5-032bf7aef90c",
+        "date_posted": 1795392000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795421137,
+        "url": "https://go.vansh.nyc/1GI",
+        "locations": [
+            "Sainte-Anne-de-Bellevue, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "MDA",
+        "title": "Junior Security Administrator Intern",
+        "source": "vanshb03",
+        "id": "afd339e8-03c6-4f00-a3b5-92a0976378f4",
+        "date_posted": 1795392000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
