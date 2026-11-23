@@ -8934,13 +8934,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792261427,
+        "date_updated": 1795452394,
         "url": "https://go.vansh.nyc/8z",
         "locations": [
             "Bloomington, IN"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Cook Group",
         "title": "Artificial Intelligence & Innovation Intern",
         "source": "vanshb03",
@@ -45190,13 +45190,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793671761,
+        "date_updated": 1795452394,
         "url": "https://go.vansh.nyc/1bJ",
         "locations": [
             "Dallas, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Shield",
         "title": "Embedded Firmware Intern",
         "source": "vanshb03",
@@ -67660,7 +67660,7 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1794955180,
+        "date_updated": 1795452394,
         "url": "https://go.vansh.nyc/1Bz",
         "locations": [
             "Columbus, OH",
@@ -67670,7 +67670,7 @@
             "Wilmington, DE"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Bread Financial",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
@@ -69738,13 +69738,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1795162310,
+        "date_updated": 1795452394,
         "url": "https://go.vansh.nyc/1Eb",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Cisco",
         "title": "AI Researcher II Intern",
         "source": "vanshb03",
@@ -71847,5 +71847,39 @@
         "company_url": "",
         "is_visible": true,
         "season": "Spring"
+    },
+    {
+        "date_updated": 1795451750,
+        "url": "https://go.vansh.nyc/1GU",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nintendo",
+        "title": "IT Platform Engineer Intern",
+        "source": "vanshb03",
+        "id": "2281d7d1-7d3a-4472-9b3e-2910009d8422",
+        "date_posted": 1795392000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795451979,
+        "url": "https://go.vansh.nyc/1GV",
+        "locations": [
+            "Holtsville, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zebra Technologies",
+        "title": "WWAN Cellular Engineer Intern",
+        "source": "vanshb03",
+        "id": "7af1b32d-38ea-4b6f-bfb2-70614a556bbe",
+        "date_posted": 1795449939,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
