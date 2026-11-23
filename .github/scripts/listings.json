@@ -69034,14 +69034,14 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1795128551,
+        "date_updated": 1795463174,
         "url": "https://go.vansh.nyc/1Dp",
         "locations": [
             "Menlo Park, CA",
             "Bellevue, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Snowflake",
         "title": "Software Engineer Intern, Database Engineering",
         "source": "vanshb03",
@@ -69052,14 +69052,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1795128551,
+        "date_updated": 1795463174,
         "url": "https://go.vansh.nyc/1Dq",
         "locations": [
             "Menlo Park, CA",
             "Bellevue, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Snowflake",
         "title": "Software Engineer Intern, Core Infrastructure & Security",
         "source": "vanshb03",
@@ -69070,14 +69070,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1795128551,
+        "date_updated": 1795463174,
         "url": "https://go.vansh.nyc/1Dr",
         "locations": [
             "Menlo Park, CA",
             "Bellevue, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Snowflake",
         "title": "Software Engineer Intern, AI/ML",
         "source": "vanshb03",
@@ -72052,5 +72052,141 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1795462737,
+        "url": "https://go.vansh.nyc/1H8",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Shield",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "3504d7aa-7e8e-46d3-8cf2-878e025f9e57",
+        "date_posted": 1795460697,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795462962,
+        "url": "https://go.vansh.nyc/1H9",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Strava",
+        "title": "Software Engineering Intern, Server, User Lifecycle",
+        "source": "vanshb03",
+        "id": "8e9e6c25-851b-41cd-8881-746c993f5519",
+        "date_posted": 1794594102,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795462962,
+        "url": "https://go.vansh.nyc/1Ha",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Strava",
+        "title": "Software Engineering Intern, Server, Security",
+        "source": "vanshb03",
+        "id": "b6f02f38-3143-4a5c-b2c1-a4a31f9cf68d",
+        "date_posted": 1794597955,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795462962,
+        "url": "https://go.vansh.nyc/1Hb",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Strava",
+        "title": "Software Engineering Intern, Server, Comms",
+        "source": "vanshb03",
+        "id": "cd005cb7-0e40-441a-85ae-e2b0df158686",
+        "date_posted": 1794598223,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795462962,
+        "url": "https://go.vansh.nyc/1Hc",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Strava",
+        "title": "Software Engineering Intern, Server, Next Sports",
+        "source": "vanshb03",
+        "id": "be8415d2-b8d6-4b70-b9cb-df53a3680480",
+        "date_posted": 1794608868,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795462962,
+        "url": "https://go.vansh.nyc/1Hd",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Strava",
+        "title": "Software Engineering Intern, AI/ML Data Products",
+        "source": "vanshb03",
+        "id": "4efd11d0-8f38-4416-8364-ceb31c9d8c29",
+        "date_posted": 1794613280,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795462962,
+        "url": "https://go.vansh.nyc/1He",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Strava",
+        "title": "Software Engineering Intern, Android, Subscriptions",
+        "source": "vanshb03",
+        "id": "14900f74-a166-430a-bb87-52f381445e86",
+        "date_posted": 1794613927,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795462962,
+        "url": "https://go.vansh.nyc/1Hf",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Canadian Tire Corporation, Limited",
+        "title": "Software Development Intern",
+        "source": "vanshb03",
+        "id": "7fa1cd7e-3082-4e74-8b18-2e472839cdf6",
+        "date_posted": 1795462761,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
