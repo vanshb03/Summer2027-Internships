@@ -20369,13 +20369,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793013503,
+        "date_updated": 1795468724,
         "url": "https://go.vansh.nyc/CQ",
         "locations": [
             "Plano, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Ryan",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -34729,13 +34729,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793194562,
+        "date_updated": 1795468724,
         "url": "https://go.vansh.nyc/Xw",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Schonfeld",
         "title": "DMFI Intern",
         "source": "vanshb03",
@@ -51835,13 +51835,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793909165,
+        "date_updated": 1795468724,
         "url": "https://go.vansh.nyc/1ja",
         "locations": [
             "Arlington, VA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "CrowdStrike",
         "title": "Intelligence Intern",
         "source": "vanshb03",
@@ -52879,13 +52879,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793977596,
+        "date_updated": 1795468724,
         "url": "https://go.vansh.nyc/1kn",
         "locations": [
             "Methuen, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Globus Medical",
         "title": "Software Co-op",
         "source": "vanshb03",
@@ -53442,14 +53442,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793995741,
+        "date_updated": 1795468724,
         "url": "https://go.vansh.nyc/1l3",
         "locations": [
             "Remote",
             "United States"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Kudu Dynamics",
         "title": "AI/Automation Development Intern, Assessment & Authorization",
         "source": "vanshb03",
@@ -61525,13 +61525,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794375552,
+        "date_updated": 1795468724,
         "url": "https://go.vansh.nyc/1tN",
         "locations": [
             "Sunnyvale, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Intuitive",
         "title": "Robotics Engineering Intern",
         "source": "vanshb03",
@@ -65342,14 +65342,14 @@
         "season": "Spring"
     },
     {
-        "date_updated": 1794595137,
+        "date_updated": 1795468724,
         "url": "https://go.vansh.nyc/1yP",
         "locations": [
             "Remote",
             "United States"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "RegScale",
         "title": "Cyber Security Intern",
         "source": "vanshb03",
@@ -72270,6 +72270,41 @@
         "source": "vanshb03",
         "id": "3919afc6-50a1-4081-ba9d-168c3fd4ceb5",
         "date_posted": 1795464600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795468399,
+        "url": "https://go.vansh.nyc/1Hm",
+        "locations": [
+            "Mayfield Heights, OH"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Rockwell Automation",
+        "title": "Content IDE Software Development Intern",
+        "source": "vanshb03",
+        "id": "6b99b318-783f-440d-9621-316f4d43fc2e",
+        "date_posted": 1795266645,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795468520,
+        "url": "https://go.vansh.nyc/1Hn",
+        "locations": [
+            "Schaumburg, IL",
+            "Chicago, IL"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Motorola Solutions",
+        "title": "Mission Critical Networks Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "f86d5256-1684-4ad4-bed5-569ce8716fad",
+        "date_posted": 1795468427,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
