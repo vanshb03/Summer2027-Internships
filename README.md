@@ -368,7 +368,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | IDEMIA North America | Software Engineering Intern, Enrollment and Credentialing Services | Brentwood, TN | <a href="https://go.vansh.nyc/1zd?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | General Dynamics Mission Systems, Inc. | Software/Systems Engineering Intern 🇺🇸 | Middletown, RI | <a href="https://go.vansh.nyc/1xR?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | General Dynamics Information Technology | JMSC-P Boundary Enclave Administrator Intern 🇺🇸 | Schofield, HI | <a href="https://go.vansh.nyc/1y7?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
-| ↳ | Professional Programmer Intern 🇺🇸 | Raleigh, NC | <a href="https://go.vansh.nyc/1xx?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | Fonds de solidarité FTQ | Business Intelligence and M365 Solutions Intern | Montreal, Canada | <a href="https://go.vansh.nyc/1yJ?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | Entegris | Data Engineering Intern | Aurora, IL | <a href="https://go.vansh.nyc/1xB?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | ↳ | Embedded Software Engineering Intern | Bloomington, MN | <a href="https://go.vansh.nyc/1wx?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
@@ -523,7 +522,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Waymo | Software Engineer Intern, Multiverse | San Francisco, CA | <a href="https://go.vansh.nyc/1qh?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
 | Walmart | Data Science & Data Analytics Intern, Last Mile Delivery | Bentonville, AR | <a href="https://go.vansh.nyc/1sh?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
 | Viavi Solutions | Digital Hardware Engineering Intern | Lenexa, KS | <a href="https://go.vansh.nyc/1oU?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
-| UiPath | Software Engineer Intern | Bellevue, WA | <a href="https://go.vansh.nyc/1oN?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
 | Trimble | Software Engineer Intern | Lake Oswego, OR | <a href="https://go.vansh.nyc/1pD?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
 | Trilogy Health Services | Information Systems Developer of AI and Automated Solutions Intern | Louisville, KY | <a href="https://go.vansh.nyc/1qb?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
 | Toyota Research Institute | Robotics Intern, Teleoperation and Spatial Computing | Cambridge, MA | <a href="https://go.vansh.nyc/1oI?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
@@ -2103,6 +2101,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Origin Bank | Salesforce Systems Development Intern | Ruston, LA | 🔒 | Nov 12 |
 | KION Group | A.I. Engineering Intern | Grand Rapids, MI | 🔒 | Nov 12 |
 | Keysight Technologies | Software Engineer Intern | Tewksbury, MA | 🔒 | Nov 12 |
+| General Dynamics Information Technology | Professional Programmer Intern 🇺🇸 | Raleigh, NC | 🔒 | Nov 12 |
 | E2 Consulting Engineers | Data Analyst Intern | San Diego, CA | 🔒 | Nov 12 |
 | CoStar Group | Vision & Learning Intern | Sunnyvale, CA | 🔒 | Nov 12 |
 | Cigna | Software Engineering Intern | <details><summary>**4 locations**</summary>St. Louis, MO</br>Austin, TX</br>Morris Plains, NJ</br>Bloomfield, CT</details> | 🔒 | Nov 12 |
@@ -2187,6 +2186,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | AI Assistant Development Intern | Parsippany, NJ | 🔒 | Nov 09 |
 | ↳ | AI Architecture, Enablement & Tools Intern, AI Capabilities | Remote</br>United States</br>Kalamazoo, MI | 🔒 | Nov 09 |
 | US Internships Public Careers Site | Undergraduate Software Engineering Intern, Compilers | San Mateo, CA | 🔒 | Nov 09 |
+| UiPath | Software Engineer Intern | Bellevue, WA | 🔒 | Nov 09 |
 | The New York Times | Data Analyst Intern | New York, NY | 🔒 | Nov 09 |
 | ↳ | ML Scientist Intern | New York, NY | 🔒 | Nov 09 |
 | T-Mobile | Software Engineer Intern, T-Ads | Philadelphia, PA | 🔒 | Nov 09 |
