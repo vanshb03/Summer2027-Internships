@@ -1619,7 +1619,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | F5 | Software Development Engineer Intern | Seattle, WA | <a href="https://go.vansh.nyc/F0?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 05 |
 | ↳ | Software Developer Intern | San Jose, CA | <a href="https://go.vansh.nyc/F6?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 05 |
 | Ernst & Young | Tax Intern, Other Tax, Americas Tax Technology Group | <details><summary>**4 locations**</summary>Nashville, TN</br>Dallas, TX</br>Chicago, IL</br>Atlanta, GA</details> | <a href="https://go.vansh.nyc/EO?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 05 |
-| Ergotron | Software Engineer Intern | Eagan, MN | <a href="https://go.vansh.nyc/g3?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 05 |
 | Center for AI Safety (CAIS) | Research Engineer Intern | San Francisco, CA | <a href="https://go.vansh.nyc/1mP?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 05 |
 | Capstone Investment Advisors | Risk Tech Intern | New York, NY | <a href="https://go.vansh.nyc/EN?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 05 |
 | CAE | Data Specialist Intern | Montreal, Canada | <a href="https://go.vansh.nyc/EY?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 05 |
@@ -2979,6 +2978,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | RTX | FPGA Engineer Intern | McKinney, TX | 🔒 | Oct 05 |
 | Quantum Signal AI | Software Engineer Intern, Tools and Prototypes | Saline, MI | 🔒 | Oct 05 |
 | NVIDIA | PCIe Design Verification Intern | Austin, TX | 🔒 | Oct 05 |
+| Ergotron | Software Engineer Intern | Eagan, MN | 🔒 | Oct 05 |
 | Cadence Solutions | Software Engineer Intern | Remote</br>United States | 🔒 | Oct 05 |
 | ↳ | Product Management Intern | Remote</br>United States | 🔒 | Oct 05 |
 | Alston & Bird Law Firm | Developer Intern | Atlanta, GA | 🔒 | Oct 05 |
