@@ -4312,13 +4312,13 @@
         "season": "Fall"
     },
     {
-        "date_updated": 1784882294,
+        "date_updated": 1795446914,
         "url": "https://go.vansh.nyc/4g",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Palantir Technologies",
         "title": "Forward Deployed Software Engineer Intern",
         "source": "vanshb03",
@@ -4329,13 +4329,13 @@
         "season": "Fall"
     },
     {
-        "date_updated": 1784882297,
+        "date_updated": 1795446914,
         "url": "https://go.vansh.nyc/4h",
         "locations": [
             "Chicago, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Palantir Technologies",
         "title": "Forward Deployed Software Engineer Intern",
         "source": "vanshb03",
@@ -51665,13 +51665,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1793903776,
+        "date_updated": 1795446914,
         "url": "https://go.vansh.nyc/1iR",
         "locations": [
             "Sparks, NV"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Sierra Nevada Corporation",
         "title": "Firmware Engineer Intern",
         "source": "vanshb03",
@@ -70268,13 +70268,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1795202493,
+        "date_updated": 1795446914,
         "url": "https://go.vansh.nyc/1ET",
         "locations": [
             "Austin, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Renesas Electronics",
         "title": "Firmware Engineering Intern",
         "source": "vanshb03",
@@ -71810,6 +71810,23 @@
         "source": "vanshb03",
         "id": "e3d4d4ac-3be3-45f0-99bb-274bb45712d3",
         "date_posted": 1795392504,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795446513,
+        "url": "https://go.vansh.nyc/1GP",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Benchling",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "d7d8a9eb-0551-4558-b3e1-2102044cadcc",
+        "date_posted": 1795444593,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
