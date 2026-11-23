@@ -67387,13 +67387,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794929713,
+        "date_updated": 1795470439,
         "url": "https://go.vansh.nyc/1Bg",
         "locations": [
             "Farmington Hills, MI"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Robert Bosch LLC",
         "title": "AI Application Intern",
         "source": "vanshb03",
@@ -67887,13 +67887,13 @@
         "season": "Spring"
     },
     {
-        "date_updated": 1794960346,
+        "date_updated": 1795470439,
         "url": "https://go.vansh.nyc/1BP",
         "locations": [
             "Rancho Cordova, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "GEI Consultants",
         "title": "Web Developer Intern",
         "source": "vanshb03",
@@ -72305,6 +72305,23 @@
         "source": "vanshb03",
         "id": "f86d5256-1684-4ad4-bed5-569ce8716fad",
         "date_posted": 1795468427,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795469990,
+        "url": "https://go.vansh.nyc/1Ho",
+        "locations": [
+            "Florence, KY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Jabil",
+        "title": "IT Programmer Analyst Intern",
+        "source": "vanshb03",
+        "id": "15848b53-e74a-48ea-a675-471ec7bbcd7a",
+        "date_posted": 1795466390,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
