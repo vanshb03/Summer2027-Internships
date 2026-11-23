@@ -10586,13 +10586,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1792261427,
+        "date_updated": 1795475889,
         "url": "https://go.vansh.nyc/a8",
         "locations": [
             "Brooksville, FL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Symbotic",
         "title": "System Engineer Co-op",
         "source": "vanshb03",
@@ -10756,13 +10756,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792261427,
+        "date_updated": 1795475889,
         "url": "https://go.vansh.nyc/ai",
         "locations": [
             "Reston, VA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "ICF International",
         "title": "Cloud Engineer Intern, AWS/Azure",
         "source": "vanshb03",
@@ -22227,13 +22227,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1793015500,
+        "date_updated": 1795475889,
         "url": "https://go.vansh.nyc/F9",
         "locations": [
             "Colorado Springs, CO"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Keysight Technologies",
         "title": "R&D Software Engineer Intern",
         "source": "vanshb03",
@@ -40370,13 +40370,13 @@
         "season": "Fall"
     },
     {
-        "date_updated": 1793519782,
+        "date_updated": 1795475889,
         "url": "https://go.vansh.nyc/14c",
         "locations": [
             "Seattle, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "ByteDance",
         "title": "Data Lake Infrastructure & Data Analytics Research Engineer Intern, AML-Ark-US",
         "source": "vanshb03",
@@ -40455,13 +40455,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793519782,
+        "date_updated": 1795475889,
         "url": "https://go.vansh.nyc/14h",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "ByteDance",
         "title": "Data Lake Infrastructure & Data Analytics Research Engineer Intern, AML-Ark-US",
         "source": "vanshb03",
@@ -48996,13 +48996,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793748955,
+        "date_updated": 1795475889,
         "url": "https://go.vansh.nyc/1fE",
         "locations": [
             "Halifax, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Global Relay",
         "title": "Java Developer Co-op",
         "source": "vanshb03",
@@ -61559,13 +61559,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794375552,
+        "date_updated": 1795475889,
         "url": "https://go.vansh.nyc/1tP",
         "locations": [
             "Vancouver, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Global Relay",
         "title": "Software Development Engineer in Test Co-op",
         "source": "vanshb03",
@@ -61576,13 +61576,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1794375552,
+        "date_updated": 1795475889,
         "url": "https://go.vansh.nyc/1tQ",
         "locations": [
             "Halifax, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Global Relay",
         "title": "Software Development Engineer in Test Co-op",
         "source": "vanshb03",
@@ -61593,13 +61593,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1794375552,
+        "date_updated": 1795475889,
         "url": "https://go.vansh.nyc/1tR",
         "locations": [
             "Halifax, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Global Relay",
         "title": "DevOps Co-op",
         "source": "vanshb03",
@@ -65291,13 +65291,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794589590,
+        "date_updated": 1795475889,
         "url": "https://go.vansh.nyc/1yM",
         "locations": [
             "Mount Holly, NC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Daimler Truck",
         "title": "IT Developer Analyst Intern",
         "source": "vanshb03",
@@ -65651,13 +65651,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794605817,
+        "date_updated": 1795475889,
         "url": "https://go.vansh.nyc/1zb",
         "locations": [
             "Richardson, TX"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "RTX",
         "title": "Software Engineering Co-op",
         "source": "vanshb03",
@@ -72322,6 +72322,23 @@
         "source": "vanshb03",
         "id": "15848b53-e74a-48ea-a675-471ec7bbcd7a",
         "date_posted": 1795466390,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795475384,
+        "url": "https://go.vansh.nyc/1Hp",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Contoro Robotics",
+        "title": "Robotics Software Engineer Intern, Autonomy & Automation",
+        "source": "vanshb03",
+        "id": "d82bc72d-32c1-446f-9418-f305bfcf54c9",
+        "date_posted": 1795473104,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
