@@ -348,7 +348,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Themis Intelligence | Software Engineer Co-op, Data | Mississauga, Canada | <a href="https://go.vansh.nyc/Da?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 21 |
 | ↳ | AI Engineer Co-op | Mississauga, Canada | <a href="https://go.vansh.nyc/Db?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 21 |
 | Booz Allen | Enterprise Cybersecurity Data and Business Intelligence Analyst Intern | McLean, VA | <a href="https://go.vansh.nyc/fl?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 21 |
-| Anduril | Robotics Engineer Co-op | Quincy, MA | <a href="https://go.vansh.nyc/dS?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 21 |
 | Analytic Partners | Data Science Co-op | Miami, FL | <a href="https://go.vansh.nyc/dz?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 21 |
 | Survalent | Web Developer Co-op, Quality and Infrastructure | Mississauga, Canada | <a href="https://go.vansh.nyc/D4?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 20 |
 | OneEthos | Research and Development Intern | Remote</br>United States | <a href="https://go.vansh.nyc/1nh?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 20 |
@@ -671,6 +670,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | GeoComply | Forward Deployed Engineer Intern (FDE) | Vancouver, Canada | 🔒 | Oct 21 |
 | CIBC | AI and Quantum Scientist Co-op | Toronto, ON | 🔒 | Oct 21 |
 | ↳ | Machine Learning Engineer Co-op | Toronto, ON, Canada | 🔒 | Oct 21 |
+| Anduril | Robotics Engineer Co-op | Quincy, MA | 🔒 | Oct 21 |
 | The Federal Reserve System | Technology Risk Intern | Dallas, TX | 🔒 | Oct 20 |
 | Skydio | Embedded Software Engineer Intern | San Mateo, CA | 🔒 | Oct 20 |
 | RTX | Software Engineer Co-op 🇺🇸 | Aurora, CO | 🔒 | Oct 20 |
