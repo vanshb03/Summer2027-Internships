@@ -518,8 +518,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Software Engineer Intern, Defense Tech | Palo Alto, CA | <a href="https://go.vansh.nyc/4o?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | ↳ | Software Engineer Intern, Defense Tech | Washington, D.C. | <a href="https://go.vansh.nyc/4n?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | ↳ | Software Engineer Intern | Denver, CO | <a href="https://go.vansh.nyc/4m?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
-| ↳ | Forward Deployed Software Engineer Intern | Chicago, IL | <a href="https://go.vansh.nyc/4h?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
-| ↳ | Forward Deployed Software Engineer Intern | New York, NY | <a href="https://go.vansh.nyc/4g?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
 | Pinterest | Machine Learning Intern, PhD | <details><summary>**4 locations**</summary>San Francisco, CA</br>Palo Alto, CA</br>Seattle, WA</br>New York, NY</details> | <a href="https://go.vansh.nyc/1C?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 20 |
 | ↳ | Software Engineer Intern | Toronto, Canada | <a href="https://go.vansh.nyc/1s?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 20 |
 | Mesh Optical Technologies | Associate Software Engineer Co-op | Gardena, CA | <a href="https://go.vansh.nyc/BQ?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 16 |
@@ -868,7 +866,9 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Tesla | Localization Specialist Intern | Fremont, CA | 🔒 | Jul 24 |
 | SPREEAI | Software Engineer Intern, AI Infrastructure / Training / Inference | San Francisco, CA | 🔒 | Jul 24 |
 | ↳ | Mobile Software Engineer Intern | San Francisco, CA | 🔒 | Jul 24 |
-| Palantir Technologies | Forward Deployed Software Engineer Intern | Washington, D.C. | 🔒 | Jul 24 |
+| Palantir Technologies | Forward Deployed Software Engineer Intern | New York, NY | 🔒 | Jul 24 |
+| ↳ | Forward Deployed Software Engineer Intern | Chicago, IL | 🔒 | Jul 24 |
+| ↳ | Forward Deployed Software Engineer Intern | Washington, D.C. | 🔒 | Jul 24 |
 | ↳ | Forward Deployed Infrastructure Engineer Intern 🇺🇸 | Washington, D.C. | 🔒 | Jul 24 |
 | ↳ | Forward Deployed Infrastructure Engineer Intern 🇺🇸 | New York, NY | 🔒 | Jul 24 |
 | ↳ | Forward Deployed Infrastructure Engineer Intern | Palo Alto, CA | 🔒 | Jul 24 |
