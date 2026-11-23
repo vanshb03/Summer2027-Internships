@@ -16595,13 +16595,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792717615,
+        "date_updated": 1795445091,
         "url": "https://go.vansh.nyc/fK",
         "locations": [
             "Austin, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Allen Control Systems",
         "title": "Android Developer Intern",
         "source": "vanshb03",
@@ -60286,13 +60286,13 @@
         "season": "Spring"
     },
     {
-        "date_updated": 1794357325,
+        "date_updated": 1795445091,
         "url": "https://go.vansh.nyc/1sz",
         "locations": [
             "Lisle, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "International",
         "title": "Artificial Intelligence/Machine Learning Intern",
         "source": "vanshb03",
@@ -63825,13 +63825,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794512365,
+        "date_updated": 1795445091,
         "url": "https://go.vansh.nyc/1xa",
         "locations": [
             "Lisle, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "International Motors",
         "title": "IT Security Intern",
         "source": "vanshb03",
