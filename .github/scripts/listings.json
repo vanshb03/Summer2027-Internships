@@ -6803,13 +6803,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1785965318,
+        "date_updated": 1795456021,
         "url": "https://go.vansh.nyc/6z",
         "locations": [
             "San Mateo, CA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Roblox",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -26062,13 +26062,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793021626,
+        "date_updated": 1795456021,
         "url": "https://go.vansh.nyc/JJ",
         "locations": [
             "Liberty Lake, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Itron",
         "title": "Data Science Intern, Distributed Intelligence",
         "source": "vanshb03",
@@ -52572,13 +52572,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793975933,
+        "date_updated": 1795456021,
         "url": "https://go.vansh.nyc/1k3",
         "locations": [
             "Bloomington, IN"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Cook Group",
         "title": "Applied AI & Full Stack Development Intern",
         "source": "vanshb03",
@@ -71895,6 +71895,91 @@
         "source": "vanshb03",
         "id": "1768e59a-bd6e-40d7-8749-6b202cd874cc",
         "date_posted": 1795453157,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795455335,
+        "url": "https://go.vansh.nyc/1GY",
+        "locations": [
+            "Montgomery, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Garmin",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "02912aa7-6a3c-46bf-bec9-2eb723fc4caf",
+        "date_posted": 1795392000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795455335,
+        "url": "https://go.vansh.nyc/1GZ",
+        "locations": [
+            "Louisville, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Garmin",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "142bbadb-17cc-482a-9e1e-fbb78f6a4a86",
+        "date_posted": 1795392000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795455335,
+        "url": "https://go.vansh.nyc/1H0",
+        "locations": [
+            "Middlebury, CT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Garmin",
+        "title": "Software Engineer Intern, Aviation Web Development",
+        "source": "vanshb03",
+        "id": "66db635f-eb9c-47db-8566-5b9501ef229c",
+        "date_posted": 1795392000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795455335,
+        "url": "https://go.vansh.nyc/1H1",
+        "locations": [
+            "Olathe, KS"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Garmin",
+        "title": "Data Scientist Intern",
+        "source": "vanshb03",
+        "id": "699d593e-9124-4373-8ba6-561f80d641e5",
+        "date_posted": 1795392000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795455335,
+        "url": "https://go.vansh.nyc/1H2",
+        "locations": [
+            "Novi, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Garmin",
+        "title": "Software Engineer Intern, Automotive OEM",
+        "source": "vanshb03",
+        "id": "3ec76641-0307-4af2-b8d9-95ef1c5dd046",
+        "date_posted": 1795392000,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
