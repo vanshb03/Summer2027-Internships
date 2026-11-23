@@ -379,7 +379,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Cybersecurity Engineer Intern, Critical Infrastructure Protection | Laurel, MD | <a href="https://go.vansh.nyc/Rc?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
 | Foresters Financial | Quality Assurance Engineer Co-op | Toronto, Canada | <a href="https://go.vansh.nyc/QP?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
 | Ciena | Services Business Intelligence & Analytics Intern | Montreal, QC, Canada</br>Ottawa, ON, Canada | <a href="https://go.vansh.nyc/cx?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
-| W.R. Berkley | Enterprise Architecture Co-op | Urbandale, IA | <a href="https://go.vansh.nyc/ax?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 16 |
 | Entrust | Software Engineering Co-op | Shakopee, MN | <a href="https://go.vansh.nyc/au?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 16 |
 | AgZen | Software Engineer Co-op | Somerville, MA | <a href="https://go.vansh.nyc/aV?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 16 |
 | Symbotic | System Engineer Co-op | Brooksville, FL | <a href="https://go.vansh.nyc/a8?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
@@ -699,6 +698,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Digital Data Engineer Intern | Saint-Bruno, Canada | 🔒 | Oct 18 |
 | Accenture | MES & Supply Chain Systems Co-op Analyst | Toronto, ON, Canada | 🔒 | Oct 18 |
 | Together AI | Research Intern, Frontier Speculative Decoding | San Francisco, CA | 🔒 | Oct 17 |
+| W.R. Berkley | Enterprise Architecture Co-op | Urbandale, IA | 🔒 | Oct 16 |
 | RTX | Development Operations Intern, Engineering Development Program 🇺🇸 | Middletown, CT | 🔒 | Oct 16 |
 | KPMG | AI Builder Co-op | Toronto, ON, Canada | 🔒 | Oct 16 |
 | J.M. Smucker | Finance Technology Intern | Orrville, OH | 🔒 | Oct 16 |
