@@ -1988,7 +1988,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Software Engineer Intern, Distributed NoSQL Database Systems | Seattle, WA | <a href="https://go.vansh.nyc/5W?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 04 |
 | ↳ | Software Engineer Intern, AI Platform 🛂 | San Jose, CA | <a href="https://go.vansh.nyc/5Q?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 04 |
 | Microsoft | Software Engineer Intern, CoreAI | Multiple Locations, United States | <a href="https://go.vansh.nyc/5H?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 03 |
-| HPR | Software Engineering Intern 🛂 | Needham, MA | <a href="https://go.vansh.nyc/5B?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 03 |
 | Heliux | Software Engineer Intern 🇺🇸 | San Francisco, CA | <a href="https://go.vansh.nyc/5D?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 03 |
 | DRW | Software Developer Intern | Chicago, IL | <a href="https://go.vansh.nyc/5t?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 31 |
 | ↳ | Software Developer Intern | Montréal | <a href="https://go.vansh.nyc/5s?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 31 |
@@ -3213,6 +3212,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | GoDaddy | Software Development Engineer Intern 🛂 | Tempe, AZ | 🔒 | Aug 04 |
 | American Express | Product Management Intern 🛂 | New York, NY | 🔒 | Aug 04 |
 | Medtronic | Software Engineering Intern 🛂 | <details><summary>**5 locations**</summary>Fridley, MN</br>Tempe, AZ</br>Eatontown, NJ</br>Santa Rosa, CA</br>Lafayette, CO</details> | 🔒 | Aug 03 |
+| HPR | Software Engineering Intern 🛂 | Needham, MA | 🔒 | Aug 03 |
 | Capital One | Software Engineer Intern 🛂 | McLean, VA</br>Plano, TX</br>Richmond, VA | 🔒 | Aug 03 |
 | ↳ | Cyber Security Intern 🛂 | McLean, VA</br>Plano, TX | 🔒 | Aug 03 |
 | FTI Consulting | Technology Intern | <details><summary>**12 locations**</summary>Atlanta, GA</br>Chicago, IL</br>Houston, TX</br>Los Angeles, CA</br>New York, NY</br>San Francisco, CA</br>Washington, DC</br>Chicago, IL</br>Los Angeles, CA</br>New York, NY</br>San Francisco, CA</br>Washington, DC</details> | 🔒 | Jul 31 |
