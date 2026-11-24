@@ -17094,13 +17094,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792731778,
+        "date_updated": 1795486742,
         "url": "https://go.vansh.nyc/gd",
         "locations": [
             "Pleasanton, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Workday",
         "title": "Cybersecurity Engineer Intern",
         "source": "vanshb03",
@@ -24376,14 +24376,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793016276,
+        "date_updated": 1795486742,
         "url": "https://go.vansh.nyc/H9",
         "locations": [
             "Irvine, CA",
             "Fairfax, VA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tevora",
         "title": "Cybersecurity Intern, Systems and Organizations Controls (SOC)",
         "source": "vanshb03",
@@ -32732,14 +32732,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793095565,
+        "date_updated": 1795486742,
         "url": "https://go.vansh.nyc/V4",
         "locations": [
             "Irvine, CA",
             "Fairfax, VA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tevora",
         "title": "Cybersecurity Intern, Enterprise Risk Management",
         "source": "vanshb03",
@@ -32750,14 +32750,14 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1793095565,
+        "date_updated": 1795486742,
         "url": "https://go.vansh.nyc/V5",
         "locations": [
             "Fairfax, VA",
             "Irvine, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tevora",
         "title": "Cybersecurity Intern, Federal",
         "source": "vanshb03",
@@ -32768,14 +32768,14 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1793095565,
+        "date_updated": 1795486742,
         "url": "https://go.vansh.nyc/V6",
         "locations": [
             "Irvine, CA",
             "Fairfax, VA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tevora",
         "title": "Cybersecurity Intern, Healthcare",
         "source": "vanshb03",
@@ -32786,14 +32786,14 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1793095565,
+        "date_updated": 1795486742,
         "url": "https://go.vansh.nyc/V7",
         "locations": [
             "Irvine, CA",
             "Fairfax, VA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tevora",
         "title": "Cybersecurity Intern, ISO",
         "source": "vanshb03",
@@ -32804,14 +32804,14 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1793095565,
+        "date_updated": 1795486742,
         "url": "https://go.vansh.nyc/V8",
         "locations": [
             "Fairfax, VA",
             "Irvine, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tevora",
         "title": "Cybersecurity Intern, Payments",
         "source": "vanshb03",
@@ -32822,14 +32822,14 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1793095565,
+        "date_updated": 1795486742,
         "url": "https://go.vansh.nyc/V9",
         "locations": [
             "Irvine, CA",
             "Fairfax, VA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tevora",
         "title": "Cybersecurity Intern, Solutions",
         "source": "vanshb03",
@@ -32840,14 +32840,14 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1793095565,
+        "date_updated": 1795486742,
         "url": "https://go.vansh.nyc/Va",
         "locations": [
             "Irvine, CA",
             "Fairfax, VA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Tevora",
         "title": "Cybersecurity Intern, Threat",
         "source": "vanshb03",
@@ -69465,13 +69465,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1795143950,
+        "date_updated": 1795486742,
         "url": "https://go.vansh.nyc/1DT",
         "locations": [
             "Newark, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Lucid Motors",
         "title": "Embedded Software Intern, BSP/Platform, ADAS/Autonomous Driving",
         "source": "vanshb03",
@@ -72630,6 +72630,40 @@
         "source": "vanshb03",
         "id": "cbc8d5e1-8542-433a-bc65-361eb537b676",
         "date_posted": 1795479271,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795486157,
+        "url": "https://go.vansh.nyc/1HM",
+        "locations": [
+            "Waltham, MA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Boston Scientific",
+        "title": "Software Test Engineer Co-op",
+        "source": "vanshb03",
+        "id": "ed059136-4293-4442-965e-26d3b5e4e8f7",
+        "date_posted": 1795482557,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1795486358,
+        "url": "https://go.vansh.nyc/1HN",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Rockwell Automation",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "853a3fe2-e9c7-42a9-b26e-718eae6fa5d6",
+        "date_posted": 1795453777,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
