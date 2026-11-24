@@ -132,7 +132,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Firefly Aerospace | Software Engineering Intern 🇺🇸 | Cedar Park, TX | <a href="https://go.vansh.nyc/1x0?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | DwyerOmega | Applied AI Intern | Remote</br>United States | <a href="https://go.vansh.nyc/1sC?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | Amgen | Undergraduate Software Engineer Co-op, Large Molecule Discovery Technology | Burnaby, Canada | <a href="https://go.vansh.nyc/1rn?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
-| Altice USA | Developer Intern, Financial & People Systems | Bethpage, NY | <a href="https://go.vansh.nyc/1sl?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | AFL | Business Intelligence (BI) Co-op | Duncan, SC | <a href="https://go.vansh.nyc/1qw?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | Warner Bros. Discovery | Data Engineering Co-op, WB Games | Needham, MA | <a href="https://go.vansh.nyc/1oH?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
 | Varian | Application Software Developer Co-op | Canada | <a href="https://go.vansh.nyc/1p8?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
@@ -532,7 +531,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Cloud Platform Engineering Intern | Bethpage, NY | 🔒 | Nov 10 |
 | ↳ | DevOps Toolchain Intern | Bethpage, NY | 🔒 | Nov 10 |
 | Hitachi | DevOps Analyst Intern | Toronto, Canada | 🔒 | Nov 10 |
-| Altice USA | Operations Data Analyst Intern | Bethpage, NY | 🔒 | Nov 10 |
+| Altice USA | Developer Intern, Financial & People Systems | Bethpage, NY | 🔒 | Nov 10 |
+| ↳ | Operations Data Analyst Intern | Bethpage, NY | 🔒 | Nov 10 |
 | ↳ | Product Analytics Intern | Bethpage, NY | 🔒 | Nov 10 |
 | ↳ | Software Development Intern | Bethpage, NY | 🔒 | Nov 10 |
 | Whoop | Software Engineer Co-op, Backend, Business Systems | Boston, MA | 🔒 | Nov 09 |

@@ -1857,7 +1857,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Associate Product Security Engineer Intern | Vienna, VA | <a href="https://go.vansh.nyc/1ur?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
 | ↳ | Associate Information Security Analyst Intern | Vienna, VA | <a href="https://go.vansh.nyc/1us?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
 | ↳ | Associate Intern, Identity & Access Management | Vienna, VA | <a href="https://go.vansh.nyc/QD?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
-| ↳ | Associate Intern, Penetration Testing | Pensacola, FL | <a href="https://go.vansh.nyc/QE?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
 | M3USA | AI Engineering Intern | Remote</br>United States | <a href="https://go.vansh.nyc/1eD?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
 | M3 USA | AI Engineering Intern (Remote) | Remote</br>United States | <a href="https://go.vansh.nyc/1tm?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
 | Coinbase | Analytics Engineer Intern | San Francisco, CA | <a href="https://go.vansh.nyc/Mt?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
@@ -3134,6 +3133,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Application Development Intern | Knoxville, TN | 🔒 | Sep 09 |
 | PanAgora | Equity Intern | Boston, MA | 🔒 | Sep 09 |
 | Activision Blizzard | Software Engineering Intern | Sherman Oaks, CA</br>Portland, OR</br>Santa Monica, CA | 🔒 | Sep 09 |
+| Navy Federal | Associate Intern, Penetration Testing | Pensacola, FL | 🔒 | Sep 08 |
 | Motorola | FPGA Design Engineering Intern | Schaumburg, IL | 🔒 | Sep 08 |
 | Gallup | DevOps Engineer Intern | Omaha, NE | 🔒 | Sep 08 |
 | Datadog | Software Engineer Intern | Boston, MA</br>New York, NY | 🔒 | Sep 08 |
