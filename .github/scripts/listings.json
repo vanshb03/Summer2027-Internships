@@ -35004,13 +35004,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793219763,
+        "date_updated": 1795481164,
         "url": "https://go.vansh.nyc/XZ",
         "locations": [
             "Bethesda, MD"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Leidos",
         "title": "Cybersecurity Engineer Co-op",
         "source": "vanshb03",
@@ -72565,5 +72565,73 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1795480771,
+        "url": "https://go.vansh.nyc/1HH",
+        "locations": [
+            "Needham, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SharkNinja",
+        "title": "Software Development Test Engineering Co-op",
+        "source": "vanshb03",
+        "id": "10414bf0-707f-49f4-94b0-50fad2bf3a34",
+        "date_posted": 1795479331,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795480771,
+        "url": "https://go.vansh.nyc/1HI",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Illumio",
+        "title": "Engineering Intern, Architecture Platform",
+        "source": "vanshb03",
+        "id": "e1dbf8a8-8a37-4417-8982-0d3c80e0afe7",
+        "date_posted": 1795479571,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795480771,
+        "url": "https://go.vansh.nyc/1HJ",
+        "locations": [
+            "Needham, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SharkNinja",
+        "title": "Firmware Engineering Intern, Advanced Development",
+        "source": "vanshb03",
+        "id": "14774324-7498-4c21-a0c7-47a0f23b1023",
+        "date_posted": 1795479391,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795480771,
+        "url": "https://go.vansh.nyc/1HK",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Illumio",
+        "title": "AI-Based Scale & Performance Test Automation Intern",
+        "source": "vanshb03",
+        "id": "cbc8d5e1-8542-433a-bc65-361eb537b676",
+        "date_posted": 1795479271,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
