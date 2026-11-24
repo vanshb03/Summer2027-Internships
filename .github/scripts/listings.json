@@ -23739,13 +23739,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793015500,
+        "date_updated": 1795508253,
         "url": "https://go.vansh.nyc/Gy",
         "locations": [
             "Vancouver, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Electronic Arts",
         "title": "Software Engineer Intern, C++",
         "source": "vanshb03",
@@ -23773,13 +23773,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793015500,
+        "date_updated": 1795508253,
         "url": "https://go.vansh.nyc/GA",
         "locations": [
             "Vancouver, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Electronic Arts",
         "title": "Software Engineer Co-op",
         "source": "vanshb03",
@@ -72871,5 +72871,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Spring"
+    },
+    {
+        "date_updated": 1795507518,
+        "url": "https://go.vansh.nyc/1I3",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Esri",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "69940125-0821-46e3-a1d2-2d25fa41c2bf",
+        "date_posted": 1793917352,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
