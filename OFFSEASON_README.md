@@ -88,7 +88,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Falcomm | Undergraduate AI/ML Software Engineer Intern, AI/CAD Integration | Atlanta, GA | <a href="https://go.vansh.nyc/1BO?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | ↳ | AI/ML Software Engineer Undergraduate Intern, AI/CAD Integration | Atlanta, GA | <a href="https://go.vansh.nyc/1Bn?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | Elk Valley Resources | Mining and Geology Systems Co-op | Calgary, Canada | <a href="https://go.vansh.nyc/1DZ?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
-| Compunetix | Software Engineer Co-op | Monroeville, PA | <a href="https://go.vansh.nyc/1BM?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | Xradar | Software Engineer Co-op | Burnaby, Canada | <a href="https://go.vansh.nyc/1AW?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
 | Exowatt | Robotics & Physical AI Intern | Miami, FL | <a href="https://go.vansh.nyc/1Bq?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
 | Critical Environment Technologies | Computer Science Co-op | Delta, Canada | <a href="https://go.vansh.nyc/1B1?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
@@ -359,7 +358,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | FanDuel | Product Co-op | Toronto, ON, Canada | <a href="https://go.vansh.nyc/bf?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
 | Cryptic Vector | Full Stack Developer Intern | Liberty Township, OH | <a href="https://go.vansh.nyc/go?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
 | Ciena | Software Engineer Intern, Security | Atlanta, GA | <a href="https://go.vansh.nyc/cp?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
-| Amazon.com Services LLC | Hardware Development Engineer Intern | Bellevue, WA | <a href="https://go.vansh.nyc/cT?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
 | TMX Group | DevOps Intern | Montreal, Canada | <a href="https://go.vansh.nyc/QS?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
 | Rivian | Software Engineering Co-op, Product Development Portal | Palo Alto, CA | <a href="https://go.vansh.nyc/RD?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
 | ↳ | Software Engineering Co-op, Product Lifecycle Management | Palo Alto, CA | <a href="https://go.vansh.nyc/RE?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
@@ -517,6 +515,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | AON3D | Software Developer Intern | Montreal, Canada | 🔒 | Nov 20 |
 | Robert Bosch LLC | AI Application Intern | Farmington Hills, MI | 🔒 | Nov 17 |
 | Motorola Solutions | Software Engineer Co-op | Remote</br>United States | 🔒 | Nov 17 |
+| Compunetix | Software Engineer Co-op | Monroeville, PA | 🔒 | Nov 17 |
 | Cloudflare | AI & Automation Intern, Communications 🛂 | Office, IN | 🔒 | Nov 17 |
 | Optimum (Altice USA) | Software Developer Intern | Bethpage, NY | 🔒 | Nov 16 |
 | Seagate Technology | Embedded Firmware Intern, Research Group | Shakopee, MN | 🔒 | Nov 13 |
@@ -681,6 +680,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | BMO | Data & AI Analyst Co-op | Toronto, ON, Canada | 🔒 | Oct 20 |
 | Nuovo Photography | Software Developer Intern | Montreal, QC, Canada | 🔒 | Oct 19 |
 | CIBC | Advanced Analytics and AI Co-op | Toronto, ON | 🔒 | Oct 19 |
+| Amazon.com Services LLC | Hardware Development Engineer Intern | Bellevue, WA | 🔒 | Oct 19 |
 | ABB | Integrated Motor Drive Software Co-op | Greenville, SC | 🔒 | Oct 19 |
 | Manulife Financial | AI Intern | Toronto, ON, Canada | 🔒 | Oct 18 |
 | ↳ | AI Co-op | Toronto, ON, Canada | 🔒 | Oct 18 |

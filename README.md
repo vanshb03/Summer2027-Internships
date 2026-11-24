@@ -49,6 +49,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | RF-SMART | Software Developer Intern | Highlands Ranch, CO</br>Jacksonville, FL | <a href="https://go.vansh.nyc/1Id?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
 | NVIDIA | Developer Technology Intern, AI | Santa Clara, CA | <a href="https://go.vansh.nyc/1Im?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
 | Intel | Design Verification Intern | <details><summary>**4 locations**</summary>Fort Collins, CO</br>Hillsboro, OR</br>Santa Clara, CA</br>Austin, TX</details> | <a href="https://go.vansh.nyc/1Ie?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
+| General Motors | Software Verification Engineer Intern, AV/AI Platform | Warren, MI | <a href="https://go.vansh.nyc/1Ir?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
 | Draper | HWIL & Real Time Simulation Intern 🇺🇸 | Cambridge, MA | <a href="https://go.vansh.nyc/1Ib?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
 | BEUMER Group | AI Development Intern | United States | <a href="https://go.vansh.nyc/1I9?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
 | Altera | AI Software Development Engineer Intern | Toronto, Canada | <a href="https://go.vansh.nyc/1Ih?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
@@ -1396,7 +1397,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Two Sigma | Software Engineering Intern | New York, NY | <a href="https://go.vansh.nyc/RS?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
 | TikTok | Security Software Engineer Project Intern, Product Security | San Jose, CA | <a href="https://go.vansh.nyc/RN?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
 | ↳ | Software Development Engineer in Test Intern, Testing | San Jose, CA | <a href="https://go.vansh.nyc/RO?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
-| ↳ | Software Development Engineer Intern, Global E-Commerce Quality Platform & AI Test Automation | San Jose, CA | <a href="https://go.vansh.nyc/RP?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
 | ↳ | Site Reliability Engineer Intern, Global SRE | San Jose, CA | <a href="https://go.vansh.nyc/RR?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
 | Susquehanna International Group | Machine Learning Engineering Intern | Bala Cynwyd, PA | <a href="https://go.vansh.nyc/RM?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
 | Seagate Technology | Software and Data Analytics Development Intern, AFM | Bloomington, MN | <a href="https://go.vansh.nyc/Sq?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
@@ -1613,7 +1613,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | AI Software Intern, Cloud, Infrastructure & Data Centre Deployment | Austin, TX</br>Santa Clara, CA | <a href="https://go.vansh.nyc/g7?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
 | Skyband Systems | Software Engineer Intern | Kirkland, WA | <a href="https://go.vansh.nyc/1nF?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
 | Sigma Computing | Software Engineer Intern | San Francisco, CA</br>New York, NY | <a href="https://go.vansh.nyc/1nG?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
-| Revel | Forward Deployed Engineer Intern, Software | Los Angeles, CA</br>San Francisco, CA | <a href="https://go.vansh.nyc/1eT?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
 | Qube Research and Technologies | Security Engineer Intern | New York, NY | <a href="https://go.vansh.nyc/QJ?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
 | Pure Storage | Software Engineer Intern | Santa Clara, CA | <a href="https://go.vansh.nyc/FC?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
 | Nissan | Systems Engineer Intern | Canton, MS | <a href="https://go.vansh.nyc/FQ?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
@@ -2848,7 +2847,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | FPGA IP Design Engineer Intern | Toronto, ON, Canada | 🔒 | Oct 19 |
 | Allstate | Software Engineer Intern | North Carolina | 🔒 | Oct 19 |
 | Aerospace Corporation | Cloud Solutions Engineer / Site Reliability Intern 🇺🇸 | El Segundo, CA</br>Chantilly, VA</br>Colorado Springs, CO | 🔒 | Oct 19 |
-| TikTok | Software Development Engineer Intern, Global E-Commerce Quality Platform & AI Test Automation | Seattle, WA | 🔒 | Oct 18 |
+| TikTok | Software Development Engineer Intern, Global E-Commerce Quality Platform & AI Test Automation | San Jose, CA | 🔒 | Oct 18 |
+| ↳ | Software Development Engineer Intern, Global E-Commerce Quality Platform & AI Test Automation | Seattle, WA | 🔒 | Oct 18 |
 | Seagate Technology | Recording Media R&D Intern, AI & Data Science | Fremont, CA | 🔒 | Oct 18 |
 | RTX | Software Engineering Co-op | Cedar Rapids, IA | 🔒 | Oct 18 |
 | ↳ | Software Engineer Intern | Cedar Rapids, IA | 🔒 | Oct 18 |
@@ -3014,7 +3014,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Garmin | FPGA Engineer Intern | Olathe, KS | 🔒 | Oct 07 |
 | The Aerospace Corporation | Embedded Systems/Software Engineer Intern | Chantilly, VA</br>El Segundo, CA | 🔒 | Oct 06 |
 | RTX | Software Engineer Co-op | Cedar Rapids, IA | 🔒 | Oct 06 |
-| Revel | Software Engineer Intern, Test | Los Angeles, CA</br>San Francisco, CA | 🔒 | Oct 06 |
+| Revel | Forward Deployed Engineer Intern, Software | Los Angeles, CA</br>San Francisco, CA | 🔒 | Oct 06 |
+| ↳ | Software Engineer Intern, Test | Los Angeles, CA</br>San Francisco, CA | 🔒 | Oct 06 |
 | ↳ | Embedded Software Engineer Intern | Los Angeles, CA</br>San Francisco, CA | 🔒 | Oct 06 |
 | ↳ | Full Stack Software Engineer Intern | Los Angeles, CA</br>San Francisco, CA | 🔒 | Oct 06 |
 | MEMX | Information Security Intern | New York, NY | 🔒 | Oct 06 |
