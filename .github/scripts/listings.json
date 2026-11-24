@@ -72684,5 +72684,141 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1795496744,
+        "url": "https://go.vansh.nyc/1HP",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Akuna Capital OCI",
+        "title": "Quantitative Development & Strategy Intern",
+        "source": "vanshb03",
+        "id": "190dab8f-4fa0-401c-956d-6b6d5895bb79",
+        "date_posted": 1795478400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795496744,
+        "url": "https://go.vansh.nyc/1HQ",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Akuna Capital OCI",
+        "title": "Quantitative Research Intern",
+        "source": "vanshb03",
+        "id": "102f6f28-c45f-4d90-9991-6e816a2f8df1",
+        "date_posted": 1795478400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795496744,
+        "url": "https://go.vansh.nyc/1HR",
+        "locations": [
+            "Redondo Beach, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Impulse Space",
+        "title": "Information Security Intern",
+        "source": "vanshb03",
+        "id": "5a16adf7-0213-4726-8569-f77d0481377e",
+        "date_posted": 1795478400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795497016,
+        "url": "https://go.vansh.nyc/1HS",
+        "locations": [
+            "McLean, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "MITRE",
+        "title": "Cyber Operations Engineer Intern",
+        "source": "vanshb03",
+        "id": "f729b541-2441-47d9-aa15-c6129f97ffc3",
+        "date_posted": 1795410616,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795497342,
+        "url": "https://go.vansh.nyc/1HT",
+        "locations": [
+            "Westford, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Juniper Networks",
+        "title": "Networking & Cybersecurity Intern",
+        "source": "vanshb03",
+        "id": "66da3dc1-ece9-4e36-849b-73e2b6050ec1",
+        "date_posted": 1795410649,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795497342,
+        "url": "https://go.vansh.nyc/1HU",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Juniper Networks",
+        "title": "Networking & Cybersecurity Intern",
+        "source": "vanshb03",
+        "id": "21e9af28-727f-4ead-a9b2-f03bb63819f3",
+        "date_posted": 1795410649,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795497342,
+        "url": "https://go.vansh.nyc/1HV",
+        "locations": [
+            "Honolulu, HI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Servco Pacific",
+        "title": "Cybersecurity Analyst Intern",
+        "source": "vanshb03",
+        "id": "d1f80db7-cc60-42ce-a7c5-bba2ffc8560e",
+        "date_posted": 1795489761,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795497342,
+        "url": "https://go.vansh.nyc/1HW",
+        "locations": [
+            "Chelmsford, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ZOLL Medical Corporation",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "ea09395d-699e-4b93-8097-a72df40c4d3e",
+        "date_posted": 1795493383,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
