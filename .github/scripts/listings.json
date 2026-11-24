@@ -72888,5 +72888,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1795518788,
+        "url": "https://go.vansh.nyc/1I4",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Artefact",
+        "title": "AI Engineering Intern",
+        "source": "vanshb03",
+        "id": "02746636-0fd8-4f4d-95d9-949dff083af2",
+        "date_posted": 1795393393,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
