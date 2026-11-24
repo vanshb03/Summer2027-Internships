@@ -61372,13 +61372,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794375552,
+        "date_updated": 1795531600,
         "url": "https://go.vansh.nyc/1tE",
         "locations": [
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Wing",
         "title": "Route Planning Software Engineering Intern",
         "source": "vanshb03",
