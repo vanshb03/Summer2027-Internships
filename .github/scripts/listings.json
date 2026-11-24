@@ -54583,13 +54583,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794071313,
+        "date_updated": 1795542474,
         "url": "https://go.vansh.nyc/1mf",
         "locations": [
             "Long Island City, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Springs Window Fashions",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
@@ -73045,5 +73045,39 @@
         "company_url": "",
         "is_visible": true,
         "season": "Spring"
+    },
+    {
+        "date_updated": 1795542296,
+        "url": "https://go.vansh.nyc/1Ih",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Altera",
+        "title": "AI Software Development Engineer Intern",
+        "source": "vanshb03",
+        "id": "eacbea4a-bfea-40ec-adbc-59f4d3cb7191",
+        "date_posted": 1795534749,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795542296,
+        "url": "https://go.vansh.nyc/1Ii",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Altera",
+        "title": "Embedded Solutions Intern",
+        "source": "vanshb03",
+        "id": "ee8546e3-06c5-4a28-9cc9-4ceb60f70d19",
+        "date_posted": 1795534749,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
