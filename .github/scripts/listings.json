@@ -20249,13 +20249,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1793013503,
+        "date_updated": 1795479369,
         "url": "https://go.vansh.nyc/CJ",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Muon Space",
         "title": "Ground Software Engineer Intern",
         "source": "vanshb03",
@@ -72462,5 +72462,108 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1795478714,
+        "url": "https://go.vansh.nyc/1Hz",
+        "locations": [
+            "Tempe, AZ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ViaSat",
+        "title": "Embedded Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "d788e45c-4bf7-4d61-b515-858b6ad9c89f",
+        "date_posted": 1795454820,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795478714,
+        "url": "https://go.vansh.nyc/1HA",
+        "locations": [
+            "Springfield, VA",
+            "Reston, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Noblis",
+        "title": "Data Innovations Intern",
+        "source": "vanshb03",
+        "id": "61683b52-ab75-4739-9d91-68c548c495ff",
+        "date_posted": 1795470720,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795478968,
+        "url": "https://go.vansh.nyc/1HB",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Illumio",
+        "title": "Engineering Intern, Security Platforms",
+        "source": "vanshb03",
+        "id": "492c603c-b511-46e0-9054-28f14b63c332",
+        "date_posted": 1795477888,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795478968,
+        "url": "https://go.vansh.nyc/1HC",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Illumio",
+        "title": "Product Manager Intern",
+        "source": "vanshb03",
+        "id": "48c2c7a6-95a5-4084-8a80-64a80e89ba03",
+        "date_posted": 1795478308,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795478968,
+        "url": "https://go.vansh.nyc/1HD",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Illumio",
+        "title": "Technical Product Management Intern",
+        "source": "vanshb03",
+        "id": "d10299e1-dfae-4f55-af02-6f611478c75e",
+        "date_posted": 1795478068,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795479171,
+        "url": "https://go.vansh.nyc/1HE",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "State Street",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "1d3561ea-580e-4083-9a92-b5e074347b4e",
+        "date_posted": 1795338676,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
