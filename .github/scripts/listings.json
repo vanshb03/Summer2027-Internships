@@ -22758,13 +22758,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793015500,
+        "date_updated": 1795538900,
         "url": "https://go.vansh.nyc/FE",
         "locations": [
             "Vancouver, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "The Semios Group",
         "title": "Software Developer Co-op",
         "source": "vanshb03",
@@ -72990,5 +72990,60 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1795538115,
+        "url": "https://go.vansh.nyc/1Id",
+        "locations": [
+            "Highlands Ranch, CO",
+            "Jacksonville, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "RF-SMART",
+        "title": "Software Developer Intern",
+        "source": "vanshb03",
+        "id": "97d8e36c-86c8-4cd9-b606-cffef9a3e89d",
+        "date_posted": 1795536121,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795538351,
+        "url": "https://go.vansh.nyc/1Ie",
+        "locations": [
+            "Fort Collins, CO",
+            "Hillsboro, OR",
+            "Santa Clara, CA",
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Intel",
+        "title": "Design Verification Intern",
+        "source": "vanshb03",
+        "id": "70a980ed-1565-4a2a-9a91-408f7d9842d6",
+        "date_posted": 1795536191,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795538717,
+        "url": "https://go.vansh.nyc/1If",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "QuEra Computing",
+        "title": "Site Reliability Engineer Co-op",
+        "source": "vanshb03",
+        "id": "da40e0d0-fa51-4f7e-ac0f-3557bdc77ca9",
+        "date_posted": 1795537342,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
     }
 ]
