@@ -13517,13 +13517,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792535448,
+        "date_updated": 1795550308,
         "url": "https://go.vansh.nyc/cT",
         "locations": [
             "Bellevue, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Amazon.com Services LLC",
         "title": "Hardware Development Engineer Intern",
         "source": "vanshb03",
@@ -31341,13 +31341,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793031368,
+        "date_updated": 1795550308,
         "url": "https://go.vansh.nyc/RP",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "Software Development Engineer Intern, Global E-Commerce Quality Platform & AI Test Automation",
         "source": "vanshb03",
@@ -48305,14 +48305,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793743743,
+        "date_updated": 1795550308,
         "url": "https://go.vansh.nyc/1eT",
         "locations": [
             "Los Angeles, CA",
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Revel",
         "title": "Forward Deployed Engineer Intern, Software",
         "source": "vanshb03",
@@ -67836,13 +67836,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794960346,
+        "date_updated": 1795550308,
         "url": "https://go.vansh.nyc/1BM",
         "locations": [
             "Monroeville, PA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Compunetix",
         "title": "Software Engineer Co-op",
         "source": "vanshb03",
@@ -73179,6 +73179,23 @@
         "source": "vanshb03",
         "id": "cd33a3dd-04a9-441e-9d36-1ecdf1061b11",
         "date_posted": 1795478400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795549923,
+        "url": "https://go.vansh.nyc/1Ir",
+        "locations": [
+            "Warren, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "General Motors",
+        "title": "Software Verification Engineer Intern, AV/AI Platform",
+        "source": "vanshb03",
+        "id": "fe745cad-8c87-4041-90ad-180b53536eaa",
+        "date_posted": 1795541975,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
