@@ -72922,5 +72922,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1795527892,
+        "url": "https://go.vansh.nyc/1I6",
+        "locations": [
+            "Idaho Falls, ID"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Idaho National Laboratory",
+        "title": "Infrastructure Data Integration & Risk-Informed Maintenance Pilot Intern",
+        "source": "vanshb03",
+        "id": "eb150319-1348-472a-b845-73fbaf073c28",
+        "date_posted": 1795392000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
