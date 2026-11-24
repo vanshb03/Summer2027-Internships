@@ -75,6 +75,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | MDA | Engineering Student Intern, AI/ML Specialist | Richmond, Canada | <a href="https://go.vansh.nyc/1DO?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | Mackenzie Investments | AI Program Intern | Toronto, Canada | <a href="https://go.vansh.nyc/1F8?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | EUNA Solutions | Associate AI-Enablement Developer Co-op | Oakville, Canada | <a href="https://go.vansh.nyc/1D7?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
+| Amazon | Front-End Engineer Intern | Seattle, WA | <a href="https://go.vansh.nyc/1Iu?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | Alberta Investment Management Corporation | Test Automation Intern | Edmonton, Canada | <a href="https://go.vansh.nyc/1Da?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | Western Digital | Software Engineering Intern | Irvine, CA | <a href="https://go.vansh.nyc/1Cg?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
 | Ribbon | Software Developer Co-op, Common Cloud Services | Canada | <a href="https://go.vansh.nyc/1Gf?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
