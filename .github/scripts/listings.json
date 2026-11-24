@@ -59706,13 +59706,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794337560,
+        "date_updated": 1795537263,
         "url": "https://go.vansh.nyc/1rR",
         "locations": [
             "Fort Collins, CO"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Hewlett Packard (HP)",
         "title": "Performance Engineering Co-op",
         "source": "vanshb03",
@@ -72936,6 +72936,57 @@
         "source": "vanshb03",
         "id": "eb150319-1348-472a-b845-73fbaf073c28",
         "date_posted": 1795392000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795536325,
+        "url": "https://go.vansh.nyc/1I9",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "BEUMER Group",
+        "title": "AI Development Intern",
+        "source": "vanshb03",
+        "id": "a5703199-3ca8-4403-9366-8250d24eb94f",
+        "date_posted": 1795533384,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795536864,
+        "url": "https://go.vansh.nyc/1Ia",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hitachi",
+        "title": "Data and Business Intelligence Analyst Intern",
+        "source": "vanshb03",
+        "id": "93820c5a-1360-4af5-a80e-d794dfd06b36",
+        "date_posted": 1795536550,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1795537049,
+        "url": "https://go.vansh.nyc/1Ib",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Draper",
+        "title": "HWIL & Real Time Simulation Intern",
+        "source": "vanshb03",
+        "id": "57325c0f-bfab-4bdc-b1ea-1fa3207f3e25",
+        "date_posted": 1795536898,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
