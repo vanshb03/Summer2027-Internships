@@ -19665,13 +19665,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793013503,
+        "date_updated": 1795504618,
         "url": "https://go.vansh.nyc/Cb",
         "locations": [
             "Vancouver, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Electronic Arts",
         "title": "Technical Artist Co-op",
         "source": "vanshb03",
