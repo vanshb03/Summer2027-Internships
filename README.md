@@ -49,6 +49,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | NVIDIA | Developer Technology Intern, AI | Santa Clara, CA | <a href="https://go.vansh.nyc/1Im?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
 | National Interstate Insurance | Quality Assurance Intern 🛂 | Cincinnati, OH | <a href="https://go.vansh.nyc/1Iy?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
 | Intel | Design Verification Intern | <details><summary>**4 locations**</summary>Fort Collins, CO</br>Hillsboro, OR</br>Santa Clara, CA</br>Austin, TX</details> | <a href="https://go.vansh.nyc/1Ie?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
+| Indie | Camera Host Tools Intern | San Jose, CA | <a href="https://go.vansh.nyc/1IA?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
 | General Motors | Software Verification Engineer Intern, AV/AI Platform | Warren, MI | <a href="https://go.vansh.nyc/1Ir?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
 | Draper | HWIL & Real Time Simulation Intern 🇺🇸 | Cambridge, MA | <a href="https://go.vansh.nyc/1Ib?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
 | BEUMER Group | AI Development Intern | United States | <a href="https://go.vansh.nyc/1I9?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
@@ -1258,8 +1259,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Qualcomm | AI and DSP Applications Engineer Intern | Markham, Canada | <a href="https://go.vansh.nyc/fy?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | ↳ | Camera Design Implementation Intern | Vancouver, BC, Canada | <a href="https://go.vansh.nyc/es?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | ↳ | Applied AI Engineering Intern, Hardware Systems | Vancouver, BC, Canada | <a href="https://go.vansh.nyc/et?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
-| Quadric | RTL Intern | Burlingame, CA | <a href="https://go.vansh.nyc/1n2?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
-| ↳ | AI Kernel Engineer Intern | Burlingame, CA | <a href="https://go.vansh.nyc/1n3?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | Palantir | Forward Deployed Software Engineer Intern, Warp Speed | New York, NY | <a href="https://go.vansh.nyc/fD?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | OpenSesame | AI Product Builder Intern | Remote</br>United States | <a href="https://go.vansh.nyc/fx?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | Nissan | Cyber Security Intern | Smyrna, TN | <a href="https://go.vansh.nyc/eD?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
@@ -1769,7 +1768,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Charter Manufacturing | Digital Integration Intern | Mequon, WI | <a href="https://go.vansh.nyc/J7?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 21 |
 | General Motors | Embedded and Systems Engineering Intern, Digital Product | <details><summary>**4 locations**</summary>Austin, TX</br>Milford, MI</br>Mountain View, CA</br>Warren, MI</details> | <a href="https://go.vansh.nyc/IS?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 20 |
 | ↳ | Software Engineer Intern, Digital Product | <details><summary>**4 locations**</summary>Austin, TX</br>Milford, MI</br>Mountain View, CA</br>Warren, MI</details> | <a href="https://go.vansh.nyc/IT?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 20 |
-| CAE | Software Developer Intern, Content Creation Tools | Montreal, Canada | <a href="https://go.vansh.nyc/IU?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 20 |
 | AutoZone | Information Technology Intern | Memphis, TN | <a href="https://go.vansh.nyc/IY?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 20 |
 | ↳ | Data Science Intern | Memphis, TN | <a href="https://go.vansh.nyc/IZ?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 20 |
 | DraftKings | Data Science Intern | Boston, MA | <a href="https://go.vansh.nyc/en?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
@@ -2705,7 +2703,9 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Sardine | Engineering Intern | Remote</br>United States</br>Canada | 🔒 | Oct 22 |
 | RSM | Business Intelligence Consulting Intern | Toronto, Canada</br>Calgary, Canada</br>Edmonton, Canada | 🔒 | Oct 22 |
 | Renesas Electronics | Memory Server System Testing Intern | San Jose, CA | 🔒 | Oct 22 |
-| Quadric | Deep Learning Compiler Intern | Burlingame, CA | 🔒 | Oct 22 |
+| Quadric | RTL Intern | Burlingame, CA | 🔒 | Oct 22 |
+| ↳ | AI Kernel Engineer Intern | Burlingame, CA | 🔒 | Oct 22 |
+| ↳ | Deep Learning Compiler Intern | Burlingame, CA | 🔒 | Oct 22 |
 | ↳ | Design Verification Intern | Burlingame, CA | 🔒 | Oct 22 |
 | Pattern | Data Science Intern | Lehi, UT | 🔒 | Oct 22 |
 | ↳ | AI Automation Engineer Intern | Lehi, UT | 🔒 | Oct 22 |
@@ -3101,6 +3101,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Product Software Developer Intern, Back-End | New York, NY | 🔒 | Sep 21 |
 | Marvell | Digital IC Design Intern | <details><summary>**5 locations**</summary>Hudson Valley, NY</br>Austin, TX</br>Irvine, CA</br>Santa Clara, CA</br>Boise, ID</details> | 🔒 | Sep 20 |
 | Conifer Health Solutions | BI Developer Intern | Dallas, TX | 🔒 | Sep 20 |
+| CAE | Software Developer Intern, Content Creation Tools | Montreal, Canada | 🔒 | Sep 20 |
 | Waymo | Scenes Intern | Mountain View, CA | 🔒 | Sep 17 |
 | Cisco | Data Analyst I Intern | San Jose, CA</br>Austin, TX</br>Research Triangle Park, NC | 🔒 | Sep 17 |
 | Waymo | Software Engineering Intern, Maneuvering Tech | San Francisco, CA | 🔒 | Sep 16 |
