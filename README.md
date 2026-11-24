@@ -88,7 +88,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ManTech | CNO Developer Intern | Remote</br>United States | <a href="https://go.vansh.nyc/1H5?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 22 |
 | Juniper Networks | Networking & Cybersecurity Intern | Westford, MA | <a href="https://go.vansh.nyc/1HT?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 22 |
 | ↳ | Networking & Cybersecurity Intern | San Jose, CA | <a href="https://go.vansh.nyc/1HU?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 22 |
-| Idaho National Laboratory | Digital Engineering Intern | Idaho Falls, ID | <a href="https://go.vansh.nyc/1Hw?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 22 |
+| Idaho National Laboratory | Infrastructure Data Integration & Risk-Informed Maintenance Pilot Intern | Idaho Falls, ID | <a href="https://go.vansh.nyc/1I6?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 22 |
+| ↳ | Digital Engineering Intern | Idaho Falls, ID | <a href="https://go.vansh.nyc/1Hw?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 22 |
 | Garmin | Software Engineering Intern | Montgomery, TX | <a href="https://go.vansh.nyc/1GY?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 22 |
 | ↳ | Software Engineering Intern | Louisville, CO | <a href="https://go.vansh.nyc/1GZ?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 22 |
 | ↳ | Software Engineer Intern, Aviation Web Development | Middlebury, CT | <a href="https://go.vansh.nyc/1H0?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 22 |
