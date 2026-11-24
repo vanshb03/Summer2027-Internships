@@ -56207,13 +56207,13 @@
         "season": "Spring"
     },
     {
-        "date_updated": 1794215186,
+        "date_updated": 1795556838,
         "url": "https://go.vansh.nyc/1o3",
         "locations": [
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Marvell",
         "title": "AI-Native Development Platform Engineer Intern",
         "source": "vanshb03",
@@ -73216,5 +73216,39 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1795556362,
+        "url": "https://go.vansh.nyc/1It",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Apex Technology, Inc.",
+        "title": "Software Engineer Intern, Test Automation",
+        "source": "vanshb03",
+        "id": "becc8c59-e049-4ee1-8f4e-ee329081129e",
+        "date_posted": 1795554082,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795556666,
+        "url": "https://go.vansh.nyc/1Iu",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "Front-End Engineer Intern",
+        "source": "vanshb03",
+        "id": "eb9839d7-8e79-4a25-b13b-d5868bc39b8f",
+        "date_posted": 1795132800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
     }
 ]
