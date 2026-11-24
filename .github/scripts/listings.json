@@ -25187,13 +25187,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793021626,
+        "date_updated": 1795564112,
         "url": "https://go.vansh.nyc/IU",
         "locations": [
             "Montreal, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "CAE",
         "title": "Software Developer Intern, Content Creation Tools",
         "source": "vanshb03",
@@ -55251,13 +55251,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794172003,
+        "date_updated": 1795564112,
         "url": "https://go.vansh.nyc/1n2",
         "locations": [
             "Burlingame, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Quadric",
         "title": "RTL Intern",
         "source": "vanshb03",
@@ -55268,13 +55268,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794172003,
+        "date_updated": 1795564112,
         "url": "https://go.vansh.nyc/1n3",
         "locations": [
             "Burlingame, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Quadric",
         "title": "AI Kernel Engineer Intern",
         "source": "vanshb03",
@@ -73281,6 +73281,23 @@
         "source": "vanshb03",
         "id": "7aa8b909-541f-4dfd-96ac-7ae4883cc892",
         "date_posted": 1795552786,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795563338,
+        "url": "https://go.vansh.nyc/1IA",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Indie",
+        "title": "Camera Host Tools Intern",
+        "source": "vanshb03",
+        "id": "67d5b987-da9b-48c7-8445-b4152fb88323",
+        "date_posted": 1795559089,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
