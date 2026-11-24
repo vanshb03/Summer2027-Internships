@@ -703,6 +703,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | General Dynamics Information Technology | AI/ML Data Science and Engineering Intern 🇺🇸 | Bossier City, LA | <a href="https://go.vansh.nyc/1hS?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | ↳ | AI/ML Software Development and Engineering Intern 🇺🇸 | Bossier City, LA | <a href="https://go.vansh.nyc/1hT?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | Garmin | IT DevOps Administrator Intern | Olathe, KS | <a href="https://go.vansh.nyc/1jp?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
+| Esri | Software Engineer Intern | St. Louis, MO | <a href="https://go.vansh.nyc/1I3?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | Element Fleet Management | Forward Deployed Engineer (FDE) Intern 🛂 | Toronto, Canada | <a href="https://go.vansh.nyc/1iM?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | DwyerOmega | Cyber Resilience & Product Security Intern | Michigan City, IN | <a href="https://go.vansh.nyc/1kY?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | ↳ | Software Engineer Intern | Westerville, OH | <a href="https://go.vansh.nyc/1jv?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
@@ -1560,9 +1561,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Artificial Intelligence, Machine Learning, & Data Intern 🛂 | Palo Alto, CA | <a href="https://go.vansh.nyc/Hj?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
 | ↳ | Cybersecurity Intern 🛂 | Palo Alto, CA | <a href="https://go.vansh.nyc/Hk?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
 | GCM Grosvenor | Software Engineer Intern | Chicago, IL | <a href="https://go.vansh.nyc/Gx?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
-| Electronic Arts | Software Engineer Intern, C++ | Vancouver, Canada | <a href="https://go.vansh.nyc/Gy?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
-| ↳ | Gameplay Software Engineer Co-op | Vancouver, Canada | <a href="https://go.vansh.nyc/Gz?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
-| ↳ | Software Engineer Co-op | Vancouver, Canada | <a href="https://go.vansh.nyc/GA?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
+| Electronic Arts | Gameplay Software Engineer Co-op | Vancouver, Canada | <a href="https://go.vansh.nyc/Gz?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
 | DocuSign | Software Engineer Intern | Chicago, IL | <a href="https://go.vansh.nyc/Gw?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
 | Coinbase | Forward Deployed Engineer Intern, HR Technology | New York, NY | <a href="https://go.vansh.nyc/Gv?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
 | Allison Transmission | IT Security Analyst Intern | Indianapolis, IN | <a href="https://go.vansh.nyc/Hl?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
@@ -2979,7 +2978,9 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | GAF | Master Data Management Intern | Parsippany-Troy Hills, NJ | 🔒 | Oct 11 |
 | Veolia | Field Engineering Intern 🛂 | Nanticoke, PA | 🔒 | Oct 10 |
 | NVIDIA | Research Intern, World Models and Synthetic Data for Autonomous Driving | Santa Clara, CA | 🔒 | Oct 10 |
-| Electronic Arts | Software Engineer Intern | Vancouver, Canada | 🔒 | Oct 09 |
+| Electronic Arts | Software Engineer Intern, C++ | Vancouver, Canada | 🔒 | Oct 09 |
+| ↳ | Software Engineer Co-op | Vancouver, Canada | 🔒 | Oct 09 |
+| ↳ | Software Engineer Intern | Vancouver, Canada | 🔒 | Oct 09 |
 | Workday | Cybersecurity Engineer Intern | Pleasanton, CA | 🔒 | Oct 08 |
 | ↳ | Machine Learning Engineer Intern | Pleasanton, CA | 🔒 | Oct 08 |
 | ↳ | Software Application Development Engineer Intern | Pleasanton, CA | 🔒 | Oct 08 |
