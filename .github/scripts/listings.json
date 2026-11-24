@@ -54754,13 +54754,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794099938,
+        "date_updated": 1795547815,
         "url": "https://go.vansh.nyc/1mu",
         "locations": [
             "Hamilton, NJ"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Rockefeller Capital Management",
         "title": "Analyst Intern, Core Platforms",
         "source": "vanshb03",
@@ -71235,13 +71235,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1795223467,
+        "date_updated": 1795547815,
         "url": "https://go.vansh.nyc/1G2",
         "locations": [
             "Portsmouth, NH"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Trimble",
         "title": "QA Engineer Intern",
         "source": "vanshb03",
@@ -73164,5 +73164,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1795547120,
+        "url": "https://go.vansh.nyc/1Ip",
+        "locations": [
+            "Remote",
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "QinetiQ",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "cd33a3dd-04a9-441e-9d36-1ecdf1061b11",
+        "date_posted": 1795478400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
