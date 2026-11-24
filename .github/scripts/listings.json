@@ -61389,13 +61389,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794375552,
+        "date_updated": 1795553217,
         "url": "https://go.vansh.nyc/1tF",
         "locations": [
             "Palo Alto, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Wing",
         "title": "Execution & Topology Software Engineering Intern",
         "source": "vanshb03",
