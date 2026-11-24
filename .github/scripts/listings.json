@@ -72905,5 +72905,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1795522402,
+        "url": "https://go.vansh.nyc/1I5",
+        "locations": [
+            "Lake Oswego, OR"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Trimble",
+        "title": "AI Software Developer Engineer in Test Intern",
+        "source": "vanshb03",
+        "id": "876d0a8b-980a-44af-901c-1c8b5c80cef0",
+        "date_posted": 1795493383,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
