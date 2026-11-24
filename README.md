@@ -50,6 +50,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Software Engineering Intern | Chelmsford, MA | <a href="https://go.vansh.nyc/1HW?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | Zebra Technologies | WWAN Cellular Engineer Intern | Holtsville, NY | <a href="https://go.vansh.nyc/1GV?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | ViaSat | Embedded Software Engineer Intern | Tempe, AZ | <a href="https://go.vansh.nyc/1Hz?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
+| Trimble | AI Software Developer Engineer in Test Intern | Lake Oswego, OR | <a href="https://go.vansh.nyc/1I5?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | Shield | Software Engineering Intern | Dallas, TX | <a href="https://go.vansh.nyc/1H8?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | SharkNinja | Software Development Test Engineering Co-op | Needham, MA | <a href="https://go.vansh.nyc/1HH?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | ↳ | Firmware Engineering Intern, Advanced Development | Needham, MA | <a href="https://go.vansh.nyc/1HJ?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
