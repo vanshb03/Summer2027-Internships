@@ -43,6 +43,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| QuEra Computing | Site Reliability Engineer Co-op | Boston, MA | <a href="https://go.vansh.nyc/1If?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
 | Hitachi | Data and Business Intelligence Analyst Intern | Toronto, Canada | <a href="https://go.vansh.nyc/1Ia?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
 | Paccar | Vehicle Software Integration Engineer Intern | Denton, TX</br>Sunnyvale, CA | <a href="https://go.vansh.nyc/1Hr?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | Exowatt | Software & AI Intern | Austin, TX | <a href="https://go.vansh.nyc/1Hs?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
@@ -409,7 +410,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | PSP Investments | GenAI and Digital Workplace Intern | Montreal, Canada | <a href="https://go.vansh.nyc/G1?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 07 |
 | Amazon | Data Engineer Intern | Seattle, WA | <a href="https://go.vansh.nyc/G7?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 07 |
 | ↳ | Embedded Firmware Co-op, Amazon Robotics | North Reading, MA | <a href="https://go.vansh.nyc/g8?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 07 |
-| The Semios Group | Software Developer Co-op | Vancouver, Canada | <a href="https://go.vansh.nyc/FE?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
 | Figure | Middleware Software Intern | San Jose, CA | <a href="https://go.vansh.nyc/1nH?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
 | Entrust | Firmware Engineer Co-op | Shakopee, MN | <a href="https://go.vansh.nyc/FH?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
 | Coveo | Software Developer Intern, Solutions Engineering Core Team | Montreal, Canada | <a href="https://go.vansh.nyc/1nB?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
@@ -748,6 +748,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Workday | Software Development Engineer Intern | Vancouver, Canada | 🔒 | Oct 08 |
 | ↳ | Machine Learning Engineer Intern | Toronto, Canada</br>Vancouver, Canada | 🔒 | Oct 08 |
 | Manulife Financial | Software Engineering Co-op | Waterloo, Canada | 🔒 | Oct 07 |
+| The Semios Group | Software Developer Co-op | Vancouver, Canada | 🔒 | Oct 06 |
 | Nokia | ASIC Physical Design Co-op | San Jose, CA | 🔒 | Oct 06 |
 | Clēnera | Data Engineer Intern | Boise, ID | 🔒 | Oct 06 |
 | Bose | Data Engineer Co-op | Bloomfield Hills, MI</br>Framingham, MA</br>Atlanta, GA | 🔒 | Oct 06 |

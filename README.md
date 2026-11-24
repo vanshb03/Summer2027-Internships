@@ -46,6 +46,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| RF-SMART | Software Developer Intern | Highlands Ranch, CO</br>Jacksonville, FL | <a href="https://go.vansh.nyc/1Id?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
+| Intel | Design Verification Intern | <details><summary>**4 locations**</summary>Fort Collins, CO</br>Hillsboro, OR</br>Santa Clara, CA</br>Austin, TX</details> | <a href="https://go.vansh.nyc/1Ie?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
 | Draper | HWIL & Real Time Simulation Intern 🇺🇸 | Cambridge, MA | <a href="https://go.vansh.nyc/1Ib?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
 | BEUMER Group | AI Development Intern | United States | <a href="https://go.vansh.nyc/1I9?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
 | ZOLL Medical Corporation | Software Automation Intern | Chelmsford, MA | <a href="https://go.vansh.nyc/1I1?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
