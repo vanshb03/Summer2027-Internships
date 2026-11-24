@@ -164,7 +164,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Montgomery Investment Technology, Inc. | Computer Programming Intern | Cinnaminson, NJ | <a href="https://go.vansh.nyc/1i3?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | Langan Engineering & Environmental Services | Cyber Security Co-op | Parsippany, NJ | <a href="https://go.vansh.nyc/1oK?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | Johns Hopkins APL | Maritime Software Development Intern, Ocean Systems and Engineering | Laurel, MD | <a href="https://go.vansh.nyc/1jq?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
-| Apex Technology, Inc. | Ground Software Engineering Intern | Los Angeles, CA | <a href="https://go.vansh.nyc/1jo?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | AEM | QA Tester Intern, Datalogger Products | Victoria, Canada | <a href="https://go.vansh.nyc/1kO?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | TMX Group | Junior Cybersecurity Operations Analyst Intern | Toronto, Canada | <a href="https://go.vansh.nyc/1gM?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
 | Saab | Information Security Co-op 🇺🇸 | East Syracuse, NY | <a href="https://go.vansh.nyc/1gV?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
@@ -554,6 +553,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Rodan Energy Solutions Inc. | Data Operations Engineer AI Co-op | Mississauga, Canada | 🔒 | Nov 05 |
 | Nova-Tech | Software Development Co-op | Willmar, MN | 🔒 | Nov 05 |
 | Fresenius Medical Care | Embedded Software Co-op | Lawrence, MA | 🔒 | Nov 05 |
+| Apex Technology, Inc. | Ground Software Engineering Intern | Los Angeles, CA | 🔒 | Nov 05 |
 | 4AG Robotics | Robotics Software Co-op | Salmon Arm, Canada | 🔒 | Nov 05 |
 | TMX Group | Security Engineering Intern | Toronto, Canada | 🔒 | Nov 04 |
 | Teledyne Technologies Incorporated | Software Engineering Co-op | Waterloo, Canada | 🔒 | Nov 04 |
