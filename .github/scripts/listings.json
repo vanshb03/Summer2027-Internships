@@ -52060,13 +52060,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793918323,
+        "date_updated": 1795544198,
         "url": "https://go.vansh.nyc/1jo",
         "locations": [
             "Los Angeles, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Apex Technology, Inc.",
         "title": "Ground Software Engineering Intern",
         "source": "vanshb03",
@@ -73076,6 +73076,23 @@
         "source": "vanshb03",
         "id": "ee8546e3-06c5-4a28-9cc9-4ceb60f70d19",
         "date_posted": 1795534749,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795544065,
+        "url": "https://go.vansh.nyc/1Ij",
+        "locations": [
+            "Bothell, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Philips",
+        "title": "Embedded Software Development Intern, AI-Agentic",
+        "source": "vanshb03",
+        "id": "f841ec6d-c44a-4b7e-8ee9-904ccd4a1bcf",
+        "date_posted": 1795466384,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
