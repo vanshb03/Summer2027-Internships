@@ -72667,5 +72667,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1795493652,
+        "url": "https://go.vansh.nyc/1HO",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "RTX",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "747a3660-5e45-4f41-8d34-8c1641bef2fa",
+        "date_posted": 1795493383,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
