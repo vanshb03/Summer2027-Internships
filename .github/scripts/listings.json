@@ -5749,13 +5749,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1785741371,
+        "date_updated": 1795535223,
         "url": "https://go.vansh.nyc/5B",
         "locations": [
             "Needham, MA"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "HPR",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
