@@ -67,6 +67,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Software Engineer Co-op 🇺🇸 | East Syracuse, NY | <a href="https://go.vansh.nyc/1Hk?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | RTX | Software Engineering Intern 🇺🇸 | Indianapolis, IN | <a href="https://go.vansh.nyc/1HO?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | Rockwell Automation | Software Engineer Intern 🛂 | Milwaukee, WI | <a href="https://go.vansh.nyc/1HN?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
+| QinetiQ | Software Engineer Intern | Remote</br>United States | <a href="https://go.vansh.nyc/1Ip?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | Philips | Embedded Software Development Intern, AI-Agentic | Bothell, WA | <a href="https://go.vansh.nyc/1Ij?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | Oscar Health | Software Engineering Intern | New York, NY | <a href="https://go.vansh.nyc/1H6?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | Noblis | Data Innovations Intern | Springfield, VA</br>Reston, VA | <a href="https://go.vansh.nyc/1HA?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
@@ -245,7 +246,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Allied Consultants | AI/ML Engineer Intern | Austin, TX | <a href="https://go.vansh.nyc/1D1?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | Vibrantz Technologies | Applied AI & Automation Intern | Houston, TX | <a href="https://go.vansh.nyc/1Ct?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
 | Viavi Solutions | Robotics Intern | Bothell, WA | <a href="https://go.vansh.nyc/1Ci?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
-| Trimble | QA Engineer Intern | Portsmouth, NH | <a href="https://go.vansh.nyc/1G2?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
 | Scout Space | Embedded Firmware Engineering Intern 🇺🇸 | Reston, VA</br>Remote</br>United States | <a href="https://go.vansh.nyc/1CU?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
 | Scotiabank | Global Analytic Financial Engineering (GAFE) Co-op, Global Banking and Markets | Toronto, Canada | <a href="https://go.vansh.nyc/1Ch?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
 | Samsung Semiconductor | SSD Firmware Engineer Intern | San Jose, CA | <a href="https://go.vansh.nyc/1Cu?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
@@ -633,8 +633,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Application Software Development Intern 🛂 | Niles, IL | <a href="https://go.vansh.nyc/1kb?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | SDSU Research Foundation | Undergraduate Student Intern, Port Contamination Project | San Diego, CA | <a href="https://go.vansh.nyc/1mw?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | Samsung | Care AI Data Analytic Intern | Plano, TX | <a href="https://go.vansh.nyc/1le?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
-| Rockefeller Capital Management | Analyst Intern, Core Platforms | Hamilton, NJ | <a href="https://go.vansh.nyc/1mu?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
-| ↳ | Analyst Intern, Information Security | New York, NY | <a href="https://go.vansh.nyc/1mv?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
+| Rockefeller Capital Management | Analyst Intern, Information Security | New York, NY | <a href="https://go.vansh.nyc/1mv?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | Rivian | ML AI Motor Controls Algorithm Intern | Champaign, IL | <a href="https://go.vansh.nyc/1kS?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | Qualcomm | Digital Design Engineer Intern, Interim Engineering Systems | Toronto, Canada | <a href="https://go.vansh.nyc/1lI?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | ↳ | Software Validation Engineering Intern | Markham, Canada | <a href="https://go.vansh.nyc/1kR?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
@@ -2087,6 +2086,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Cisco | AI Researcher II Intern | San Francisco, CA | 🔒 | Nov 19 |
 | Centene Corporation | Undergraduate Analytics Engineering Intern | Remote</br>United States | 🔒 | Nov 19 |
 | Workstream | Full Stack Engineer Intern | Vancouver, Canada | 🔒 | Nov 18 |
+| Trimble | QA Engineer Intern | Portsmouth, NH | 🔒 | Nov 18 |
 | Syngenta Group | Data Science Intern | Greensboro, NC | 🔒 | Nov 18 |
 | Snowflake | Software Engineer Intern, Database Engineering | Menlo Park, CA</br>Bellevue, WA | 🔒 | Nov 18 |
 | ↳ | Software Engineer Intern, Core Infrastructure & Security | Menlo Park, CA</br>Bellevue, WA | 🔒 | Nov 18 |
@@ -2251,6 +2251,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Software Engineer Intern, HR Data Products | Bellevue, WA | 🔒 | Nov 06 |
 | ↳ | Data Engineering Intern | Frisco, TX</br>Atlanta, GA | 🔒 | Nov 06 |
 | RTX | Digital Technology Intern 🇺🇸 | Andover, MA | 🔒 | Nov 06 |
+| Rockefeller Capital Management | Analyst Intern, Core Platforms | Hamilton, NJ | 🔒 | Nov 06 |
 | Rambus | Digital Design Intern | Johns Creek, GA | 🔒 | Nov 06 |
 | PETRONAS Canada | Student Intern, Infrastructure Automation and Innovation | Calgary, Canada | 🔒 | Nov 06 |
 | Marmon Holdings | AI Technology Solutions Intern | Chicago, IL | 🔒 | Nov 06 |
