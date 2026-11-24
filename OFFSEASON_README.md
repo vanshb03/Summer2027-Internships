@@ -492,7 +492,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Yotta Labs | Research Engineer Intern | Remote | <a href="https://go.vansh.nyc/5V?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 04 |
 | Bot Auto | Deep Learning Engineer Intern | Houston, TX | <a href="https://go.vansh.nyc/5P?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 04 |
 | Touchdown Labs | Member of Technical Staff Intern | San Francisco, CA | <a href="https://go.vansh.nyc/5c?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 28 |
-| Rendezvous Robotics | Software Engineering Intern, Spring 2027 🇺🇸 | Golden, CO | <a href="https://go.vansh.nyc/5h?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 28 |
 | Mathtech | Web Application Developer Intern 🇺🇸 | Falls Church, VA | <a href="https://go.vansh.nyc/53?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
 | GRITT ROBOTICS INC | ML & Cloud Infrastructure Engineer Intern | South San Francisco, CA | <a href="https://go.vansh.nyc/54?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
 | Anthelion Capital | Quant Developer / Quant Research Intern 🇺🇸 | New York City, NY | <a href="https://go.vansh.nyc/4L?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 26 |
@@ -856,7 +855,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | SK Hynix Memory Solution | Software Engineer Intern | San Jose, CA | 🔒 | Jul 31 |
 | Rivian and Volkswagen Group Technologies | Software Engineer Intern, Embedded Platforms | Palo Alto, CA</br>Irvine, CA | 🔒 | Jul 31 |
 | Cirrus Logic | Embedded Software Test Engineer Intern | Austin, TX | 🔒 | Jul 31 |
-| Rendezvous Robotics | Software Engineering Intern 🇺🇸 | Golden, CO | 🔒 | Jul 28 |
+| Rendezvous Robotics | Software Engineering Intern, Spring 2027 🇺🇸 | Golden, CO | 🔒 | Jul 28 |
+| ↳ | Software Engineering Intern 🇺🇸 | Golden, CO | 🔒 | Jul 28 |
 | Gemini | Software Engineering Intern | New York, NY | 🔒 | Jul 28 |
 | Cloudflare | Software Engineer Intern | Austin, TX | 🔒 | Jul 28 |
 | Apptronik | Software Engineer Intern, ML Systems | Austin, TX | 🔒 | Jul 28 |
