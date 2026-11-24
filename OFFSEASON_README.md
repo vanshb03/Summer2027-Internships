@@ -97,8 +97,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Optimum (Altice USA) | Cybersecurity Operations Intern | Bethpage, NY | <a href="https://go.vansh.nyc/1zM?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | SSI ShipConstructor | Software Developer Co-op | Victoria, Canada | <a href="https://go.vansh.nyc/1zJ?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 | House of Representatives | HIR Cybersecurity Intern | Washington, DC | <a href="https://go.vansh.nyc/1zW?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
-| Carnegie Mellon University | Cybersecurity Engineer Intern | Pittsburgh, PA | <a href="https://go.vansh.nyc/1yU?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
-| ↳ | Cyber AI Engineering Intern 🛂 | Pittsburgh, PA | <a href="https://go.vansh.nyc/1yV?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 | Canadian Tire Corporation, Limited | Programmer Analyst Intern | Mississauga, Canada | <a href="https://go.vansh.nyc/1yQ?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 | TMX Group | AI Engineering Intern | Toronto, Canada | <a href="https://go.vansh.nyc/1wI?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | State Street | Cyber Security Operations Center Analyst Intern | Quincy, MA | <a href="https://go.vansh.nyc/1yy?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
@@ -522,6 +520,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | RegScale | Cyber Security Intern | Remote</br>United States | 🔒 | Nov 13 |
 | Manulife Financial | Software Engineering Co-op | Boston, MA | 🔒 | Nov 13 |
 | Corteva | R&D Intern, Computer & Data Science | Indianapolis, IN | 🔒 | Nov 13 |
+| Carnegie Mellon University | Cybersecurity Engineer Intern | Pittsburgh, PA | 🔒 | Nov 13 |
+| ↳ | Cyber AI Engineering Intern 🛂 | Pittsburgh, PA | 🔒 | Nov 13 |
 | CACI | Configuration Control/Data Management Co-op | Danbury, CT | 🔒 | Nov 13 |
 | Seaspan | Data Engineering Intern | North Vancouver, Canada | 🔒 | Nov 12 |
 | Fresenius Medical Care | Agentic AI Analytics Co-op | Lawrence, MA | 🔒 | Nov 12 |
