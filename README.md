@@ -47,14 +47,19 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Zebra Technologies | WWAN Cellular Engineer Intern | Holtsville, NY | <a href="https://go.vansh.nyc/1GV?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
+| ViaSat | Embedded Software Engineer Intern | Tempe, AZ | <a href="https://go.vansh.nyc/1Hz?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | Shield | Software Engineering Intern | Dallas, TX | <a href="https://go.vansh.nyc/1H8?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | Saab | Software Engineering Co-op 🇺🇸 | East Syracuse, NY | <a href="https://go.vansh.nyc/1Hj?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | ↳ | Software Engineer Co-op 🇺🇸 | East Syracuse, NY | <a href="https://go.vansh.nyc/1Hk?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | Oscar Health | Software Engineering Intern | New York, NY | <a href="https://go.vansh.nyc/1H6?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
+| Noblis | Data Innovations Intern | Springfield, VA</br>Reston, VA | <a href="https://go.vansh.nyc/1HA?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | Motorola Solutions | Mission Critical Networks Software Engineer Intern 🇺🇸 | Schaumburg, IL</br>Chicago, IL | <a href="https://go.vansh.nyc/1Hn?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | Micron Technology | Advanced Modeling and AI Solutions Intern | Boise, ID | <a href="https://go.vansh.nyc/1GW?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | Kudu Dynamics | Software Engineering Intern 🇺🇸 | Arlington, VA | <a href="https://go.vansh.nyc/1Hh?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | Jabil | IT Programmer Analyst Intern | Florence, KY | <a href="https://go.vansh.nyc/1Ho?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
+| Illumio | Engineering Intern, Security Platforms | Sunnyvale, CA | <a href="https://go.vansh.nyc/1HB?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
+| ↳ | Product Manager Intern | Sunnyvale, CA | <a href="https://go.vansh.nyc/1HC?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
+| ↳ | Technical Product Management Intern | Sunnyvale, CA | <a href="https://go.vansh.nyc/1HD?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | Illinois Tool Works | Software or Computer Engineer Intern | Fairmont, MN | <a href="https://go.vansh.nyc/1Hv?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | CornerStone Partners | AI and Automation Intern | Charlottesville, VA | <a href="https://go.vansh.nyc/1Hq?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | Contoro Robotics | Robotics Software Engineer Intern, Autonomy & Automation | Austin, TX | <a href="https://go.vansh.nyc/1Hp?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
@@ -1431,7 +1436,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Software Development Intern | Plano, TX | <a href="https://go.vansh.nyc/CP?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
 | RTX | System Administrator Intern 🇺🇸 | Middletown, RI | <a href="https://go.vansh.nyc/9O?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
 | Quest Analytics | Software Engineer Intern, C#, ASP.NET 🛂 | Overland Park, KS | <a href="https://go.vansh.nyc/1Al?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
-| Muon Space | Ground Software Engineer Intern | San Jose, CA | <a href="https://go.vansh.nyc/CJ?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
 | Mastercard | Platform Engineering Intern | O'Fallon, MO | <a href="https://go.vansh.nyc/gm?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
 | Keysight Technologies | R&D Software Engineer Intern | Santa Rosa, CA | <a href="https://go.vansh.nyc/aO?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
 | Inversion Space | Avionics Embedded Software Engineer Intern | Playa Vista, CA | <a href="https://go.vansh.nyc/aM?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
@@ -2883,6 +2887,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Quality Assurance Intern 🇺🇸 | Cheshire, CT | 🔒 | Oct 15 |
 | ROCKWOOL Group | Associate Product Management Intern | Chicago, IL | 🔒 | Oct 15 |
 | OpenSesame | Security Analyst Intern | Remote</br>United States | 🔒 | Oct 15 |
+| Muon Space | Ground Software Engineer Intern | San Jose, CA | 🔒 | Oct 15 |
 | Micron Technology | Memory Design Engineer Intern, HBM | Richardson, TX | 🔒 | Oct 15 |
 | Duolingo | Data Scientist Intern | Pittsburgh, PA</br>New York, NY | 🔒 | Oct 15 |
 | ↳ | Data Scientist Intern | New York, NY</br>Pittsburgh, PA | 🔒 | Oct 15 |
