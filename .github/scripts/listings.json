@@ -72686,13 +72686,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1795496744,
+        "date_updated": 1795504698,
         "url": "https://go.vansh.nyc/1HP",
         "locations": [
             "Chicago, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Akuna Capital OCI",
         "title": "Quantitative Development & Strategy Intern",
         "source": "vanshb03",
@@ -72703,13 +72703,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1795496744,
+        "date_updated": 1795504698,
         "url": "https://go.vansh.nyc/1HQ",
         "locations": [
             "Chicago, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Akuna Capital OCI",
         "title": "Quantitative Research Intern",
         "source": "vanshb03",
