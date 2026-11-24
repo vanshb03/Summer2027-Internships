@@ -61252,13 +61252,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794375552,
+        "date_updated": 1795555157,
         "url": "https://go.vansh.nyc/1tx",
         "locations": [
             "Des Moines, IA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Wellmark",
         "title": "Software Engineer Intern - Marketing and Digital Team",
         "source": "vanshb03",
@@ -72992,14 +72992,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1795538115,
+        "date_updated": 1795555157,
         "url": "https://go.vansh.nyc/1Id",
         "locations": [
             "Highlands Ranch, CO",
             "Jacksonville, FL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "RF-SMART",
         "title": "Software Developer Intern",
         "source": "vanshb03",
