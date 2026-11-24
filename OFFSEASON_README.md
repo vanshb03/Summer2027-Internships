@@ -45,6 +45,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Paccar | Vehicle Software Integration Engineer Intern | Denton, TX</br>Sunnyvale, CA | <a href="https://go.vansh.nyc/1Hr?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | Exowatt | Software & AI Intern | Austin, TX | <a href="https://go.vansh.nyc/1Hs?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
+| Entegris | Cyber Threat Analyst Co-op | Chaska, MN | <a href="https://go.vansh.nyc/1I2?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | Canadian Tire Corporation, Limited | Software Development Intern | Toronto, Canada | <a href="https://go.vansh.nyc/1Hf?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | Boston Scientific | Software Test Engineer Co-op 🛂 | Waltham, MA | <a href="https://go.vansh.nyc/1HM?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | State Street | Software Engineering Intern | Boston, MA | <a href="https://go.vansh.nyc/1HE?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 22 |
