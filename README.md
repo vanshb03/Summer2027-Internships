@@ -49,6 +49,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Zebra Technologies | WWAN Cellular Engineer Intern | Holtsville, NY | <a href="https://go.vansh.nyc/1GV?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | ViaSat | Embedded Software Engineer Intern | Tempe, AZ | <a href="https://go.vansh.nyc/1Hz?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | Shield | Software Engineering Intern | Dallas, TX | <a href="https://go.vansh.nyc/1H8?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
+| SharkNinja | Software Development Test Engineering Co-op | Needham, MA | <a href="https://go.vansh.nyc/1HH?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
+| ↳ | Firmware Engineering Intern, Advanced Development | Needham, MA | <a href="https://go.vansh.nyc/1HJ?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | Saab | Software Engineering Co-op 🇺🇸 | East Syracuse, NY | <a href="https://go.vansh.nyc/1Hj?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | ↳ | Software Engineer Co-op 🇺🇸 | East Syracuse, NY | <a href="https://go.vansh.nyc/1Hk?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | Oscar Health | Software Engineering Intern | New York, NY | <a href="https://go.vansh.nyc/1H6?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
@@ -57,7 +59,9 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Micron Technology | Advanced Modeling and AI Solutions Intern | Boise, ID | <a href="https://go.vansh.nyc/1GW?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | Kudu Dynamics | Software Engineering Intern 🇺🇸 | Arlington, VA | <a href="https://go.vansh.nyc/1Hh?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | Jabil | IT Programmer Analyst Intern | Florence, KY | <a href="https://go.vansh.nyc/1Ho?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
-| Illumio | Engineering Intern, Security Platforms | Sunnyvale, CA | <a href="https://go.vansh.nyc/1HB?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
+| Illumio | Engineering Intern, Architecture Platform | Sunnyvale, CA | <a href="https://go.vansh.nyc/1HI?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
+| ↳ | AI-Based Scale & Performance Test Automation Intern | Sunnyvale, CA | <a href="https://go.vansh.nyc/1HK?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
+| ↳ | Engineering Intern, Security Platforms | Sunnyvale, CA | <a href="https://go.vansh.nyc/1HB?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | ↳ | Product Manager Intern | Sunnyvale, CA | <a href="https://go.vansh.nyc/1HC?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | ↳ | Technical Product Management Intern | Sunnyvale, CA | <a href="https://go.vansh.nyc/1HD?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | Illinois Tool Works | Software or Computer Engineer Intern | Fairmont, MN | <a href="https://go.vansh.nyc/1Hv?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |

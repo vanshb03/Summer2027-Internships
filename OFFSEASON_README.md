@@ -303,7 +303,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | The Nuclear Company | Security Engineer Intern 🛂 | Washington, DC | <a href="https://go.vansh.nyc/XL?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | Philips | Data Engineer Co-op, Biocompatibility | Murrysville, PA | <a href="https://go.vansh.nyc/ZZ?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | Lila Sciences | Structuring Scientific Data for Discovery Co-op | Cambridge, MA</br>San Francisco, CA | <a href="https://go.vansh.nyc/XH?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
-| Leidos | Cybersecurity Engineer Co-op | Bethesda, MD | <a href="https://go.vansh.nyc/XZ?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | L3Harris Technologies | Software Engineering Co-op | Waterdown, Canada | <a href="https://go.vansh.nyc/YN?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | Genius AI | Software Engineer Intern | New York, NY | <a href="https://go.vansh.nyc/108?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | Current Lighting Employee Co | AI Co-op | Greenville, SC | <a href="https://go.vansh.nyc/Zi?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
@@ -618,6 +617,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Elucid | Software Engineering Intern | Boston, MA | 🔒 | Oct 29 |
 | CACI | Software Engineering Co-op | Rochester, NY | 🔒 | Oct 29 |
 | Sun Life | Data Analyst Co-op | Toronto, Canada | 🔒 | Oct 28 |
+| Leidos | Cybersecurity Engineer Co-op | Bethesda, MD | 🔒 | Oct 28 |
 | Geotab | Data Analyst Intern | Burnaby, Canada</br>Oakville, Canada</br>Toronto, Canada | 🔒 | Oct 28 |
 | Federal Home Loan Bank of Dallas | Digital Transformation Intern | Irving, TX | 🔒 | Oct 28 |
 | CIBC | AI Developer Co-op, Bilingual | Montreal, Canada | 🔒 | Oct 28 |
