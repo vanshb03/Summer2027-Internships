@@ -65394,13 +65394,13 @@
         "season": "Spring"
     },
     {
-        "date_updated": 1794596778,
+        "date_updated": 1795562348,
         "url": "https://go.vansh.nyc/1yU",
         "locations": [
             "Pittsburgh, PA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Carnegie Mellon University",
         "title": "Cybersecurity Engineer Intern",
         "source": "vanshb03",
@@ -65411,13 +65411,13 @@
         "season": "Spring"
     },
     {
-        "date_updated": 1794596778,
+        "date_updated": 1795562348,
         "url": "https://go.vansh.nyc/1yV",
         "locations": [
             "Pittsburgh, PA"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Carnegie Mellon University",
         "title": "Cyber AI Engineering Intern",
         "source": "vanshb03",
@@ -66046,13 +66046,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794675955,
+        "date_updated": 1795562348,
         "url": "https://go.vansh.nyc/1zE",
         "locations": [
             "Chicago, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Camping World",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -66063,13 +66063,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794676417,
+        "date_updated": 1795562348,
         "url": "https://go.vansh.nyc/1zF",
         "locations": [
             "Chicago, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Camping World",
         "title": "AI Security Intern",
         "source": "vanshb03",
@@ -66148,7 +66148,7 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794690536,
+        "date_updated": 1795562348,
         "url": "https://go.vansh.nyc/1zL",
         "locations": [
             "San Antonio, TX",
@@ -66156,7 +66156,7 @@
             "Phoenix, AZ"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "USAA",
         "title": "Technology Intern",
         "source": "vanshb03",
@@ -66928,13 +66928,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794874257,
+        "date_updated": 1795562348,
         "url": "https://go.vansh.nyc/1AF",
         "locations": [
             "Arlington, VA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Bloomberg Industry Group",
         "title": "Data Analyst Intern",
         "source": "vanshb03",
@@ -73250,5 +73250,39 @@
         "company_url": "",
         "is_visible": true,
         "season": "Fall"
+    },
+    {
+        "date_updated": 1795562097,
+        "url": "https://go.vansh.nyc/1Iy",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "National Interstate Insurance",
+        "title": "Quality Assurance Intern",
+        "source": "vanshb03",
+        "id": "92bda15d-16d5-4b18-a4df-3c0ee957fd66",
+        "date_posted": 1795545561,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795562097,
+        "url": "https://go.vansh.nyc/1Iz",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ameren",
+        "title": "Robotics, AI, OT, Software Development Intern",
+        "source": "vanshb03",
+        "id": "7aa8b909-541f-4dfd-96ac-7ae4883cc892",
+        "date_posted": 1795552786,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
