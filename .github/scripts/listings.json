@@ -30066,13 +30066,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793031368,
+        "date_updated": 1795558622,
         "url": "https://go.vansh.nyc/QE",
         "locations": [
             "Pensacola, FL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Navy Federal",
         "title": "Associate Intern, Penetration Testing",
         "source": "vanshb03",
@@ -60133,13 +60133,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794353755,
+        "date_updated": 1795558622,
         "url": "https://go.vansh.nyc/1sl",
         "locations": [
             "Bethpage, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Altice USA",
         "title": "Developer Intern, Financial & People Systems",
         "source": "vanshb03",
