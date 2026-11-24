@@ -5387,13 +5387,13 @@
         "season": "Fall"
     },
     {
-        "date_updated": 1785254061,
+        "date_updated": 1795551467,
         "url": "https://go.vansh.nyc/5h",
         "locations": [
             "Golden, CO"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Rendezvous Robotics",
         "title": "Software Engineering Intern, Spring 2027",
         "source": "vanshb03",
@@ -6382,13 +6382,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1785853275,
+        "date_updated": 1795551467,
         "url": "https://go.vansh.nyc/6c",
         "locations": [
             "Seattle, WA"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "Software Engineer Intern, Trust and Safety-Engineering",
         "source": "vanshb03",
@@ -6603,13 +6603,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1785853334,
+        "date_updated": 1795551467,
         "url": "https://go.vansh.nyc/6p",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "Software Engineer Intern, Business Integrity",
         "source": "vanshb03",
@@ -41752,13 +41752,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793526799,
+        "date_updated": 1795551467,
         "url": "https://go.vansh.nyc/18c",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "Machine Learning Engineer Intern, TikTok-Data-Search-Basic Ranking",
         "source": "vanshb03",
@@ -73196,6 +73196,23 @@
         "source": "vanshb03",
         "id": "fe745cad-8c87-4041-90ad-180b53536eaa",
         "date_posted": 1795541975,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795551290,
+        "url": "https://go.vansh.nyc/1Is",
+        "locations": [
+            "Fairborn, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Aptima Inc. (All Jobs)",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "b49b92d8-c5d8-4ea6-b68a-eb508f0a4e9a",
+        "date_posted": 1795478400,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
