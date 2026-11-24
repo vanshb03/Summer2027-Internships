@@ -55011,13 +55011,13 @@
         "season": "Spring"
     },
     {
-        "date_updated": 1794114523,
+        "date_updated": 1795501009,
         "url": "https://go.vansh.nyc/1mM",
         "locations": [
             "Indianapolis, IN"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Citizens Energy Group",
         "title": "Meter Services Data Analytics Intern",
         "source": "vanshb03",
@@ -72820,5 +72820,56 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1795500823,
+        "url": "https://go.vansh.nyc/1I0",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Federal Home Loan Bank of Indianapolis",
+        "title": "Data Platform Engineer Intern",
+        "source": "vanshb03",
+        "id": "7642e52a-ce30-4911-b256-ea05093084cb",
+        "date_posted": 1795493383,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795500823,
+        "url": "https://go.vansh.nyc/1I1",
+        "locations": [
+            "Chelmsford, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ZOLL Medical Corporation",
+        "title": "Software Automation Intern",
+        "source": "vanshb03",
+        "id": "82596a2d-07db-4fcb-80b2-1253fdb8182d",
+        "date_posted": 1795493383,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795500823,
+        "url": "https://go.vansh.nyc/1I2",
+        "locations": [
+            "Chaska, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Entegris",
+        "title": "Cyber Threat Analyst Co-op",
+        "source": "vanshb03",
+        "id": "13082123-4ee0-41e6-85c7-a0435e0016fe",
+        "date_posted": 1795497038,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
     }
 ]
