@@ -443,7 +443,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Coveo | Frontend Developer Intern | Montreal, Canada | <a href="https://go.vansh.nyc/1o0?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 28 |
 | Cloudflare | Software Engineer Intern | Austin, TX | <a href="https://go.vansh.nyc/DW?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 28 |
 | Terranova | Embedded Systems Intern | Berkeley, CA | <a href="https://go.vansh.nyc/1lu?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 25 |
-| Moment Energy | Data Scientist Co-op | Surrey, Canada | <a href="https://go.vansh.nyc/JH?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 25 |
 | First Solar (US) | Data Science Intern | Perrysburg, OH | <a href="https://go.vansh.nyc/K2?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 25 |
 | Rockwell Automation | AI Software Engineering Co-op | Mayfield Heights, OH</br>Milwaukee, WI | <a href="https://go.vansh.nyc/Jz?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 24 |
 | iRhythm Technologies | Embedded SDET Co-op | San Francisco, CA | <a href="https://go.vansh.nyc/K0?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 24 |
@@ -784,6 +783,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | iRhythm Technologies | Firmware Quality Assurance Engineer Co-op | San Francisco, CA | 🔒 | Sep 28 |
 | Cisco | Firmware Engineer II Co-op | Maynard, MA | 🔒 | Sep 28 |
 | Terranova | Software Engineering Intern | Berkeley, CA | 🔒 | Sep 25 |
+| Moment Energy | Data Scientist Co-op | Surrey, Canada | 🔒 | Sep 25 |
 | First Solar (US) | Data Analytics Intern | Perrysburg, OH | 🔒 | Sep 25 |
 | ↳ | Data Engineering Intern | Perrysburg, OH | 🔒 | Sep 25 |
 | GE Aerospace | Data Science Co-op, Flight Analytics Platform | Austin, TX | 🔒 | Sep 20 |
