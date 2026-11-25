@@ -60,7 +60,9 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | General Motors | Software Verification Engineer Intern, AV/AI Platform | Warren, MI | <a href="https://go.vansh.nyc/1Ir?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
 | Draper | HWIL & Real Time Simulation Intern 🇺🇸 | Cambridge, MA | <a href="https://go.vansh.nyc/1Ib?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
 | BEUMER Group | AI Development Intern | United States | <a href="https://go.vansh.nyc/1I9?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
-| Bandwidth Inc. | Software Engineer Intern | Raleigh, NC | <a href="https://go.vansh.nyc/1IS?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
+| Bandwidth Inc. | Software Engineer Intern | Raleigh, NC | <a href="https://go.vansh.nyc/1IV?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
+| ↳ | Software Engineer Intern | Raleigh, NC | <a href="https://go.vansh.nyc/1IU?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
+| ↳ | Software Engineer Intern | Raleigh, NC | <a href="https://go.vansh.nyc/1IS?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
 | Apex Technology, Inc. | Software Engineer Intern, Test Automation | Los Angeles, CA | <a href="https://go.vansh.nyc/1It?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
 | Ameren | Robotics, AI, OT, Software Development Intern | St. Louis, MO | <a href="https://go.vansh.nyc/1Iz?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
 | Altera | AI Software Development Engineer Intern | Toronto, Canada | <a href="https://go.vansh.nyc/1Ih?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
