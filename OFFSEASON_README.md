@@ -403,7 +403,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Figure | Middleware Software Intern | San Jose, CA | <a href="https://go.vansh.nyc/1nH?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
 | Entrust | Firmware Engineer Co-op | Shakopee, MN | <a href="https://go.vansh.nyc/FH?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
 | Coveo | Software Developer Intern, Solutions Engineering Core Team | Montreal, Canada | <a href="https://go.vansh.nyc/1nB?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
-| Bose | Data Analytics Engineer Co-op | Bloomfield Hills, MI</br>Framingham, MA</br>Atlanta, GA | <a href="https://go.vansh.nyc/FJ?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
 | Rivian | Software Engineer Co-op, Embedded Software | Palo Alto, CA | <a href="https://go.vansh.nyc/ER?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 05 |
 | Lumentum | Embedded Software Engineer Co-op | Ottawa, Canada | <a href="https://go.vansh.nyc/EX?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 05 |
 | Judi Health | Data Engineer Intern | New York, NY</br>Denver, CO | <a href="https://go.vansh.nyc/Fw?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 05 |
@@ -756,7 +755,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | The Semios Group | Software Developer Co-op | Vancouver, Canada | 🔒 | Oct 06 |
 | Nokia | ASIC Physical Design Co-op | San Jose, CA | 🔒 | Oct 06 |
 | Clēnera | Data Engineer Intern | Boise, ID | 🔒 | Oct 06 |
-| Bose | Data Engineer Co-op | Bloomfield Hills, MI</br>Framingham, MA</br>Atlanta, GA | 🔒 | Oct 06 |
+| Bose | Data Analytics Engineer Co-op | Bloomfield Hills, MI</br>Framingham, MA</br>Atlanta, GA | 🔒 | Oct 06 |
+| ↳ | Data Engineer Co-op | Bloomfield Hills, MI</br>Framingham, MA</br>Atlanta, GA | 🔒 | Oct 06 |
 | ↳ | Embedded Software Engineer Co-op, Audio Tech | <details><summary>**4 locations**</summary>Bloomfield Hills, MI</br>Framingham, MA</br>Troy, MI</br>Atlanta, GA</details> | 🔒 | Oct 06 |
 | Tevora | Cybersecurity Intern, Systems and Organizations Controls (SOC) | Irvine, CA</br>Fairfax, VA | 🔒 | Oct 05 |
 | ↳ | Cybersecurity Intern, Enterprise Risk Management | Irvine, CA</br>Fairfax, VA | 🔒 | Oct 05 |
