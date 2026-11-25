@@ -43,6 +43,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Super | Data Engineering Intern | Toronto, Canada | <a href="https://go.vansh.nyc/1IL?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
 | QuEra Computing | Site Reliability Engineer Co-op | Boston, MA | <a href="https://go.vansh.nyc/1If?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
 | PCL Construction | Cybersecurity Intern | Edmonton, Canada | <a href="https://go.vansh.nyc/1In?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
 | Kiewit | Cloud Security Intern, Technology Group | Omaha, NE | <a href="https://go.vansh.nyc/1Il?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
@@ -307,8 +308,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | L3Harris Technologies | Software Engineering Co-op | Waterdown, Canada | <a href="https://go.vansh.nyc/YN?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | Genius AI | Software Engineer Intern | New York, NY | <a href="https://go.vansh.nyc/108?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | Current Lighting Employee Co | AI Co-op | Greenville, SC | <a href="https://go.vansh.nyc/Zi?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
-| Ciena | Embedded Software Engineer Co-op | Ottawa, Canada | <a href="https://go.vansh.nyc/ZC?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
-| ↳ | Hardware Characterization Automation Co-op | Ottawa, Canada | <a href="https://go.vansh.nyc/ZD?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
+| Ciena | Hardware Characterization Automation Co-op | Ottawa, Canada | <a href="https://go.vansh.nyc/ZD?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | Astera Labs | Firmware Engineer Co-op | Vancouver, Canada | <a href="https://go.vansh.nyc/1uW?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | Wabtec | Software Engineering Co-op | Schenectady, NY | <a href="https://go.vansh.nyc/X9?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
 | Viavi Solutions | Hardware Engineer Co-op | Germantown, MD | <a href="https://go.vansh.nyc/Yu?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
@@ -616,6 +616,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Leidos | Cybersecurity Engineer Co-op | Bethesda, MD | 🔒 | Oct 28 |
 | Geotab | Data Analyst Intern | Burnaby, Canada</br>Oakville, Canada</br>Toronto, Canada | 🔒 | Oct 28 |
 | Federal Home Loan Bank of Dallas | Digital Transformation Intern | Irving, TX | 🔒 | Oct 28 |
+| Ciena | Embedded Software Engineer Co-op | Ottawa, Canada | 🔒 | Oct 28 |
 | CIBC | AI Developer Co-op, Bilingual | Montreal, Canada | 🔒 | Oct 28 |
 | RTX | Software Engineer Co-op 🇺🇸 | Marlborough, MA | 🔒 | Oct 27 |
 | Philips | Embedded Test Engineer Co-op | Murrysville, PA | 🔒 | Oct 27 |
