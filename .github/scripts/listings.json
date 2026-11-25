@@ -73796,5 +73796,39 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1795626547,
+        "url": "https://go.vansh.nyc/1Jf",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Apex Technology, Inc.",
+        "title": "Software Engineering Intern, Operating Systems",
+        "source": "vanshb03",
+        "id": "20113456-6e7e-424b-8f8f-6d340658702f",
+        "date_posted": 1795625107,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795626547,
+        "url": "https://go.vansh.nyc/1Jg",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Apex Technology, Inc.",
+        "title": "Flight Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "85b4ca56-43dc-40ea-b06e-5e869cb47fa5",
+        "date_posted": 1795624747,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
