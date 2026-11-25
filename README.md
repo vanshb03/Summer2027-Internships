@@ -1785,7 +1785,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Qualcomm | Digital Design Engineer Intern | Toronto, Canada | <a href="https://go.vansh.nyc/Q0?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 18 |
 | ↳ | MSIP Digital Design Verification Engineering Intern, HW | Toronto, Canada | <a href="https://go.vansh.nyc/IQ?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 18 |
 | LLNL | Computing Undergraduate Intern - DevOps | Livermore, CA | <a href="https://go.vansh.nyc/1ts?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 18 |
-| EHC | Data Management Intern | Birmingham, AL | <a href="https://go.vansh.nyc/Q3?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 18 |
 | Amazon | Software Development Engineer Intern | Vancouver, Canada | <a href="https://go.vansh.nyc/IN?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 18 |
 | TRC Companies | Software Engineer Intern | Calgary, Canada | <a href="https://go.vansh.nyc/IM?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
 | Tower Research Capital | Software Developer Intern | Montreal, Canada | <a href="https://go.vansh.nyc/IJ?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
@@ -3114,6 +3113,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Marvell | Digital IC Design Intern | <details><summary>**5 locations**</summary>Hudson Valley, NY</br>Austin, TX</br>Irvine, CA</br>Santa Clara, CA</br>Boise, ID</details> | 🔒 | Sep 20 |
 | Conifer Health Solutions | BI Developer Intern | Dallas, TX | 🔒 | Sep 20 |
 | CAE | Software Developer Intern, Content Creation Tools | Montreal, Canada | 🔒 | Sep 20 |
+| EHC | Data Management Intern | Birmingham, AL | 🔒 | Sep 18 |
 | Waymo | Scenes Intern | Mountain View, CA | 🔒 | Sep 17 |
 | Cisco | Data Analyst I Intern | San Jose, CA</br>Austin, TX</br>Research Triangle Park, NC | 🔒 | Sep 17 |
 | Waymo | Software Engineering Intern, Maneuvering Tech | San Francisco, CA | 🔒 | Sep 16 |
