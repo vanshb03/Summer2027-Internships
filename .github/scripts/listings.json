@@ -57306,13 +57306,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794258545,
+        "date_updated": 1795636064,
         "url": "https://go.vansh.nyc/1pc",
         "locations": [
             "Scottsdale, AZ"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "General Dynamics Mission Systems, Inc.",
         "title": "FPGA Engineer Intern",
         "source": "vanshb03",
@@ -73932,6 +73932,77 @@
         "source": "vanshb03",
         "id": "9c8a2d5d-446d-44ce-9c2b-87492fcb6b80",
         "date_posted": 1795631947,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795635540,
+        "url": "https://go.vansh.nyc/1Jo",
+        "locations": [
+            "St. Petersburg, FL",
+            "Tampa, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Jabil",
+        "title": "Data Scientist Intern",
+        "source": "vanshb03",
+        "id": "49f440b3-3c50-4d77-85bc-8147565bcf1b",
+        "date_posted": 1795624740,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795635880,
+        "url": "https://go.vansh.nyc/1Jp",
+        "locations": [
+            "Austin, TX",
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SambaNova",
+        "title": "ML Infrastructure Engineer Intern",
+        "source": "vanshb03",
+        "id": "f4af434d-68ab-4024-abe9-a11ba7c4f082",
+        "date_posted": 1795626243,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795635880,
+        "url": "https://go.vansh.nyc/1Jq",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SambaNova",
+        "title": "Cloud Platform Engineer Intern",
+        "source": "vanshb03",
+        "id": "7c6345a2-26e3-4ef5-91d4-0f6f11bf066a",
+        "date_posted": 1795629069,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795635880,
+        "url": "https://go.vansh.nyc/1Jr",
+        "locations": [
+            "Austin, TX",
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SambaNova",
+        "title": "Machine Learning Engineer Intern",
+        "source": "vanshb03",
+        "id": "ed108e2d-5ad5-4fcd-bf0f-530ea7ecfb11",
+        "date_posted": 1795631053,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
