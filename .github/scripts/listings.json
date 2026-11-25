@@ -13141,14 +13141,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792511227,
+        "date_updated": 1795623761,
         "url": "https://go.vansh.nyc/cx",
         "locations": [
             "Montreal, QC, Canada",
             "Ottawa, ON, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Ciena",
         "title": "Services Business Intelligence & Analytics Intern",
         "source": "vanshb03",
@@ -21816,13 +21816,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793015500,
+        "date_updated": 1795623761,
         "url": "https://go.vansh.nyc/EL",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Hewlett Packard Enterprise",
         "title": "Cloud Developer Intern",
         "source": "vanshb03",
@@ -68573,13 +68573,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1795104346,
+        "date_updated": 1795623761,
         "url": "https://go.vansh.nyc/1CS",
         "locations": [
             "Cedar Rapids, IA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "RTX",
         "title": "Software Security Intern",
         "source": "vanshb03",
@@ -73745,5 +73745,39 @@
         "company_url": "",
         "is_visible": true,
         "season": "Spring"
+    },
+    {
+        "date_updated": 1795623358,
+        "url": "https://go.vansh.nyc/1Jb",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Analog Devices",
+        "title": "Embedded Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "dc14f996-883a-48b5-8b0e-6dd1a3dc9357",
+        "date_posted": 1795493383,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795623358,
+        "url": "https://go.vansh.nyc/1Jc",
+        "locations": [
+            "Richmond, VA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Genworth",
+        "title": "Data Analytics Intern",
+        "source": "vanshb03",
+        "id": "d3ae1f93-0d9b-44a0-9cfc-b5e7cd50544c",
+        "date_posted": 1795493383,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
