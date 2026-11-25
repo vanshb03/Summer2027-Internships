@@ -47,6 +47,10 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Saputo | Data Engineer Intern, Enterprise Analytics | Mississauga, Canada | <a href="https://go.vansh.nyc/1Jd?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
+| SambaNova | ML Infrastructure Engineer Intern | Austin, TX</br>San Jose, CA | <a href="https://go.vansh.nyc/1Jp?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
+| ↳ | Cloud Platform Engineer Intern | San Jose, CA | <a href="https://go.vansh.nyc/1Jq?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
+| ↳ | Machine Learning Engineer Intern | Austin, TX</br>San Jose, CA | <a href="https://go.vansh.nyc/1Jr?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
+| Jabil | Data Scientist Intern | St. Petersburg, FL</br>Tampa, FL | <a href="https://go.vansh.nyc/1Jo?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
 | Celestica | Engineering Data Analytics Intern | Toronto, Canada | <a href="https://go.vansh.nyc/1Jm?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
 | ↳ | Engineering AI Development Intern | Toronto, Canada | <a href="https://go.vansh.nyc/1Jn?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
 | Apex Technology, Inc. | Software Engineering Intern, Operating Systems | Los Angeles, CA | <a href="https://go.vansh.nyc/1Jf?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
@@ -610,7 +614,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Cybersecurity Intern 🇺🇸 | Huntsville, AL | <a href="https://go.vansh.nyc/1pd?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
 | Hunt Oil Company | Application Developer Intern | Dallas, TX | <a href="https://go.vansh.nyc/1s2?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
 | Haskell | AI Engineering Design Intern | Jacksonville, FL | <a href="https://go.vansh.nyc/1tj?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
-| General Dynamics Mission Systems, Inc. | FPGA Engineer Intern 🇺🇸 | Scottsdale, AZ | <a href="https://go.vansh.nyc/1pc?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
 | General Dynamics Mission Systems | Systems and Software Development Intern | San Antonio, TX</br>Scottsdale, AZ | <a href="https://go.vansh.nyc/1qB?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
 | ↳ | Linux Automation Intern, Linux Integration and Test Engineer 🇺🇸 | San Antonio, TX | <a href="https://go.vansh.nyc/1qr?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
 | ↳ | Ontology Data Analysis and Validation Intern | Chantilly, VA</br>Pittsfield, MA</br>Scottsdale, AZ | <a href="https://go.vansh.nyc/1pQ?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
@@ -2239,6 +2242,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Kudu Dynamics | Cybersecurity Analyst Intern 🇺🇸 | Odenton, MD | 🔒 | Nov 09 |
 | JMP Statistical Discovery | Software Development Intern, C++ | Cary, NC | 🔒 | Nov 09 |
 | GlobalFoundries | Design Verification Engineer Intern | Plano, TX | 🔒 | Nov 09 |
+| General Dynamics Mission Systems, Inc. | FPGA Engineer Intern 🇺🇸 | Scottsdale, AZ | 🔒 | Nov 09 |
 | CTGT | AI Evaluation Research Intern | San Francisco, CA | 🔒 | Nov 09 |
 | Cisco | Software Engineer Intern, Full-Stack / Backend I | San Jose, CA</br>Austin, TX</br>Research Triangle Park, NC | 🔒 | Nov 09 |
 | Celestica | IT Business Application Development Intern | Toronto, Canada | 🔒 | Nov 09 |
