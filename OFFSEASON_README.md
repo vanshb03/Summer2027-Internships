@@ -43,6 +43,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Noblis | AI/ML Research Intern | United States | <a href="https://go.vansh.nyc/1Ja?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
 | Super | Data Engineering Intern | Toronto, Canada | <a href="https://go.vansh.nyc/1IL?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
 | QuEra Computing | Site Reliability Engineer Co-op | Boston, MA | <a href="https://go.vansh.nyc/1If?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
 | PCL Construction | Cybersecurity Intern | Edmonton, Canada | <a href="https://go.vansh.nyc/1In?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
@@ -373,7 +374,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Reverse Engineer Intern, Offensive Cyber Capabilities | Laurel, MD | <a href="https://go.vansh.nyc/R9?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
 | ↳ | Cybersecurity Engineer Intern, Critical Infrastructure Protection | Laurel, MD | <a href="https://go.vansh.nyc/Rc?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
 | Foresters Financial | Quality Assurance Engineer Co-op | Toronto, Canada | <a href="https://go.vansh.nyc/QP?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
-| Ciena | Services Business Intelligence & Analytics Intern | Montreal, QC, Canada</br>Ottawa, ON, Canada | <a href="https://go.vansh.nyc/cx?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
 | Entrust | Software Engineering Co-op | Shakopee, MN | <a href="https://go.vansh.nyc/au?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 16 |
 | AgZen | Software Engineer Co-op | Somerville, MA | <a href="https://go.vansh.nyc/aV?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 16 |
 | Susquehanna International Group | Business Analytics AI Co-op | Remote (US) | <a href="https://go.vansh.nyc/a5?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
@@ -691,6 +691,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Algorithm, Software, or RF Systems Engineering Intern | Laurel, MD | 🔒 | Oct 18 |
 | ↳ | Cybersecurity Intern, Mission Engineering | Laurel, MD | 🔒 | Oct 18 |
 | HeyGen | Software Engineer Intern | <details><summary>**4 locations**</summary>Toronto, ON, Canada</br>SF</br>LA</br>Singapore</details> | 🔒 | Oct 18 |
+| Ciena | Services Business Intelligence & Analytics Intern | Montreal, QC, Canada</br>Ottawa, ON, Canada | 🔒 | Oct 18 |
 | CIBC | Application Developer Co-op - Enterprise Technology & Business Management | Toronto, ON, Canada | 🔒 | Oct 18 |
 | ↳ | Application/Software Developer Co-op - Capital Markets Technology | Toronto, ON, Canada | 🔒 | Oct 18 |
 | Bombardier | Developer Intern | Mississauga, Canada | 🔒 | Oct 18 |
