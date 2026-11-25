@@ -66996,13 +66996,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794881120,
+        "date_updated": 1795632481,
         "url": "https://go.vansh.nyc/1AN",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Clera",
         "title": "Full-Stack Software Engineering Intern",
         "source": "vanshb03",
@@ -73898,6 +73898,40 @@
         "source": "vanshb03",
         "id": "8599f5de-a9bf-4627-8523-70853fd0733b",
         "date_posted": 1795543807,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795632241,
+        "url": "https://go.vansh.nyc/1Jm",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Celestica",
+        "title": "Engineering Data Analytics Intern",
+        "source": "vanshb03",
+        "id": "54dcad6a-0af7-4432-9a27-69bfb3b48526",
+        "date_posted": 1795631947,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795632241,
+        "url": "https://go.vansh.nyc/1Jn",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Celestica",
+        "title": "Engineering AI Development Intern",
+        "source": "vanshb03",
+        "id": "9c8a2d5d-446d-44ce-9c2b-87492fcb6b80",
+        "date_posted": 1795631947,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
