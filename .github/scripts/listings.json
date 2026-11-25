@@ -28147,7 +28147,7 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793023513,
+        "date_updated": 1795630721,
         "url": "https://go.vansh.nyc/MU",
         "locations": [
             "Remote",
@@ -28156,7 +28156,7 @@
             "Denver, CO"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "CACI",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -73845,6 +73845,59 @@
         "source": "vanshb03",
         "id": "6d433ab0-e6e5-40f3-92de-63826c5eb3bc",
         "date_posted": 1795493383,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795629927,
+        "url": "https://go.vansh.nyc/1Jj",
+        "locations": [
+            "Austin, TX",
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SambaNova",
+        "title": "AI Performance Engineer Intern",
+        "source": "vanshb03",
+        "id": "9a5c4039-e397-40b2-9440-42b63a564f6d",
+        "date_posted": 1795564800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795629927,
+        "url": "https://go.vansh.nyc/1Jk",
+        "locations": [
+            "Austin, TX",
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SambaNova",
+        "title": "Compiler Engineer Intern",
+        "source": "vanshb03",
+        "id": "20b93de4-8829-43c5-93ad-fba4160f8c41",
+        "date_posted": 1795564800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795630207,
+        "url": "https://go.vansh.nyc/1Jl",
+        "locations": [
+            "Denver, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nasdaq",
+        "title": "Data Engineering Intern",
+        "source": "vanshb03",
+        "id": "8599f5de-a9bf-4627-8523-70853fd0733b",
+        "date_posted": 1795543807,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
