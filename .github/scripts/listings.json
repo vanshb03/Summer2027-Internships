@@ -37681,13 +37681,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793399756,
+        "date_updated": 1795634205,
         "url": "https://go.vansh.nyc/115",
         "locations": [
             "West Union, SC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Itron",
         "title": "Systems Engineer Intern",
         "source": "vanshb03",
@@ -43038,13 +43038,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793642755,
+        "date_updated": 1795634205,
         "url": "https://go.vansh.nyc/19v",
         "locations": [
             "Southern Pines, NC"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Sierra Nevada Corporation",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -68163,14 +68163,14 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1795029032,
+        "date_updated": 1795634205,
         "url": "https://go.vansh.nyc/1Ck",
         "locations": [
             "Remote",
             "United States"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Bristol Myers Squibb",
         "title": "Undergrad Data Science Intern",
         "source": "vanshb03",
