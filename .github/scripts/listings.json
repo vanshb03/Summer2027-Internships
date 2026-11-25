@@ -46173,14 +46173,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793686189,
+        "date_updated": 1795637957,
         "url": "https://go.vansh.nyc/1cH",
         "locations": [
             "Remote",
             "United States"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "SouthState Bank",
         "title": "Quantitative Intern",
         "source": "vanshb03",
@@ -46694,14 +46694,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793686189,
+        "date_updated": 1795637957,
         "url": "https://go.vansh.nyc/1db",
         "locations": [
             "Greenville, WI",
             "Oshkosh, WI"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Oshkosh",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -73405,7 +73405,7 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1795572346,
+        "date_updated": 1795637957,
         "url": "https://go.vansh.nyc/1IM",
         "locations": [
             "Ottawa, Canada",
@@ -73413,7 +73413,7 @@
             "Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Kinaxis",
         "title": "Data Foundations Intern, Data & Analytics",
         "source": "vanshb03",
