@@ -36894,13 +36894,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793315160,
+        "date_updated": 1795566785,
         "url": "https://go.vansh.nyc/10a",
         "locations": [
             "Victoria, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Waterworth",
         "title": "Computer Science Co-op",
         "source": "vanshb03",
@@ -73298,6 +73298,57 @@
         "source": "vanshb03",
         "id": "67d5b987-da9b-48c7-8445-b4152fb88323",
         "date_posted": 1795559089,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795565139,
+        "url": "https://go.vansh.nyc/1ID",
+        "locations": [
+            "Laurel, MD"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Johns Hopkins Applied Physics Laboratory",
+        "title": "Robotics Intern",
+        "source": "vanshb03",
+        "id": "1dc1ceb3-c3ef-4928-b76b-ca6c875297d3",
+        "date_posted": 1795552080,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795565139,
+        "url": "https://go.vansh.nyc/1IE",
+        "locations": [
+            "Laurel, MD"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Johns Hopkins Applied Physics Laboratory",
+        "title": "Artificial Intelligence and Complex Systems Intern",
+        "source": "vanshb03",
+        "id": "f1fd3ef9-3175-4b1c-b1e3-6aba64d157ef",
+        "date_posted": 1795552140,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795565139,
+        "url": "https://go.vansh.nyc/1IF",
+        "locations": [
+            "Redwood City, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Reach Labs",
+        "title": "Hardware Prototyping Intern",
+        "source": "vanshb03",
+        "id": "9b257f49-4697-4b8b-a829-90ba49b2ba44",
+        "date_posted": 1795563326,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
