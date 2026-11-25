@@ -62968,13 +62968,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794467111,
+        "date_updated": 1795594749,
         "url": "https://go.vansh.nyc/1w4",
         "locations": [
             "Westford, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Ribbon",
         "title": "AI Engineer Co-op",
         "source": "vanshb03",
@@ -73606,6 +73606,23 @@
         "source": "vanshb03",
         "id": "2560b5f3-bf69-4114-a0b4-236f61cbd4e8",
         "date_posted": 1795583465,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795593948,
+        "url": "https://go.vansh.nyc/1J1",
+        "locations": [
+            "Melbourne, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "L3Harris Technologies",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "012a18bf-8f04-4357-86eb-2b1356928317",
+        "date_posted": 1795591050,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
