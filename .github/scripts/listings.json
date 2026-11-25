@@ -70012,13 +70012,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1795184183,
+        "date_updated": 1795616187,
         "url": "https://go.vansh.nyc/1Ex",
         "locations": [
             "Boston, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "DraftKings",
         "title": "Data Engineer Intern",
         "source": "vanshb03",
