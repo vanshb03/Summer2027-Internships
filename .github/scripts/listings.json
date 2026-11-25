@@ -57683,13 +57683,13 @@
         "season": "Spring"
     },
     {
-        "date_updated": 1794269220,
+        "date_updated": 1795621701,
         "url": "https://go.vansh.nyc/1pD",
         "locations": [
             "Lake Oswego, OR"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Trimble",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -73728,5 +73728,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1795620940,
+        "url": "https://go.vansh.nyc/1Ja",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Noblis",
+        "title": "AI/ML Research Intern",
+        "source": "vanshb03",
+        "id": "c4568f86-31b0-4d46-8d16-00f81c1e3cf6",
+        "date_posted": 1795618980,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
     }
 ]
