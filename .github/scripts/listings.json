@@ -20178,13 +20178,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793013503,
+        "date_updated": 1795618115,
         "url": "https://go.vansh.nyc/CF",
         "locations": [
             "Houston, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Axiom Space",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
@@ -42611,13 +42611,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793554900,
+        "date_updated": 1795618115,
         "url": "https://go.vansh.nyc/18Z",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "Software Engineer Project Intern, Model Infrastructure",
         "source": "vanshb03",
@@ -66979,13 +66979,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794878013,
+        "date_updated": 1795618115,
         "url": "https://go.vansh.nyc/1AL",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Disney",
         "title": "Data Engineering Intern",
         "source": "vanshb03",
@@ -73708,6 +73708,23 @@
         "source": "vanshb03",
         "id": "99e10236-a95b-43b1-af7f-6f637ee220c1",
         "date_posted": 1795527907,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795617568,
+        "url": "https://go.vansh.nyc/1J9",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Draper",
+        "title": "Simulation Engineering Intern",
+        "source": "vanshb03",
+        "id": "e92d00f1-04d2-4b3d-a3c8-bf0b5d4f525c",
+        "date_posted": 1795531168,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
