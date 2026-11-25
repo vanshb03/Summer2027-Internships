@@ -1878,8 +1878,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Automation Software Engineering Intern | Austin, TX</br>San Francisco, CA | <a href="https://go.vansh.nyc/1ls?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 05 |
 | Solidigm | Software Development & Firmware Engineering Intern | Rancho Cordova, CA</br>Longmont, CO</br>Sacramento, CA | <a href="https://go.vansh.nyc/Mi?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 04 |
 | Springs Window Fashions | AI Intern, Information Technology | Middleton, WI | <a href="https://go.vansh.nyc/N4?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 03 |
-| Marvell | Design for Test Intern | <details><summary>**4 locations**</summary>Morrisville, NC</br>Santa Clara, CA</br>Boise, ID</br>Westborough, MA</details> | <a href="https://go.vansh.nyc/Ma?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 03 |
-| ↳ | Functional Validation Intern | Santa Clara, CA</br>Boise, ID</br>Westborough, MA | <a href="https://go.vansh.nyc/Mb?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 03 |
+| Marvell | Functional Validation Intern | Santa Clara, CA</br>Boise, ID</br>Westborough, MA | <a href="https://go.vansh.nyc/Mb?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 03 |
 | Amazon | Software Development Engineer Intern, Robotics | <details><summary>**7 locations**</summary>Seattle, WA</br>Nashville, TN</br>Austin, TX</br>North Reading, MA</br>Arlington, VA</br>Bellevue, WA</br>Westborough, MA</details> | <a href="https://go.vansh.nyc/Mg?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 03 |
 | Alcon | Electrical & Computer Engineering Intern | <details><summary>**5 locations**</summary>Fort Worth, TX</br>Lake Forest, CA</br>Johns Creek, GA</br>Houston, TX</br>Goleta, CA</details> | <a href="https://go.vansh.nyc/N3?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 03 |
 | Universal Health Services | Software Engineer Intern, Data Analytics | King of Prussia, PA | <a href="https://go.vansh.nyc/M0?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 02 |
@@ -3165,7 +3164,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Digital Design Electrical Engineer Intern | Tucson, AZ | 🔒 | Sep 07 |
 | Xcel Energy | Grid Data Intern | Minneapolis, MN | 🔒 | Sep 06 |
 | Westinghouse Electric Company | Application Development Intern | Cranberry Township, PA | 🔒 | Sep 04 |
-| Marvell | Design Verification Intern | <details><summary>**5 locations**</summary>Morrisville, NC</br>Austin, TX</br>Santa Clara, CA</br>Boise, ID</br>Westborough, MA</details> | 🔒 | Sep 03 |
+| Marvell | Design for Test Intern | <details><summary>**4 locations**</summary>Morrisville, NC</br>Santa Clara, CA</br>Boise, ID</br>Westborough, MA</details> | 🔒 | Sep 03 |
+| ↳ | Design Verification Intern | <details><summary>**5 locations**</summary>Morrisville, NC</br>Austin, TX</br>Santa Clara, CA</br>Boise, ID</br>Westborough, MA</details> | 🔒 | Sep 03 |
 | ↳ | Physical Design Engineer Intern | <details><summary>**7 locations**</summary>Morrisville, NC</br>Austin, TX</br>Rochester, MN</br>Santa Clara, CA</br>Boise, ID</br>Burlington, VT</br>Westborough, MA</details> | 🔒 | Sep 03 |
 | Hy-Vee | Data Integration Intern | West Des Moines, IA | 🔒 | Sep 03 |
 | DIRECTV | Product Development Intern, DIRECTV for Business | Clarksburg, MD | 🔒 | Sep 03 |
