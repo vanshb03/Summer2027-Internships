@@ -73694,5 +73694,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1795614408,
+        "url": "https://go.vansh.nyc/1J8",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Aerospace Corporation",
+        "title": "Embedded Software Engineering Undergrad Intern",
+        "source": "vanshb03",
+        "id": "99e10236-a95b-43b1-af7f-6f637ee220c1",
+        "date_posted": 1795527907,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
