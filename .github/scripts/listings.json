@@ -73592,5 +73592,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1795590933,
+        "url": "https://go.vansh.nyc/1J0",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "Software Engineering Intern, Simulation Technology",
+        "source": "vanshb03",
+        "id": "2560b5f3-bf69-4114-a0b4-236f61cbd4e8",
+        "date_posted": 1795583465,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
