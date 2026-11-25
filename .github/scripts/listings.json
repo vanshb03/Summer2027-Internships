@@ -9376,13 +9376,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792261427,
+        "date_updated": 1795580323,
         "url": "https://go.vansh.nyc/8Z",
         "locations": [
             "Remote (US)"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Astreya",
         "title": "AI Infrastructure DC Design Intern",
         "source": "vanshb03",
@@ -34626,14 +34626,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793181912,
+        "date_updated": 1795580323,
         "url": "https://go.vansh.nyc/Xp",
         "locations": [
             "Austin, TX",
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "RosaicLabs",
         "title": "AI Accelerator Design Verification Engineer Intern",
         "source": "vanshb03",
@@ -73555,6 +73555,23 @@
         "source": "vanshb03",
         "id": "6e1f06b6-29e8-4257-a771-d474b6d83b06",
         "date_posted": 1795570721,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795579532,
+        "url": "https://go.vansh.nyc/1IW",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bandwidth Inc.",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "e7ccc810-12f1-4688-b7d5-25c8f2b23ebe",
+        "date_posted": 1795564800,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
