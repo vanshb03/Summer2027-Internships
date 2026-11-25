@@ -48860,13 +48860,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793748911,
+        "date_updated": 1795628946,
         "url": "https://go.vansh.nyc/1fw",
         "locations": [
             "Framingham, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Staples",
         "title": "Software Engineer Intern, SDS e-Commerce Team",
         "source": "vanshb03",
@@ -68694,13 +68694,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1795119187,
+        "date_updated": 1795628946,
         "url": "https://go.vansh.nyc/1D1",
         "locations": [
             "Austin, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Allied Consultants",
         "title": "AI/ML Engineer Intern",
         "source": "vanshb03",
@@ -73827,6 +73827,24 @@
         "source": "vanshb03",
         "id": "85b4ca56-43dc-40ea-b06e-5e869cb47fa5",
         "date_posted": 1795624747,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795628738,
+        "url": "https://go.vansh.nyc/1Jh",
+        "locations": [
+            "El Segundo, CA",
+            "Chantilly, VA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Aerospace Corporation",
+        "title": "Machine Learning Engineer Undergrad Intern",
+        "source": "vanshb03",
+        "id": "6d433ab0-e6e5-40f3-92de-63826c5eb3bc",
+        "date_posted": 1795493383,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
