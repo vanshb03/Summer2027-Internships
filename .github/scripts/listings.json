@@ -9342,13 +9342,13 @@
         "season": "Spring"
     },
     {
-        "date_updated": 1792261427,
+        "date_updated": 1795639714,
         "url": "https://go.vansh.nyc/8X",
         "locations": [
             "Foster City, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Zoox",
         "title": "AI Validation and Benchmarking Engineer Intern",
         "source": "vanshb03",
@@ -62146,13 +62146,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794424093,
+        "date_updated": 1795639714,
         "url": "https://go.vansh.nyc/1v2",
         "locations": [
             "Somerville, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Formlabs",
         "title": "Desktop Software Intern",
         "source": "vanshb03",
@@ -67853,13 +67853,13 @@
         "season": "Spring"
     },
     {
-        "date_updated": 1794960346,
+        "date_updated": 1795639714,
         "url": "https://go.vansh.nyc/1BN",
         "locations": [
             "Ottawa, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Ross Video",
         "title": "Research Assistant Co-op, AI Focus",
         "source": "vanshb03",
@@ -74003,6 +74003,23 @@
         "source": "vanshb03",
         "id": "ed108e2d-5ad5-4fcd-bf0f-530ea7ecfb11",
         "date_posted": 1795631053,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795639162,
+        "url": "https://go.vansh.nyc/1Js",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Carrier Global",
+        "title": "Software & Controls Engineering Intern",
+        "source": "vanshb03",
+        "id": "37409bd6-524d-465c-83d8-f3cd78ce7062",
+        "date_posted": 1795638862,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
