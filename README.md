@@ -63,9 +63,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Draper | HWIL & Real Time Simulation Intern 🇺🇸 | Cambridge, MA | <a href="https://go.vansh.nyc/1Ib?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
 | BEUMER Group | AI Development Intern | United States | <a href="https://go.vansh.nyc/1I9?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
 | Bandwidth Inc. | Software Engineer Intern | Raleigh, NC | <a href="https://go.vansh.nyc/1IW?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
-| ↳ | Software Engineer Intern | Raleigh, NC | <a href="https://go.vansh.nyc/1IV?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
-| ↳ | Software Engineer Intern | Raleigh, NC | <a href="https://go.vansh.nyc/1IU?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
-| ↳ | Software Engineer Intern | Raleigh, NC | <a href="https://go.vansh.nyc/1IS?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
 | Apex Technology, Inc. | Software Engineer Intern, Test Automation | Los Angeles, CA | <a href="https://go.vansh.nyc/1It?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
 | Ameren | Robotics, AI, OT, Software Development Intern | St. Louis, MO | <a href="https://go.vansh.nyc/1Iz?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
 | Altera | AI Software Development Engineer Intern | Toronto, Canada | <a href="https://go.vansh.nyc/1Ih?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
@@ -2075,6 +2072,9 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Barkback | Software Intern | Santa Barbara, CA | <a href="https://go.vansh.nyc/Qv?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 2016 |
 | Northwestern Mutual | Application Development Intern | Milwaukee, WI | <a href="https://go.vansh.nyc/Qu?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 2015 |
 | RF-SMART | Software Developer Intern | Highlands Ranch, CO</br>Jacksonville, FL | 🔒 | Nov 24 |
+| Bandwidth Inc. | Software Engineer Intern | Raleigh, NC | 🔒 | Nov 24 |
+| ↳ | Software Engineer Intern | Raleigh, NC | 🔒 | Nov 24 |
+| ↳ | Software Engineer Intern | Raleigh, NC | 🔒 | Nov 24 |
 | Akuna Capital OCI | Quantitative Development & Strategy Intern | Chicago, IL | 🔒 | Nov 23 |
 | ↳ | Quantitative Research Intern | Chicago, IL | 🔒 | Nov 23 |
 | Renesas Electronics | Firmware Engineering Intern | Austin, TX | 🔒 | Nov 20 |
