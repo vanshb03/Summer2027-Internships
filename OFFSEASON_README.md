@@ -51,7 +51,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Hitachi | Data and Business Intelligence Analyst Intern | Toronto, Canada | <a href="https://go.vansh.nyc/1Ia?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
 | Advanced Energy | Firmware Engineer Intern | Fort Collins, CO | <a href="https://go.vansh.nyc/1IO?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
 | Paccar | Vehicle Software Integration Engineer Intern | Denton, TX</br>Sunnyvale, CA | <a href="https://go.vansh.nyc/1Hr?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
-| Kinaxis | Data Foundations Intern, Data & Analytics | Ottawa, Canada</br>Remote</br>Canada | <a href="https://go.vansh.nyc/1IM?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | Exowatt | Software & AI Intern | Austin, TX | <a href="https://go.vansh.nyc/1Hs?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | Entegris | Cyber Threat Analyst Co-op | Chaska, MN | <a href="https://go.vansh.nyc/1I2?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | Canadian Tire Corporation, Limited | Software Development Intern | Toronto, Canada | <a href="https://go.vansh.nyc/1Hf?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
@@ -505,6 +504,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Pinterest | Software Engineer Intern | Toronto, Canada | <a href="https://go.vansh.nyc/Y?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 24 |
 | Colgate-Palmolive | Software Development Intern | Piscataway, NJ | <a href="https://go.vansh.nyc/U?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
 | Shopify | Engineering and Data Intern | Remote</br>Canada | <a href="https://go.vansh.nyc/G?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 19 |
+| Kinaxis | Data Foundations Intern, Data & Analytics | Ottawa, Canada</br>Remote</br>Canada | 🔒 | Nov 23 |
 | AON3D | Software Developer Intern | Montreal, Canada | 🔒 | Nov 20 |
 | Robert Bosch LLC | AI Application Intern | Farmington Hills, MI | 🔒 | Nov 17 |
 | Motorola Solutions | Software Engineer Co-op | Remote</br>United States | 🔒 | Nov 17 |
