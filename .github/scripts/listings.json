@@ -73352,5 +73352,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1795567482,
+        "url": "https://go.vansh.nyc/1IH",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Samsung Semiconductor",
+        "title": "LLM Inference Acceleration Architecture Intern, MoE & Attention\u2013FFN Disaggregation",
+        "source": "vanshb03",
+        "id": "595186c8-080f-48f1-93b4-d536fd29b1d1",
+        "date_posted": 1795566402,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
