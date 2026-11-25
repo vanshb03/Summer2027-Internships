@@ -22845,7 +22845,7 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793015500,
+        "date_updated": 1795646807,
         "url": "https://go.vansh.nyc/FJ",
         "locations": [
             "Bloomfield Hills, MI",
@@ -22853,7 +22853,7 @@
             "Atlanta, GA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Bose",
         "title": "Data Analytics Engineer Co-op",
         "source": "vanshb03",
