@@ -71968,13 +71968,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1795455335,
+        "date_updated": 1795619819,
         "url": "https://go.vansh.nyc/1H2",
         "locations": [
             "Novi, MI"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Garmin",
         "title": "Software Engineer Intern, Automotive OEM",
         "source": "vanshb03",
