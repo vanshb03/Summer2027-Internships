@@ -73626,5 +73626,39 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1795598091,
+        "url": "https://go.vansh.nyc/1J2",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Motorola",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "ee471e57-c212-4773-91ab-1ef267f2bae6",
+        "date_posted": 1795478400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795598091,
+        "url": "https://go.vansh.nyc/1J3",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "PatientPoint",
+        "title": "Data Engineer Intern",
+        "source": "vanshb03",
+        "id": "8a3d951b-7c83-4663-abc8-6480f7e30c96",
+        "date_posted": 1795551972,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
