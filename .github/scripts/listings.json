@@ -29435,13 +29435,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793027048,
+        "date_updated": 1795587457,
         "url": "https://go.vansh.nyc/Q3",
         "locations": [
             "Birmingham, AL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "EHC",
         "title": "Data Management Intern",
         "source": "vanshb03",
