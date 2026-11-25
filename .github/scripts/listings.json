@@ -27338,7 +27338,7 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793023513,
+        "date_updated": 1795601797,
         "url": "https://go.vansh.nyc/Ma",
         "locations": [
             "Morrisville, NC",
@@ -27347,7 +27347,7 @@
             "Westborough, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Marvell",
         "title": "Design for Test Intern",
         "source": "vanshb03",
