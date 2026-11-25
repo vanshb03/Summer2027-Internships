@@ -73660,5 +73660,39 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1795604768,
+        "url": "https://go.vansh.nyc/1J4",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Artefact",
+        "title": "AI Builder Intern",
+        "source": "vanshb03",
+        "id": "8b45fc87-9146-469b-a08e-c0f36274d63e",
+        "date_posted": 1795393407,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795605281,
+        "url": "https://go.vansh.nyc/1J5",
+        "locations": [
+            "Washington, DC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ConnectPrep",
+        "title": "Data Analyst Intern",
+        "source": "vanshb03",
+        "id": "51dc55b7-d59e-4b4d-aaed-42e592c0f22c",
+        "date_posted": 1795564800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
