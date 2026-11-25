@@ -15999,14 +15999,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792717375,
+        "date_updated": 1795648834,
         "url": "https://go.vansh.nyc/fc",
         "locations": [
             "Madison, WI",
             "Boston, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "American Family Insurance Group",
         "title": "Business Intelligence Enablement Intern",
         "source": "vanshb03",
@@ -65240,13 +65240,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794587747,
+        "date_updated": 1795648834,
         "url": "https://go.vansh.nyc/1yJ",
         "locations": [
             "Montreal, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Fonds de solidarit\u00e9 FTQ",
         "title": "Business Intelligence and M365 Solutions Intern",
         "source": "vanshb03",
@@ -67115,13 +67115,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794892423,
+        "date_updated": 1795648834,
         "url": "https://go.vansh.nyc/1AV",
         "locations": [
             "Wilmington, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Analog Devices",
         "title": "Software Engineering Intern, Medical Device & Healthcare Integration",
         "source": "vanshb03",
@@ -74105,6 +74105,40 @@
         "source": "vanshb03",
         "id": "228e2754-f871-45c6-be78-9a0bd4f21e43",
         "date_posted": 1795644576,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795648154,
+        "url": "https://go.vansh.nyc/1Jz",
+        "locations": [
+            "Ann Arbor, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "KLA",
+        "title": "Computational & Electromagnetics Intern",
+        "source": "vanshb03",
+        "id": "08a7983b-2f16-45f4-8ec5-e45235648713",
+        "date_posted": 1795644554,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795648596,
+        "url": "https://go.vansh.nyc/1JA",
+        "locations": [
+            "Research Triangle Park, NC"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Cisco",
+        "title": "Security Engineer I Intern",
+        "source": "vanshb03",
+        "id": "c2a12afb-39bf-40f2-bee7-0f807d7d875b",
+        "date_posted": 1795564800,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
