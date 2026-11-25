@@ -10382,13 +10382,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792261427,
+        "date_updated": 1795625204,
         "url": "https://go.vansh.nyc/9W",
         "locations": [
             "Santa Ana, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Anduril",
         "title": "Research Engineer Co-op",
         "source": "vanshb03",
@@ -73776,6 +73776,23 @@
         "source": "vanshb03",
         "id": "d3ae1f93-0d9b-44a0-9cfc-b5e7cd50544c",
         "date_posted": 1795493383,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795625026,
+        "url": "https://go.vansh.nyc/1Jd",
+        "locations": [
+            "Mississauga, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Saputo",
+        "title": "Data Engineer Intern, Enterprise Analytics",
+        "source": "vanshb03",
+        "id": "5587166d-6661-418f-a3be-0385e93af591",
+        "date_posted": 1795622995,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
