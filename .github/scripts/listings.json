@@ -73524,5 +73524,39 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1795575943,
+        "url": "https://go.vansh.nyc/1IU",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bandwidth Inc.",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "3bc65f7b-4b84-45f2-a43e-564b59f9714e",
+        "date_posted": 1795570680,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795575960,
+        "url": "https://go.vansh.nyc/1IV",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bandwidth Inc.",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "6e1f06b6-29e8-4257-a771-d474b6d83b06",
+        "date_posted": 1795570721,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
