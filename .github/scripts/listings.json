@@ -19215,14 +19215,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1792973127,
+        "date_updated": 1795584274,
         "url": "https://go.vansh.nyc/BG",
         "locations": [
             "Remote",
             "United States"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "ConnectPrep",
         "title": "Data Analyst Intern",
         "source": "vanshb03",
@@ -26028,13 +26028,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793021626,
+        "date_updated": 1795584274,
         "url": "https://go.vansh.nyc/JH",
         "locations": [
             "Surrey, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Moment Energy",
         "title": "Data Scientist Co-op",
         "source": "vanshb03",
@@ -73571,6 +73571,23 @@
         "title": "Software Engineer Intern",
         "source": "vanshb03",
         "id": "e7ccc810-12f1-4688-b7d5-25c8f2b23ebe",
+        "date_posted": 1795564800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795583140,
+        "url": "https://go.vansh.nyc/1IY",
+        "locations": [
+            "Laurel, MD"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Johns Hopkins Applied Physics Laboratory",
+        "title": "Cyber Physical Systems Intern",
+        "source": "vanshb03",
+        "id": "0b4b7479-fb92-470b-8c1c-6f8506f6ff18",
         "date_posted": 1795564800,
         "company_url": "",
         "is_visible": true,
