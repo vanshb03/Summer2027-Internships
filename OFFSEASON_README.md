@@ -268,8 +268,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Machine Learning Engineer Co-op | San Francisco, CA | <a href="https://go.vansh.nyc/1fz?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | Clio | Software Developer Co-op | Toronto, Canada</br>Vancouver, Canada</br>Calgary, Canada | <a href="https://go.vansh.nyc/1co?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | Arlo Technologies | Firmware Developer Co-op | Richmond, Canada | <a href="https://go.vansh.nyc/1fB?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
-| TikTok | Software Engineer Project Intern, Model Infrastructure | San Jose, CA | <a href="https://go.vansh.nyc/18Z?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
-| ↳ | Software Engineer Project Intern, Platform Efficiency | San Jose, CA | <a href="https://go.vansh.nyc/190?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
+| TikTok | Software Engineer Project Intern, Platform Efficiency | San Jose, CA | <a href="https://go.vansh.nyc/190?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | ↳ | Software Engineer Intern, Global E-commerce-Search | Seattle, WA | <a href="https://go.vansh.nyc/188?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | ↳ | Software Engineer Intern, Search Architecture | San Jose, CA | <a href="https://go.vansh.nyc/18q?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | ↳ | Software Engineer Intern, Recommendation Infra, Performance Efficiency | San Jose, CA | <a href="https://go.vansh.nyc/18v?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
@@ -585,7 +584,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Flextronics International | Manufacturing Data & Analytics Co-op | Libertyville, IL | 🔒 | Nov 02 |
 | Charter Manufacturing | Automation & Analytics Intern | Milwaukee, WI | 🔒 | Nov 02 |
 | Apache Industrial | AI Implementation Intern | Houston, TX | 🔒 | Nov 02 |
-| TikTok | Software Engineer Intern, Search Data Infra | San Jose, CA | 🔒 | Nov 01 |
+| TikTok | Software Engineer Project Intern, Model Infrastructure | San Jose, CA | 🔒 | Nov 01 |
+| ↳ | Software Engineer Intern, Search Data Infra | San Jose, CA | 🔒 | Nov 01 |
 | GE Aerospace | Artificial Intelligence Intern | Remote</br>United States | 🔒 | Nov 01 |
 | Seattle Seahawks / First & Goal | Information Security Intern | Renton, WA | 🔒 | Oct 31 |
 | Zus Health | Platform Software Engineering Co-op | Boston, MA | 🔒 | Oct 30 |
