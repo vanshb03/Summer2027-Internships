@@ -36395,13 +36395,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1793313325,
+        "date_updated": 1795569447,
         "url": "https://go.vansh.nyc/ZC",
         "locations": [
             "Ottawa, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Ciena",
         "title": "Embedded Software Engineer Co-op",
         "source": "vanshb03",
@@ -73369,5 +73369,39 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1795569270,
+        "url": "https://go.vansh.nyc/1IK",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Shield",
+        "title": "Software Test Automation Intern",
+        "source": "vanshb03",
+        "id": "3d8bad21-6a9c-44f1-b177-79e96146f830",
+        "date_posted": 1794012370,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795569270,
+        "url": "https://go.vansh.nyc/1IL",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Super",
+        "title": "Data Engineering Intern",
+        "source": "vanshb03",
+        "id": "8df5ca5a-b9aa-4fa4-84e1-8a19f0dacb24",
+        "date_posted": 1795560052,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
