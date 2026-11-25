@@ -59859,13 +59859,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794346692,
+        "date_updated": 1795645111,
         "url": "https://go.vansh.nyc/1s5",
         "locations": [
             "Columbus, GA"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Global Payments",
         "title": "CyberSecurity Intern",
         "source": "vanshb03",
@@ -74071,6 +74071,40 @@
         "source": "vanshb03",
         "id": "43db584f-ce3b-4122-9ecc-8c5fb9668249",
         "date_posted": 1795564800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795644907,
+        "url": "https://go.vansh.nyc/1Jx",
+        "locations": [
+            "Burlingame, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Xona Space",
+        "title": "Software Engineering Intern, Engineering Productivity",
+        "source": "vanshb03",
+        "id": "7c27984d-5220-49f0-b8a5-c043633e7315",
+        "date_posted": 1795635147,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795644907,
+        "url": "https://go.vansh.nyc/1Jy",
+        "locations": [
+            "Chaska, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Danaher Corporation",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "228e2754-f871-45c6-be78-9a0bd4f21e43",
+        "date_posted": 1795644576,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
