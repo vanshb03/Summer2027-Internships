@@ -46020,13 +46020,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793686189,
+        "date_updated": 1795573186,
         "url": "https://go.vansh.nyc/1cy",
         "locations": [
             "Dayton, MN"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Graco",
         "title": "Cybersecurity Intern",
         "source": "vanshb03",
@@ -48049,13 +48049,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793743743,
+        "date_updated": 1795573186,
         "url": "https://go.vansh.nyc/1eE",
         "locations": [
             "San Antonio, TX"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "AnaVation",
         "title": "Computer Science Intern",
         "source": "vanshb03",
@@ -48134,13 +48134,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1793743743,
+        "date_updated": 1795573186,
         "url": "https://go.vansh.nyc/1eJ",
         "locations": [
             "Chantilly, VA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "AnaVation",
         "title": "Computer Science Intern",
         "source": "vanshb03",
@@ -73403,5 +73403,126 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1795572346,
+        "url": "https://go.vansh.nyc/1IM",
+        "locations": [
+            "Ottawa, Canada",
+            "Remote",
+            "Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Kinaxis",
+        "title": "Data Foundations Intern, Data & Analytics",
+        "source": "vanshb03",
+        "id": "726accb4-a8c0-4eb9-be7d-ff29601d1342",
+        "date_posted": 1795478400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1795572346,
+        "url": "https://go.vansh.nyc/1IN",
+        "locations": [
+            "Mesa, AZ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Kimley-Horn",
+        "title": "Data Science Intern",
+        "source": "vanshb03",
+        "id": "d7c8fdac-ad67-42b2-a3ad-5e0e7bbfca43",
+        "date_posted": 1795563300,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795572346,
+        "url": "https://go.vansh.nyc/1IO",
+        "locations": [
+            "Fort Collins, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Advanced Energy",
+        "title": "Firmware Engineer Intern",
+        "source": "vanshb03",
+        "id": "cd487776-8e8e-45a2-943b-6e538af6c373",
+        "date_posted": 1795569629,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1795572592,
+        "url": "https://go.vansh.nyc/1IP",
+        "locations": [
+            "Spring, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hewlett Packard Enterprise",
+        "title": "Cloud Security Engagement Intern",
+        "source": "vanshb03",
+        "id": "650c7f99-9f3d-4fc4-8f9c-1d568aca7868",
+        "date_posted": 1795571572,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795572989,
+        "url": "https://go.vansh.nyc/1IQ",
+        "locations": [
+            "Idaho Falls, ID"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Idaho National Laboratory",
+        "title": "NSUF Agentic Workflow Development Intern",
+        "source": "vanshb03",
+        "id": "b9a8ebca-afad-4f4d-b683-73628119afc5",
+        "date_posted": 1795478400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795572989,
+        "url": "https://go.vansh.nyc/1IR",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SambaNova",
+        "title": "Runtime Engineer Intern",
+        "source": "vanshb03",
+        "id": "af0d6edc-f266-45a7-880f-7638ca61f4f1",
+        "date_posted": 1795562568,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795572989,
+        "url": "https://go.vansh.nyc/1IS",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bandwidth Inc.",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "1d917224-7d02-495d-9249-65ef25a1397e",
+        "date_posted": 1795570760,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
