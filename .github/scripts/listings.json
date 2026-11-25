@@ -74023,5 +74023,56 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1795640957,
+        "url": "https://go.vansh.nyc/1Ju",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Coinbase",
+        "title": "Security Engineer Intern",
+        "source": "vanshb03",
+        "id": "d6abf234-b2e2-450a-8b84-12ca9b938ae1",
+        "date_posted": 1795638677,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795640957,
+        "url": "https://go.vansh.nyc/1Jv",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Draper",
+        "title": "Cyber Effects Engineering Intern",
+        "source": "vanshb03",
+        "id": "df507a50-d5ab-4bf3-9b1f-7588758f1349",
+        "date_posted": 1795626557,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795641435,
+        "url": "https://go.vansh.nyc/1Jw",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cantor Fitzgerald",
+        "title": "Technology Intern, Development",
+        "source": "vanshb03",
+        "id": "43db584f-ce3b-4122-9ecc-8c5fb9668249",
+        "date_posted": 1795564800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
