@@ -73047,13 +73047,13 @@
         "season": "Spring"
     },
     {
-        "date_updated": 1795542296,
+        "date_updated": 1795650647,
         "url": "https://go.vansh.nyc/1Ih",
         "locations": [
             "Toronto, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Altera",
         "title": "AI Software Development Engineer Intern",
         "source": "vanshb03",
@@ -74139,6 +74139,92 @@
         "source": "vanshb03",
         "id": "c2a12afb-39bf-40f2-bee7-0f807d7d875b",
         "date_posted": 1795564800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795649723,
+        "url": "https://go.vansh.nyc/1JB",
+        "locations": [
+            "Miami, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Harvard Companies",
+        "title": "AI Engineering Intern",
+        "source": "vanshb03",
+        "id": "f6310b90-86dc-41c8-8da9-86687ca874b9",
+        "date_posted": 1795564800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795649723,
+        "url": "https://go.vansh.nyc/1JC",
+        "locations": [
+            "Seattle, WA",
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Docusign",
+        "title": "Product Manager Intern",
+        "source": "vanshb03",
+        "id": "d4840485-b464-432f-89a4-080d68b5685f",
+        "date_posted": 1795633440,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795649723,
+        "url": "https://go.vansh.nyc/1JD",
+        "locations": [
+            "Lexington Park, MD"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ManTech",
+        "title": "Developer Intern, C++",
+        "source": "vanshb03",
+        "id": "a2d80f22-9ca3-4d38-b825-72cbed0ad445",
+        "date_posted": 1795649040,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795650298,
+        "url": "https://go.vansh.nyc/1JE",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CodeRabbit",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "943dca74-30d8-4107-bc0e-7ecb2eded16a",
+        "date_posted": 1795564800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795650452,
+        "url": "https://go.vansh.nyc/1JF",
+        "locations": [
+            "Wilmington, DE"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Best Egg",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "6c1f411c-5848-4c83-b69d-7fc187696983",
+        "date_posted": 1795637758,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
