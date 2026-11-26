@@ -46900,13 +46900,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793689722,
+        "date_updated": 1795663139,
         "url": "https://go.vansh.nyc/1dn",
         "locations": [
             "Westchester, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Ingredion",
         "title": "AI & Data Scientist Intern",
         "source": "vanshb03",
@@ -74466,6 +74466,42 @@
         "source": "vanshb03",
         "id": "c6ebf4e3-3e14-46f6-85d6-9543217bd847",
         "date_posted": 1795564800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795662322,
+        "url": "https://go.vansh.nyc/1K5",
+        "locations": [
+            "Remote",
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "OpenSesame",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "d32951fa-233c-40c3-baf5-edc4cb5afdb0",
+        "date_posted": 1795651200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795662322,
+        "url": "https://go.vansh.nyc/1K6",
+        "locations": [
+            "Remote",
+            "United States"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "ManTech",
+        "title": "Developer Intern, C++",
+        "source": "vanshb03",
+        "id": "9c2e390a-3b9f-4dc9-bdc8-473c4ddf6612",
+        "date_posted": 1795651200,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
