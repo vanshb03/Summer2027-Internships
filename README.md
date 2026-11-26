@@ -304,7 +304,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Technology Intern, Databases | Columbus, OH | <a href="https://go.vansh.nyc/1E8?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | ↳ | Technology Intern, Software Engineering | Columbus, OH | <a href="https://go.vansh.nyc/1E9?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | Caesars Entertainment | IAM Cybersecurity Intern | Las Vegas, NV | <a href="https://go.vansh.nyc/1ES?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
-| Blue Cross Blue Shield of Michigan | Object Oriented Programming Intern | Detroit, MI | <a href="https://go.vansh.nyc/1DG?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | Amperity | Software Development Engineer Intern | Seattle, WA | <a href="https://go.vansh.nyc/1CY?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | Altera | FPGA Software Engineer Intern | Toronto, Canada | <a href="https://go.vansh.nyc/1Et?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | Vibrantz Technologies | Applied AI & Automation Intern | Houston, TX | <a href="https://go.vansh.nyc/1Ct?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
@@ -2116,6 +2115,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Formlabs | API & Automation Intern | Somerville, MA | 🔒 | Nov 19 |
 | Cisco | AI Researcher II Intern | San Francisco, CA | 🔒 | Nov 19 |
 | Centene Corporation | Undergraduate Analytics Engineering Intern | Remote</br>United States | 🔒 | Nov 19 |
+| Blue Cross Blue Shield of Michigan | Object Oriented Programming Intern | Detroit, MI | 🔒 | Nov 19 |
 | Allied Consultants | AI/ML Engineer Intern | Austin, TX | 🔒 | Nov 19 |
 | Workstream | Full Stack Engineer Intern | Vancouver, Canada | 🔒 | Nov 18 |
 | Trimble | QA Engineer Intern | Portsmouth, NH | 🔒 | Nov 18 |
