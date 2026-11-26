@@ -18050,13 +18050,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792898314,
+        "date_updated": 1795717038,
         "url": "https://go.vansh.nyc/h6",
         "locations": [
             "Richmond Hill, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Trimble",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
