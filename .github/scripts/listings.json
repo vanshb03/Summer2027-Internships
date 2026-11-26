@@ -74556,5 +74556,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1795691696,
+        "url": "https://go.vansh.nyc/1Kd",
+        "locations": [
+            "Dorval, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ABB",
+        "title": "Software Intern",
+        "source": "vanshb03",
+        "id": "f129e32f-4987-4314-b0a7-a02c2c74e440",
+        "date_posted": 1795642800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
