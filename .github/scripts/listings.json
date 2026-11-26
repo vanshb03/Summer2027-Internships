@@ -73010,7 +73010,7 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1795538351,
+        "date_updated": 1795681216,
         "url": "https://go.vansh.nyc/1Ie",
         "locations": [
             "Fort Collins, CO",
@@ -73019,7 +73019,7 @@
             "Austin, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Intel",
         "title": "Design Verification Intern",
         "source": "vanshb03",
