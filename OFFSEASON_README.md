@@ -46,11 +46,14 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | QuEra Computing | Data Management Intern | Boston, MA | <a href="https://go.vansh.nyc/1JZ?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
 | Noblis | AI/ML Research Intern | United States | <a href="https://go.vansh.nyc/1Ja?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
 | ABB | Software Intern | Dorval, Canada | <a href="https://go.vansh.nyc/1Kd?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
+| Vitesco Technologies | Cyber Security Co-op | Deer Park, TX | <a href="https://go.vansh.nyc/1Ko?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
 | Super | Data Engineering Intern | Toronto, Canada | <a href="https://go.vansh.nyc/1IL?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
 | QuEra Computing | Site Reliability Engineer Co-op | Boston, MA | <a href="https://go.vansh.nyc/1If?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
 | PCL Construction | Cybersecurity Intern | Edmonton, Canada | <a href="https://go.vansh.nyc/1In?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
+| Paccar | Vehicle Software Integration Engineer Intern | United States | <a href="https://go.vansh.nyc/1Km?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
 | Kiewit | Cloud Security Intern, Technology Group | Omaha, NE | <a href="https://go.vansh.nyc/1Il?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
 | Hitachi | Data and Business Intelligence Analyst Intern | Toronto, Canada | <a href="https://go.vansh.nyc/1Ia?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
+| Ahold Delhaize | Software Engineer Distribution & Transportation Co-op | United States | <a href="https://go.vansh.nyc/1Kp?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
 | Advanced Energy | Firmware Engineer Intern | Fort Collins, CO | <a href="https://go.vansh.nyc/1IO?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
 | Paccar | Vehicle Software Integration Engineer Intern | Denton, TX</br>Sunnyvale, CA | <a href="https://go.vansh.nyc/1Hr?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | Exowatt | Software & AI Intern | Austin, TX | <a href="https://go.vansh.nyc/1Hs?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
@@ -390,7 +393,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | KION Group | Engineering & Delivery Optimization Co-op | Grand Rapids, MI | <a href="https://go.vansh.nyc/8l?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 12 |
 | TransMarket Group | Junior Data Center/Desktop Engineer Intern | Chicago, IL | <a href="https://go.vansh.nyc/81?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 10 |
 | Advanced Space | Technical Growth and Capture Intern | Westminster, CO | <a href="https://go.vansh.nyc/7Y?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 10 |
-| ProCogia | LLM Research Intern | Vancouver, Canada | <a href="https://go.vansh.nyc/1tb?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
+| ProCogia | DevOps & Cloud Platform Intern | Vancouver, Canada | <a href="https://go.vansh.nyc/1Kh?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
+| ↳ | LLM Research Intern | Vancouver, Canada | <a href="https://go.vansh.nyc/1tb?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
 | Magnet Forensics | Software Developer Co-op | Waterloo, Canada</br>Ottawa, Canada | <a href="https://go.vansh.nyc/GD?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
 | SoloPulse | Software Engineer Co-op | Peachtree Corners, GA | <a href="https://go.vansh.nyc/1nw?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 08 |
 | Rugged Robotics | Robotics Software Co-op | Houston, TX | <a href="https://go.vansh.nyc/Ga?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 08 |
