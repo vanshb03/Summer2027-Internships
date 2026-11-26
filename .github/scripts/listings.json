@@ -74452,5 +74452,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1795659457,
+        "url": "https://go.vansh.nyc/1K2",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cantor Fitzgerald",
+        "title": "Technology Infrastructure & Automation Intern",
+        "source": "vanshb03",
+        "id": "c6ebf4e3-3e14-46f6-85d6-9543217bd847",
+        "date_posted": 1795564800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
