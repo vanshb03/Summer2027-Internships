@@ -62,6 +62,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | OpenSesame | Software Engineering Intern | Remote</br>United States | <a href="https://go.vansh.nyc/1K5?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
 | ManTech | Developer Intern, C++ 🇺🇸 | Remote</br>United States | <a href="https://go.vansh.nyc/1K6?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
 | ↳ | Developer Intern, C++ | Lexington Park, MD | <a href="https://go.vansh.nyc/1JD?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
+| Lockheed Martin | FPGA Engineer Intern, Security Focus 🇺🇸 | Owego, NY | <a href="https://go.vansh.nyc/1Ke?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
 | KLA | Computational & Electromagnetics Intern | Ann Arbor, MI | <a href="https://go.vansh.nyc/1Jz?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
 | Jabil | Data Scientist Intern | St. Petersburg, FL</br>Tampa, FL | <a href="https://go.vansh.nyc/1Jo?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
 | Draper | Cyber Effects Engineering Intern | Cambridge, MA | <a href="https://go.vansh.nyc/1Jv?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
