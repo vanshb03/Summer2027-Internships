@@ -74573,5 +74573,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1795698554,
+        "url": "https://go.vansh.nyc/1Ke",
+        "locations": [
+            "Owego, NY"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Lockheed Martin",
+        "title": "FPGA Engineer Intern, Security Focus",
+        "source": "vanshb03",
+        "id": "ed1b308c-1b30-4565-9c7a-d0b16aa1127e",
+        "date_posted": 1795630154,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
