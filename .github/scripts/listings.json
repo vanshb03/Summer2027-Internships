@@ -74777,5 +74777,192 @@
         "company_url": "",
         "is_visible": true,
         "season": "Fall"
+    },
+    {
+        "date_updated": 1795725996,
+        "url": "https://go.vansh.nyc/1Ku",
+        "locations": [
+            "Harrisburg, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Capital Blue Cross",
+        "title": "Data Science, Analytics & AI Intern",
+        "source": "vanshb03",
+        "id": "13dec0bb-3843-4fcf-8550-1515ed347d99",
+        "date_posted": 1795567639,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795725996,
+        "url": "https://go.vansh.nyc/1Kv",
+        "locations": [
+            "Harrisburg, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Capital Blue Cross",
+        "title": "Data Engineering Intern",
+        "source": "vanshb03",
+        "id": "4b73f03c-46f7-4e4d-97a2-6e1a9d72b3b0",
+        "date_posted": 1795576493,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795725996,
+        "url": "https://go.vansh.nyc/1Kw",
+        "locations": [
+            "Harrisburg, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Capital Blue Cross",
+        "title": "IT Business Engineering Intern",
+        "source": "vanshb03",
+        "id": "cdf4e027-ca53-4274-9378-36a702201442",
+        "date_posted": 1795582943,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795725996,
+        "url": "https://go.vansh.nyc/1Kx",
+        "locations": [
+            "Dublin, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Roto",
+        "title": "Creative Developer Intern",
+        "source": "vanshb03",
+        "id": "8508fbaa-5de6-4fd2-a06c-fdf5b9f2b07b",
+        "date_posted": 1795585239,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795725996,
+        "url": "https://go.vansh.nyc/1Ky",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Illinois Policy",
+        "title": "Analytics Intern",
+        "source": "vanshb03",
+        "id": "e4345d01-01ec-4681-a270-2e9cf907895b",
+        "date_posted": 1795588070,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795725996,
+        "url": "https://go.vansh.nyc/1Kz",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Medpace",
+        "title": "Clinical Intelligence Intern",
+        "source": "vanshb03",
+        "id": "26e329f4-7a77-4462-b158-4b1362b26673",
+        "date_posted": 1795593636,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795725996,
+        "url": "https://go.vansh.nyc/1KA",
+        "locations": [
+            "Woburn, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Aptima Inc. (All Jobs)",
+        "title": "AI Engineer Intern",
+        "source": "vanshb03",
+        "id": "689eae78-c5b9-4f49-b7d0-be63c13b1846",
+        "date_posted": 1795607571,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795725996,
+        "url": "https://go.vansh.nyc/1KB",
+        "locations": [
+            "Grand Rapids, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NHA",
+        "title": "IT Security Intern",
+        "source": "vanshb03",
+        "id": "a467c48b-5be6-4593-9632-58871b4688c5",
+        "date_posted": 1795631354,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795725996,
+        "url": "https://go.vansh.nyc/1KC",
+        "locations": [
+            "La Vista, NE"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Kiewit",
+        "title": "Cloud Security Intern, Technology Group",
+        "source": "vanshb03",
+        "id": "ccedaa68-e0ba-43df-83dd-2203bb8ebd91",
+        "date_posted": 1795632306,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1795725996,
+        "url": "https://go.vansh.nyc/1KD",
+        "locations": [
+            "Harrisburg, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Capital Blue Cross",
+        "title": "Cybersecurity Intern",
+        "source": "vanshb03",
+        "id": "e38036f9-116f-45bb-9f05-c3cbde520f18",
+        "date_posted": 1795634130,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795725996,
+        "url": "https://go.vansh.nyc/1KE",
+        "locations": [
+            "Columbia, MD"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "HII",
+        "title": "DevOps Engineer Intern",
+        "source": "vanshb03",
+        "id": "1dffbae7-8aa5-46e3-944f-b94395225ba0",
+        "date_posted": 1795636966,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
