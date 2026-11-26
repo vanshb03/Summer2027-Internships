@@ -331,7 +331,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Skydio | Embedded Software Engineer Intern | San Mateo, CA | <a href="https://go.vansh.nyc/BD?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 25 |
 | Peraton | Solution Architect Co-op | San Diego, CA | <a href="https://go.vansh.nyc/T6?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 25 |
 | Notion | Software Engineer Intern, Mobile | San Francisco, CA</br>New York, NY | <a href="https://go.vansh.nyc/BF?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 25 |
-| Trimble | Software Engineering Intern | Richmond Hill, Canada | <a href="https://go.vansh.nyc/h6?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
 | Simbe Robotics | Robot Software Engineer Intern | Burlingame, CA | <a href="https://go.vansh.nyc/hI?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
 | ↳ | Data Analytics & Data Science Intern | Burlingame, CA | <a href="https://go.vansh.nyc/hK?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
 | MSA Safety | AI Engineer Co-op | Cranberry Township, PA | <a href="https://go.vansh.nyc/hD?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
@@ -631,6 +630,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | AtriCure, Inc. | IT Security Analyst Co-op | Mason, OH | 🔒 | Oct 26 |
 | Notion | Software Engineer Intern | San Francisco, CA</br>New York, NY | 🔒 | Oct 25 |
 | Danaher Corporation | Supply Chain AI Co-op | United States | 🔒 | Oct 25 |
+| Trimble | Software Engineering Intern | Richmond Hill, Canada | 🔒 | Oct 23 |
 | TD Bank | Product Management Co-op, L&H | Toronto, Canada | 🔒 | Oct 23 |
 | Nokia | Network Systems Engineer Co-op | Canada | 🔒 | Oct 23 |
 | Flagship Pioneering | AI/ML Engineering Co-op, SAGE Platform | Cambridge, MA | 🔒 | Oct 23 |
