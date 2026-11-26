@@ -61610,7 +61610,7 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1794375552,
+        "date_updated": 1795731493,
         "url": "https://go.vansh.nyc/1tS",
         "locations": [
             "Kanata, Canada",
@@ -61623,7 +61623,7 @@
             "Ottawa, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Cisco",
         "title": "Software Developer Co-op - Full Stack / Backend",
         "source": "vanshb03",
@@ -72958,13 +72958,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1795536864,
+        "date_updated": 1795731493,
         "url": "https://go.vansh.nyc/1Ia",
         "locations": [
             "Toronto, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Hitachi",
         "title": "Data and Business Intelligence Analyst Intern",
         "source": "vanshb03",
@@ -74978,6 +74978,23 @@
         "source": "vanshb03",
         "id": "3415813e-f453-4a49-9efe-926f56807351",
         "date_posted": 1795642768,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795731321,
+        "url": "https://go.vansh.nyc/1KG",
+        "locations": [
+            "Sioux Falls, SD"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "First PREMIER Bank",
+        "title": "IT Architecture Intern",
+        "source": "vanshb03",
+        "id": "02b228d7-257e-4d63-bd5a-fda0fb6721d9",
+        "date_posted": 1795632177,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
