@@ -53,7 +53,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | PCL Construction | Cybersecurity Intern | Edmonton, Canada | <a href="https://go.vansh.nyc/1In?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
 | Paccar | Vehicle Software Integration Engineer Intern | United States | <a href="https://go.vansh.nyc/1Km?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
 | Kiewit | Cloud Security Intern, Technology Group | Omaha, NE | <a href="https://go.vansh.nyc/1Il?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
-| Hitachi | Data and Business Intelligence Analyst Intern | Toronto, Canada | <a href="https://go.vansh.nyc/1Ia?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
 | Ahold Delhaize | Software Engineer Distribution & Transportation Co-op | United States | <a href="https://go.vansh.nyc/1Kp?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
 | Advanced Energy | Firmware Engineer Intern | Fort Collins, CO | <a href="https://go.vansh.nyc/1IO?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
 | Paccar | Vehicle Software Integration Engineer Intern | Denton, TX</br>Sunnyvale, CA | <a href="https://go.vansh.nyc/1Hr?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
@@ -157,7 +156,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | OLG | Analytics Engineering & Measurement Intern | Toronto, Canada</br>Sault Ste. Marie, Canada | <a href="https://go.vansh.nyc/1ld?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | Moss | Intern, ML / Perception / Robotics | San Francisco, CA | <a href="https://go.vansh.nyc/1ut?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | Danaher Corporation | Firmware Engineer Co-op | Indianapolis, IN | <a href="https://go.vansh.nyc/1kG?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
-| Cisco | Software Developer Co-op - Full Stack / Backend | <details><summary>**8 locations**</summary>Kanata, Canada</br>Saint-Laurent, Canada</br>Calgary, Canada</br>Toronto, Canada</br>Montreal, Canada</br>Vancouver, Canada</br>Halifax, Canada</br>Ottawa, Canada</details> | <a href="https://go.vansh.nyc/1tS?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | Astranis | Embedded Software Developer Intern, Network/Payload 🇺🇸 | San Francisco, CA | <a href="https://go.vansh.nyc/1lz?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | Uhaul | Data Analyst Intern | Phoenix, AZ | <a href="https://go.vansh.nyc/1ks?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | TechInsights | Software Development Co-op | Ottawa, Canada | <a href="https://go.vansh.nyc/1ie?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
@@ -503,6 +501,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Pinterest | Software Engineer Intern | Toronto, Canada | <a href="https://go.vansh.nyc/Y?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 24 |
 | Colgate-Palmolive | Software Development Intern | Piscataway, NJ | <a href="https://go.vansh.nyc/U?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
 | Shopify | Engineering and Data Intern | Remote</br>Canada | <a href="https://go.vansh.nyc/G?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 19 |
+| Hitachi | Data and Business Intelligence Analyst Intern | Toronto, Canada | 🔒 | Nov 24 |
 | Kinaxis | Data Foundations Intern, Data & Analytics | Ottawa, Canada</br>Remote</br>Canada | 🔒 | Nov 23 |
 | AON3D | Software Developer Intern | Montreal, Canada | 🔒 | Nov 20 |
 | Ross Video | Research Assistant Co-op, AI Focus | Ottawa, Canada | 🔒 | Nov 17 |
@@ -547,6 +546,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Hootsuite | Software Development Co-op | Vancouver, Canada</br>Toronto, Canada | 🔒 | Nov 06 |
 | ↳ | DevOps Co-op | Canada | 🔒 | Nov 06 |
 | Globus Medical | Software Co-op | Methuen, MA | 🔒 | Nov 06 |
+| Cisco | Software Developer Co-op - Full Stack / Backend | <details><summary>**8 locations**</summary>Kanata, Canada</br>Saint-Laurent, Canada</br>Calgary, Canada</br>Toronto, Canada</br>Montreal, Canada</br>Vancouver, Canada</br>Halifax, Canada</br>Ottawa, Canada</details> | 🔒 | Nov 06 |
 | Valley Children's Specialty Medical Group | IT Security Intern | Madera, CA | 🔒 | Nov 05 |
 | TD Bank | Software Engineer Co-op | Toronto, Canada</br>Mississauga, Canada</br>London, Canada | 🔒 | Nov 05 |
 | Rodan Energy Solutions Inc. | Data Operations Engineer AI Co-op | Mississauga, Canada | 🔒 | Nov 05 |
