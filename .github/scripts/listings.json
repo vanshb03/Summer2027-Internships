@@ -74964,5 +74964,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1795729168,
+        "url": "https://go.vansh.nyc/1KF",
+        "locations": [
+            "Sunrise, FL"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "AeroVironment",
+        "title": "Cyber Intern",
+        "source": "vanshb03",
+        "id": "3415813e-f453-4a49-9efe-926f56807351",
+        "date_posted": 1795642768,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
