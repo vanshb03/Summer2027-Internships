@@ -74624,5 +74624,158 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1795722366,
+        "url": "https://go.vansh.nyc/1Kh",
+        "locations": [
+            "Vancouver, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ProCogia",
+        "title": "DevOps & Cloud Platform Intern",
+        "source": "vanshb03",
+        "id": "f053d167-f4f4-4737-98e1-90a5dda77fc5",
+        "date_posted": 1791557808,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1795722366,
+        "url": "https://go.vansh.nyc/1Ki",
+        "locations": [
+            "Fort Worth, TX"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Lockheed Martin",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "3052c751-f1b8-4392-8013-91aafad28783",
+        "date_posted": 1795419464,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795722366,
+        "url": "https://go.vansh.nyc/1Kj",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Swiss Re",
+        "title": "Client Data Management Intern",
+        "source": "vanshb03",
+        "id": "4b106a13-ec0a-4c92-8360-278b0c3e4578",
+        "date_posted": 1795478400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795722366,
+        "url": "https://go.vansh.nyc/1Kk",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Toshiba America Electronic Components",
+        "title": "Firmware Engineer Intern",
+        "source": "vanshb03",
+        "id": "cd9c2df2-361a-4334-bee1-f7a0ddb16783",
+        "date_posted": 1795494725,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795722366,
+        "url": "https://go.vansh.nyc/1Kl",
+        "locations": [
+            "Tempe, AZ"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "ViaSat",
+        "title": "Embedded Software Engineer Intern, Government",
+        "source": "vanshb03",
+        "id": "bdaa94bb-ca0c-4652-bdc7-e706034830bc",
+        "date_posted": 1795502604,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795722366,
+        "url": "https://go.vansh.nyc/1Km",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Paccar",
+        "title": "Vehicle Software Integration Engineer Intern",
+        "source": "vanshb03",
+        "id": "d5c173d2-30b7-4760-8280-881a2a6b684a",
+        "date_posted": 1795521226,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1795722366,
+        "url": "https://go.vansh.nyc/1Kn",
+        "locations": [
+            "Somerset, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "BEUMERGroup1",
+        "title": "AI Development Intern",
+        "source": "vanshb03",
+        "id": "aecc9f8e-aa8f-4df2-9c6e-bb628e337d9d",
+        "date_posted": 1795533384,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795722366,
+        "url": "https://go.vansh.nyc/1Ko",
+        "locations": [
+            "Deer Park, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Vitesco Technologies",
+        "title": "Cyber Security Co-op",
+        "source": "vanshb03",
+        "id": "731e1e67-c28c-4dde-a9c1-3ee79a380b45",
+        "date_posted": 1795534256,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1795722366,
+        "url": "https://go.vansh.nyc/1Kp",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ahold Delhaize",
+        "title": "Software Engineer Distribution & Transportation Co-op",
+        "source": "vanshb03",
+        "id": "906646fe-84bc-434d-bb7e-52eed330217a",
+        "date_posted": 1795564177,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
     }
 ]
