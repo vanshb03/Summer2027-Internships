@@ -70912,13 +70912,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1795220022,
+        "date_updated": 1795652373,
         "url": "https://go.vansh.nyc/1FD",
         "locations": [
             "Austin, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Jabil",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
@@ -74225,6 +74225,162 @@
         "source": "vanshb03",
         "id": "6c1f411c-5848-4c83-b69d-7fc187696983",
         "date_posted": 1795637758,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795651526,
+        "url": "https://go.vansh.nyc/1JJ",
+        "locations": [
+            "Austin, TX",
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SambaNova",
+        "title": "Post-Silicon Validation Engineer Intern",
+        "source": "vanshb03",
+        "id": "d25fbc7f-3259-44cd-b596-10127d917a1e",
+        "date_posted": 1795625368,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795651526,
+        "url": "https://go.vansh.nyc/1JK",
+        "locations": [
+            "Austin, TX",
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SambaNova",
+        "title": "Physical Design Engineer Intern",
+        "source": "vanshb03",
+        "id": "22765ecb-60b9-4842-a96b-a2b66bdd5e5c",
+        "date_posted": 1795628400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795651526,
+        "url": "https://go.vansh.nyc/1JL",
+        "locations": [
+            "Austin, TX",
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "SambaNova",
+        "title": "DFT Engineer Intern",
+        "source": "vanshb03",
+        "id": "675dd07f-a8a0-4626-a9d4-7bf39c8f426b",
+        "date_posted": 1795628752,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795651526,
+        "url": "https://go.vansh.nyc/1JM",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Veeva Systems",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "f8755a8c-bcfd-43b1-b891-4d02b4db04c6",
+        "date_posted": 1795649750,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795651526,
+        "url": "https://go.vansh.nyc/1JN",
+        "locations": [
+            "Pleasanton, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Veeva Systems",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "011c2c85-eb26-4ccf-bac5-620c4bf2ae62",
+        "date_posted": 1795649752,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795651526,
+        "url": "https://go.vansh.nyc/1JO",
+        "locations": [
+            "Kent, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Digital Control",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "82903775-976e-4d1f-8bc4-faff9cca1bd5",
+        "date_posted": 1795650173,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795651526,
+        "url": "https://go.vansh.nyc/1JP",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Total Quality Logistics",
+        "title": "Data Science & Analytics Intern",
+        "source": "vanshb03",
+        "id": "4438fffa-6745-4e88-8df5-62ecbc14c054",
+        "date_posted": 1795650484,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795651526,
+        "url": "https://go.vansh.nyc/1JQ",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Total Quality Logistics",
+        "title": "Software Development Intern",
+        "source": "vanshb03",
+        "id": "61d65364-38a1-4e3c-96fb-8f6d5f95a20e",
+        "date_posted": 1795650487,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795651582,
+        "url": "https://go.vansh.nyc/1JR",
+        "locations": [
+            "Morrisville, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "WEP Clinical",
+        "title": "IT Intern, AI & Transformation",
+        "source": "vanshb03",
+        "id": "f0f7ff4f-41c3-4eb1-9cb4-cd65799c07a2",
+        "date_posted": 1794352239,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
