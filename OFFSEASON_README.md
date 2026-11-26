@@ -383,8 +383,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | CACI | Software Test Engineer Intern | Remote</br>United States | <a href="https://go.vansh.nyc/CX?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
 | Skydio | Manufacturing Software Engineer Intern | San Mateo, CA | <a href="https://go.vansh.nyc/9y?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
 | Hitachi | ITV Automation Specialist Intern | Toronto, ON | <a href="https://go.vansh.nyc/9v?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
-| Atoms | Software Engineer Intern | Seattle, WA | <a href="https://go.vansh.nyc/Cp?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
-| ↳ | Software Engineering Intern | Seattle, WA | <a href="https://go.vansh.nyc/93?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
 | AGCO | AI & Data Science Intern | Champaign, IL | <a href="https://go.vansh.nyc/Ct?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
 | Peraton | Mission Systems Software and Edge Computing Intern | United States | <a href="https://go.vansh.nyc/1no?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 13 |
 | Astera Labs | Firmware Engineer Co-op | Vancouver, Canada | <a href="https://go.vansh.nyc/Ck?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 13 |
@@ -735,6 +733,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | AI Security Engineer Co-op | San Francisco, CA | 🔒 | Oct 14 |
 | ↳ | Machine Learning Engineer, Applied AI Co-op | San Francisco, CA | 🔒 | Oct 14 |
 | ↳ | AI Platform Engineer Co-op | San Francisco, CA | 🔒 | Oct 14 |
+| Atoms | Software Engineering Intern | Seattle, WA | 🔒 | Oct 14 |
+| ↳ | Software Engineer Intern | Seattle, WA | 🔒 | Oct 14 |
 | Zoox | AI Validation and Benchmarking Engineer Intern | Foster City, CA | 🔒 | Oct 13 |
 | Plexus | Digital Engineer Intern | Neenah, WI | 🔒 | Oct 13 |
 | Disney | Disney & Pixar Games Production Intern | Glendale, CA | 🔒 | Oct 13 |
