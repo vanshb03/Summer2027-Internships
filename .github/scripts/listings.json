@@ -65155,13 +65155,13 @@
         "season": "Spring"
     },
     {
-        "date_updated": 1794557255,
+        "date_updated": 1795733374,
         "url": "https://go.vansh.nyc/1yy",
         "locations": [
             "Quincy, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "State Street",
         "title": "Cyber Security Operations Center Analyst Intern",
         "source": "vanshb03",
@@ -71405,13 +71405,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1795280754,
+        "date_updated": 1795733374,
         "url": "https://go.vansh.nyc/1Gf",
         "locations": [
             "Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Ribbon",
         "title": "Software Developer Co-op, Common Cloud Services",
         "source": "vanshb03",
@@ -73781,13 +73781,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1795625026,
+        "date_updated": 1795733374,
         "url": "https://go.vansh.nyc/1Jd",
         "locations": [
             "Mississauga, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Saputo",
         "title": "Data Engineer Intern, Enterprise Analytics",
         "source": "vanshb03",
