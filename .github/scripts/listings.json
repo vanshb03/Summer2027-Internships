@@ -74384,5 +74384,56 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1795653543,
+        "url": "https://go.vansh.nyc/1JY",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "QuEra Computing",
+        "title": "Technical Product Management Intern",
+        "source": "vanshb03",
+        "id": "bf15ce68-0414-4ee9-89de-085cf96c786d",
+        "date_posted": 1795650843,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795653543,
+        "url": "https://go.vansh.nyc/1JZ",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "QuEra Computing",
+        "title": "Data Management Intern",
+        "source": "vanshb03",
+        "id": "7b2b96fe-968f-4171-a9e6-bddd6d75cd04",
+        "date_posted": 1795650483,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1795653916,
+        "url": "https://go.vansh.nyc/1K0",
+        "locations": [
+            "Kent, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Digital Control",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "eb0b75f5-d298-4b25-9b49-032e114c4492",
+        "date_posted": 1795653560,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
