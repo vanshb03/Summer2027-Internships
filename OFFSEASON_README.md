@@ -86,7 +86,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Amazon | Front-End Engineer Intern | Seattle, WA | <a href="https://go.vansh.nyc/1Iu?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | Alberta Investment Management Corporation | Test Automation Intern | Edmonton, Canada | <a href="https://go.vansh.nyc/1Da?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | Western Digital | Software Engineering Intern | Irvine, CA | <a href="https://go.vansh.nyc/1Cg?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
-| Ribbon | Software Developer Co-op, Common Cloud Services | Canada | <a href="https://go.vansh.nyc/1Gf?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
 | Gentuity | Software Engineer Co-op | Sudbury, MA | <a href="https://go.vansh.nyc/1Do?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
 | Bose | Software Engineer Co-op | Framingham, MA | <a href="https://go.vansh.nyc/1Cq?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
 | Amentum | Immersive Imagery SW/HW Lab Development Intern 🇺🇸 | Huntsville, AL | <a href="https://go.vansh.nyc/1Cr?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
@@ -106,7 +105,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | House of Representatives | HIR Cybersecurity Intern | Washington, DC | <a href="https://go.vansh.nyc/1zW?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 | Canadian Tire Corporation, Limited | Programmer Analyst Intern | Mississauga, Canada | <a href="https://go.vansh.nyc/1yQ?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 | TMX Group | AI Engineering Intern | Toronto, Canada | <a href="https://go.vansh.nyc/1wI?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
-| State Street | Cyber Security Operations Center Analyst Intern | Quincy, MA | <a href="https://go.vansh.nyc/1yy?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | SharkNinja | Digital & Website Technology Intern | Needham, MA | <a href="https://go.vansh.nyc/1wJ?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | Ready to? | Quality Assurance Automation Engineer Intern | Idaho Falls, ID | <a href="https://go.vansh.nyc/1xP?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | North Atlantic Industries | Embedded Software Engineer Intern | Bohemia, NY | <a href="https://go.vansh.nyc/1y5?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
@@ -504,6 +502,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Hitachi | Data and Business Intelligence Analyst Intern | Toronto, Canada | 🔒 | Nov 24 |
 | Kinaxis | Data Foundations Intern, Data & Analytics | Ottawa, Canada</br>Remote</br>Canada | 🔒 | Nov 23 |
 | AON3D | Software Developer Intern | Montreal, Canada | 🔒 | Nov 20 |
+| Ribbon | Software Developer Co-op, Common Cloud Services | Canada | 🔒 | Nov 18 |
 | Ross Video | Research Assistant Co-op, AI Focus | Ottawa, Canada | 🔒 | Nov 17 |
 | Robert Bosch LLC | AI Application Intern | Farmington Hills, MI | 🔒 | Nov 17 |
 | Motorola Solutions | Software Engineer Co-op | Remote</br>United States | 🔒 | Nov 17 |
@@ -518,6 +517,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Carnegie Mellon University | Cybersecurity Engineer Intern | Pittsburgh, PA | 🔒 | Nov 13 |
 | ↳ | Cyber AI Engineering Intern 🛂 | Pittsburgh, PA | 🔒 | Nov 13 |
 | CACI | Configuration Control/Data Management Co-op | Danbury, CT | 🔒 | Nov 13 |
+| State Street | Cyber Security Operations Center Analyst Intern | Quincy, MA | 🔒 | Nov 12 |
 | Seaspan | Data Engineering Intern | North Vancouver, Canada | 🔒 | Nov 12 |
 | Fresenius Medical Care | Agentic AI Analytics Co-op | Lawrence, MA | 🔒 | Nov 12 |
 | Medpace | Clinical Informatics Co-op | Cincinnati, OH | 🔒 | Nov 11 |

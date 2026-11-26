@@ -51,7 +51,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Software Engineer Intern | Pleasanton, CA | <a href="https://go.vansh.nyc/1JN?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
 | Total Quality Logistics | Data Science & Analytics Intern | Cincinnati, OH | <a href="https://go.vansh.nyc/1JP?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
 | ↳ | Software Development Intern | Cincinnati, OH | <a href="https://go.vansh.nyc/1JQ?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
-| Saputo | Data Engineer Intern, Enterprise Analytics | Mississauga, Canada | <a href="https://go.vansh.nyc/1Jd?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
 | SambaNova | Post-Silicon Validation Engineer Intern | Austin, TX</br>San Jose, CA | <a href="https://go.vansh.nyc/1JJ?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
 | ↳ | Physical Design Engineer Intern | Austin, TX</br>San Jose, CA | <a href="https://go.vansh.nyc/1JK?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
 | ↳ | DFT Engineer Intern | Austin, TX</br>San Jose, CA | <a href="https://go.vansh.nyc/1JL?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
@@ -2114,6 +2113,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | BlinqLABS | Java Web Development Intern | Remote</br>United States | <a href="https://go.vansh.nyc/Qw?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 2021 |
 | Barkback | Software Intern | Santa Barbara, CA | <a href="https://go.vansh.nyc/Qv?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 2016 |
 | Northwestern Mutual | Application Development Intern | Milwaukee, WI | <a href="https://go.vansh.nyc/Qu?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 2015 |
+| Saputo | Data Engineer Intern, Enterprise Analytics | Mississauga, Canada | 🔒 | Nov 25 |
 | RF-SMART | Software Developer Intern | Highlands Ranch, CO</br>Jacksonville, FL | 🔒 | Nov 24 |
 | Johns Hopkins Applied Physics Laboratory | Robotics Intern | Laurel, MD | 🔒 | Nov 24 |
 | ↳ | Artificial Intelligence and Complex Systems Intern | Laurel, MD | 🔒 | Nov 24 |
