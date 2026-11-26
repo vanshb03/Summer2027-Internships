@@ -74590,5 +74590,39 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1795706100,
+        "url": "https://go.vansh.nyc/1Kf",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "NinjaHoldings",
+        "title": "Data Science Intern",
+        "source": "vanshb03",
+        "id": "b316a842-694e-466d-aecb-fe010c77b252",
+        "date_posted": 1795124583,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795706100,
+        "url": "https://go.vansh.nyc/1Kg",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "NinjaHoldings",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "3ee795ff-b05b-432d-8e45-cb0a6fc7a356",
+        "date_posted": 1795124633,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
