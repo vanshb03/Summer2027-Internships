@@ -92,8 +92,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | L3Harris Technologies | Software Engineer Intern | Melbourne, FL | <a href="https://go.vansh.nyc/1J1?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
 | Kimley-Horn | Data Science Intern | Mesa, AZ | <a href="https://go.vansh.nyc/1IN?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
 | Johns Hopkins Applied Physics Laboratory | Cyber Physical Systems Intern | Laurel, MD | <a href="https://go.vansh.nyc/1IY?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
-| ↳ | Robotics Intern | Laurel, MD | <a href="https://go.vansh.nyc/1ID?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
-| ↳ | Artificial Intelligence and Complex Systems Intern | Laurel, MD | <a href="https://go.vansh.nyc/1IE?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
 | Indie | Camera Host Tools Intern | San Jose, CA | <a href="https://go.vansh.nyc/1IA?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
 | Hewlett Packard Enterprise | Cloud Security Engagement Intern | Spring, TX | <a href="https://go.vansh.nyc/1IP?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
 | Harvard Companies | AI Engineering Intern | Miami, FL | <a href="https://go.vansh.nyc/1JB?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
@@ -2100,6 +2098,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Barkback | Software Intern | Santa Barbara, CA | <a href="https://go.vansh.nyc/Qv?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 2016 |
 | Northwestern Mutual | Application Development Intern | Milwaukee, WI | <a href="https://go.vansh.nyc/Qu?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 2015 |
 | RF-SMART | Software Developer Intern | Highlands Ranch, CO</br>Jacksonville, FL | 🔒 | Nov 24 |
+| Johns Hopkins Applied Physics Laboratory | Robotics Intern | Laurel, MD | 🔒 | Nov 24 |
+| ↳ | Artificial Intelligence and Complex Systems Intern | Laurel, MD | 🔒 | Nov 24 |
 | Intel | Design Verification Intern | <details><summary>**4 locations**</summary>Fort Collins, CO</br>Hillsboro, OR</br>Santa Clara, CA</br>Austin, TX</details> | 🔒 | Nov 24 |
 | Bandwidth Inc. | Software Engineer Intern | Raleigh, NC | 🔒 | Nov 24 |
 | ↳ | Software Engineer Intern | Raleigh, NC | 🔒 | Nov 24 |
