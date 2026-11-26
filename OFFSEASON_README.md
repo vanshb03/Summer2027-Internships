@@ -43,6 +43,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| QuEra Computing | Data Management Intern | Boston, MA | <a href="https://go.vansh.nyc/1JZ?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
 | Noblis | AI/ML Research Intern | United States | <a href="https://go.vansh.nyc/1Ja?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
 | Super | Data Engineering Intern | Toronto, Canada | <a href="https://go.vansh.nyc/1IL?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
 | QuEra Computing | Site Reliability Engineer Co-op | Boston, MA | <a href="https://go.vansh.nyc/1If?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
