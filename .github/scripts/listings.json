@@ -73303,13 +73303,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1795565139,
+        "date_updated": 1795715347,
         "url": "https://go.vansh.nyc/1ID",
         "locations": [
             "Laurel, MD"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Johns Hopkins Applied Physics Laboratory",
         "title": "Robotics Intern",
         "source": "vanshb03",
@@ -73320,13 +73320,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1795565139,
+        "date_updated": 1795715347,
         "url": "https://go.vansh.nyc/1IE",
         "locations": [
             "Laurel, MD"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Johns Hopkins Applied Physics Laboratory",
         "title": "Artificial Intelligence and Complex Systems Intern",
         "source": "vanshb03",
