@@ -74505,5 +74505,56 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1795666579,
+        "url": "https://go.vansh.nyc/1K7",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Elevance Health",
+        "title": "Undergraduate Clinical Analytics Intern",
+        "source": "vanshb03",
+        "id": "8b5e6b69-68f7-487a-913e-4fe2401243f2",
+        "date_posted": 1795558162,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795666579,
+        "url": "https://go.vansh.nyc/1K8",
+        "locations": [
+            "Irving, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Signet Jewelers",
+        "title": "Software Engineering Intern, Digital Commerce",
+        "source": "vanshb03",
+        "id": "6631db4a-47e6-4a90-beaf-271f6ccc2079",
+        "date_posted": 1795564800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795666579,
+        "url": "https://go.vansh.nyc/1K9",
+        "locations": [
+            "Brea, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Danaher Corporation",
+        "title": "IT Data Analyst Intern",
+        "source": "vanshb03",
+        "id": "8315cae7-b48d-4151-a3a3-12b9464e866f",
+        "date_posted": 1795644576,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
