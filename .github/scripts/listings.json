@@ -48117,13 +48117,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793743743,
+        "date_updated": 1795670370,
         "url": "https://go.vansh.nyc/1eI",
         "locations": [
             "Rochester, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "MegazoneCloud",
         "title": "Data Engineer Co-op",
         "source": "vanshb03",
@@ -69278,13 +69278,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1795133139,
+        "date_updated": 1795670370,
         "url": "https://go.vansh.nyc/1DG",
         "locations": [
             "Detroit, MI"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Blue Cross Blue Shield of Michigan",
         "title": "Object Oriented Programming Intern",
         "source": "vanshb03",
