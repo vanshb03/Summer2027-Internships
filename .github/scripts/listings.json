@@ -71269,13 +71269,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1795234254,
+        "date_updated": 1795677524,
         "url": "https://go.vansh.nyc/1G5",
         "locations": [
             "Research Triangle Park, NC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Cisco",
         "title": "AI Cybersecurity Engineer I Intern",
         "source": "vanshb03",
