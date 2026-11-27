@@ -119,7 +119,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Front-End Web Development Intern | Montreal, Canada | <a href="https://go.vansh.nyc/1wh?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | ↳ | Software Development, Quality Assurance and AI Intern | Montreal, Canada | <a href="https://go.vansh.nyc/1wi?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | SK hynix memory solutions America Inc. | Embedded Software Engineer Intern | San Jose, CA | <a href="https://go.vansh.nyc/1vW?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
-| Sanofi | Data Science & Digital Transformation Co-op | Framingham, MA | <a href="https://go.vansh.nyc/1vt?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | Lynco Products | Full Stack Software Development Intern | West Milan, IL | <a href="https://go.vansh.nyc/1xd?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | Bose | Digital Signal Processing ML Software Development Co-op | Framingham, MA | <a href="https://go.vansh.nyc/1uN?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | Zingage | Software Engineer Co-op | New York, NY | <a href="https://go.vansh.nyc/1rB?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
@@ -134,7 +133,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Embedded Software Engineer Co-op | Oakville, Canada | <a href="https://go.vansh.nyc/1vc?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | Firefly Aerospace | Software Engineering Intern 🇺🇸 | Cedar Park, TX | <a href="https://go.vansh.nyc/1x0?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | DwyerOmega | Applied AI Intern | Remote</br>United States | <a href="https://go.vansh.nyc/1sC?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
-| Amgen | Undergraduate Software Engineer Co-op, Large Molecule Discovery Technology | Burnaby, Canada | <a href="https://go.vansh.nyc/1rn?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | AFL | Business Intelligence (BI) Co-op | Duncan, SC | <a href="https://go.vansh.nyc/1qw?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | Varian | Application Software Developer Co-op | Canada | <a href="https://go.vansh.nyc/1p8?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
 | Uhaul | Software Development Intern | Phoenix, AZ | <a href="https://go.vansh.nyc/1oG?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
@@ -143,7 +141,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Lila Sciences | IT/OT Security Analyst Co-op | Cambridge, MA | <a href="https://go.vansh.nyc/1oX?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
 | ↳ | Applied AI Platform Engineer Co-op, Software | San Francisco, CA | <a href="https://go.vansh.nyc/1oY?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
 | Boston Scientific | Urology R&D Software Engineering Co-op 🛂 | Maple Grove, MN | <a href="https://go.vansh.nyc/1pa?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
-| Booz Allen Hamilton | Data Scientist Intern | McLean, VA | <a href="https://go.vansh.nyc/1sy?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
 | Tonic | Forward Deployed Engineer Co-op, Data De-Identification | Remote</br>United States | <a href="https://go.vansh.nyc/1po?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 08 |
 | Apache Industrial | AI Implementation Intern | Houston, TX | <a href="https://go.vansh.nyc/1ol?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 08 |
 | UMG Contingent Worker Company | Data Engineer Co-op | Remote</br>United States | <a href="https://go.vansh.nyc/1mF?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 07 |
@@ -513,6 +510,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | State Street | Cyber Security Operations Center Analyst Intern | Quincy, MA | 🔒 | Nov 12 |
 | Seaspan | Data Engineering Intern | North Vancouver, Canada | 🔒 | Nov 12 |
 | Fresenius Medical Care | Agentic AI Analytics Co-op | Lawrence, MA | 🔒 | Nov 12 |
+| Sanofi | Data Science & Digital Transformation Co-op | Framingham, MA | 🔒 | Nov 11 |
 | Medpace | Clinical Informatics Co-op | Cincinnati, OH | 🔒 | Nov 11 |
 | Bank of Montreal | AI Developer Co-op | Toronto, Canada | 🔒 | Nov 11 |
 | Ribbon | AI Engineer Co-op | Westford, MA | 🔒 | Nov 10 |
@@ -521,6 +519,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | DevOps Toolchain Intern | Bethpage, NY | 🔒 | Nov 10 |
 | Hitachi | DevOps Analyst Intern | Toronto, Canada | 🔒 | Nov 10 |
 | Formlabs | Desktop Software Intern | Somerville, MA | 🔒 | Nov 10 |
+| Amgen | Undergraduate Software Engineer Co-op, Large Molecule Discovery Technology | Burnaby, Canada | 🔒 | Nov 10 |
 | Altice USA | Developer Intern, Financial & People Systems | Bethpage, NY | 🔒 | Nov 10 |
 | ↳ | Operations Data Analyst Intern | Bethpage, NY | 🔒 | Nov 10 |
 | ↳ | Product Analytics Intern | Bethpage, NY | 🔒 | Nov 10 |
@@ -530,6 +529,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Software Engineering Co-op, WB Games | Needham, MA | 🔒 | Nov 09 |
 | Radiance Technologies | Software Engineer Intern 🇺🇸 | Dayton, OH | 🔒 | Nov 09 |
 | ↳ | Software Engineer Intern 🇺🇸 | Dayton, OH | 🔒 | Nov 09 |
+| Booz Allen Hamilton | Data Scientist Intern | McLean, VA | 🔒 | Nov 09 |
 | ASML | AI Engineer Co-op | San Diego, CA | 🔒 | Nov 09 |
 | RTX | Digital Hardware Design Engineer Co-op | Cedar Rapids, IA | 🔒 | Nov 08 |
 | Nokia | Defense Software Test & AI Co-op 🛂 | United States | 🔒 | Nov 08 |
