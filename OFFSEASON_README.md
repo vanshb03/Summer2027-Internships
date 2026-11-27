@@ -73,7 +73,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Mawer Investment Management | AI Engineer Student Intern | Calgary, Canada | <a href="https://go.vansh.nyc/1FQ?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 | ↳ | AI Orchestrator Student Intern | Calgary, Canada | <a href="https://go.vansh.nyc/1FR?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 | Lumentum | AI Engineer Co-op | Ottawa, Canada | <a href="https://go.vansh.nyc/1Gn?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
-| Loblaw Companies | Software Development Co-op | Toronto, Canada | <a href="https://go.vansh.nyc/1FG?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 | Gorbel | Front-End Web Developer Co-op | Victor, NY | <a href="https://go.vansh.nyc/1F2?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 | Flare | Software Developer Intern | Montreal, Canada | <a href="https://go.vansh.nyc/1ED?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 | Convverge | Junior Developer Co-op | Calgary, Canada | <a href="https://go.vansh.nyc/1Ga?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
@@ -320,7 +319,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Peraton | Cybersecurity Engineer Co-op | San Diego, CA | <a href="https://go.vansh.nyc/W2?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
 | Lila Sciences | Agentic Simulations for Materials Science Co-op | Cambridge, MA</br>San Francisco, CA | <a href="https://go.vansh.nyc/T3?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
 | Johns Hopkins APL | Cybersecurity Software Developer Intern | Laurel, MD | <a href="https://go.vansh.nyc/UB?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
-| Hitachi | Software Analyst Intern | Toronto, Canada | <a href="https://go.vansh.nyc/Wz?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
 | CAE | Cybersecurity Integration Specialist Intern | Montreal, Canada | <a href="https://go.vansh.nyc/SA?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
 | Boston Properties | Cyber Security Co-op | Boston, MA | <a href="https://go.vansh.nyc/VJ?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
 | Analog Devices | DevOps Co-op | Boston, MA | <a href="https://go.vansh.nyc/Qf?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
@@ -493,6 +491,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Shopify | Engineering and Data Intern | Remote</br>Canada | <a href="https://go.vansh.nyc/G?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 19 |
 | Hitachi | Data and Business Intelligence Analyst Intern | Toronto, Canada | 🔒 | Nov 24 |
 | Kinaxis | Data Foundations Intern, Data & Analytics | Ottawa, Canada</br>Remote</br>Canada | 🔒 | Nov 23 |
+| Loblaw Companies | Software Development Co-op | Toronto, Canada | 🔒 | Nov 20 |
 | AON3D | Software Developer Intern | Montreal, Canada | 🔒 | Nov 20 |
 | Ribbon | Software Developer Co-op, Common Cloud Services | Canada | 🔒 | Nov 18 |
 | Ross Video | Research Assistant Co-op, AI Focus | Ottawa, Canada | 🔒 | Nov 17 |
@@ -633,6 +632,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Sun Life | Quality Engineering Analyst Intern | Waterloo, Canada | 🔒 | Oct 26 |
 | RTX | Software Platform Engineer Co-op 🇺🇸 | Aurora, CO</br>Remote</br>United States | 🔒 | Oct 26 |
 | Rakuten International | eReader Quality Assurance Intern | Toronto, Canada | 🔒 | Oct 26 |
+| Hitachi | Software Analyst Intern | Toronto, Canada | 🔒 | Oct 26 |
 | CIBC | AI Scientist Co-op | Toronto, Canada | 🔒 | Oct 26 |
 | ↳ | Data Analyst Co-op | Toronto, Canada | 🔒 | Oct 26 |
 | AtriCure, Inc. | IT Security Analyst Co-op | Mason, OH | 🔒 | Oct 26 |
