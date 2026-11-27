@@ -63327,13 +63327,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794497796,
+        "date_updated": 1795767738,
         "url": "https://go.vansh.nyc/1wx",
         "locations": [
             "Bloomington, MN"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Entegris",
         "title": "Embedded Software Engineering Intern",
         "source": "vanshb03",
@@ -64252,13 +64252,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794524837,
+        "date_updated": 1795767738,
         "url": "https://go.vansh.nyc/1xA",
         "locations": [
             "Denver, CO"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "CACI",
         "title": "Embedded Software Development Intern",
         "source": "vanshb03",
@@ -64269,13 +64269,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794524837,
+        "date_updated": 1795767738,
         "url": "https://go.vansh.nyc/1xB",
         "locations": [
             "Aurora, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Entegris",
         "title": "Data Engineering Intern",
         "source": "vanshb03",
@@ -64745,13 +64745,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794526582,
+        "date_updated": 1795767738,
         "url": "https://go.vansh.nyc/1y3",
         "locations": [
             "Waltham, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Wolters Kluwer",
         "title": "Product Software Engineer Intern",
         "source": "vanshb03",
