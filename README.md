@@ -357,8 +357,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | KLA | Software Applications Engineering Intern | Milpitas, CA | <a href="https://go.vansh.nyc/1EB?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
 | Idaho National Laboratory | PSION Development Intern | Idaho Falls, ID | <a href="https://go.vansh.nyc/1Dz?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
 | ↳ | Software Engineering Intern, Java/API Development for Neutronics Code | Idaho Falls, ID | <a href="https://go.vansh.nyc/1D6?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
-| HERE Technologies | Data Science Intern | Chicago, IL | <a href="https://go.vansh.nyc/1CB?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
-| ↳ | Software Engineer Intern | Chicago, IL | <a href="https://go.vansh.nyc/1CC?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
 | Carnival Corporation | BI Report Developer Intern, Crew Operations | Seattle, WA | <a href="https://go.vansh.nyc/1CV?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
 | Warp Sciences | Member of Technical Staff Intern, Robotics Learning | South San Francisco, CA | <a href="https://go.vansh.nyc/1Br?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | Unum | IT Intern | Chattanooga, TN</br>Portland, ME</br>Columbia, SC | <a href="https://go.vansh.nyc/1BE?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
@@ -2114,6 +2112,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Software Engineer Intern, AI/ML | Menlo Park, CA</br>Bellevue, WA | 🔒 | Nov 18 |
 | RTX | Software Security Intern 🇺🇸 | Cedar Rapids, IA | 🔒 | Nov 18 |
 | Leidos | Software Developer Intern, AI Project 🇺🇸 | Colorado Springs, CO | 🔒 | Nov 18 |
+| HERE Technologies | Data Science Intern | Chicago, IL | 🔒 | Nov 18 |
+| ↳ | Software Engineer Intern | Chicago, IL | 🔒 | Nov 18 |
 | Camping World | Junior AI Engineering Intern | Chicago, IL | 🔒 | Nov 18 |
 | Bristol Myers Squibb | Undergrad Data Science Intern | Remote</br>United States | 🔒 | Nov 18 |
 | Bread Financial | Cybersecurity Intern | Columbus, OH | 🔒 | Nov 18 |
