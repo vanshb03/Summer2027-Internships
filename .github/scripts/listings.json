@@ -18273,13 +18273,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792812208,
+        "date_updated": 1795774968,
         "url": "https://go.vansh.nyc/hj",
         "locations": [
             "Montreal, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Thales",
         "title": "Tools and Process Development Intern",
         "source": "vanshb03",
@@ -18482,14 +18482,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792812208,
+        "date_updated": 1795774968,
         "url": "https://go.vansh.nyc/hv",
         "locations": [
             "Jersey City, NJ",
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Citi",
         "title": "Technology Analyst Intern, Application Development",
         "source": "vanshb03",
@@ -26746,13 +26746,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793023513,
+        "date_updated": 1795774968,
         "url": "https://go.vansh.nyc/LC",
         "locations": [
             "Milwaukee, WI"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Rockwell Automation",
         "title": "Information Technology Intern",
         "source": "vanshb03",
@@ -28964,13 +28964,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793025667,
+        "date_updated": 1795774968,
         "url": "https://go.vansh.nyc/OF",
         "locations": [
             "Vancouver, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Royal Bank of Canada",
         "title": "Data Engineer Intern",
         "source": "vanshb03",
@@ -67698,13 +67698,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794958793,
+        "date_updated": 1795774968,
         "url": "https://go.vansh.nyc/1BB",
         "locations": [
             "Sunnyvale, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "CrowdStrike",
         "title": "AI Research Launch Intern",
         "source": "vanshb03",
@@ -67732,13 +67732,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794959161,
+        "date_updated": 1795774968,
         "url": "https://go.vansh.nyc/1BD",
         "locations": [
             "Cambridge, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Draper",
         "title": "Software Engineering & DevOps Intern",
         "source": "vanshb03",
@@ -68420,13 +68420,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1795045705,
+        "date_updated": 1795774968,
         "url": "https://go.vansh.nyc/1CA",
         "locations": [
             "Chicago, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Camping World",
         "title": "Junior AI Engineering Intern",
         "source": "vanshb03",
