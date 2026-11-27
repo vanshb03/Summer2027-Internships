@@ -153,7 +153,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | CodeMettle | Associate QA Engineer Co-op | Atlanta, GA | <a href="https://go.vansh.nyc/1pT?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 07 |
 | SharkNinja | Applied AI & Analytics Co-op, AI | Miami, FL</br>Needham, MA | <a href="https://go.vansh.nyc/1la?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | Samsara | Software Engineering Intern | San Francisco, CA | <a href="https://go.vansh.nyc/1kA?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
-| OLG | Analytics Engineering & Measurement Intern | Toronto, Canada</br>Sault Ste. Marie, Canada | <a href="https://go.vansh.nyc/1ld?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | Moss | Intern, ML / Perception / Robotics | San Francisco, CA | <a href="https://go.vansh.nyc/1ut?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | Danaher Corporation | Firmware Engineer Co-op | Indianapolis, IN | <a href="https://go.vansh.nyc/1kG?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | Astranis | Embedded Software Developer Intern, Network/Payload 🇺🇸 | San Francisco, CA | <a href="https://go.vansh.nyc/1lz?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
@@ -169,7 +168,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Johns Hopkins APL | Maritime Software Development Intern, Ocean Systems and Engineering | Laurel, MD | <a href="https://go.vansh.nyc/1jq?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | AEM | QA Tester Intern, Datalogger Products | Victoria, Canada | <a href="https://go.vansh.nyc/1kO?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | Saab | Information Security Co-op 🇺🇸 | East Syracuse, NY | <a href="https://go.vansh.nyc/1gV?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
-| Royal Bank of Canada | Software Developer Co-op, Quantitative Technology Services | Montreal, Canada | <a href="https://go.vansh.nyc/1jt?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
 | DataVisor | Software Engineer Intern | Remote</br>Canada | <a href="https://go.vansh.nyc/1hA?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
 | ↳ | Software Engineer Intern | Vancouver, Canada | <a href="https://go.vansh.nyc/1hq?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
 | Boston Scientific | Software Engineering Co-op, Urology R&D 🛂 | Maple Grove, MN | <a href="https://go.vansh.nyc/1gJ?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 04 |
@@ -404,7 +402,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Entrust | Firmware Engineer Co-op | Shakopee, MN | <a href="https://go.vansh.nyc/FH?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
 | Coveo | Software Developer Intern, Solutions Engineering Core Team | Montreal, Canada | <a href="https://go.vansh.nyc/1nB?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
 | Rivian | Software Engineer Co-op, Embedded Software | Palo Alto, CA | <a href="https://go.vansh.nyc/ER?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 05 |
-| Lumentum | Embedded Software Engineer Co-op | Ottawa, Canada | <a href="https://go.vansh.nyc/EX?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 05 |
 | Judi Health | Data Engineer Intern | New York, NY</br>Denver, CO | <a href="https://go.vansh.nyc/Fw?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 05 |
 | Found Energy | Data Engineer Co-op | Cambridge, MA | <a href="https://go.vansh.nyc/EQ?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 05 |
 | First Solar (US) | Data Science Intern, Device Characterization | Perrysburg, OH | <a href="https://go.vansh.nyc/H7?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 05 |
@@ -541,6 +538,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Western & Southern Financial Group | Artificial Intelligence Developer Intern | Cincinnati, OH | 🔒 | Nov 06 |
 | Varian | Embedded Software Developer Co-op | Canada | 🔒 | Nov 06 |
 | Sun Life | Associate DevOps Engineer Intern | Waterloo, Canada | 🔒 | Nov 06 |
+| OLG | Analytics Engineering & Measurement Intern | Toronto, Canada</br>Sault Ste. Marie, Canada | 🔒 | Nov 06 |
 | Hootsuite | Software Development Co-op | Vancouver, Canada</br>Toronto, Canada | 🔒 | Nov 06 |
 | ↳ | DevOps Co-op | Canada | 🔒 | Nov 06 |
 | Globus Medical | Software Co-op | Methuen, MA | 🔒 | Nov 06 |
@@ -555,6 +553,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | TMX Group | Junior Cybersecurity Operations Analyst Intern | Toronto, Canada | 🔒 | Nov 04 |
 | ↳ | Security Engineering Intern | Toronto, Canada | 🔒 | Nov 04 |
 | Teledyne Technologies Incorporated | Software Engineering Co-op | Waterloo, Canada | 🔒 | Nov 04 |
+| Royal Bank of Canada | Software Developer Co-op, Quantitative Technology Services | Montreal, Canada | 🔒 | Nov 04 |
 | Northrop Grumman | Software Engineer Intern 🇺🇸 | McClellan, CA | 🔒 | Nov 04 |
 | Wolters Kluwer | Front-End Developer Intern | Sherbrooke, Canada | 🔒 | Nov 03 |
 | Wabtec | Firmware Engineering Co-op | Waltham, MA | 🔒 | Nov 03 |
@@ -777,6 +776,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Moment Energy | Software Engineering Co-op | Surrey, Canada | 🔒 | Oct 05 |
 | ↳ | Firmware Engineering Co-op | Surrey, Canada | 🔒 | Oct 05 |
 | McKesson | Pharmaceutical Distribution Developer Intern | Montreal, Canada | 🔒 | Oct 05 |
+| Lumentum | Embedded Software Engineer Co-op | Ottawa, Canada | 🔒 | Oct 05 |
 | Astera Labs | Platform Applications Engineer Co-op, Tools & Validation Infrastructure | Vancouver, Canada | 🔒 | Oct 05 |
 | SOTI | Data Scientist Intern | Mississauga, Canada | 🔒 | Oct 04 |
 | Semtech | Software Developer Co-op, Web/Cloud Application | Richmond, Canada | 🔒 | Oct 04 |
