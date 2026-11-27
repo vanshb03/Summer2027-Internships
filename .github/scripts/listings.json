@@ -56641,13 +56641,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794240330,
+        "date_updated": 1795812679,
         "url": "https://go.vansh.nyc/1os",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "NBCUniversal",
         "title": "Technology Intern, NBC News Group",
         "source": "vanshb03",
@@ -75676,6 +75676,58 @@
         "source": "vanshb03",
         "id": "47283f97-656f-4d99-ac71-8cede4bc1766",
         "date_posted": 1795619123,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795812469,
+        "url": "https://go.vansh.nyc/1Ls",
+        "locations": [
+            "Jasper, IN",
+            "Evansville, IN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "German American Bank",
+        "title": "Information Security Intern",
+        "source": "vanshb03",
+        "id": "6898716b-12fe-4306-b978-9d09af5b6e8e",
+        "date_posted": 1795113150,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795812469,
+        "url": "https://go.vansh.nyc/1Lt",
+        "locations": [
+            "Whitehall, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "German American Bank",
+        "title": "Information Security Intern",
+        "source": "vanshb03",
+        "id": "994031ef-825a-43ec-87f1-15d69e3430cf",
+        "date_posted": 1795113310,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795812469,
+        "url": "https://go.vansh.nyc/1Lu",
+        "locations": [
+            "Glen Allen, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Richmond National",
+        "title": "Cyber Security Intern",
+        "source": "vanshb03",
+        "id": "bb62ad09-070a-47b9-a726-80e19dd3dcb3",
+        "date_posted": 1795684820,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
