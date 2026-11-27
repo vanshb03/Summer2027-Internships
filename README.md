@@ -419,7 +419,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Birdseye Security Solutions | AI Systems Intern | Mississauga, Canada | <a href="https://go.vansh.nyc/1AX?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
 | ↳ | Computer Vision Intern | Mississauga, Canada | <a href="https://go.vansh.nyc/1AY?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
 | ↳ | Software Developer Intern | Mississauga, Canada | <a href="https://go.vansh.nyc/1AZ?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
-| Analog Devices | Embedded Hardware & Firmware Intern, Health Solutions | Wilmington, MA | <a href="https://go.vansh.nyc/1Bm?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
 | RTX | Software Engineering Intern 🇺🇸 | El Segundo, CA | <a href="https://go.vansh.nyc/1A3?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 15 |
 | Reliable Robotics Corporation | Displays Software Engineer Intern | Mountain View, CA | <a href="https://go.vansh.nyc/1AA?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 15 |
 | Milliman | Data Analytics Intern, IntelliScript | Brookfield, WI | <a href="https://go.vansh.nyc/1A2?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 15 |
@@ -905,8 +904,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Software Engineer Intern, International Depot | Issaquah, WA | <a href="https://go.vansh.nyc/1bC?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | ↳ | Innovation Intern | Issaquah, WA | <a href="https://go.vansh.nyc/1bD?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | CNA Insurance | Software Engineering Intern, Technology 🛂 | Chicago, IL | <a href="https://go.vansh.nyc/1c9?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
-| ↳ | AI Engineering Intern, Technology 🛂 | Chicago, IL | <a href="https://go.vansh.nyc/1ca?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
-| ↳ | Cybersecurity Intern, Technology 🛂 | Chicago, IL | <a href="https://go.vansh.nyc/1cc?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | Clarios | Forward Deployed Engineering Intern 🛂 | Milwaukee, WI | <a href="https://go.vansh.nyc/1ck?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | Cambridge Investment Research | Software Engineering Intern | Fairfield, IA</br>West Des Moines, IA</br>Phoenix, AZ | <a href="https://go.vansh.nyc/1ch?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | ↳ | Salesforce Developer Intern | Phoenix, AZ</br>Fairfield, IA | <a href="https://go.vansh.nyc/1ci?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
@@ -2140,7 +2137,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Clera | Full-Stack Software Engineering Intern | New York, NY | 🔒 | Nov 16 |
 | Bread Financial | Software Engineering Intern | <details><summary>**5 locations**</summary>Columbus, OH</br>Chadds Ford, PA</br>Frisco, TX</br>Draper, UT</br>Wilmington, DE</details> | 🔒 | Nov 16 |
 | Bloomberg Industry Group | Data Analyst Intern | Arlington, VA | 🔒 | Nov 16 |
-| Analog Devices | Software Engineering Intern, Medical Device & Healthcare Integration | Wilmington, MA | 🔒 | Nov 16 |
+| Analog Devices | Embedded Hardware & Firmware Intern, Health Solutions | Wilmington, MA | 🔒 | Nov 16 |
+| ↳ | Software Engineering Intern, Medical Device & Healthcare Integration | Wilmington, MA | 🔒 | Nov 16 |
 | Amazon | Software Development Engineer Intern, Artificial General Intelligence | Sunnyvale, CA | 🔒 | Nov 16 |
 | Rodriguez Services | Software Engineer Intern | San Francisco, CA | 🔒 | Nov 15 |
 | Idaho National Laboratory | Cybersecurity Operations Intern | Idaho Falls, ID | 🔒 | Nov 15 |
@@ -2512,7 +2510,9 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Eurofins | Business Intelligence Intern | Lancaster, PA | 🔒 | Nov 02 |
 | DriveTime | Database Engineering Intern | Tempe, AZ | 🔒 | Nov 02 |
 | CoStar Group | Data Science Intern | Richmond, VA | 🔒 | Nov 02 |
-| CNA Insurance | Data Engineering Intern, Technology 🛂 | Chicago, IL | 🔒 | Nov 02 |
+| CNA Insurance | AI Engineering Intern, Technology 🛂 | Chicago, IL | 🔒 | Nov 02 |
+| ↳ | Cybersecurity Intern, Technology 🛂 | Chicago, IL | 🔒 | Nov 02 |
+| ↳ | Data Engineering Intern, Technology 🛂 | Chicago, IL | 🔒 | Nov 02 |
 | Cincinnati Children’s Hospital and Medical Center | Student II Security Analyst Intern | Remote</br>United States | 🔒 | Nov 02 |
 | CAI | Cybersecurity Analyst Intern | United States | 🔒 | Nov 02 |
 | Bracco | Software Engineering Intern | Eden Prairie, MN | 🔒 | Nov 02 |
