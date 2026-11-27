@@ -47,6 +47,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Richmond National | Cyber Security Intern | Glen Allen, VA | <a href="https://go.vansh.nyc/1Lu?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 26 |
+| Clera | Product Engineer Intern, Mobile | United States | <a href="https://go.vansh.nyc/1Lw?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 26 |
 | Xona Space | Software Engineering Intern, Engineering Productivity 🇺🇸 | Burlingame, CA | <a href="https://go.vansh.nyc/1Jx?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
 | Vertex Pharmaceuticals | Digital Pathology and AI Validation Intern 🛂 | Boston, MA | <a href="https://go.vansh.nyc/1Lj?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
 | Veeva Systems | Software Engineer Intern | Boston, MA | <a href="https://go.vansh.nyc/1JM?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
