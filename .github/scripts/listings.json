@@ -56896,13 +56896,13 @@
         "season": "Spring"
     },
     {
-        "date_updated": 1794242357,
+        "date_updated": 1795760461,
         "url": "https://go.vansh.nyc/1oH",
         "locations": [
             "Needham, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Warner Bros. Discovery",
         "title": "Data Engineering Co-op, WB Games",
         "source": "vanshb03",
@@ -57427,13 +57427,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794263824,
+        "date_updated": 1795760461,
         "url": "https://go.vansh.nyc/1pk",
         "locations": [
             "San Diego, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "ASML",
         "title": "AI Engineer Co-op",
         "source": "vanshb03",
@@ -70340,13 +70340,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1795211098,
+        "date_updated": 1795760461,
         "url": "https://go.vansh.nyc/1F1",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Cisco",
         "title": "Data Science Analyst II Intern",
         "source": "vanshb03",
