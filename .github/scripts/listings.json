@@ -68437,13 +68437,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1795046729,
+        "date_updated": 1795796576,
         "url": "https://go.vansh.nyc/1CB",
         "locations": [
             "Chicago, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "HERE Technologies",
         "title": "Data Science Intern",
         "source": "vanshb03",
@@ -68454,13 +68454,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1795046729,
+        "date_updated": 1795796576,
         "url": "https://go.vansh.nyc/1CC",
         "locations": [
             "Chicago, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "HERE Technologies",
         "title": "Software Engineer Intern",
         "source": "vanshb03",
