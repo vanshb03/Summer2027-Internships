@@ -1706,7 +1706,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Software Engineer Intern, Microservice Developer | Boulder, CO | <a href="https://go.vansh.nyc/Vj?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 30 |
 | Oceaneering | IT/OT Cybersecurity Intern | Houston, TX | <a href="https://go.vansh.nyc/V3?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 30 |
 | ↳ | IT Security Architecture Intern | Houston, TX | <a href="https://go.vansh.nyc/H2?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 30 |
-| NJM Insurance Group | IT Data Administration Intern | Trenton, NJ | <a href="https://go.vansh.nyc/Ed?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 30 |
 | Muon Space | Flight Software Engineer Intern | San Jose, CA | <a href="https://go.vansh.nyc/E3?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 30 |
 | MetLife | Global Technology Intern | <details><summary>**4 locations**</summary>Tampa, FL</br>Hanover, NJ</br>Cary, NC</br>New York, NY</details> | <a href="https://go.vansh.nyc/E7?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 30 |
 | ↳ | Data & Analytics Intern | Cary, NC | <a href="https://go.vansh.nyc/E8?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 30 |
@@ -3171,6 +3170,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | The Federal Reserve System | Data Science Intern | Chicago, IL | 🔒 | Sep 30 |
 | Quantum Signal AI | Embedded and Real-Time Software Intern | Saline, MI | 🔒 | Sep 30 |
 | Procter & Gamble (P&G) | IT Security Intern | Cincinnati, OH | 🔒 | Sep 30 |
+| NJM Insurance Group | IT Data Administration Intern | Trenton, NJ | 🔒 | Sep 30 |
 | Micron Technology | DRAM Architecture Intern | San Jose, CA</br>Boise, ID | 🔒 | Sep 30 |
 | CoStar Group | Technology Intern | Sunnyvale, CA | 🔒 | Sep 30 |
 | ↳ | Associate Embedded Software Engineer Intern | Sunnyvale, CA | 🔒 | Sep 30 |
