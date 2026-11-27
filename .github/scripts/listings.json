@@ -75731,5 +75731,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1795814261,
+        "url": "https://go.vansh.nyc/1Lv",
+        "locations": [
+            "Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "The Home Depot",
+        "title": "Full Stack Software Developer Intern",
+        "source": "vanshb03",
+        "id": "bdf1ad33-cb3a-41ed-b13e-32f21e4d2b59",
+        "date_posted": 1795813771,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
