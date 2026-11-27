@@ -75748,5 +75748,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1795816061,
+        "url": "https://go.vansh.nyc/1Lw",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Clera",
+        "title": "Product Engineer Intern, Mobile",
+        "source": "vanshb03",
+        "id": "a9a1c0c3-2b6a-4ca9-aaf2-c5e6005b9a34",
+        "date_posted": 1795701754,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
