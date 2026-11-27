@@ -41701,13 +41701,13 @@
         "season": "Fall"
     },
     {
-        "date_updated": 1793526799,
+        "date_updated": 1795810902,
         "url": "https://go.vansh.nyc/189",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "TikTok",
         "title": "Machine Learning Engineer Intern, TikTok-Data-Search-Local Service",
         "source": "vanshb03",
@@ -75662,5 +75662,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1795810671,
+        "url": "https://go.vansh.nyc/1Lq",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "T-Mobile",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "47283f97-656f-4d99-ac71-8cede4bc1766",
+        "date_posted": 1795619123,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
