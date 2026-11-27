@@ -74179,13 +74179,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1795649723,
+        "date_updated": 1795789323,
         "url": "https://go.vansh.nyc/1JD",
         "locations": [
             "Lexington Park, MD"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "ManTech",
         "title": "Developer Intern, C++",
         "source": "vanshb03",
@@ -75170,13 +75170,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1795749087,
+        "date_updated": 1795789323,
         "url": "https://go.vansh.nyc/1KU",
         "locations": [
             "United States"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Northrop Grumman",
         "title": "Software Engineering Intern",
         "source": "vanshb03",
@@ -75644,5 +75644,23 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1795789095,
+        "url": "https://go.vansh.nyc/1Lp",
+        "locations": [
+            "Burlington, MA",
+            "Quincy, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "State Street",
+        "title": "Agentic AI Engineering Intern, Technology",
+        "source": "vanshb03",
+        "id": "22d258f2-3f59-4d83-87e9-9d13c64085a7",
+        "date_posted": 1795053007,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
