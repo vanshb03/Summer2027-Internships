@@ -915,8 +915,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Data Engineering Intern | Phoenix, AZ</br>Fairfield, IA | <a href="https://go.vansh.nyc/1cj?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | CAI | GIS Software Developer Intern | United States | <a href="https://go.vansh.nyc/1ce?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | C.H. Robinson | Software Engineering Intern | Eden Prairie, MN | <a href="https://go.vansh.nyc/1cg?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
-| Booz Allen Hamilton | Cyber Security Intern 🇺🇸 | Colorado Springs, CO | <a href="https://go.vansh.nyc/1bV?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
-| ↳ | Data Scientist Intern | Colorado Springs, CO | <a href="https://go.vansh.nyc/1bW?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
+| Booz Allen Hamilton | Data Scientist Intern | Colorado Springs, CO | <a href="https://go.vansh.nyc/1bW?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | ↳ | Data Scientist Intern | Detroit, MI | <a href="https://go.vansh.nyc/19s?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | Axos Bank | Software Development Intern | San Diego, CA | <a href="https://go.vansh.nyc/1bT?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
 | ↳ | AI Engineer Intern | San Diego, CA | <a href="https://go.vansh.nyc/1bU?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
@@ -2518,6 +2517,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Cincinnati Children’s Hospital and Medical Center | Student II Security Analyst Intern | Remote</br>United States | 🔒 | Nov 02 |
 | CAI | Cybersecurity Analyst Intern | United States | 🔒 | Nov 02 |
 | Bracco | Software Engineering Intern | Eden Prairie, MN | 🔒 | Nov 02 |
+| Booz Allen Hamilton | Cyber Security Intern 🇺🇸 | Colorado Springs, CO | 🔒 | Nov 02 |
 | ATC | Cyber Security Intern | Pewaukee, WI | 🔒 | Nov 02 |
 | American Express | Undergraduate Program Cybersecurity AI Engineer Intern, Enterprise Technology Services | Phoenix, AZ | 🔒 | Nov 02 |
 | AllianceBernstein | Software Development Intern 🇺🇸 | Nashville, TN | 🔒 | Nov 02 |
