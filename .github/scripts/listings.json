@@ -17698,13 +17698,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792775105,
+        "date_updated": 1795771558,
         "url": "https://go.vansh.nyc/gM",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "ASML",
         "title": "Software Engineer In Test Intern, MOD",
         "source": "vanshb03",
@@ -17914,13 +17914,13 @@
         "season": "Winter"
     },
     {
-        "date_updated": 1792811877,
+        "date_updated": 1795771558,
         "url": "https://go.vansh.nyc/gY",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "ASML",
         "title": "Application Software QA Engineer Intern",
         "source": "vanshb03",
@@ -65360,13 +65360,13 @@
         "season": "Spring"
     },
     {
-        "date_updated": 1794595137,
+        "date_updated": 1795771558,
         "url": "https://go.vansh.nyc/1yQ",
         "locations": [
             "Mississauga, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Canadian Tire Corporation, Limited",
         "title": "Programmer Analyst Intern",
         "source": "vanshb03",
@@ -65479,13 +65479,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794596943,
+        "date_updated": 1795771558,
         "url": "https://go.vansh.nyc/1yZ",
         "locations": [
             "Austin, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "ASML",
         "title": "EUV Data Science and Analytics Intern",
         "source": "vanshb03",
@@ -67081,13 +67081,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794885201,
+        "date_updated": 1795771558,
         "url": "https://go.vansh.nyc/1AS",
         "locations": [
             "Berkeley Heights, NJ"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Fiserv",
         "title": "Technology Intern, Cybersecurity",
         "source": "vanshb03",
@@ -67098,13 +67098,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794885201,
+        "date_updated": 1795771558,
         "url": "https://go.vansh.nyc/1AT",
         "locations": [
             "Columbus, OH"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Fiserv",
         "title": "Technology Intern, Cybersecurity",
         "source": "vanshb03",
@@ -75437,6 +75437,210 @@
         "source": "vanshb03",
         "id": "73a8a9a8-c39b-4d50-a9ef-7e2f53018b75",
         "date_posted": 1795606862,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795771223,
+        "url": "https://go.vansh.nyc/1La",
+        "locations": [
+            "Quincy, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "State Street",
+        "title": "Software Engineer Intern, Integration Services",
+        "source": "vanshb03",
+        "id": "421b9232-71a6-4217-a3b5-841f79e6f484",
+        "date_posted": 1794966602,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1795771223,
+        "url": "https://go.vansh.nyc/1Lb",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "State Street",
+        "title": "AI Engineering Intern",
+        "source": "vanshb03",
+        "id": "c4aaf839-86ba-4955-9569-1251793bc570",
+        "date_posted": 1795053002,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1795771223,
+        "url": "https://go.vansh.nyc/1Lc",
+        "locations": [
+            "Quincy, MA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "State Street",
+        "title": "Data Engineering & Product Intern, Technology",
+        "source": "vanshb03",
+        "id": "69bf4016-8a15-4b8a-a4bb-40aca2571df5",
+        "date_posted": 1795053002,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1795771223,
+        "url": "https://go.vansh.nyc/1Ld",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "State Street",
+        "title": "Data Engineering & Product Intern, Technology",
+        "source": "vanshb03",
+        "id": "04fa3a05-5e40-4793-b487-172bd0be6403",
+        "date_posted": 1795053002,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1795771223,
+        "url": "https://go.vansh.nyc/1Le",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "State Street",
+        "title": "Agentic AI Engineering Intern, Technology",
+        "source": "vanshb03",
+        "id": "3c0e3f11-181d-448c-89c0-33cea826a8e5",
+        "date_posted": 1795053007,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1795771223,
+        "url": "https://go.vansh.nyc/1Lf",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "State Street",
+        "title": "AI Security & Cybersecurity Intern, Technology",
+        "source": "vanshb03",
+        "id": "58be769a-048f-4020-81cf-71898102a13c",
+        "date_posted": 1795053007,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1795771223,
+        "url": "https://go.vansh.nyc/1Lg",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Highmark Health",
+        "title": "Network Cybersecurity Engineer Undergraduate Intern",
+        "source": "vanshb03",
+        "id": "00d322de-6dc4-414b-98c3-4645fafe051b",
+        "date_posted": 1795139104,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795771223,
+        "url": "https://go.vansh.nyc/1Lh",
+        "locations": [
+            "Malta, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "GlobalFoundries",
+        "title": "AI-Enabled PDK Development Intern",
+        "source": "vanshb03",
+        "id": "44415093-7ce3-4378-9306-90dbbc712663",
+        "date_posted": 1795222687,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795771223,
+        "url": "https://go.vansh.nyc/1Li",
+        "locations": [
+            "South San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Genentech",
+        "title": "Community College Program Intern, Informatics",
+        "source": "vanshb03",
+        "id": "8cfffd67-bdce-4b21-a4e7-2e96ac2c45ab",
+        "date_posted": 1795225741,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795771223,
+        "url": "https://go.vansh.nyc/1Lj",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Vertex Pharmaceuticals",
+        "title": "Digital Pathology and AI Validation Intern",
+        "source": "vanshb03",
+        "id": "35bbcc14-2950-4ccb-b2c4-85845fb6b3c7",
+        "date_posted": 1795646676,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795771223,
+        "url": "https://go.vansh.nyc/1Lk",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Siemens",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "5d1dc79b-64ab-4d75-98af-97cb2ce6a996",
+        "date_posted": 1795653879,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795771223,
+        "url": "https://go.vansh.nyc/1Ll",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Siemens",
+        "title": "Agentic Analytics & Data Intern",
+        "source": "vanshb03",
+        "id": "28e0b616-5908-442e-9b2c-2f3a1e4b97f1",
+        "date_posted": 1795677202,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
