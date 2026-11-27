@@ -45344,13 +45344,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793678915,
+        "date_updated": 1795746161,
         "url": "https://go.vansh.nyc/1bV",
         "locations": [
             "Colorado Springs, CO"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Booz Allen Hamilton",
         "title": "Cyber Security Intern",
         "source": "vanshb03",
