@@ -9648,13 +9648,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792261427,
+        "date_updated": 1795778677,
         "url": "https://go.vansh.nyc/9f",
         "locations": [
             "Milpitas, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "KLA",
         "title": "Computer Vision/Machine Learning Intern",
         "source": "vanshb03",
@@ -18973,13 +18973,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1792812629,
+        "date_updated": 1795778677,
         "url": "https://go.vansh.nyc/hX",
         "locations": [
             "Richmond Hill, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Trimble",
         "title": "Automated Test Engineering Intern",
         "source": "vanshb03",
@@ -28998,13 +28998,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793025667,
+        "date_updated": 1795778677,
         "url": "https://go.vansh.nyc/OH",
         "locations": [
             "Vancouver, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Royal Bank of Canada",
         "title": "Developer Intern",
         "source": "vanshb03",
@@ -30255,13 +30255,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793031368,
+        "date_updated": 1795778677,
         "url": "https://go.vansh.nyc/QP",
         "locations": [
             "Toronto, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Foresters Financial",
         "title": "Quality Assurance Engineer Co-op",
         "source": "vanshb03",
@@ -30310,13 +30310,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793031368,
+        "date_updated": 1795778677,
         "url": "https://go.vansh.nyc/QS",
         "locations": [
             "Montreal, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "TMX Group",
         "title": "DevOps Intern",
         "source": "vanshb03",
@@ -31840,13 +31840,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793033120,
+        "date_updated": 1795778677,
         "url": "https://go.vansh.nyc/SF",
         "locations": [
             "Toronto, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Rakuten International",
         "title": "eReader Quality Assurance Intern",
         "source": "vanshb03",
@@ -31908,13 +31908,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793033120,
+        "date_updated": 1795778677,
         "url": "https://go.vansh.nyc/SJ",
         "locations": [
             "Mississauga, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "SOTI",
         "title": "Software Developer Intern, Server",
         "source": "vanshb03",
@@ -71507,13 +71507,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1795309570,
+        "date_updated": 1795778677,
         "url": "https://go.vansh.nyc/1Gm",
         "locations": [
             "Salt Lake City, UT"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "WGU",
         "title": "Technical Intern",
         "source": "vanshb03",
@@ -73832,14 +73832,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1795628738,
+        "date_updated": 1795778677,
         "url": "https://go.vansh.nyc/1Jh",
         "locations": [
             "El Segundo, CA",
             "Chantilly, VA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Aerospace Corporation",
         "title": "Machine Learning Engineer Undergrad Intern",
         "source": "vanshb03",
