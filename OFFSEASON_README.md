@@ -61,6 +61,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Entegris | Cyber Threat Analyst Co-op | Chaska, MN | <a href="https://go.vansh.nyc/1I2?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | Canadian Tire Corporation, Limited | Software Development Intern | Toronto, Canada | <a href="https://go.vansh.nyc/1Hf?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | Boston Scientific | Software Test Engineer Co-op 🛂 | Waltham, MA | <a href="https://go.vansh.nyc/1HM?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
+| ASML | AI Engineer Co-op | San Jose, CA | <a href="https://go.vansh.nyc/1KW?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | State Street | Software Engineering Intern | Boston, MA | <a href="https://go.vansh.nyc/1HE?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 22 |
 | ↳ | Software Engineering Intern | Boston, MA | <a href="https://go.vansh.nyc/1Hi?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 22 |
 | MDA | Junior Security Administrator Intern | Sainte-Anne-de-Bellevue, Canada | <a href="https://go.vansh.nyc/1GI?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 22 |
