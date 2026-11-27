@@ -43,6 +43,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| The Home Depot | Full Stack Software Developer Intern | Canada | <a href="https://go.vansh.nyc/1Lv?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 27 |
 | Axis Capital | Data Engineer Co-op | Halifax, Canada | <a href="https://go.vansh.nyc/1KI?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 26 |
 | QuEra Computing | Data Management Intern | Boston, MA | <a href="https://go.vansh.nyc/1JZ?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
 | Noblis | AI/ML Research Intern | United States | <a href="https://go.vansh.nyc/1Ja?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
