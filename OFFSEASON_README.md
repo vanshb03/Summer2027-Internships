@@ -289,8 +289,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | MDA | FPGA Designer Intern | Montreal, Canada | <a href="https://go.vansh.nyc/126?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | ↳ | FPGA Verification Intern | Montreal, Canada | <a href="https://go.vansh.nyc/127?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | Fussball Club Cincinnati LLC (“FC Cincinnati”) | Data Analyst Intern | Cincinnati, OH | <a href="https://go.vansh.nyc/10v?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
-| Foresters Financial | Software Engineer Co-op, AI | Toronto, Canada | <a href="https://go.vansh.nyc/13D?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
-| ↳ | Software Engineer Co-op | Toronto, Canada | <a href="https://go.vansh.nyc/13E?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
+| Foresters Financial | Software Engineer Co-op | Toronto, Canada | <a href="https://go.vansh.nyc/13E?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | Ema | AI Resident Intern | San Francisco, CA | <a href="https://go.vansh.nyc/13C?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | Elucid | Software Engineer Intern | Boston, MA | <a href="https://go.vansh.nyc/11w?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | Castelion | Embedded Software Engineer Intern | Torrance, CA | <a href="https://go.vansh.nyc/1gh?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
@@ -299,12 +298,10 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Agentic Development Intern 🛂 | Pittsburgh, PA | <a href="https://go.vansh.nyc/10D?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | Vestmark Internship Program | Cloud Engineer Co-op | Wakefield, MA | <a href="https://go.vansh.nyc/100?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | The Nuclear Company | Security Engineer Intern 🛂 | Washington, DC | <a href="https://go.vansh.nyc/XL?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
-| Philips | Data Engineer Co-op, Biocompatibility | Murrysville, PA | <a href="https://go.vansh.nyc/ZZ?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | Lila Sciences | Structuring Scientific Data for Discovery Co-op | Cambridge, MA</br>San Francisco, CA | <a href="https://go.vansh.nyc/XH?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | L3Harris Technologies | Software Engineering Co-op | Waterdown, Canada | <a href="https://go.vansh.nyc/YN?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | Genius AI | Software Engineer Intern | New York, NY | <a href="https://go.vansh.nyc/108?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | Current Lighting Employee Co | AI Co-op | Greenville, SC | <a href="https://go.vansh.nyc/Zi?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
-| Ciena | Hardware Characterization Automation Co-op | Ottawa, Canada | <a href="https://go.vansh.nyc/ZD?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | Astera Labs | Firmware Engineer Co-op | Vancouver, Canada | <a href="https://go.vansh.nyc/1uW?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | Wabtec | Software Engineering Co-op | Schenectady, NY | <a href="https://go.vansh.nyc/X9?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
 | Viavi Solutions | Hardware Engineer Co-op | Germantown, MD | <a href="https://go.vansh.nyc/Yu?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
@@ -599,6 +596,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | General Magic | AI Engineer Co-op | Toronto, Canada | 🔒 | Oct 30 |
 | ↳ | Backend Engineer Co-op | Toronto, Canada | 🔒 | Oct 30 |
 | Fresenius Medical Care | Software Engineering Co-op | Lawrence, MA | 🔒 | Oct 30 |
+| Foresters Financial | Software Engineer Co-op, AI | Toronto, Canada | 🔒 | Oct 30 |
 | Ensco | Information Security Intern 🇺🇸 | Melbourne, FL | 🔒 | Oct 30 |
 | Carnegie Mellon SEI | Full-Stack Software Development Intern 🛂 | Pittsburgh, PA | 🔒 | Oct 30 |
 | ↳ | Cyber Range Development Intern 🛂 | Pittsburgh, PA | 🔒 | Oct 30 |
@@ -615,10 +613,12 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Elucid | Software Engineering Intern | Boston, MA | 🔒 | Oct 29 |
 | CACI | Software Engineering Co-op | Rochester, NY | 🔒 | Oct 29 |
 | Sun Life | Data Analyst Co-op | Toronto, Canada | 🔒 | Oct 28 |
+| Philips | Data Engineer Co-op, Biocompatibility | Murrysville, PA | 🔒 | Oct 28 |
 | Leidos | Cybersecurity Engineer Co-op | Bethesda, MD | 🔒 | Oct 28 |
 | Geotab | Data Analyst Intern | Burnaby, Canada</br>Oakville, Canada</br>Toronto, Canada | 🔒 | Oct 28 |
 | Federal Home Loan Bank of Dallas | Digital Transformation Intern | Irving, TX | 🔒 | Oct 28 |
-| Ciena | Embedded Software Engineer Co-op | Ottawa, Canada | 🔒 | Oct 28 |
+| Ciena | Hardware Characterization Automation Co-op | Ottawa, Canada | 🔒 | Oct 28 |
+| ↳ | Embedded Software Engineer Co-op | Ottawa, Canada | 🔒 | Oct 28 |
 | CIBC | AI Developer Co-op, Bilingual | Montreal, Canada | 🔒 | Oct 28 |
 | RTX | Software Engineer Co-op 🇺🇸 | Marlborough, MA | 🔒 | Oct 27 |
 | Philips | Embedded Test Engineer Co-op | Murrysville, PA | 🔒 | Oct 27 |
