@@ -87,7 +87,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Amazon | Front-End Engineer Intern | Seattle, WA | <a href="https://go.vansh.nyc/1Iu?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | Alberta Investment Management Corporation | Test Automation Intern | Edmonton, Canada | <a href="https://go.vansh.nyc/1Da?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | Western Digital | Software Engineering Intern | Irvine, CA | <a href="https://go.vansh.nyc/1Cg?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
-| State Street | AI Engineering Intern | Cambridge, MA | <a href="https://go.vansh.nyc/1Lb?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
+| State Street | Agentic AI Engineering Intern, Technology | Burlington, MA</br>Quincy, MA | <a href="https://go.vansh.nyc/1Lp?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
+| ↳ | AI Engineering Intern | Cambridge, MA | <a href="https://go.vansh.nyc/1Lb?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
 | ↳ | Data Engineering & Product Intern, Technology 🛂 | Quincy, MA | <a href="https://go.vansh.nyc/1Lc?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
 | ↳ | Data Engineering & Product Intern, Technology 🛂 | Boston, MA | <a href="https://go.vansh.nyc/1Ld?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
 | ↳ | Agentic AI Engineering Intern, Technology | United States | <a href="https://go.vansh.nyc/1Le?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
