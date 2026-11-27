@@ -71524,13 +71524,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1795309570,
+        "date_updated": 1795823504,
         "url": "https://go.vansh.nyc/1Gn",
         "locations": [
             "Ottawa, Canada"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Lumentum",
         "title": "AI Engineer Co-op",
         "source": "vanshb03",
