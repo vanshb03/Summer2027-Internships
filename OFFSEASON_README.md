@@ -447,7 +447,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Google | Student Researcher Intern | Montreal, Canada | <a href="https://go.vansh.nyc/18W?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 14 |
 | ↳ | Student Researcher Intern | <details><summary>**25 locations**</summary>Mountain View, CA</br>Ann Arbor, MI</br>Atlanta, GA</br>Austin, TX</br>Boulder, CO</br>Cambridge, MA</br>Chicago, IL</br>Houston, TX</br>Irvine, CA</br>Kirkland, WA</br>Los Angeles, CA</br>Madison, WI</br>New York, NY</br>Palo Alto, CA</br>Princeton, NJ</br>Pittsburgh, PA</br>Raleigh, NC</br>Durham, NC</br>Goleta, CA</br>San Bruno, CA</br>Seattle, WA</br>San Francisco, CA</br>San Jose, CA</br>Sunnyvale, CA</br>Washington, DC</details> | <a href="https://go.vansh.nyc/18X?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 14 |
 | ↳ | Student Researcher Intern | Waterloo, Canada</br>Toronto, Canada | <a href="https://go.vansh.nyc/15I?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 14 |
-| Insulet Corporation | Embedded Software Engineering Co-op | Acton, MA | <a href="https://go.vansh.nyc/MC?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 09 |
 | Domino Data Lab | Forward Deployed Engineer Intern | New York, NY | <a href="https://go.vansh.nyc/Qk?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 09 |
 | Hadrian | Software Engineer Intern 🇺🇸 | Los Angeles, CA | <a href="https://go.vansh.nyc/1el?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 02 |
 | ↳ | Data Science/Data Engineer Intern 🇺🇸 | Los Angeles, CA | <a href="https://go.vansh.nyc/1en?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 02 |
@@ -820,6 +819,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | MegazoneCloud | Data Engineer Co-op | Rochester, NY | 🔒 | Sep 11 |
 | Geotab | Embedded Developer Intern, Engine Data Reliability | Oakville, Canada | 🔒 | Sep 10 |
 | Definity Financial | Business Intelligence Co-op | Toronto, Canada</br>Waterloo, Canada | 🔒 | Sep 10 |
+| Insulet Corporation | Embedded Software Engineering Co-op | Acton, MA | 🔒 | Sep 09 |
 | Royal Bank of Canada | Developer & IT Specialist Co-op, Global Asset Management | Toronto, Canada</br>Vancouver, Canada | 🔒 | Sep 03 |
 | Nokia | DSP Firmware Engineer Co-op | Ottawa, Canada | 🔒 | Sep 02 |
 | OnLogic | Firmware Engineer Co-op | South Burlington, VT</br>Cary, NC | 🔒 | Sep 01 |
