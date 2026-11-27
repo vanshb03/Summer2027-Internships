@@ -75015,5 +75015,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1795738552,
+        "url": "https://go.vansh.nyc/1KI",
+        "locations": [
+            "Halifax, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Axis Capital",
+        "title": "Data Engineer Co-op",
+        "source": "vanshb03",
+        "id": "55045e44-6345-48a9-8873-ad63483e4e3b",
+        "date_posted": 1795729177,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
