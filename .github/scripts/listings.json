@@ -45604,13 +45604,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793682523,
+        "date_updated": 1795787596,
         "url": "https://go.vansh.nyc/1ca",
         "locations": [
             "Chicago, IL"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "CNA Insurance",
         "title": "AI Engineering Intern, Technology",
         "source": "vanshb03",
@@ -45638,13 +45638,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793682523,
+        "date_updated": 1795787596,
         "url": "https://go.vansh.nyc/1cc",
         "locations": [
             "Chicago, IL"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "CNA Insurance",
         "title": "Cybersecurity Intern, Technology",
         "source": "vanshb03",
@@ -67472,13 +67472,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794942550,
+        "date_updated": 1795787596,
         "url": "https://go.vansh.nyc/1Bm",
         "locations": [
             "Wilmington, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Analog Devices",
         "title": "Embedded Hardware & Firmware Intern, Health Solutions",
         "source": "vanshb03",
