@@ -136,7 +136,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | DwyerOmega | Applied AI Intern | Remote</br>United States | <a href="https://go.vansh.nyc/1sC?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | Amgen | Undergraduate Software Engineer Co-op, Large Molecule Discovery Technology | Burnaby, Canada | <a href="https://go.vansh.nyc/1rn?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | AFL | Business Intelligence (BI) Co-op | Duncan, SC | <a href="https://go.vansh.nyc/1qw?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
-| Warner Bros. Discovery | Data Engineering Co-op, WB Games | Needham, MA | <a href="https://go.vansh.nyc/1oH?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
 | Varian | Application Software Developer Co-op | Canada | <a href="https://go.vansh.nyc/1p8?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
 | Uhaul | Software Development Intern | Phoenix, AZ | <a href="https://go.vansh.nyc/1oG?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
 | Morgan Stanley | Software Engineer Co-op, Parametric | New York, NY</br>Alpharetta, GA | <a href="https://go.vansh.nyc/1q1?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
@@ -145,7 +144,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Applied AI Platform Engineer Co-op, Software | San Francisco, CA | <a href="https://go.vansh.nyc/1oY?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
 | Boston Scientific | Urology R&D Software Engineering Co-op 🛂 | Maple Grove, MN | <a href="https://go.vansh.nyc/1pa?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
 | Booz Allen Hamilton | Data Scientist Intern | McLean, VA | <a href="https://go.vansh.nyc/1sy?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
-| ASML | AI Engineer Co-op | San Diego, CA | <a href="https://go.vansh.nyc/1pk?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
 | Tonic | Forward Deployed Engineer Co-op, Data De-Identification | Remote</br>United States | <a href="https://go.vansh.nyc/1po?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 08 |
 | Apache Industrial | AI Implementation Intern | Houston, TX | <a href="https://go.vansh.nyc/1ol?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 08 |
 | UMG Contingent Worker Company | Data Engineer Co-op | Remote</br>United States | <a href="https://go.vansh.nyc/1mF?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 07 |
@@ -528,9 +526,11 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ↳ | Product Analytics Intern | Bethpage, NY | 🔒 | Nov 10 |
 | ↳ | Software Development Intern | Bethpage, NY | 🔒 | Nov 10 |
 | Whoop | Software Engineer Co-op, Backend, Business Systems | Boston, MA | 🔒 | Nov 09 |
-| Warner Bros. Discovery | Software Engineering Co-op, WB Games | Needham, MA | 🔒 | Nov 09 |
+| Warner Bros. Discovery | Data Engineering Co-op, WB Games | Needham, MA | 🔒 | Nov 09 |
+| ↳ | Software Engineering Co-op, WB Games | Needham, MA | 🔒 | Nov 09 |
 | Radiance Technologies | Software Engineer Intern 🇺🇸 | Dayton, OH | 🔒 | Nov 09 |
 | ↳ | Software Engineer Intern 🇺🇸 | Dayton, OH | 🔒 | Nov 09 |
+| ASML | AI Engineer Co-op | San Diego, CA | 🔒 | Nov 09 |
 | RTX | Digital Hardware Design Engineer Co-op | Cedar Rapids, IA | 🔒 | Nov 08 |
 | Nokia | Defense Software Test & AI Co-op 🛂 | United States | 🔒 | Nov 08 |
 | Kinaxis | Developer Intern, Back End Technologies | Ottawa, Canada | 🔒 | Nov 07 |
