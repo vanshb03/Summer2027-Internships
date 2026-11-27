@@ -21216,13 +21216,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1793015500,
+        "date_updated": 1795807274,
         "url": "https://go.vansh.nyc/Ed",
         "locations": [
             "Trenton, NJ"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "NJM Insurance Group",
         "title": "IT Data Administration Intern",
         "source": "vanshb03",
