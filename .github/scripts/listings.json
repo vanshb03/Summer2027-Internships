@@ -76246,5 +76246,25 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1795842353,
+        "url": "https://go.vansh.nyc/1M3",
+        "locations": [
+            "Austin, TX",
+            "Santa Clara, CA",
+            "Hillsboro, OR",
+            "Fort Collins, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Intel",
+        "title": "Design Verification Engineer Intern",
+        "source": "vanshb03",
+        "id": "d19bb466-58e4-42a2-bbed-6d2c1a12ce53",
+        "date_posted": 1795478400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
