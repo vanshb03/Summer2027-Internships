@@ -524,7 +524,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Systems Planning and Analysis | UI/UX Software Intern | Alexandria, VA | <a href="https://go.vansh.nyc/1xp?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | ↳ | Data Engineering Intern | Alexandria, VA | <a href="https://go.vansh.nyc/1xq?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | Synopsys | Engineering Documentation and AI Automation Co-op | Nepean, Canada | <a href="https://go.vansh.nyc/1uz?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
-| StepStone Group | AI Quant Analyst Intern | La Jolla, CA</br>San Diego, CA | <a href="https://go.vansh.nyc/1vT?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | State of Wisconsin Investment Board | Data Analytics Engineering Intern | Madison, WI | <a href="https://go.vansh.nyc/1uG?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | SharkNinja | Data Science Intern | Needham, MA | <a href="https://go.vansh.nyc/1wu?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | ServiceNow | Associate Security Engineering & Automation Intern | Santa Clara, CA | <a href="https://go.vansh.nyc/1vX?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
@@ -729,7 +728,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | National Interstate Insurance | Claims Technical Intern | Cincinnati, OH | <a href="https://go.vansh.nyc/1kH?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | National Information Solutions Cooperative | Software Development Intern | Cedar Rapids, IA | <a href="https://go.vansh.nyc/1q5?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | ↳ | Software Development Intern | Mandan, ND | <a href="https://go.vansh.nyc/1q6?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
-| L3Harris Technologies | Data Architect Intern | Huntsville, AL | <a href="https://go.vansh.nyc/1lH?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | ITT | Data Analytics / AI Intern | Irvine, CA | <a href="https://go.vansh.nyc/1kq?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | Invesco | Real Estate Intern, Data Science | Dallas, TX | <a href="https://go.vansh.nyc/1ly?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
 | Intercontinental Exchange, Inc. | Infrastructure Observability Intern | Jacksonville, FL | <a href="https://go.vansh.nyc/1k5?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 06 |
@@ -2199,6 +2197,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Altera | FPGA IP Design Engineer Intern, PEY | Toronto, Canada | 🔒 | Nov 12 |
 | Wolters Kluwer | Product Software Engineer Intern | Waltham, MA | 🔒 | Nov 11 |
 | US Internships Public Careers Site | Undergraduate Frontend Software Engineering Intern | Los Angeles, CA</br>San Mateo, CA | 🔒 | Nov 11 |
+| StepStone Group | AI Quant Analyst Intern | La Jolla, CA</br>San Diego, CA | 🔒 | Nov 11 |
 | Shive-Hattery | Software Developer Intern | Iowa City, IA | 🔒 | Nov 11 |
 | Selective Insurance Company of America | IT Commercial Lines Intern | Hartford, CT</br>Charlotte, NC | 🔒 | Nov 11 |
 | ↳ | IT Information Management Intern | Short Hills, NJ | 🔒 | Nov 11 |
@@ -2331,6 +2330,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Rambus | Digital Design Intern | Johns Creek, GA | 🔒 | Nov 06 |
 | PETRONAS Canada | Student Intern, Infrastructure Automation and Innovation | Calgary, Canada | 🔒 | Nov 06 |
 | Marmon Holdings | AI Technology Solutions Intern | Chicago, IL | 🔒 | Nov 06 |
+| L3Harris Technologies | Data Architect Intern | Huntsville, AL | 🔒 | Nov 06 |
 | Kudu Dynamics | AI/Automation Development Intern, Assessment & Authorization 🇺🇸 | Remote</br>United States | 🔒 | Nov 06 |
 | Invitation-charter | Data Science Intern | Greenwood Village, CO | 🔒 | Nov 06 |
 | ↳ | Data Developer Intern | Greenwood Village, CO | 🔒 | Nov 06 |
