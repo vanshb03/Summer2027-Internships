@@ -76195,5 +76195,56 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1795835110,
+        "url": "https://go.vansh.nyc/1M0",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "Associate Delivery Consultant Intern, AIML, AWS Professional Services",
+        "source": "vanshb03",
+        "id": "4af3b17b-7cf0-44a3-86e1-31b7500c6e2f",
+        "date_posted": 1795824000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795835110,
+        "url": "https://go.vansh.nyc/1M1",
+        "locations": [
+            "Montreal, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amazon",
+        "title": "Associate Delivery Consultant Intern, AIML, AWS Professional Services",
+        "source": "vanshb03",
+        "id": "a6ec964f-6ee3-4b2e-848a-d2d7fe913dc9",
+        "date_posted": 1795824000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795835173,
+        "url": "https://go.vansh.nyc/1M2",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Camping World",
+        "title": "BI & AI Analyst Intern",
+        "source": "vanshb03",
+        "id": "9fe135aa-4032-4d8c-b408-fc232a492730",
+        "date_posted": 1794960000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
