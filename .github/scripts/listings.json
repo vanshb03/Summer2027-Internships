@@ -72071,13 +72071,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1795462962,
+        "date_updated": 1795828931,
         "url": "https://go.vansh.nyc/1H9",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Strava",
         "title": "Software Engineering Intern, Server, User Lifecycle",
         "source": "vanshb03",
@@ -72088,13 +72088,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1795462962,
+        "date_updated": 1795828931,
         "url": "https://go.vansh.nyc/1Ha",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Strava",
         "title": "Software Engineering Intern, Server, Security",
         "source": "vanshb03",
@@ -72105,13 +72105,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1795462962,
+        "date_updated": 1795828931,
         "url": "https://go.vansh.nyc/1Hb",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Strava",
         "title": "Software Engineering Intern, Server, Comms",
         "source": "vanshb03",
@@ -72122,13 +72122,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1795462962,
+        "date_updated": 1795828931,
         "url": "https://go.vansh.nyc/1Hc",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Strava",
         "title": "Software Engineering Intern, Server, Next Sports",
         "source": "vanshb03",
@@ -72139,13 +72139,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1795462962,
+        "date_updated": 1795828931,
         "url": "https://go.vansh.nyc/1Hd",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Strava",
         "title": "Software Engineering Intern, AI/ML Data Products",
         "source": "vanshb03",
@@ -72156,13 +72156,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1795462962,
+        "date_updated": 1795828931,
         "url": "https://go.vansh.nyc/1He",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Strava",
         "title": "Software Engineering Intern, Android, Subscriptions",
         "source": "vanshb03",
@@ -75799,5 +75799,145 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1795828044,
+        "url": "https://go.vansh.nyc/1LB",
+        "locations": [
+            "Boise, ID"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Micron Technology",
+        "title": "Data Science Intern",
+        "source": "vanshb03",
+        "id": "56a948a7-9e21-46fd-b73a-71afb01ba063",
+        "date_posted": 1794787200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795828044,
+        "url": "https://go.vansh.nyc/1LC",
+        "locations": [
+            "Quincy, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "State Street",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "d15e17a6-bb08-4689-b698-8d61ac62efd8",
+        "date_posted": 1794873600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1795828044,
+        "url": "https://go.vansh.nyc/1LD",
+        "locations": [
+            "Quincy, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "State Street",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "9683988c-60e1-4b66-88e3-4a2322a2de13",
+        "date_posted": 1794873600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1795828044,
+        "url": "https://go.vansh.nyc/1LE",
+        "locations": [
+            "Newark, DE"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Sallie Mae",
+        "title": "Data Lifecycle and Governance Intern",
+        "source": "vanshb03",
+        "id": "d776e6ba-b382-4320-9a73-07cabc971334",
+        "date_posted": 1794960000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795828044,
+        "url": "https://go.vansh.nyc/1LF",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "State Street",
+        "title": "Quantitative Analyst Intern",
+        "source": "vanshb03",
+        "id": "4647c6f8-0cd5-432c-8a2f-8b995c28cb9f",
+        "date_posted": 1795132800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795828044,
+        "url": "https://go.vansh.nyc/1LG",
+        "locations": [
+            "Santa Clara, CA",
+            "Canada",
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "Software Engineer Intern, Simulation Technology",
+        "source": "vanshb03",
+        "id": "33327e9b-9970-4f52-8e0e-05fd8e7af73a",
+        "date_posted": 1795564800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795828044,
+        "url": "https://go.vansh.nyc/1LH",
+        "locations": [
+            "Santa Clara, CA",
+            "Canada",
+            "United States"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "Developer Technology Intern",
+        "source": "vanshb03",
+        "id": "20d15b98-89e3-46b2-bfc0-c6823e3a37b5",
+        "date_posted": 1795564800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795828044,
+        "url": "https://go.vansh.nyc/1LI",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "State Street",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "add15f06-0d9c-4fd7-bc8c-3e83bfc467d2",
+        "date_posted": 1795564800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
