@@ -54104,13 +54104,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794008304,
+        "date_updated": 1795857505,
         "url": "https://go.vansh.nyc/1lH",
         "locations": [
             "Huntsville, AL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "L3Harris Technologies",
         "title": "Data Architect Intern",
         "source": "vanshb03",
@@ -62814,14 +62814,14 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1794443752,
+        "date_updated": 1795857505,
         "url": "https://go.vansh.nyc/1vT",
         "locations": [
             "La Jolla, CA",
             "San Diego, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "StepStone Group",
         "title": "AI Quant Analyst Intern",
         "source": "vanshb03",
