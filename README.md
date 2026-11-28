@@ -111,7 +111,9 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Reach Labs | Hardware Prototyping Intern | Redwood City, CA | <a href="https://go.vansh.nyc/1IF?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
 | PricewaterhouseCoopers (PwC) | Software Engineering Intern, Tax Innovation Delivery Experience (TIDE) | United States | <a href="https://go.vansh.nyc/1L7?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
 | PatientPoint | Data Engineer Intern | Cincinnati, OH | <a href="https://go.vansh.nyc/1J3?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
-| NVIDIA | Software Engineering Intern, Simulation Technology | Santa Clara, CA | <a href="https://go.vansh.nyc/1J0?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
+| NVIDIA | Software Engineer Intern, Simulation Technology | Santa Clara, CA</br>Canada</br>United States | <a href="https://go.vansh.nyc/1LG?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
+| ↳ | Developer Technology Intern | Santa Clara, CA</br>Canada</br>United States | <a href="https://go.vansh.nyc/1LH?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
+| ↳ | Software Engineering Intern, Simulation Technology | Santa Clara, CA | <a href="https://go.vansh.nyc/1J0?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
 | ↳ | Developer Technology Intern, AI | Santa Clara, CA | <a href="https://go.vansh.nyc/1Im?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
 | Northrop Grumman | Cybersecurity Intern 🇺🇸 | Linthicum, MD | <a href="https://go.vansh.nyc/1KT?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
 | National Interstate Insurance | Quality Assurance Intern 🛂 | Cincinnati, OH | <a href="https://go.vansh.nyc/1Iy?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
@@ -280,6 +282,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Worthington Enterprises | AI Intern | Columbus, OH | <a href="https://go.vansh.nyc/1Gj?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | Vertiv | AI Intern | Westerville, OH</br>Fort Lauderdale, FL</br>Huntsville, AL | <a href="https://go.vansh.nyc/1DF?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | TransUnion | Data Science & Analytics Intern | Chicago, IL | <a href="https://go.vansh.nyc/1Ea?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
+| State Street | Quantitative Analyst Intern | Boston, MA | <a href="https://go.vansh.nyc/1LF?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | Southern Mississippi Trading | AI and Business Analytics Intern | Waynesboro, MS | <a href="https://go.vansh.nyc/1DV?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | Sierra Space | Software Engineering Intern 🇺🇸 | <details><summary>**5 locations**</summary>Centennial, CO</br>Louisville, CO</br>Durham, NC</br>Madison, WI</br>Broomfield, CO</details> | <a href="https://go.vansh.nyc/1EY?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | Sezzle | A.I. Engineering Intern | Remote</br>United States | <a href="https://go.vansh.nyc/1Es?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
@@ -372,7 +375,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Sedaro | DevOps Intern | Arlington, VA | <a href="https://go.vansh.nyc/1Be?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | ↳ | Compiler Intern, Simulator | Arlington, VA | <a href="https://go.vansh.nyc/1Ba?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | ↳ | Software Engineer Intern | Arlington, VA | <a href="https://go.vansh.nyc/1Bb?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
-| Sallie Mae | Software Engineer Intern | Newark, DE | <a href="https://go.vansh.nyc/1Gx?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
+| Sallie Mae | Data Lifecycle and Governance Intern | Newark, DE | <a href="https://go.vansh.nyc/1LE?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
+| ↳ | Software Engineer Intern | Newark, DE | <a href="https://go.vansh.nyc/1Gx?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | Qualcomm | AI/Machine Learning Intern | Markham, Canada | <a href="https://go.vansh.nyc/1Bt?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | Prometheus Group | Web Development Intern | Raleigh, NC | <a href="https://go.vansh.nyc/1Bh?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | Pathlabs | Software and AI Engineering Intern | Missoula, MT | <a href="https://go.vansh.nyc/1BC?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
@@ -424,7 +428,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | RTX | Software Engineering Intern 🇺🇸 | El Segundo, CA | <a href="https://go.vansh.nyc/1A3?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 15 |
 | Reliable Robotics Corporation | Displays Software Engineer Intern | Mountain View, CA | <a href="https://go.vansh.nyc/1AA?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 15 |
 | Milliman | Data Analytics Intern, IntelliScript | Brookfield, WI | <a href="https://go.vansh.nyc/1A2?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 15 |
-| Micron Technology | Data Science Intern, SMAI | Boise, ID | <a href="https://go.vansh.nyc/1Ap?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 15 |
+| Micron Technology | Data Science Intern | Boise, ID | <a href="https://go.vansh.nyc/1LB?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 15 |
+| ↳ | Data Science Intern, SMAI | Boise, ID | <a href="https://go.vansh.nyc/1Ap?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 15 |
 | ICONIQ Capital | Data Science Intern | San Francisco, CA | <a href="https://go.vansh.nyc/1KN?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 15 |
 | ↳ | Data & Analytics Intern | New York, NY | <a href="https://go.vansh.nyc/1KO?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 15 |
 | Carnival Corporation | Data Analytics Intern | Miami, FL | <a href="https://go.vansh.nyc/1Av?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 15 |
@@ -434,12 +439,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | NetApp | Data Analyst Intern | Research Triangle Park, NC | <a href="https://go.vansh.nyc/1zX?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | Ericsson | AI Software Engineer Intern 🛂 | Plano, TX | <a href="https://go.vansh.nyc/1zB?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | Trace3 | Security Intern | Irvine, CA | <a href="https://go.vansh.nyc/1yN?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
-| Strava | Software Engineering Intern, Server, User Lifecycle | San Francisco, CA | <a href="https://go.vansh.nyc/1H9?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
-| ↳ | Software Engineering Intern, Server, Security | San Francisco, CA | <a href="https://go.vansh.nyc/1Ha?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
-| ↳ | Software Engineering Intern, Server, Comms | San Francisco, CA | <a href="https://go.vansh.nyc/1Hb?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
-| ↳ | Software Engineering Intern, Server, Next Sports | San Francisco, CA | <a href="https://go.vansh.nyc/1Hc?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
-| ↳ | Software Engineering Intern, AI/ML Data Products | San Francisco, CA | <a href="https://go.vansh.nyc/1Hd?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
-| ↳ | Software Engineering Intern, Android, Subscriptions | San Francisco, CA | <a href="https://go.vansh.nyc/1He?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 | Samsung Semiconductor | SSD Firmware Development Intern | San Jose, CA | <a href="https://go.vansh.nyc/1z0?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 | Pason & IWS Career | Software Developer Intern, Datahub | Calgary, Canada | <a href="https://go.vansh.nyc/1zT?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 | Paccar | Software Developer Intern | United States | <a href="https://go.vansh.nyc/1zV?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
@@ -2149,6 +2148,12 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | WTW | Data Analyst Intern | New York, NY | 🔒 | Nov 13 |
 | Verisk | Data Science/AI Intern | Lehi, UT | 🔒 | Nov 13 |
 | USAA | Technology Intern | San Antonio, TX</br>Plano, TX</br>Phoenix, AZ | 🔒 | Nov 13 |
+| Strava | Software Engineering Intern, Server, User Lifecycle | San Francisco, CA | 🔒 | Nov 13 |
+| ↳ | Software Engineering Intern, Server, Security | San Francisco, CA | 🔒 | Nov 13 |
+| ↳ | Software Engineering Intern, Server, Comms | San Francisco, CA | 🔒 | Nov 13 |
+| ↳ | Software Engineering Intern, Server, Next Sports | San Francisco, CA | 🔒 | Nov 13 |
+| ↳ | Software Engineering Intern, AI/ML Data Products | San Francisco, CA | 🔒 | Nov 13 |
+| ↳ | Software Engineering Intern, Android, Subscriptions | San Francisco, CA | 🔒 | Nov 13 |
 | Soros Fund Management | Trading Intern, Middle and Back Office Dev | New York, NY | 🔒 | Nov 13 |
 | SAS | Software Developer Intern, Go/Golang | Cary, NC | 🔒 | Nov 13 |
 | RTX | Software Engineering Co-op 🇺🇸 | Richardson, TX | 🔒 | Nov 13 |
