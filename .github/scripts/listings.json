@@ -75939,5 +75939,261 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1795831551,
+        "url": "https://go.vansh.nyc/1LJ",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TMX Group",
+        "title": "Data Analyst Intern",
+        "source": "vanshb03",
+        "id": "9e27efa3-382e-4a27-88dc-52663328b1e2",
+        "date_posted": 1795651200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1795831551,
+        "url": "https://go.vansh.nyc/1LK",
+        "locations": [
+            "Ottawa, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ciena",
+        "title": "Automation Engineer Intern, Global Technical Support",
+        "source": "vanshb03",
+        "id": "1688c030-4a20-40da-8a5f-7f1dd7ac97d0",
+        "date_posted": 1795737600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1795831551,
+        "url": "https://go.vansh.nyc/1LL",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Citi",
+        "title": "Markets Analyst Intern, Quantitative Analysis",
+        "source": "vanshb03",
+        "id": "e2e0a291-5c47-4c9d-94f4-28dc148d08f3",
+        "date_posted": 1795828299,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795831743,
+        "url": "https://go.vansh.nyc/1LM",
+        "locations": [
+            "Boulder, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Northrop Grumman",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "0262226a-d66e-4784-8524-3e516d003c4b",
+        "date_posted": 1793059200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795831743,
+        "url": "https://go.vansh.nyc/1LN",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ASML",
+        "title": "Artificial Intelligence Intern, Integrate GUI and LLM",
+        "source": "vanshb03",
+        "id": "1357b9a6-cc14-42d2-b947-76f10e84854f",
+        "date_posted": 1794787200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795831743,
+        "url": "https://go.vansh.nyc/1LO",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "GlobalFoundries",
+        "title": "Tapeout Engineering Business Products & Engineer Intern",
+        "source": "vanshb03",
+        "id": "92304d82-db8e-4331-9a91-20b158596aa4",
+        "date_posted": 1794787200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795831743,
+        "url": "https://go.vansh.nyc/1LP",
+        "locations": [
+            "Irving, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Michaels Stores",
+        "title": "Digital Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "dc3bdbec-8f59-4c9d-b3f9-5a72f0d54029",
+        "date_posted": 1794787200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795831743,
+        "url": "https://go.vansh.nyc/1LQ",
+        "locations": [
+            "Irving, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Michaels Stores",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "1d58a55c-7da4-4976-8a3b-549309fd8e05",
+        "date_posted": 1794787200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795831743,
+        "url": "https://go.vansh.nyc/1LR",
+        "locations": [
+            "Minneapolis, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Colliers",
+        "title": "Information Technology/Application Development Intern",
+        "source": "vanshb03",
+        "id": "73838f07-a150-44b0-8a1a-32cf4538f6c2",
+        "date_posted": 1794787200,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795831743,
+        "url": "https://go.vansh.nyc/1LS",
+        "locations": [
+            "Atlanta, GA",
+            "Peachtree City, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Signify",
+        "title": "Firmware Development Engineer Intern",
+        "source": "vanshb03",
+        "id": "7c52507e-b857-4679-b72e-963ad5def0a0",
+        "date_posted": 1794873600,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1795831743,
+        "url": "https://go.vansh.nyc/1LT",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Analog Devices",
+        "title": "Digital Design Engineer Intern",
+        "source": "vanshb03",
+        "id": "7ac4b421-d3f4-42bf-b7ba-986313d476c8",
+        "date_posted": 1794960000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795831743,
+        "url": "https://go.vansh.nyc/1LU",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Elevance Health",
+        "title": "Innovation Intern",
+        "source": "vanshb03",
+        "id": "9a563634-4e4d-41cd-8d11-8913cedfdfb4",
+        "date_posted": 1795046400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795831743,
+        "url": "https://go.vansh.nyc/1LV",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Barclays",
+        "title": "Markets Quantitative Analyst Intern",
+        "source": "vanshb03",
+        "id": "c8f65037-5d80-4854-897f-ddda3bb1b200",
+        "date_posted": 1795392000,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795831743,
+        "url": "https://go.vansh.nyc/1LW",
+        "locations": [
+            "Irving, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Signet Jewelers",
+        "title": "Software Engineer Intern, Digital Commerce",
+        "source": "vanshb03",
+        "id": "48218280-fdb9-4a99-85d5-c4894bb2b3da",
+        "date_posted": 1795564800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1795831743,
+        "url": "https://go.vansh.nyc/1LX",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "The Home Depot",
+        "title": "Product & Engineering Co-op",
+        "source": "vanshb03",
+        "id": "6a211943-3e37-4bb8-8e3a-61a19d3d07d2",
+        "date_posted": 1795564800,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
