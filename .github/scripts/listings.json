@@ -75782,5 +75782,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1795826145,
+        "url": "https://go.vansh.nyc/1LA",
+        "locations": [
+            "Bossier City, LA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "General Dynamics Information Technology",
+        "title": "Artificial Intelligence/Machine Learning Software Development and Engineer Intern",
+        "source": "vanshb03",
+        "id": "08d6ef60-f7f9-454b-9273-9d468f42cfca",
+        "date_posted": 1795478400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
