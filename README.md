@@ -172,6 +172,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Micron Technology | Advanced Modeling and AI Solutions Intern | Boise, ID | <a href="https://go.vansh.nyc/1GW?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | Kudu Dynamics | Software Engineering Intern 🇺🇸 | Arlington, VA | <a href="https://go.vansh.nyc/1Hh?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | Jabil | IT Programmer Analyst Intern | Florence, KY | <a href="https://go.vansh.nyc/1Ho?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
+| Intel | Design Verification Engineer Intern | <details><summary>**4 locations**</summary>Austin, TX</br>Santa Clara, CA</br>Hillsboro, OR</br>Fort Collins, CO</details> | <a href="https://go.vansh.nyc/1M3?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | Impulse Space | Information Security Intern | Redondo Beach, CA | <a href="https://go.vansh.nyc/1HR?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | Illumio | Engineering Intern, Architecture Platform | Sunnyvale, CA | <a href="https://go.vansh.nyc/1HI?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | ↳ | AI-Based Scale & Performance Test Automation Intern | Sunnyvale, CA | <a href="https://go.vansh.nyc/1HK?s=y"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
