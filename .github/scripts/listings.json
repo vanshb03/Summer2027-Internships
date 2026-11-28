@@ -75765,5 +75765,22 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1795824315,
+        "url": "https://go.vansh.nyc/1Ly",
+        "locations": [
+            "London, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CARFAX Canada",
+        "title": "Developer Co-op",
+        "source": "vanshb03",
+        "id": "8994f0fc-3740-4a65-8141-2355d6d8f40b",
+        "date_posted": 1795823063,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
