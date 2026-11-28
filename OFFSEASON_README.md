@@ -45,12 +45,15 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | ------- | ---- | -------- | ---------------- | ----------- |
 | The Home Depot | Full Stack Software Developer Intern | Canada | <a href="https://go.vansh.nyc/1Lv?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 27 |
 | CARFAX Canada | Developer Co-op | London, Canada | <a href="https://go.vansh.nyc/1Ly?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 27 |
+| Ciena | Automation Engineer Intern, Global Technical Support | Ottawa, Canada | <a href="https://go.vansh.nyc/1LK?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 26 |
 | Axis Capital | Data Engineer Co-op | Halifax, Canada | <a href="https://go.vansh.nyc/1KI?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 26 |
+| TMX Group | Data Analyst Intern | Toronto, Canada | <a href="https://go.vansh.nyc/1LJ?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
 | QuEra Computing | Data Management Intern | Boston, MA | <a href="https://go.vansh.nyc/1JZ?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
 | Noblis | AI/ML Research Intern | United States | <a href="https://go.vansh.nyc/1Ja?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
 | Kiewit | Cloud Security Intern, Technology Group | La Vista, NE | <a href="https://go.vansh.nyc/1KC?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
 | ABB | Software Intern | Dorval, Canada | <a href="https://go.vansh.nyc/1Kd?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
 | Vitesco Technologies | Cyber Security Co-op | Deer Park, TX | <a href="https://go.vansh.nyc/1Ko?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
+| The Home Depot | Product & Engineering Co-op | Atlanta, GA | <a href="https://go.vansh.nyc/1LX?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
 | Super | Data Engineering Intern | Toronto, Canada | <a href="https://go.vansh.nyc/1IL?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
 | State Street | Software Engineer Intern | Boston, MA | <a href="https://go.vansh.nyc/1LI?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
 | QuEra Computing | Site Reliability Engineer Co-op | Boston, MA | <a href="https://go.vansh.nyc/1If?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
@@ -108,6 +111,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Xradar | Software Engineer Co-op | Burnaby, Canada | <a href="https://go.vansh.nyc/1AW?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
 | State Street | Software Engineer Intern | Quincy, MA | <a href="https://go.vansh.nyc/1LC?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
 | ↳ | Software Engineer Intern | Quincy, MA | <a href="https://go.vansh.nyc/1LD?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
+| Signify | Firmware Development Engineer Intern | Atlanta, GA</br>Peachtree City, GA | <a href="https://go.vansh.nyc/1LS?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
 | Exowatt | Robotics & Physical AI Intern | Miami, FL | <a href="https://go.vansh.nyc/1Bq?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
 | Critical Environment Technologies | Computer Science Co-op | Delta, Canada | <a href="https://go.vansh.nyc/1B1?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
 | Angel Host | AI Product Engineer Co-op | Montreal, Canada | <a href="https://go.vansh.nyc/1B0?s=z"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
